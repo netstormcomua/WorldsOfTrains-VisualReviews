@@ -1,8 +1,10 @@
 # Worlds of Trains — Visual Reviews
 
-Public visual review artifacts only: selected Unreal screenshots, comparison collages, reports and non-sensitive artistic parameters.
+Public visual review artifacts only: selected Unreal screenshots, comparison collages, short camera sequences, reports and non-sensitive artistic parameters.
 
 ## Latest milestone
+
+[M2.1 — crest diversity and terrain-aware composition](VisualReviews/WorldGenerator/M21/README.md)
 
 [M2 — six dune variants, two-dune merge and three small dune fields](VisualReviews/WorldGenerator/M2/README.md)
 

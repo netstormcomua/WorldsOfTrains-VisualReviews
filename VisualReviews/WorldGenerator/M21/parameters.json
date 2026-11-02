@@ -1,0 +1,1862 @@
+{
+  "milestone": "M2.1",
+  "units": "metres, degrees",
+  "cases": {
+    "S1": {
+      "name": "Long sinuous ridge",
+      "instances": [
+        {
+          "id": "d00",
+          "preset": "S1",
+          "center": [
+            0,
+            0
+          ],
+          "parameters": {
+            "height": 16.0,
+            "width": 218,
+            "length": 75.0,
+            "wind_deg": 12.0,
+            "crest_position": 0.0,
+            "bow": 1,
+            "bend_count": 1.2,
+            "bend_amplitude": 19,
+            "bend_phase": 0.0,
+            "height_variation": 0.18,
+            "height_phase": 0.4,
+            "height_skew": 0.12,
+            "end_taper": 0.9,
+            "lee_slope_deg": 29.0,
+            "leeward_shape": 0.3,
+            "windward_shape": 2.35,
+            "horn_length": 0.0,
+            "horn_asymmetry": 0.1,
+            "smoothness": 2,
+            "seed": 17,
+            "name": "Long sinuous ridge"
+          }
+        }
+      ],
+      "samples": 253,
+      "base_mode": "flat",
+      "cameras": {
+        "01_overview": {
+          "position": [
+            0,
+            0,
+            365
+          ],
+          "target": [
+            0,
+            0,
+            0
+          ],
+          "fov": 61
+        },
+        "02_gameplay": {
+          "position": [
+            115,
+            -105,
+            4.5
+          ],
+          "target": [
+            0,
+            0,
+            6
+          ],
+          "fov": 68
+        },
+        "03_profile": {
+          "position": [
+            -5,
+            -220,
+            19
+          ],
+          "target": [
+            -5,
+            0,
+            7
+          ],
+          "fov": 60
+        },
+        "04_crest": {
+          "position": [
+            180,
+            45,
+            80
+          ],
+          "target": [
+            0,
+            0,
+            7
+          ],
+          "fov": 68
+        }
+      },
+      "sha256": "5251b0c329e5b574037245fbb1fb97a89a88e7cdbf9e0b04dee44be14ff8832b",
+      "max_height_m": 15.90146718001638,
+      "max_slope_deg": 39.2246214783149,
+      "base_range_m": [
+        0.0,
+        0.0
+      ],
+      "generation_seconds": 0.03916790001676418,
+      "merge_band_m": 2.4
+    },
+    "S2": {
+      "name": "Broad bowed crest",
+      "instances": [
+        {
+          "id": "d00",
+          "preset": "S2",
+          "center": [
+            0,
+            0
+          ],
+          "parameters": {
+            "height": 14,
+            "width": 204,
+            "length": 88,
+            "wind_deg": 12.0,
+            "crest_position": 0.0,
+            "bow": 43,
+            "bend_count": 0.5,
+            "bend_amplitude": 5,
+            "bend_phase": 0.0,
+            "height_variation": 0.18,
+            "height_phase": 0.4,
+            "height_skew": -0.22,
+            "end_taper": 0.9,
+            "lee_slope_deg": 29.0,
+            "leeward_shape": 0.3,
+            "windward_shape": 2.35,
+            "horn_length": 0.0,
+            "horn_asymmetry": 0.1,
+            "smoothness": 2,
+            "seed": 17,
+            "name": "Broad bowed crest"
+          }
+        }
+      ],
+      "samples": 253,
+      "base_mode": "flat",
+      "cameras": {
+        "01_overview": {
+          "position": [
+            0,
+            0,
+            365
+          ],
+          "target": [
+            0,
+            0,
+            0
+          ],
+          "fov": 61
+        },
+        "02_gameplay": {
+          "position": [
+            115,
+            -105,
+            4.5
+          ],
+          "target": [
+            0,
+            0,
+            6
+          ],
+          "fov": 68
+        },
+        "03_profile": {
+          "position": [
+            -5,
+            -220,
+            19
+          ],
+          "target": [
+            -5,
+            0,
+            7
+          ],
+          "fov": 60
+        },
+        "04_crest": {
+          "position": [
+            180,
+            45,
+            80
+          ],
+          "target": [
+            0,
+            0,
+            7
+          ],
+          "fov": 68
+        }
+      },
+      "sha256": "7e53a111ad67c3f2c28b717ee59bbb94aacb9725687b66cbb1a66ecce2f63efd",
+      "max_height_m": 13.924939841693549,
+      "max_slope_deg": 27.530347677424544,
+      "base_range_m": [
+        0.0,
+        0.0
+      ],
+      "generation_seconds": 0.028533699980471283,
+      "merge_band_m": 2.4
+    },
+    "S3": {
+      "name": "Three soft crest bends",
+      "instances": [
+        {
+          "id": "d00",
+          "preset": "S3",
+          "center": [
+            0,
+            0
+          ],
+          "parameters": {
+            "height": 12,
+            "width": 224,
+            "length": 64,
+            "wind_deg": 12.0,
+            "crest_position": 0.0,
+            "bow": 0,
+            "bend_count": 2.6,
+            "bend_amplitude": 13,
+            "bend_phase": 0.0,
+            "height_variation": 0.24,
+            "height_phase": 0.4,
+            "height_skew": 0.12,
+            "end_taper": 0.9,
+            "lee_slope_deg": 29.0,
+            "leeward_shape": 0.3,
+            "windward_shape": 2.35,
+            "horn_length": 0.0,
+            "horn_asymmetry": 0.1,
+            "smoothness": 2,
+            "seed": 17,
+            "name": "Three soft crest bends"
+          }
+        }
+      ],
+      "samples": 253,
+      "base_mode": "flat",
+      "cameras": {
+        "01_overview": {
+          "position": [
+            0,
+            0,
+            365
+          ],
+          "target": [
+            0,
+            0,
+            0
+          ],
+          "fov": 61
+        },
+        "02_gameplay": {
+          "position": [
+            115,
+            -105,
+            4.5
+          ],
+          "target": [
+            0,
+            0,
+            6
+          ],
+          "fov": 68
+        },
+        "03_profile": {
+          "position": [
+            -5,
+            -220,
+            19
+          ],
+          "target": [
+            -5,
+            0,
+            7
+          ],
+          "fov": 60
+        },
+        "04_crest": {
+          "position": [
+            180,
+            45,
+            80
+          ],
+          "target": [
+            0,
+            0,
+            7
+          ],
+          "fov": 68
+        }
+      },
+      "sha256": "a95defb9cb0306d866ead8c3250ecfc356e2488f4c73ae25617b577d90db318a",
+      "max_height_m": 11.900135839344689,
+      "max_slope_deg": 33.324581484331986,
+      "base_range_m": [
+        0.0,
+        0.0
+      ],
+      "generation_seconds": 0.030026800028281286,
+      "merge_band_m": 2.4
+    },
+    "S4": {
+      "name": "Unequal hooked ridge",
+      "instances": [
+        {
+          "id": "d00",
+          "preset": "S4",
+          "center": [
+            0,
+            0
+          ],
+          "parameters": {
+            "height": 18,
+            "width": 186,
+            "length": 78,
+            "wind_deg": 12.0,
+            "crest_position": 0.0,
+            "bow": 20,
+            "bend_count": 1,
+            "bend_amplitude": 24,
+            "bend_phase": 1.2,
+            "height_variation": 0.18,
+            "height_phase": 0.4,
+            "height_skew": 0.38,
+            "end_taper": 0.9,
+            "lee_slope_deg": 29.0,
+            "leeward_shape": 0.3,
+            "windward_shape": 2.35,
+            "horn_length": 28,
+            "horn_asymmetry": 0.1,
+            "smoothness": 2,
+            "seed": 17,
+            "name": "Unequal hooked ridge"
+          }
+        }
+      ],
+      "samples": 253,
+      "base_mode": "flat",
+      "cameras": {
+        "01_overview": {
+          "position": [
+            0,
+            0,
+            365
+          ],
+          "target": [
+            0,
+            0,
+            0
+          ],
+          "fov": 61
+        },
+        "02_gameplay": {
+          "position": [
+            115,
+            -105,
+            4.5
+          ],
+          "target": [
+            0,
+            0,
+            6
+          ],
+          "fov": 68
+        },
+        "03_profile": {
+          "position": [
+            -5,
+            -220,
+            19
+          ],
+          "target": [
+            -5,
+            0,
+            7
+          ],
+          "fov": 60
+        },
+        "04_crest": {
+          "position": [
+            180,
+            45,
+            80
+          ],
+          "target": [
+            0,
+            0,
+            7
+          ],
+          "fov": 68
+        }
+      },
+      "sha256": "82ee17ee1fad6e61c9458252df499e437029b76ae555b86296c244f59e523c10",
+      "max_height_m": 17.881568215950466,
+      "max_slope_deg": 34.86422286240985,
+      "base_range_m": [
+        0.0,
+        0.0
+      ],
+      "generation_seconds": 0.032764900010079145,
+      "merge_band_m": 2.4
+    },
+    "S5": {
+      "name": "Low sand shoulder",
+      "instances": [
+        {
+          "id": "d00",
+          "preset": "S5",
+          "center": [
+            0,
+            0
+          ],
+          "parameters": {
+            "height": 6.5,
+            "width": 214,
+            "length": 96,
+            "wind_deg": 12.0,
+            "crest_position": 0.0,
+            "bow": 2,
+            "bend_count": 1.5,
+            "bend_amplitude": 9,
+            "bend_phase": 0.0,
+            "height_variation": 0.3,
+            "height_phase": 0.4,
+            "height_skew": 0.12,
+            "end_taper": 1.2,
+            "lee_slope_deg": 23,
+            "leeward_shape": 0.3,
+            "windward_shape": 2.35,
+            "horn_length": 0.0,
+            "horn_asymmetry": 0.1,
+            "smoothness": 2,
+            "seed": 17,
+            "name": "Low sand shoulder"
+          }
+        }
+      ],
+      "samples": 253,
+      "base_mode": "flat",
+      "cameras": {
+        "01_overview": {
+          "position": [
+            0,
+            0,
+            365
+          ],
+          "target": [
+            0,
+            0,
+            0
+          ],
+          "fov": 61
+        },
+        "02_gameplay": {
+          "position": [
+            115,
+            -105,
+            4.5
+          ],
+          "target": [
+            0,
+            0,
+            6
+          ],
+          "fov": 68
+        },
+        "03_profile": {
+          "position": [
+            -5,
+            -220,
+            19
+          ],
+          "target": [
+            -5,
+            0,
+            7
+          ],
+          "fov": 60
+        },
+        "04_crest": {
+          "position": [
+            180,
+            45,
+            80
+          ],
+          "target": [
+            0,
+            0,
+            7
+          ],
+          "fov": 68
+        }
+      },
+      "sha256": "b77f2df15505920b06a1424fdd2a46f7cbba99b2fa4fa3e6579047603bfb251d",
+      "max_height_m": 6.451232202760907,
+      "max_slope_deg": 24.349102184795083,
+      "base_range_m": [
+        0.0,
+        0.0
+      ],
+      "generation_seconds": 0.030534899997292086,
+      "merge_band_m": 2.4
+    },
+    "S6": {
+      "name": "Tall tapering transverse ridge",
+      "instances": [
+        {
+          "id": "d00",
+          "preset": "S6",
+          "center": [
+            0,
+            0
+          ],
+          "parameters": {
+            "height": 20,
+            "width": 214,
+            "length": 86,
+            "wind_deg": 12.0,
+            "crest_position": 0.0,
+            "bow": -10,
+            "bend_count": 0.8,
+            "bend_amplitude": 18,
+            "bend_phase": 2.4,
+            "height_variation": 0.26,
+            "height_phase": 0.4,
+            "height_skew": -0.3,
+            "end_taper": 0.9,
+            "lee_slope_deg": 29.0,
+            "leeward_shape": 0.3,
+            "windward_shape": 2.35,
+            "horn_length": 0.0,
+            "horn_asymmetry": 0.1,
+            "smoothness": 2,
+            "seed": 17,
+            "name": "Tall tapering transverse ridge"
+          }
+        }
+      ],
+      "samples": 253,
+      "base_mode": "flat",
+      "cameras": {
+        "01_overview": {
+          "position": [
+            0,
+            0,
+            365
+          ],
+          "target": [
+            0,
+            0,
+            0
+          ],
+          "fov": 61
+        },
+        "02_gameplay": {
+          "position": [
+            115,
+            -105,
+            4.5
+          ],
+          "target": [
+            0,
+            0,
+            6
+          ],
+          "fov": 68
+        },
+        "03_profile": {
+          "position": [
+            -5,
+            -220,
+            19
+          ],
+          "target": [
+            -5,
+            0,
+            7
+          ],
+          "fov": 60
+        },
+        "04_crest": {
+          "position": [
+            180,
+            45,
+            80
+          ],
+          "target": [
+            0,
+            0,
+            7
+          ],
+          "fov": 68
+        }
+      },
+      "sha256": "a993e4915ead9ecceee86c8a46ff57ba6366a9287ceb7c9e7334e9e92c6e60a0",
+      "max_height_m": 19.889847854267845,
+      "max_slope_deg": 37.687509755539736,
+      "base_range_m": [
+        0.0,
+        0.0
+      ],
+      "generation_seconds": 0.033883399999467656,
+      "merge_band_m": 2.4
+    },
+    "T1": {
+      "name": "Three dunes on uneven base",
+      "instances": [
+        {
+          "id": "d00",
+          "preset": "S1",
+          "center": [
+            -35,
+            20
+          ],
+          "parameters": {
+            "height": 12.8,
+            "width": 174.4,
+            "length": 60.0,
+            "wind_deg": 12.0,
+            "crest_position": 0.0,
+            "bow": 0.8,
+            "bend_count": 1.2,
+            "bend_amplitude": 15.200000000000001,
+            "bend_phase": 0.0,
+            "height_variation": 0.18,
+            "height_phase": 0.4,
+            "height_skew": 0.12,
+            "end_taper": 0.9,
+            "lee_slope_deg": 29.0,
+            "leeward_shape": 0.3,
+            "windward_shape": 2.35,
+            "horn_length": 0.0,
+            "horn_asymmetry": 0.1,
+            "smoothness": 2,
+            "seed": 17,
+            "name": "Long sinuous ridge"
+          }
+        },
+        {
+          "id": "d01",
+          "preset": "S5",
+          "center": [
+            30,
+            -15
+          ],
+          "parameters": {
+            "height": 5.2,
+            "width": 171.20000000000002,
+            "length": 76.80000000000001,
+            "wind_deg": 12.0,
+            "crest_position": 0.0,
+            "bow": 1.6,
+            "bend_count": 1.5,
+            "bend_amplitude": 7.2,
+            "bend_phase": 0.0,
+            "height_variation": 0.3,
+            "height_phase": 0.4,
+            "height_skew": 0.12,
+            "end_taper": 1.2,
+            "lee_slope_deg": 23,
+            "leeward_shape": 0.3,
+            "windward_shape": 2.35,
+            "horn_length": 0.0,
+            "horn_asymmetry": 0.1,
+            "smoothness": 2,
+            "seed": 17,
+            "name": "Low sand shoulder"
+          }
+        },
+        {
+          "id": "d02",
+          "preset": "S3",
+          "center": [
+            25,
+            55
+          ],
+          "parameters": {
+            "height": 7.4399999999999995,
+            "width": 138.88,
+            "length": 39.68,
+            "wind_deg": 12.0,
+            "crest_position": 0.0,
+            "bow": 0.0,
+            "bend_count": 2.6,
+            "bend_amplitude": 8.06,
+            "bend_phase": 0.0,
+            "height_variation": 0.24,
+            "height_phase": 0.4,
+            "height_skew": 0.12,
+            "end_taper": 0.9,
+            "lee_slope_deg": 29.0,
+            "leeward_shape": 0.3,
+            "windward_shape": 2.35,
+            "horn_length": 0.0,
+            "horn_asymmetry": 0.1,
+            "smoothness": 2,
+            "seed": 17,
+            "name": "Three soft crest bends"
+          }
+        }
+      ],
+      "samples": 253,
+      "base_mode": "rolling",
+      "cameras": {
+        "01_overview": {
+          "position": [
+            0,
+            0,
+            365
+          ],
+          "target": [
+            0,
+            0,
+            0
+          ],
+          "fov": 61
+        },
+        "02_gameplay": {
+          "position": [
+            115,
+            -105,
+            4.506372520796941
+          ],
+          "target": [
+            0,
+            0,
+            6
+          ],
+          "fov": 68
+        },
+        "03_profile": {
+          "position": [
+            -5,
+            -220,
+            19
+          ],
+          "target": [
+            -5,
+            0,
+            7
+          ],
+          "fov": 60
+        },
+        "04_crest": {
+          "position": [
+            180,
+            45,
+            80
+          ],
+          "target": [
+            0,
+            0,
+            7
+          ],
+          "fov": 68
+        }
+      },
+      "sha256": "dae2c07e87ede5dee4fc9f2c433fc479d754cb44737cbb4d6d78be2e4437fccb",
+      "max_height_m": 16.510473735407096,
+      "max_slope_deg": 39.1831860862986,
+      "base_range_m": [
+        0.0,
+        5.959761756005668
+      ],
+      "generation_seconds": 0.06713209999725223,
+      "merge_band_m": 2.4
+    },
+    "G1": {
+      "name": "Linked sinuous ridges",
+      "instances": [
+        {
+          "id": "d00",
+          "preset": "S1",
+          "center": [
+            -130,
+            70
+          ],
+          "parameters": {
+            "height": 24.0,
+            "width": 327.0,
+            "length": 112.5,
+            "wind_deg": 15.548260044884431,
+            "crest_position": 0.0,
+            "bow": 1.5,
+            "bend_count": 1.2,
+            "bend_amplitude": 28.5,
+            "bend_phase": 0.0,
+            "height_variation": 0.18,
+            "height_phase": 0.4,
+            "height_skew": 0.12,
+            "end_taper": 0.9,
+            "lee_slope_deg": 29.0,
+            "leeward_shape": 0.3,
+            "windward_shape": 2.35,
+            "horn_length": 0.0,
+            "horn_asymmetry": 0.1,
+            "smoothness": 2,
+            "seed": 6966,
+            "name": "Long sinuous ridge"
+          }
+        },
+        {
+          "id": "d01",
+          "preset": "S3",
+          "center": [
+            -45,
+            55
+          ],
+          "parameters": {
+            "height": 16.200000000000003,
+            "width": 302.40000000000003,
+            "length": 86.4,
+            "wind_deg": 14.278443295759818,
+            "crest_position": 0.0,
+            "bow": 0.0,
+            "bend_count": 2.6,
+            "bend_amplitude": 17.55,
+            "bend_phase": 0.0,
+            "height_variation": 0.24,
+            "height_phase": 0.4,
+            "height_skew": 0.12,
+            "end_taper": 0.9,
+            "lee_slope_deg": 29.0,
+            "leeward_shape": 0.3,
+            "windward_shape": 2.35,
+            "horn_length": 0.0,
+            "horn_asymmetry": 0.1,
+            "smoothness": 2,
+            "seed": 3594,
+            "name": "Three soft crest bends"
+          }
+        },
+        {
+          "id": "d02",
+          "preset": "S6",
+          "center": [
+            65,
+            70
+          ],
+          "parameters": {
+            "height": 26.0,
+            "width": 278.2,
+            "length": 111.8,
+            "wind_deg": 12.730225481835294,
+            "crest_position": 0.0,
+            "bow": -13.0,
+            "bend_count": 0.8,
+            "bend_amplitude": 23.400000000000002,
+            "bend_phase": 2.4,
+            "height_variation": 0.26,
+            "height_phase": 0.4,
+            "height_skew": -0.3,
+            "end_taper": 0.9,
+            "lee_slope_deg": 29.0,
+            "leeward_shape": 0.3,
+            "windward_shape": 2.35,
+            "horn_length": 0.0,
+            "horn_asymmetry": 0.1,
+            "smoothness": 2,
+            "seed": 6195,
+            "name": "Tall tapering transverse ridge"
+          }
+        },
+        {
+          "id": "d03",
+          "preset": "S2",
+          "center": [
+            145,
+            -35
+          ],
+          "parameters": {
+            "height": 15.680000000000001,
+            "width": 228.48000000000002,
+            "length": 98.56,
+            "wind_deg": 15.381805491383314,
+            "crest_position": 0.0,
+            "bow": 48.160000000000004,
+            "bend_count": 0.5,
+            "bend_amplitude": 5.6000000000000005,
+            "bend_phase": 0.0,
+            "height_variation": 0.18,
+            "height_phase": 0.4,
+            "height_skew": -0.22,
+            "end_taper": 0.9,
+            "lee_slope_deg": 29.0,
+            "leeward_shape": 0.3,
+            "windward_shape": 2.35,
+            "horn_length": 0.0,
+            "horn_asymmetry": 0.1,
+            "smoothness": 2,
+            "seed": 2943,
+            "name": "Broad bowed crest"
+          }
+        },
+        {
+          "id": "d04",
+          "preset": "S5",
+          "center": [
+            -130,
+            -85
+          ],
+          "parameters": {
+            "height": 6.825,
+            "width": 224.70000000000002,
+            "length": 100.80000000000001,
+            "wind_deg": 14.954652357428555,
+            "crest_position": 0.0,
+            "bow": 2.1,
+            "bend_count": 1.5,
+            "bend_amplitude": 9.450000000000001,
+            "bend_phase": 0.0,
+            "height_variation": 0.3,
+            "height_phase": 0.4,
+            "height_skew": 0.12,
+            "end_taper": 1.2,
+            "lee_slope_deg": 23,
+            "leeward_shape": 0.3,
+            "windward_shape": 2.35,
+            "horn_length": 0.0,
+            "horn_asymmetry": 0.1,
+            "smoothness": 2,
+            "seed": 1347,
+            "name": "Low sand shoulder"
+          }
+        },
+        {
+          "id": "d05",
+          "preset": "S5",
+          "center": [
+            -30,
+            -90
+          ],
+          "parameters": {
+            "height": 7.475,
+            "width": 246.1,
+            "length": 110.39999999999999,
+            "wind_deg": 15.785414517063153,
+            "crest_position": 0.0,
+            "bow": 2.3,
+            "bend_count": 1.5,
+            "bend_amplitude": 10.35,
+            "bend_phase": 0.0,
+            "height_variation": 0.3,
+            "height_phase": 0.4,
+            "height_skew": 0.12,
+            "end_taper": 1.2,
+            "lee_slope_deg": 23,
+            "leeward_shape": 0.3,
+            "windward_shape": 2.35,
+            "horn_length": 0.0,
+            "horn_asymmetry": 0.1,
+            "smoothness": 2,
+            "seed": 3642,
+            "name": "Low sand shoulder"
+          }
+        },
+        {
+          "id": "d06",
+          "preset": "S5",
+          "center": [
+            75,
+            -120
+          ],
+          "parameters": {
+            "height": 6.825,
+            "width": 224.70000000000002,
+            "length": 100.80000000000001,
+            "wind_deg": 9.79619464588105,
+            "crest_position": 0.0,
+            "bow": 2.1,
+            "bend_count": 1.5,
+            "bend_amplitude": 9.450000000000001,
+            "bend_phase": 0.0,
+            "height_variation": 0.3,
+            "height_phase": 0.4,
+            "height_skew": 0.12,
+            "end_taper": 1.2,
+            "lee_slope_deg": 23,
+            "leeward_shape": 0.3,
+            "windward_shape": 2.35,
+            "horn_length": 0.0,
+            "horn_asymmetry": 0.1,
+            "smoothness": 2,
+            "seed": 8144,
+            "name": "Low sand shoulder"
+          }
+        },
+        {
+          "id": "d07",
+          "preset": "S1",
+          "center": [
+            10,
+            155
+          ],
+          "parameters": {
+            "height": 10.4,
+            "width": 141.70000000000002,
+            "length": 48.75,
+            "wind_deg": 13.447169850246752,
+            "crest_position": 0.0,
+            "bow": 0.65,
+            "bend_count": 1.2,
+            "bend_amplitude": 12.35,
+            "bend_phase": 0.0,
+            "height_variation": 0.18,
+            "height_phase": 0.4,
+            "height_skew": 0.12,
+            "end_taper": 0.9,
+            "lee_slope_deg": 29.0,
+            "leeward_shape": 0.3,
+            "windward_shape": 2.35,
+            "horn_length": 0.0,
+            "horn_asymmetry": 0.1,
+            "smoothness": 2,
+            "seed": 8055,
+            "name": "Long sinuous ridge"
+          }
+        },
+        {
+          "id": "d08",
+          "preset": "S5",
+          "center": [
+            145,
+            130
+          ],
+          "parameters": {
+            "height": 4.55,
+            "width": 149.79999999999998,
+            "length": 67.19999999999999,
+            "wind_deg": 11.7684841698056,
+            "crest_position": 0.0,
+            "bow": 1.4,
+            "bend_count": 1.5,
+            "bend_amplitude": 6.3,
+            "bend_phase": 0.0,
+            "height_variation": 0.3,
+            "height_phase": 0.4,
+            "height_skew": 0.12,
+            "end_taper": 1.2,
+            "lee_slope_deg": 23,
+            "leeward_shape": 0.3,
+            "windward_shape": 2.35,
+            "horn_length": 0.0,
+            "horn_asymmetry": 0.1,
+            "smoothness": 2,
+            "seed": 5545,
+            "name": "Low sand shoulder"
+          }
+        }
+      ],
+      "samples": 505,
+      "base_mode": "rolling",
+      "cameras": {
+        "01_aerial": {
+          "position": [
+            0,
+            0,
+            800
+          ],
+          "target": [
+            0,
+            0,
+            0
+          ],
+          "fov": 62
+        },
+        "02_overview": {
+          "position": [
+            430,
+            -480,
+            350
+          ],
+          "target": [
+            0,
+            0,
+            6
+          ],
+          "fov": 60
+        },
+        "03_gameplay": {
+          "position": [
+            185,
+            -210,
+            4.535831381956206
+          ],
+          "target": [
+            30,
+            20,
+            9
+          ],
+          "fov": 75
+        },
+        "04_across": {
+          "position": [
+            -15,
+            -265,
+            22
+          ],
+          "target": [
+            -15,
+            40,
+            10
+          ],
+          "fov": 76
+        },
+        "05_flow": {
+          "position": [
+            -265,
+            -40,
+            26
+          ],
+          "target": [
+            130,
+            40,
+            10
+          ],
+          "fov": 72
+        }
+      },
+      "sha256": "5a8859013e105f95a89c1aa6b79ecff8cb1359a2d2e549535bb60b727ed7de6a",
+      "max_height_m": 29.181448707317347,
+      "max_slope_deg": 38.60356814354208,
+      "base_range_m": [
+        0.0,
+        5.982746663728696
+      ],
+      "generation_seconds": 1.5197014999866951,
+      "merge_band_m": 2.4
+    },
+    "G2": {
+      "name": "Open valley and dune shoulders",
+      "instances": [
+        {
+          "id": "d00",
+          "preset": "S2",
+          "center": [
+            -115,
+            95
+          ],
+          "parameters": {
+            "height": 20.3,
+            "width": 295.8,
+            "length": 127.6,
+            "wind_deg": 13.063362637477862,
+            "crest_position": 0.0,
+            "bow": 62.35,
+            "bend_count": 0.5,
+            "bend_amplitude": 7.25,
+            "bend_phase": 0.0,
+            "height_variation": 0.18,
+            "height_phase": 0.4,
+            "height_skew": -0.22,
+            "end_taper": 0.9,
+            "lee_slope_deg": 29.0,
+            "leeward_shape": 0.3,
+            "windward_shape": 2.35,
+            "horn_length": 0.0,
+            "horn_asymmetry": 0.1,
+            "smoothness": 12,
+            "seed": 4463,
+            "name": "Broad bowed crest"
+          }
+        },
+        {
+          "id": "d01",
+          "preset": "S1",
+          "center": [
+            0,
+            65
+          ],
+          "parameters": {
+            "height": 24.8,
+            "width": 337.90000000000003,
+            "length": 116.25,
+            "wind_deg": 13.25725353708507,
+            "crest_position": 0.0,
+            "bow": 1.55,
+            "bend_count": 1.2,
+            "bend_amplitude": 29.45,
+            "bend_phase": 0.0,
+            "height_variation": 0.18,
+            "height_phase": 0.4,
+            "height_skew": 0.12,
+            "end_taper": 0.9,
+            "lee_slope_deg": 29.0,
+            "leeward_shape": 0.3,
+            "windward_shape": 2.35,
+            "horn_length": 0.0,
+            "horn_asymmetry": 0.1,
+            "smoothness": 12,
+            "seed": 6737,
+            "name": "Long sinuous ridge"
+          }
+        },
+        {
+          "id": "d02",
+          "preset": "S4",
+          "center": [
+            110,
+            115
+          ],
+          "parameters": {
+            "height": 21.24,
+            "width": 219.48,
+            "length": 92.03999999999999,
+            "wind_deg": 15.225455864861711,
+            "crest_position": 0.0,
+            "bow": 23.599999999999998,
+            "bend_count": 1,
+            "bend_amplitude": 28.32,
+            "bend_phase": 1.2,
+            "height_variation": 0.18,
+            "height_phase": 0.4,
+            "height_skew": 0.38,
+            "end_taper": 0.9,
+            "lee_slope_deg": 29.0,
+            "leeward_shape": 0.3,
+            "windward_shape": 2.35,
+            "horn_length": 33.04,
+            "horn_asymmetry": 0.1,
+            "smoothness": 12,
+            "seed": 3127,
+            "name": "Unequal hooked ridge"
+          }
+        },
+        {
+          "id": "d03",
+          "preset": "S3",
+          "center": [
+            -80,
+            -115
+          ],
+          "parameters": {
+            "height": 14.879999999999999,
+            "width": 277.76,
+            "length": 79.36,
+            "wind_deg": 8.960265788544376,
+            "crest_position": 0.0,
+            "bow": 0.0,
+            "bend_count": 2.6,
+            "bend_amplitude": 16.12,
+            "bend_phase": 0.0,
+            "height_variation": 0.24,
+            "height_phase": 0.4,
+            "height_skew": 0.12,
+            "end_taper": 0.9,
+            "lee_slope_deg": 29.0,
+            "leeward_shape": 0.3,
+            "windward_shape": 2.35,
+            "horn_length": 0.0,
+            "horn_asymmetry": 0.1,
+            "smoothness": 12,
+            "seed": 2323,
+            "name": "Three soft crest bends"
+          }
+        },
+        {
+          "id": "d04",
+          "preset": "S2",
+          "center": [
+            105,
+            -95
+          ],
+          "parameters": {
+            "height": 17.5,
+            "width": 255.0,
+            "length": 110.0,
+            "wind_deg": 12.70140414057801,
+            "crest_position": 0.0,
+            "bow": 53.75,
+            "bend_count": 0.5,
+            "bend_amplitude": 6.25,
+            "bend_phase": 0.0,
+            "height_variation": 0.18,
+            "height_phase": 0.4,
+            "height_skew": -0.22,
+            "end_taper": 0.9,
+            "lee_slope_deg": 29.0,
+            "leeward_shape": 0.3,
+            "windward_shape": 2.35,
+            "horn_length": 0.0,
+            "horn_asymmetry": 0.1,
+            "smoothness": 12,
+            "seed": 8313,
+            "name": "Broad bowed crest"
+          }
+        },
+        {
+          "id": "d05",
+          "preset": "S5",
+          "center": [
+            -20,
+            -40
+          ],
+          "parameters": {
+            "height": 7.475,
+            "width": 246.1,
+            "length": 110.39999999999999,
+            "wind_deg": 9.987441306609991,
+            "crest_position": 0.0,
+            "bow": 2.3,
+            "bend_count": 1.5,
+            "bend_amplitude": 10.35,
+            "bend_phase": 0.0,
+            "height_variation": 0.3,
+            "height_phase": 0.4,
+            "height_skew": 0.12,
+            "end_taper": 1.2,
+            "lee_slope_deg": 23,
+            "leeward_shape": 0.3,
+            "windward_shape": 2.35,
+            "horn_length": 0.0,
+            "horn_asymmetry": 0.1,
+            "smoothness": 12,
+            "seed": 8358,
+            "name": "Low sand shoulder"
+          }
+        },
+        {
+          "id": "d06",
+          "preset": "S5",
+          "center": [
+            -170,
+            -35
+          ],
+          "parameters": {
+            "height": 5.2,
+            "width": 171.20000000000002,
+            "length": 76.80000000000001,
+            "wind_deg": 8.170004586946465,
+            "crest_position": 0.0,
+            "bow": 1.6,
+            "bend_count": 1.5,
+            "bend_amplitude": 7.2,
+            "bend_phase": 0.0,
+            "height_variation": 0.3,
+            "height_phase": 0.4,
+            "height_skew": 0.12,
+            "end_taper": 1.2,
+            "lee_slope_deg": 23,
+            "leeward_shape": 0.3,
+            "windward_shape": 2.35,
+            "horn_length": 0.0,
+            "horn_asymmetry": 0.1,
+            "smoothness": 12,
+            "seed": 1236,
+            "name": "Low sand shoulder"
+          }
+        },
+        {
+          "id": "d07",
+          "preset": "S5",
+          "center": [
+            150,
+            0
+          ],
+          "parameters": {
+            "height": 5.5249999999999995,
+            "width": 181.9,
+            "length": 81.6,
+            "wind_deg": 15.254708740787846,
+            "crest_position": 0.0,
+            "bow": 1.7,
+            "bend_count": 1.5,
+            "bend_amplitude": 7.6499999999999995,
+            "bend_phase": 0.0,
+            "height_variation": 0.3,
+            "height_phase": 0.4,
+            "height_skew": 0.12,
+            "end_taper": 1.2,
+            "lee_slope_deg": 23,
+            "leeward_shape": 0.3,
+            "windward_shape": 2.35,
+            "horn_length": 0.0,
+            "horn_asymmetry": 0.1,
+            "smoothness": 12,
+            "seed": 5937,
+            "name": "Low sand shoulder"
+          }
+        }
+      ],
+      "samples": 505,
+      "base_mode": "valley",
+      "cameras": {
+        "01_aerial": {
+          "position": [
+            0,
+            0,
+            800
+          ],
+          "target": [
+            0,
+            0,
+            0
+          ],
+          "fov": 62
+        },
+        "02_overview": {
+          "position": [
+            430,
+            -480,
+            350
+          ],
+          "target": [
+            0,
+            0,
+            6
+          ],
+          "fov": 60
+        },
+        "03_gameplay": {
+          "position": [
+            185,
+            -210,
+            4.572930320658724
+          ],
+          "target": [
+            30,
+            20,
+            9
+          ],
+          "fov": 75
+        },
+        "04_across": {
+          "position": [
+            -15,
+            -265,
+            22
+          ],
+          "target": [
+            -15,
+            40,
+            10
+          ],
+          "fov": 76
+        },
+        "05_flow": {
+          "position": [
+            -265,
+            -40,
+            26
+          ],
+          "target": [
+            130,
+            40,
+            10
+          ],
+          "fov": 72
+        }
+      },
+      "sha256": "8a86c2de186bbdf37a90683fe8b65752b412805d8284109557c1110cb94d6f81",
+      "max_height_m": 26.20379309696198,
+      "max_slope_deg": 38.03659851329229,
+      "base_range_m": [
+        0.0,
+        4.589797739222143
+      ],
+      "generation_seconds": 1.6864668999915011,
+      "merge_band_m": 2.4
+    },
+    "G3": {
+      "name": "Long undulating transverse bands",
+      "instances": [
+        {
+          "id": "d00",
+          "preset": "S3",
+          "center": [
+            -130,
+            0
+          ],
+          "parameters": {
+            "height": 20.4,
+            "width": 380.8,
+            "length": 108.8,
+            "wind_deg": 13.617429370723592,
+            "crest_position": 0.0,
+            "bow": 0.0,
+            "bend_count": 2.6,
+            "bend_amplitude": 22.099999999999998,
+            "bend_phase": 0.0,
+            "height_variation": 0.24,
+            "height_phase": 0.4,
+            "height_skew": 0.12,
+            "end_taper": 0.9,
+            "lee_slope_deg": 29.0,
+            "leeward_shape": 0.3,
+            "windward_shape": 2.35,
+            "horn_length": 0.0,
+            "horn_asymmetry": 0.1,
+            "smoothness": 2,
+            "seed": 729,
+            "name": "Three soft crest bends"
+          }
+        },
+        {
+          "id": "d01",
+          "preset": "S1",
+          "center": [
+            -35,
+            35
+          ],
+          "parameters": {
+            "height": 26.4,
+            "width": 359.7,
+            "length": 123.75,
+            "wind_deg": 9.38838820970064,
+            "crest_position": 0.0,
+            "bow": 1.65,
+            "bend_count": 1.2,
+            "bend_amplitude": 31.349999999999998,
+            "bend_phase": 0.0,
+            "height_variation": 0.18,
+            "height_phase": 0.4,
+            "height_skew": 0.12,
+            "end_taper": 0.9,
+            "lee_slope_deg": 29.0,
+            "leeward_shape": 0.3,
+            "windward_shape": 2.35,
+            "horn_length": 0.0,
+            "horn_asymmetry": 0.1,
+            "smoothness": 2,
+            "seed": 8031,
+            "name": "Long sinuous ridge"
+          }
+        },
+        {
+          "id": "d02",
+          "preset": "S3",
+          "center": [
+            70,
+            10
+          ],
+          "parameters": {
+            "height": 18.6,
+            "width": 347.2,
+            "length": 99.2,
+            "wind_deg": 10.01663665923043,
+            "crest_position": 0.0,
+            "bow": 0.0,
+            "bend_count": 2.6,
+            "bend_amplitude": 20.150000000000002,
+            "bend_phase": 0.0,
+            "height_variation": 0.24,
+            "height_phase": 0.4,
+            "height_skew": 0.12,
+            "end_taper": 0.9,
+            "lee_slope_deg": 29.0,
+            "leeward_shape": 0.3,
+            "windward_shape": 2.35,
+            "horn_length": 0.0,
+            "horn_asymmetry": 0.1,
+            "smoothness": 2,
+            "seed": 613,
+            "name": "Three soft crest bends"
+          }
+        },
+        {
+          "id": "d03",
+          "preset": "S6",
+          "center": [
+            150,
+            20
+          ],
+          "parameters": {
+            "height": 25.0,
+            "width": 267.5,
+            "length": 107.5,
+            "wind_deg": 14.732412923862,
+            "crest_position": 0.0,
+            "bow": -12.5,
+            "bend_count": 0.8,
+            "bend_amplitude": 22.5,
+            "bend_phase": 2.4,
+            "height_variation": 0.26,
+            "height_phase": 0.4,
+            "height_skew": -0.3,
+            "end_taper": 0.9,
+            "lee_slope_deg": 29.0,
+            "leeward_shape": 0.3,
+            "windward_shape": 2.35,
+            "horn_length": 0.0,
+            "horn_asymmetry": 0.1,
+            "smoothness": 2,
+            "seed": 411,
+            "name": "Tall tapering transverse ridge"
+          }
+        },
+        {
+          "id": "d04",
+          "preset": "S5",
+          "center": [
+            -105,
+            -100
+          ],
+          "parameters": {
+            "height": 6.825,
+            "width": 224.70000000000002,
+            "length": 100.80000000000001,
+            "wind_deg": 12.188869409164408,
+            "crest_position": 0.0,
+            "bow": 2.1,
+            "bend_count": 1.5,
+            "bend_amplitude": 9.450000000000001,
+            "bend_phase": 0.0,
+            "height_variation": 0.3,
+            "height_phase": 0.4,
+            "height_skew": 0.12,
+            "end_taper": 1.2,
+            "lee_slope_deg": 23,
+            "leeward_shape": 0.3,
+            "windward_shape": 2.35,
+            "horn_length": 0.0,
+            "horn_asymmetry": 0.1,
+            "smoothness": 2,
+            "seed": 9040,
+            "name": "Low sand shoulder"
+          }
+        },
+        {
+          "id": "d05",
+          "preset": "S5",
+          "center": [
+            10,
+            -155
+          ],
+          "parameters": {
+            "height": 7.8,
+            "width": 256.8,
+            "length": 115.19999999999999,
+            "wind_deg": 12.679894793588282,
+            "crest_position": 0.0,
+            "bow": 2.4,
+            "bend_count": 1.5,
+            "bend_amplitude": 10.799999999999999,
+            "bend_phase": 0.0,
+            "height_variation": 0.3,
+            "height_phase": 0.4,
+            "height_skew": 0.12,
+            "end_taper": 1.2,
+            "lee_slope_deg": 23,
+            "leeward_shape": 0.3,
+            "windward_shape": 2.35,
+            "horn_length": 0.0,
+            "horn_asymmetry": 0.1,
+            "smoothness": 2,
+            "seed": 6257,
+            "name": "Low sand shoulder"
+          }
+        },
+        {
+          "id": "d06",
+          "preset": "S5",
+          "center": [
+            95,
+            155
+          ],
+          "parameters": {
+            "height": 5.8500000000000005,
+            "width": 192.6,
+            "length": 86.4,
+            "wind_deg": 14.098550395511847,
+            "crest_position": 0.0,
+            "bow": 1.8,
+            "bend_count": 1.5,
+            "bend_amplitude": 8.1,
+            "bend_phase": 0.0,
+            "height_variation": 0.3,
+            "height_phase": 0.4,
+            "height_skew": 0.12,
+            "end_taper": 1.2,
+            "lee_slope_deg": 23,
+            "leeward_shape": 0.3,
+            "windward_shape": 2.35,
+            "horn_length": 0.0,
+            "horn_asymmetry": 0.1,
+            "smoothness": 2,
+            "seed": 7892,
+            "name": "Low sand shoulder"
+          }
+        },
+        {
+          "id": "d07",
+          "preset": "S5",
+          "center": [
+            -150,
+            155
+          ],
+          "parameters": {
+            "height": 4.55,
+            "width": 149.79999999999998,
+            "length": 67.19999999999999,
+            "wind_deg": 10.093793926886352,
+            "crest_position": 0.0,
+            "bow": 1.4,
+            "bend_count": 1.5,
+            "bend_amplitude": 6.3,
+            "bend_phase": 0.0,
+            "height_variation": 0.3,
+            "height_phase": 0.4,
+            "height_skew": 0.12,
+            "end_taper": 1.2,
+            "lee_slope_deg": 23,
+            "leeward_shape": 0.3,
+            "windward_shape": 2.35,
+            "horn_length": 0.0,
+            "horn_asymmetry": 0.1,
+            "smoothness": 2,
+            "seed": 4044,
+            "name": "Low sand shoulder"
+          }
+        },
+        {
+          "id": "d08",
+          "preset": "S5",
+          "center": [
+            175,
+            -135
+          ],
+          "parameters": {
+            "height": 4.55,
+            "width": 149.79999999999998,
+            "length": 67.19999999999999,
+            "wind_deg": 11.355140657927313,
+            "crest_position": 0.0,
+            "bow": 1.4,
+            "bend_count": 1.5,
+            "bend_amplitude": 6.3,
+            "bend_phase": 0.0,
+            "height_variation": 0.3,
+            "height_phase": 0.4,
+            "height_skew": 0.12,
+            "end_taper": 1.2,
+            "lee_slope_deg": 23,
+            "leeward_shape": 0.3,
+            "windward_shape": 2.35,
+            "horn_length": 0.0,
+            "horn_asymmetry": 0.1,
+            "smoothness": 2,
+            "seed": 5306,
+            "name": "Low sand shoulder"
+          }
+        },
+        {
+          "id": "d09",
+          "preset": "S5",
+          "center": [
+            10,
+            130
+          ],
+          "parameters": {
+            "height": 4.55,
+            "width": 149.79999999999998,
+            "length": 67.19999999999999,
+            "wind_deg": 11.72773430701561,
+            "crest_position": 0.0,
+            "bow": 1.4,
+            "bend_count": 1.5,
+            "bend_amplitude": 6.3,
+            "bend_phase": 0.0,
+            "height_variation": 0.3,
+            "height_phase": 0.4,
+            "height_skew": 0.12,
+            "end_taper": 1.2,
+            "lee_slope_deg": 23,
+            "leeward_shape": 0.3,
+            "windward_shape": 2.35,
+            "horn_length": 0.0,
+            "horn_asymmetry": 0.1,
+            "smoothness": 2,
+            "seed": 7276,
+            "name": "Low sand shoulder"
+          }
+        }
+      ],
+      "samples": 505,
+      "base_mode": "cross",
+      "cameras": {
+        "01_aerial": {
+          "position": [
+            0,
+            0,
+            800
+          ],
+          "target": [
+            0,
+            0,
+            0
+          ],
+          "fov": 62
+        },
+        "02_overview": {
+          "position": [
+            430,
+            -480,
+            350
+          ],
+          "target": [
+            0,
+            0,
+            6
+          ],
+          "fov": 60
+        },
+        "03_gameplay": {
+          "position": [
+            185,
+            -210,
+            4.56583039279758
+          ],
+          "target": [
+            30,
+            20,
+            9
+          ],
+          "fov": 75
+        },
+        "04_across": {
+          "position": [
+            -15,
+            -265,
+            22
+          ],
+          "target": [
+            -15,
+            40,
+            10
+          ],
+          "fov": 76
+        },
+        "05_flow": {
+          "position": [
+            -265,
+            -40,
+            26
+          ],
+          "target": [
+            130,
+            40,
+            10
+          ],
+          "fov": 72
+        }
+      },
+      "sha256": "fe41546cdaa323f0dbd9277e18df5b0e7c9cda8a1245cf42e8e56c5b6a9c043b",
+      "max_height_m": 30.389243271847057,
+      "max_slope_deg": 38.907292039767135,
+      "base_range_m": [
+        0.0,
+        6.534027795165692
+      ],
+      "generation_seconds": 1.3789920000126585,
+      "merge_band_m": 2.4
+    }
+  },
+  "camera_note": "Identical XY/FOV/target across fields; gameplay Z follows terrain to keep 4.5m clearance. Offline routes use same XY and terrain-relative Z."
+}

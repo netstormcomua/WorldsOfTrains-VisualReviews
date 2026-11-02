@@ -17,3 +17,7 @@ Selected visual milestone artifacts for Worlds of Trains. This repository is int
 - After publishing, verify the commit and anonymously GET each important `raw.githubusercontent.com/<owner>/<repo>/<commit>/<path>` URL. Confirm HTTP success, image content type and hash against the reviewed local file.
 - Share links pinned to the verified commit, together with the report and a brief evaluation brief. Do not claim publication while only local staging or unreferenced Git objects exist.
 - Repository visibility must not change without explicit owner approval. Public images here are review artifacts; no original asset redistribution license is granted.
+# Latest review
+
+[M2.1 — crest diversity and terrain-aware composition](WorldGenerator/M21/README.md): six new crest examples, three fields, uneven terrain test, comparisons and short moving-camera sequences. Awaiting visual approval.
+

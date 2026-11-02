@@ -1,0 +1,84 @@
+{
+  "milestone": "M2.1",
+  "date": "2026-11-02",
+  "artifacts": [
+    {
+      "path": "images/fields-aerial.jpg",
+      "kind": "actual Unreal screenshots, labelled comparison only",
+      "dimensions": [
+        1280,
+        784
+      ],
+      "bytes": 72242,
+      "sha256": "c3eda1da5a85add9b7f06dd0b97d75505ef9026724951f41c96ad8f5166da147"
+    },
+    {
+      "path": "images/fields-gameplay.jpg",
+      "kind": "actual Unreal screenshots, labelled comparison only",
+      "dimensions": [
+        1280,
+        784
+      ],
+      "bytes": 111919,
+      "sha256": "dd01064896b566afe74fa578ca0bcdb9546075226d1c129832b5d0b650ac8288"
+    },
+    {
+      "path": "images/six-crest-shapes.jpg",
+      "kind": "actual Unreal screenshots, labelled comparison only",
+      "dimensions": [
+        1920,
+        784
+      ],
+      "bytes": 118716,
+      "sha256": "f33de397851f29ea5413bd7e8ab7b7a2d73082b7dae998859fc1699b464b9e8d"
+    },
+    {
+      "path": "images/fields-neutral.jpg",
+      "kind": "actual Unreal screenshots, labelled comparison only",
+      "dimensions": [
+        1920,
+        392
+      ],
+      "bytes": 37470,
+      "sha256": "368ea925b2b06700668df489e7bc074c161d732456a6cda3457e9b9dcc49d2a7"
+    },
+    {
+      "path": "images/uneven-terrain.jpg",
+      "kind": "actual Unreal screenshots, labelled comparison only",
+      "dimensions": [
+        1280,
+        784
+      ],
+      "bytes": 80575,
+      "sha256": "e3128586aed9030222493c53f2242c9c6a541e950911e5993c8c62bbbe140f4d"
+    },
+    {
+      "path": "images/refinements.jpg",
+      "kind": "actual Unreal screenshots, labelled comparison only",
+      "dimensions": [
+        1280,
+        784
+      ],
+      "bytes": 104925,
+      "sha256": "1cb7cd47766d18a3ee5462327af9964c7cded51d510b60c37c65d6e3e78d872c"
+    },
+    {
+      "path": "videos/G1-flythrough.mp4",
+      "kind": "actual Unreal offline moving-camera frames, 8 seconds, 24fps playback",
+      "bytes": 862327,
+      "sha256": "2dd80ddfb1c68b6a8cbc4b72002eea54b04f02feca969ea30af7f8e254124c67"
+    },
+    {
+      "path": "videos/G2-flythrough.mp4",
+      "kind": "actual Unreal offline moving-camera frames, 8 seconds, 24fps playback",
+      "bytes": 849921,
+      "sha256": "7520960663b71d62201b11368cd4ff4cc3e66702302b7be02ff050e52e3dc09d"
+    },
+    {
+      "path": "videos/G3-flythrough.mp4",
+      "kind": "actual Unreal offline moving-camera frames, 8 seconds, 24fps playback",
+      "bytes": 812355,
+      "sha256": "8c332ae42db50235c0f61f3ecf241c18f79ce7fe2e45be408a5b4ea8cb1498aa"
+    }
+  ]
+}

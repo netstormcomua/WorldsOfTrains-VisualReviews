@@ -1,0 +1,161 @@
+{
+  "milestone": "M2.1",
+  "maps_reopened": 14,
+  "collision_samples": 1176,
+  "max_collision_error_cm": 0.03271450846841617,
+  "regeneration": {
+    "G1C": {
+      "two_rebuilds_identical": true,
+      "duplicate_labels": false,
+      "landscapes": 1,
+      "components": 64,
+      "actors": 14
+    },
+    "T1C": {
+      "two_rebuilds_identical": true,
+      "duplicate_labels": false,
+      "landscapes": 1,
+      "components": 16,
+      "actors": 13
+    }
+  },
+  "protected_files": 305,
+  "changed_files": [],
+  "static_runtime": {
+    "G1C": {
+      "pass": true,
+      "landscapes": 1,
+      "screenshots": 5,
+      "frame_samples": 749,
+      "mean_ms": 16.666909881204724,
+      "p95_ms": 16.667000949382782,
+      "peak_ram_mb": 2633.72265625,
+      "scope": "Editor game DX11; settled static cameras; capture frames excluded; not packaged or moving gameplay"
+    },
+    "G2C": {
+      "pass": true,
+      "landscapes": 1,
+      "screenshots": 5,
+      "frame_samples": 748,
+      "mean_ms": 16.66702526835675,
+      "p95_ms": 16.667000949382782,
+      "peak_ram_mb": 2629.68359375,
+      "scope": "Editor game DX11; settled static cameras; capture frames excluded; not packaged or moving gameplay"
+    },
+    "G3C": {
+      "pass": true,
+      "landscapes": 1,
+      "screenshots": 5,
+      "frame_samples": 751,
+      "mean_ms": 16.666964455427088,
+      "p95_ms": 16.667000949382782,
+      "peak_ram_mb": 2656.25390625,
+      "scope": "Editor game DX11; settled static cameras; capture frames excluded; not packaged or moving gameplay"
+    },
+    "T1C": {
+      "pass": true,
+      "landscapes": 1,
+      "screenshots": 4,
+      "frame_samples": 599,
+      "mean_ms": 16.748057762300828,
+      "p95_ms": 16.681399196386337,
+      "peak_ram_mb": 2653.66796875,
+      "scope": "Editor game DX11; settled static cameras; capture frames excluded; not packaged or moving gameplay"
+    },
+    "S1C": {
+      "pass": true,
+      "landscapes": 1,
+      "screenshots": 4,
+      "frame_samples": 597,
+      "mean_ms": 16.756929313667257,
+      "p95_ms": 17.362799495458603,
+      "peak_ram_mb": 2623.04296875,
+      "scope": "Editor game DX11; settled static cameras; capture frames excluded; not packaged or moving gameplay"
+    },
+    "S2C": {
+      "pass": true,
+      "landscapes": 1,
+      "screenshots": 4,
+      "frame_samples": 600,
+      "mean_ms": 16.670385003089905,
+      "p95_ms": 16.66710153222084,
+      "peak_ram_mb": 2620.77734375,
+      "scope": "Editor game DX11; settled static cameras; capture frames excluded; not packaged or moving gameplay"
+    },
+    "S3C": {
+      "pass": true,
+      "landscapes": 1,
+      "screenshots": 4,
+      "frame_samples": 599,
+      "mean_ms": 16.66688229360047,
+      "p95_ms": 16.667000949382782,
+      "peak_ram_mb": 2639.79296875,
+      "scope": "Editor game DX11; settled static cameras; capture frames excluded; not packaged or moving gameplay"
+    },
+    "S4C": {
+      "pass": true,
+      "landscapes": 1,
+      "screenshots": 4,
+      "frame_samples": 599,
+      "mean_ms": 16.666841744530778,
+      "p95_ms": 16.667000949382782,
+      "peak_ram_mb": 2643.01171875,
+      "scope": "Editor game DX11; settled static cameras; capture frames excluded; not packaged or moving gameplay"
+    },
+    "S5C": {
+      "pass": true,
+      "landscapes": 1,
+      "screenshots": 4,
+      "frame_samples": 599,
+      "mean_ms": 16.666887138343615,
+      "p95_ms": 16.667000949382782,
+      "peak_ram_mb": 2661.1328125,
+      "scope": "Editor game DX11; settled static cameras; capture frames excluded; not packaged or moving gameplay"
+    },
+    "S6C": {
+      "pass": true,
+      "landscapes": 1,
+      "screenshots": 4,
+      "frame_samples": 602,
+      "mean_ms": 16.666843688913755,
+      "p95_ms": 16.667000949382782,
+      "peak_ram_mb": 2635.25390625,
+      "scope": "Editor game DX11; settled static cameras; capture frames excluded; not packaged or moving gameplay"
+    }
+  },
+  "scope": "Editor Game DX11, static camera cap60; no packaged/railway/streaming test",
+  "artistic_approval": false,
+  "motion": {
+    "G1": {
+      "pass": true,
+      "frames": 192,
+      "fps": 24,
+      "collision_checks": 192,
+      "minimum_clearance_cm": 449.6750525852344,
+      "p95_capture_tick_ms": 166.91629028320312,
+      "peak_ram_mb": 2635.22265625,
+      "scope": "Offline sampled moving camera, 24fps playback. Capture timings include screenshot overhead; not gameplay benchmark."
+    },
+    "G2": {
+      "pass": true,
+      "frames": 192,
+      "fps": 24,
+      "collision_checks": 192,
+      "minimum_clearance_cm": 449.28717704643395,
+      "p95_capture_tick_ms": 185.27061462402344,
+      "peak_ram_mb": 2621.0703125,
+      "scope": "Offline sampled moving camera, 24fps playback. Capture timings include screenshot overhead; not gameplay benchmark."
+    },
+    "G3": {
+      "pass": true,
+      "frames": 192,
+      "fps": 24,
+      "collision_checks": 192,
+      "minimum_clearance_cm": 447.3219943569952,
+      "p95_capture_tick_ms": 195.4774932861328,
+      "peak_ram_mb": 2645.10546875,
+      "scope": "Offline sampled moving camera, 24fps playback. Capture timings include screenshot overhead; not gameplay benchmark."
+    }
+  },
+  "initial_capture_performance_note": "Initial G1/G2/T1 static passes measured p95 103.7/115.3/164.9 ms; later capture results are reported separately. Cause not isolated; no stable real-time performance claim."
+}
