@@ -1,0 +1,38 @@
+{
+  "stage": "M2",
+  "technical_pass": true,
+  "artistic_approval": false,
+  "maps": 17,
+  "single_shapes": 6,
+  "pair_tests": 1,
+  "field_layouts": 3,
+  "dunes_per_field": 14,
+  "field_size_m": 504,
+  "actual_screenshots": 50,
+  "all_images_unique": true,
+  "collision_probes": 751,
+  "max_collision_error_cm": 0.025505216677629505,
+  "protected_files": 239,
+  "p95_ms_range": [
+    16.666900366544724,
+    16.66710153222084
+  ],
+  "peak_ram_mib_range": [
+    2581.16015625,
+    2661.4765625
+  ],
+  "runtime_scope": "DX11 Editor game; cap60; settled static cameras only, not moving train or packaged benchmark",
+  "recommended_layout": "F1 revision 2",
+  "stop": "Await Anton visual approval; no full biome or Railway",
+  "visual_review": {
+    "final_images_inspected": 50,
+    "method": "Actual Unreal PNGs plus labelled contact sheets; full-size selected views",
+    "remaining": [
+      "Regular crescent motif",
+      "Sparse near foreground",
+      "1m shadow stepping",
+      "Flat studio horizon",
+      "Regular close-up ripples"
+    ]
+  }
+}

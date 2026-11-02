@@ -1,0 +1,2116 @@
+{
+  "milestone": "M2",
+  "generator_version": "M2 reviewed 2026-11-01; F1 revision 2",
+  "units": "metres, degrees",
+  "note": "Curated composition anchors with deterministic seeded variation; not a full biome planner.",
+  "cases": {
+    "S1": {
+      "samples": 253,
+      "size_m": 252,
+      "name": "Broad crescent",
+      "instances": [
+        {
+          "id": "d00",
+          "preset": "S1",
+          "center": [
+            0,
+            0
+          ],
+          "parameters": {
+            "height": 15,
+            "length": 74,
+            "width": 174,
+            "wind_deg": 12.0,
+            "crest_position": -13.0,
+            "crest_curvature": 7,
+            "horn_length": 67,
+            "horn_curvature": 1.0,
+            "horn_asymmetry": 0.08,
+            "windward_shape": 2.25,
+            "leeward_shape": 0.22,
+            "lee_slope_deg": 31.0,
+            "end_taper": 1.15,
+            "smoothness": 2,
+            "crest_variation": 0.45,
+            "seed": 17,
+            "name": "Broad crescent"
+          }
+        }
+      ],
+      "cameras": {
+        "01_overview": {
+          "position": [
+            0,
+            0,
+            365
+          ],
+          "target": [
+            0,
+            0,
+            0
+          ],
+          "fov": 61
+        },
+        "02_gameplay": {
+          "position": [
+            115,
+            -105,
+            4.5
+          ],
+          "target": [
+            0,
+            0,
+            6
+          ],
+          "fov": 68
+        },
+        "03_profile": {
+          "position": [
+            -5,
+            -220,
+            19
+          ],
+          "target": [
+            -5,
+            0,
+            7
+          ],
+          "fov": 60
+        },
+        "04_crest": {
+          "position": [
+            180,
+            45,
+            80
+          ],
+          "target": [
+            0,
+            0,
+            7
+          ],
+          "fov": 68
+        }
+      },
+      "seed": 17,
+      "max_height_m": 15.0,
+      "max_slope_deg": 30.7705935623376,
+      "sha256": "88f44ecafbe1ac097dee0381c30455bf63d49991e82acdeb275574eeddba9852",
+      "repeat_and_reorder_identical": true,
+      "generation_seconds": 0.05336140000144951,
+      "nonzero_fraction": 0.19083253917417864,
+      "merge_band_m": 1.8,
+      "grid_spacing_m": 1.0,
+      "encoding_height_units_per_m": 512
+    },
+    "S2": {
+      "samples": 253,
+      "size_m": 252,
+      "name": "Long flowing ridge",
+      "instances": [
+        {
+          "id": "d00",
+          "preset": "S2",
+          "center": [
+            0,
+            0
+          ],
+          "parameters": {
+            "height": 13,
+            "length": 56,
+            "width": 212,
+            "wind_deg": 12.0,
+            "crest_position": 0,
+            "crest_curvature": 12,
+            "horn_length": 13,
+            "horn_curvature": 1.7,
+            "horn_asymmetry": 0.08,
+            "windward_shape": 2.55,
+            "leeward_shape": 0.36,
+            "lee_slope_deg": 31.0,
+            "end_taper": 0.92,
+            "smoothness": 2,
+            "crest_variation": 0.45,
+            "seed": 17,
+            "name": "Long flowing ridge"
+          }
+        }
+      ],
+      "cameras": {
+        "01_overview": {
+          "position": [
+            0,
+            0,
+            365
+          ],
+          "target": [
+            0,
+            0,
+            0
+          ],
+          "fov": 61
+        },
+        "02_gameplay": {
+          "position": [
+            115,
+            -105,
+            4.5
+          ],
+          "target": [
+            0,
+            0,
+            6
+          ],
+          "fov": 68
+        },
+        "03_profile": {
+          "position": [
+            -5,
+            -220,
+            19
+          ],
+          "target": [
+            -5,
+            0,
+            7
+          ],
+          "fov": 60
+        },
+        "04_crest": {
+          "position": [
+            180,
+            45,
+            80
+          ],
+          "target": [
+            0,
+            0,
+            7
+          ],
+          "fov": 68
+        }
+      },
+      "seed": 17,
+      "max_height_m": 13.0,
+      "max_slope_deg": 32.875804032489185,
+      "sha256": "993567773c4cd23353f7446897a334840a897a67ecd90b04ced4055f4f14d558",
+      "repeat_and_reorder_identical": true,
+      "generation_seconds": 0.04264080000575632,
+      "nonzero_fraction": 0.18259932197034792,
+      "merge_band_m": 1.8,
+      "grid_spacing_m": 1.0,
+      "encoding_height_units_per_m": 512
+    },
+    "S3": {
+      "samples": 253,
+      "size_m": 252,
+      "name": "Compact barchan",
+      "instances": [
+        {
+          "id": "d00",
+          "preset": "S3",
+          "center": [
+            0,
+            0
+          ],
+          "parameters": {
+            "height": 17,
+            "length": 62,
+            "width": 112,
+            "wind_deg": 12.0,
+            "crest_position": -9,
+            "crest_curvature": 0.0,
+            "horn_length": 57,
+            "horn_curvature": 0.9,
+            "horn_asymmetry": 0.08,
+            "windward_shape": 2.25,
+            "leeward_shape": 0.22,
+            "lee_slope_deg": 31.0,
+            "end_taper": 1.45,
+            "smoothness": 2,
+            "crest_variation": 0.45,
+            "seed": 17,
+            "name": "Compact barchan"
+          }
+        }
+      ],
+      "cameras": {
+        "01_overview": {
+          "position": [
+            0,
+            0,
+            365
+          ],
+          "target": [
+            0,
+            0,
+            0
+          ],
+          "fov": 61
+        },
+        "02_gameplay": {
+          "position": [
+            115,
+            -105,
+            4.5
+          ],
+          "target": [
+            0,
+            0,
+            6
+          ],
+          "fov": 68
+        },
+        "03_profile": {
+          "position": [
+            -5,
+            -220,
+            19
+          ],
+          "target": [
+            -5,
+            0,
+            7
+          ],
+          "fov": 60
+        },
+        "04_crest": {
+          "position": [
+            180,
+            45,
+            80
+          ],
+          "target": [
+            0,
+            0,
+            7
+          ],
+          "fov": 68
+        }
+      },
+      "seed": 17,
+      "max_height_m": 17.0,
+      "max_slope_deg": 32.04876842991305,
+      "sha256": "7f6072fbc3a11d5ac693869bf7a3117a707ef1b13fea94c63d3b94cd58e6f214",
+      "repeat_and_reorder_identical": true,
+      "generation_seconds": 0.041620400006650016,
+      "nonzero_fraction": 0.11037510350107016,
+      "merge_band_m": 1.8,
+      "grid_spacing_m": 1.0,
+      "encoding_height_units_per_m": 512
+    },
+    "S4": {
+      "samples": 253,
+      "size_m": 252,
+      "name": "Unequal crescent",
+      "instances": [
+        {
+          "id": "d00",
+          "preset": "S4",
+          "center": [
+            0,
+            0
+          ],
+          "parameters": {
+            "height": 16,
+            "length": 76,
+            "width": 146,
+            "wind_deg": 12.0,
+            "crest_position": -13.0,
+            "crest_curvature": 4,
+            "horn_length": 73,
+            "horn_curvature": 1.15,
+            "horn_asymmetry": 0.26,
+            "windward_shape": 2.25,
+            "leeward_shape": 0.22,
+            "lee_slope_deg": 31.0,
+            "end_taper": 1.45,
+            "smoothness": 2,
+            "crest_variation": 0.45,
+            "seed": 17,
+            "name": "Unequal crescent"
+          }
+        }
+      ],
+      "cameras": {
+        "01_overview": {
+          "position": [
+            0,
+            0,
+            365
+          ],
+          "target": [
+            0,
+            0,
+            0
+          ],
+          "fov": 61
+        },
+        "02_gameplay": {
+          "position": [
+            115,
+            -105,
+            4.5
+          ],
+          "target": [
+            0,
+            0,
+            6
+          ],
+          "fov": 68
+        },
+        "03_profile": {
+          "position": [
+            -5,
+            -220,
+            19
+          ],
+          "target": [
+            -5,
+            0,
+            7
+          ],
+          "fov": 60
+        },
+        "04_crest": {
+          "position": [
+            180,
+            45,
+            80
+          ],
+          "target": [
+            0,
+            0,
+            7
+          ],
+          "fov": 68
+        }
+      },
+      "seed": 17,
+      "max_height_m": 16.0,
+      "max_slope_deg": 30.800476721731474,
+      "sha256": "e9cad34d365e4b3c1ece42953c460e864ca5da0ae87e7c2381a31b0fc4ea3b61",
+      "repeat_and_reorder_identical": true,
+      "generation_seconds": 0.04082860000198707,
+      "nonzero_fraction": 0.16160227468012311,
+      "merge_band_m": 1.8,
+      "grid_spacing_m": 1.0,
+      "encoding_height_units_per_m": 512
+    },
+    "S5": {
+      "samples": 253,
+      "size_m": 252,
+      "name": "Broad low dune",
+      "instances": [
+        {
+          "id": "d00",
+          "preset": "S5",
+          "center": [
+            0,
+            0
+          ],
+          "parameters": {
+            "height": 7,
+            "length": 86,
+            "width": 198,
+            "wind_deg": 12.0,
+            "crest_position": 4,
+            "crest_curvature": 6,
+            "horn_length": 24,
+            "horn_curvature": 1.0,
+            "horn_asymmetry": 0.08,
+            "windward_shape": 2.65,
+            "leeward_shape": 0.44,
+            "lee_slope_deg": 25,
+            "end_taper": 1.1,
+            "smoothness": 3,
+            "crest_variation": 0.45,
+            "seed": 17,
+            "name": "Broad low dune"
+          }
+        }
+      ],
+      "cameras": {
+        "01_overview": {
+          "position": [
+            0,
+            0,
+            365
+          ],
+          "target": [
+            0,
+            0,
+            0
+          ],
+          "fov": 61
+        },
+        "02_gameplay": {
+          "position": [
+            115,
+            -105,
+            4.5
+          ],
+          "target": [
+            0,
+            0,
+            6
+          ],
+          "fov": 68
+        },
+        "03_profile": {
+          "position": [
+            -5,
+            -220,
+            19
+          ],
+          "target": [
+            -5,
+            0,
+            7
+          ],
+          "fov": 60
+        },
+        "04_crest": {
+          "position": [
+            180,
+            45,
+            80
+          ],
+          "target": [
+            0,
+            0,
+            7
+          ],
+          "fov": 68
+        }
+      },
+      "seed": 17,
+      "max_height_m": 7.0,
+      "max_slope_deg": 27.529733346816077,
+      "sha256": "fd8443b40be1ea1a7c9e54a5ed56cef5e837d8a6a775f13603c7d3b896a749d8",
+      "repeat_and_reorder_identical": true,
+      "generation_seconds": 0.04005189999588765,
+      "nonzero_fraction": 0.20665843865706385,
+      "merge_band_m": 1.8,
+      "grid_spacing_m": 1.0,
+      "encoding_height_units_per_m": 512
+    },
+    "S6": {
+      "samples": 253,
+      "size_m": 252,
+      "name": "Long sweeping arms",
+      "instances": [
+        {
+          "id": "d00",
+          "preset": "S6",
+          "center": [
+            0,
+            0
+          ],
+          "parameters": {
+            "height": 14,
+            "length": 65,
+            "width": 162,
+            "wind_deg": 12.0,
+            "crest_position": -27,
+            "crest_curvature": 0.0,
+            "horn_length": 91,
+            "horn_curvature": 0.8,
+            "horn_asymmetry": -0.13,
+            "windward_shape": 2.4,
+            "leeward_shape": 0.28,
+            "lee_slope_deg": 31.0,
+            "end_taper": 1.5,
+            "smoothness": 2,
+            "crest_variation": 0.45,
+            "seed": 17,
+            "name": "Long sweeping arms"
+          }
+        }
+      ],
+      "cameras": {
+        "01_overview": {
+          "position": [
+            0,
+            0,
+            365
+          ],
+          "target": [
+            0,
+            0,
+            0
+          ],
+          "fov": 61
+        },
+        "02_gameplay": {
+          "position": [
+            115,
+            -105,
+            4.5
+          ],
+          "target": [
+            0,
+            0,
+            6
+          ],
+          "fov": 68
+        },
+        "03_profile": {
+          "position": [
+            -5,
+            -220,
+            19
+          ],
+          "target": [
+            -5,
+            0,
+            7
+          ],
+          "fov": 60
+        },
+        "04_crest": {
+          "position": [
+            180,
+            45,
+            80
+          ],
+          "target": [
+            0,
+            0,
+            7
+          ],
+          "fov": 68
+        }
+      },
+      "seed": 17,
+      "max_height_m": 14.0,
+      "max_slope_deg": 31.9039320523906,
+      "sha256": "19237117fcb6a139c8d16a13816adf1e01fd60dd6981f4dfd1e0e723d0fb1b0e",
+      "repeat_and_reorder_identical": true,
+      "generation_seconds": 0.04069050002726726,
+      "nonzero_fraction": 0.15508756581105781,
+      "merge_band_m": 1.8,
+      "grid_spacing_m": 1.0,
+      "encoding_height_units_per_m": 512
+    },
+    "P1": {
+      "samples": 253,
+      "size_m": 252,
+      "name": "Two dunes / smooth union",
+      "instances": [
+        {
+          "id": "d00",
+          "preset": "S1",
+          "center": [
+            -25,
+            -18
+          ],
+          "parameters": {
+            "height": 12.9,
+            "length": 63.64,
+            "width": 149.64,
+            "wind_deg": 12.0,
+            "crest_position": -11.18,
+            "crest_curvature": 6.02,
+            "horn_length": 57.62,
+            "horn_curvature": 1.0,
+            "horn_asymmetry": 0.08,
+            "windward_shape": 2.25,
+            "leeward_shape": 0.22,
+            "lee_slope_deg": 31.0,
+            "end_taper": 1.15,
+            "smoothness": 2,
+            "crest_variation": 0.45,
+            "seed": 17,
+            "name": "Broad crescent"
+          }
+        },
+        {
+          "id": "d01",
+          "preset": "S3",
+          "center": [
+            -8,
+            20
+          ],
+          "parameters": {
+            "height": 13.94,
+            "length": 50.839999999999996,
+            "width": 91.83999999999999,
+            "wind_deg": 16,
+            "crest_position": -7.38,
+            "crest_curvature": 0.0,
+            "horn_length": 46.739999999999995,
+            "horn_curvature": 0.9,
+            "horn_asymmetry": 0.08,
+            "windward_shape": 2.25,
+            "leeward_shape": 0.22,
+            "lee_slope_deg": 31.0,
+            "end_taper": 1.45,
+            "smoothness": 2,
+            "crest_variation": 0.45,
+            "seed": 17,
+            "name": "Compact barchan"
+          }
+        }
+      ],
+      "cameras": {
+        "01_overview": {
+          "position": [
+            0,
+            0,
+            365
+          ],
+          "target": [
+            0,
+            0,
+            0
+          ],
+          "fov": 61
+        },
+        "02_gameplay": {
+          "position": [
+            115,
+            -105,
+            4.5
+          ],
+          "target": [
+            0,
+            0,
+            6
+          ],
+          "fov": 68
+        },
+        "03_profile": {
+          "position": [
+            -5,
+            -220,
+            19
+          ],
+          "target": [
+            -5,
+            0,
+            7
+          ],
+          "fov": 60
+        },
+        "04_crest": {
+          "position": [
+            180,
+            45,
+            80
+          ],
+          "target": [
+            0,
+            0,
+            7
+          ],
+          "fov": 68
+        }
+      },
+      "seed": 17,
+      "max_height_m": 13.940000000000001,
+      "max_slope_deg": 32.09908855010051,
+      "sha256": "1dc7af6daa8f4a8ee3dc67eb9cbe14cb2b7936290c1e24564bc66685998a6515",
+      "repeat_and_reorder_identical": true,
+      "generation_seconds": 0.07389829997555353,
+      "nonzero_fraction": 0.17313190332609477,
+      "merge": {
+        "naive_peak": 17.459858233741258,
+        "merged_peak": 13.940000000000001,
+        "overlap_samples": 2375,
+        "max_uplift_over_max": 0.44997601330438863
+      },
+      "merge_band_m": 1.8,
+      "grid_spacing_m": 1.0,
+      "encoding_height_units_per_m": 512
+    },
+    "F1": {
+      "samples": 505,
+      "size_m": 504,
+      "grid_spacing_m": 1.0,
+      "merge_band_m": 1.8,
+      "encoding_height_units_per_m": 512,
+      "name": "Open braided crescents",
+      "instances": [
+        {
+          "id": "d00",
+          "preset": "S1",
+          "center": [
+            -109.96810553321798,
+            121.98727576757967
+          ],
+          "parameters": {
+            "height": 15.781418261782163,
+            "length": 77.85499675812534,
+            "width": 183.0644518366731,
+            "wind_deg": 13.277894593211766,
+            "crest_position": -13.677229160211208,
+            "crest_curvature": 7.364661855498342,
+            "horn_length": 70.490334902627,
+            "horn_curvature": 1.0,
+            "horn_asymmetry": 0.08,
+            "windward_shape": 2.25,
+            "leeward_shape": 0.22,
+            "lee_slope_deg": 31.0,
+            "end_taper": 1.15,
+            "smoothness": 2,
+            "crest_variation": 0.45,
+            "seed": 6195,
+            "name": "Broad crescent"
+          }
+        },
+        {
+          "id": "d01",
+          "preset": "S2",
+          "center": [
+            -34.82935837450003,
+            -56.90206203193268
+          ],
+          "parameters": {
+            "height": 13.639360749289706,
+            "length": 58.754169381555656,
+            "width": 222.42649837303213,
+            "wind_deg": 18.624475404860515,
+            "crest_position": 0.0,
+            "crest_curvature": 12.590179153190498,
+            "horn_length": 13.639360749289706,
+            "horn_curvature": 1.7,
+            "horn_asymmetry": 0.08,
+            "windward_shape": 2.55,
+            "leeward_shape": 0.36,
+            "lee_slope_deg": 31.0,
+            "end_taper": 0.92,
+            "smoothness": 2,
+            "crest_variation": 0.45,
+            "seed": 2943,
+            "name": "Long flowing ridge"
+          }
+        },
+        {
+          "id": "d02",
+          "preset": "S6",
+          "center": [
+            99.2769421509937,
+            87.53254723793182
+          ],
+          "parameters": {
+            "height": 13.320067688240858,
+            "length": 61.843171409689695,
+            "width": 154.1322118210728,
+            "wind_deg": 11.594847297159799,
+            "crest_position": -25.688701970178798,
+            "crest_curvature": 0.0,
+            "horn_length": 86.58043997356557,
+            "horn_curvature": 0.8,
+            "horn_asymmetry": -0.13,
+            "windward_shape": 2.4,
+            "leeward_shape": 0.28,
+            "lee_slope_deg": 31.0,
+            "end_taper": 1.5,
+            "smoothness": 2,
+            "crest_variation": 0.45,
+            "seed": 5545,
+            "name": "Long sweeping arms"
+          }
+        },
+        {
+          "id": "d03",
+          "preset": "S4",
+          "center": [
+            96.03085533340544,
+            -71.53568439285552
+          ],
+          "parameters": {
+            "height": 16.724347974905466,
+            "length": 79.44065288080097,
+            "width": 152.60967527101238,
+            "wind_deg": 9.965506521008642,
+            "crest_position": -13.58853272961069,
+            "crest_curvature": 4.181086993726367,
+            "horn_length": 76.30483763550619,
+            "horn_curvature": 1.15,
+            "horn_asymmetry": 0.26,
+            "windward_shape": 2.25,
+            "leeward_shape": 0.22,
+            "lee_slope_deg": 31.0,
+            "end_taper": 1.45,
+            "smoothness": 2,
+            "crest_variation": 0.45,
+            "seed": 309,
+            "name": "Unequal crescent"
+          }
+        },
+        {
+          "id": "d04",
+          "preset": "S3",
+          "center": [
+            -152.14160205542254,
+            35.10611871408838
+          ],
+          "parameters": {
+            "height": 11.346519218968405,
+            "length": 41.38142303388477,
+            "width": 74.75353838379183,
+            "wind_deg": 10.193099837944356,
+            "crest_position": -6.006980762983273,
+            "crest_curvature": 0.0,
+            "horn_length": 38.044211498894065,
+            "horn_curvature": 0.9,
+            "horn_asymmetry": 0.08,
+            "windward_shape": 2.25,
+            "leeward_shape": 0.22,
+            "lee_slope_deg": 31.0,
+            "end_taper": 1.45,
+            "smoothness": 2,
+            "crest_variation": 0.45,
+            "seed": 3491,
+            "name": "Compact barchan"
+          }
+        },
+        {
+          "id": "d05",
+          "preset": "S1",
+          "center": [
+            24.773482534909952,
+            154.4541618047548
+          ],
+          "parameters": {
+            "height": 9.455067151656966,
+            "length": 46.644997948174364,
+            "width": 109.67877895922081,
+            "wind_deg": 14.342555967302166,
+            "crest_position": -8.194391531436038,
+            "crest_curvature": 4.4123646707732505,
+            "horn_length": 42.23263327740111,
+            "horn_curvature": 1.0,
+            "horn_asymmetry": 0.08,
+            "windward_shape": 2.25,
+            "leeward_shape": 0.22,
+            "lee_slope_deg": 31.0,
+            "end_taper": 1.15,
+            "smoothness": 2,
+            "crest_variation": 0.45,
+            "seed": 552,
+            "name": "Broad crescent"
+          }
+        },
+        {
+          "id": "d06",
+          "preset": "S5",
+          "center": [
+            21.57782289801903,
+            -130.2363494442856
+          ],
+          "parameters": {
+            "height": 4.554776053922241,
+            "length": 55.95867723390182,
+            "width": 128.83509409665766,
+            "wind_deg": 8.43094445754978,
+            "crest_position": 2.602729173669852,
+            "crest_curvature": 3.904093760504778,
+            "horn_length": 15.616375042019111,
+            "horn_curvature": 1.0,
+            "horn_asymmetry": 0.08,
+            "windward_shape": 2.65,
+            "leeward_shape": 0.44,
+            "lee_slope_deg": 25,
+            "end_taper": 1.1,
+            "smoothness": 3,
+            "crest_variation": 0.45,
+            "seed": 8580,
+            "name": "Broad low dune"
+          }
+        },
+        {
+          "id": "d07",
+          "preset": "S3",
+          "center": [
+            138.99864590431136,
+            158.17090391624646
+          ],
+          "parameters": {
+            "height": 11.824008219207078,
+            "length": 43.122853505343464,
+            "width": 77.89934826771723,
+            "wind_deg": 11.578931323178793,
+            "crest_position": -6.259769057227277,
+            "crest_curvature": 0.0,
+            "horn_length": 39.64520402910609,
+            "horn_curvature": 0.9,
+            "horn_asymmetry": 0.08,
+            "windward_shape": 2.25,
+            "leeward_shape": 0.22,
+            "lee_slope_deg": 31.0,
+            "end_taper": 1.45,
+            "smoothness": 2,
+            "crest_variation": 0.45,
+            "seed": 5675,
+            "name": "Compact barchan"
+          }
+        },
+        {
+          "id": "d08",
+          "preset": "S2",
+          "center": [
+            50.62650762373559,
+            18.0001376385966
+          ],
+          "parameters": {
+            "height": 8.515613584934563,
+            "length": 36.68264313510273,
+            "width": 138.87000615431748,
+            "wind_deg": 10.573930929187782,
+            "crest_position": 0.0,
+            "crest_curvature": 7.860566386093442,
+            "horn_length": 8.515613584934563,
+            "horn_curvature": 1.7,
+            "horn_asymmetry": 0.08,
+            "windward_shape": 2.55,
+            "leeward_shape": 0.36,
+            "lee_slope_deg": 31.0,
+            "end_taper": 0.92,
+            "smoothness": 2,
+            "crest_variation": 0.45,
+            "seed": 2271,
+            "name": "Long flowing ridge"
+          }
+        },
+        {
+          "id": "d09",
+          "preset": "S5",
+          "center": [
+            -80.11151059075456,
+            -148.79368690656761
+          ],
+          "parameters": {
+            "height": 2.808099352278345,
+            "length": 34.4995063279911,
+            "width": 79.42909596444463,
+            "wind_deg": 6.303848391374093,
+            "crest_position": 1.6046282013019115,
+            "crest_curvature": 2.406942301952867,
+            "horn_length": 9.627769207811468,
+            "horn_curvature": 1.0,
+            "horn_asymmetry": 0.08,
+            "windward_shape": 2.65,
+            "leeward_shape": 0.44,
+            "lee_slope_deg": 25,
+            "end_taper": 1.1,
+            "smoothness": 3,
+            "crest_variation": 0.45,
+            "seed": 4620,
+            "name": "Broad low dune"
+          }
+        },
+        {
+          "id": "d10",
+          "preset": "S5",
+          "center": [
+            -8.978443566619838,
+            77.78776947363335
+          ],
+          "parameters": {
+            "height": 2.807664052017418,
+            "length": 34.49415835335685,
+            "width": 79.41678318563554,
+            "wind_deg": 7.5085651488919565,
+            "crest_position": 1.6043794582956674,
+            "crest_curvature": 2.406569187443501,
+            "horn_length": 9.626276749774004,
+            "horn_curvature": 1.0,
+            "horn_asymmetry": 0.08,
+            "windward_shape": 2.65,
+            "leeward_shape": 0.44,
+            "lee_slope_deg": 25,
+            "end_taper": 1.1,
+            "smoothness": 3,
+            "crest_variation": 0.45,
+            "seed": 3829,
+            "name": "Broad low dune"
+          }
+        },
+        {
+          "id": "d11",
+          "preset": "S6",
+          "center": [
+            181.52771597506927,
+            9.414797873761971
+          ],
+          "parameters": {
+            "height": 6.046287342656626,
+            "length": 28.072048376620053,
+            "width": 69.96418210788381,
+            "wind_deg": 15.84338235660692,
+            "crest_position": -11.660697017980636,
+            "crest_curvature": 0.0,
+            "horn_length": 39.30086772726807,
+            "horn_curvature": 0.8,
+            "horn_asymmetry": -0.13,
+            "windward_shape": 2.4,
+            "leeward_shape": 0.28,
+            "lee_slope_deg": 31.0,
+            "end_taper": 1.5,
+            "smoothness": 2,
+            "crest_variation": 0.45,
+            "seed": 5684,
+            "name": "Long sweeping arms"
+          }
+        },
+        {
+          "id": "d12",
+          "preset": "S5",
+          "center": [
+            -182.97550733845645,
+            156.7242466099424
+          ],
+          "parameters": {
+            "height": 2.783904466724997,
+            "length": 34.20225487690711,
+            "width": 78.74472634450707,
+            "wind_deg": 5.663359129047146,
+            "crest_position": 1.5908025524142841,
+            "crest_curvature": 2.386203828621426,
+            "horn_length": 9.544815314485705,
+            "horn_curvature": 1.0,
+            "horn_asymmetry": 0.08,
+            "windward_shape": 2.65,
+            "leeward_shape": 0.44,
+            "lee_slope_deg": 25,
+            "end_taper": 1.1,
+            "smoothness": 3,
+            "crest_variation": 0.45,
+            "seed": 9243,
+            "name": "Broad low dune"
+          }
+        },
+        {
+          "id": "d13",
+          "preset": "S5",
+          "center": [
+            57.453481910679336,
+            -186.646109102508
+          ],
+          "parameters": {
+            "height": 2.834845002927671,
+            "length": 34.82809575025425,
+            "width": 80.18561579709699,
+            "wind_deg": 5.860518281020872,
+            "crest_position": 1.6199114302443836,
+            "crest_curvature": 2.4298671453665754,
+            "horn_length": 9.719468581466302,
+            "horn_curvature": 1.0,
+            "horn_asymmetry": 0.08,
+            "windward_shape": 2.65,
+            "leeward_shape": 0.44,
+            "lee_slope_deg": 25,
+            "end_taper": 1.1,
+            "smoothness": 3,
+            "crest_variation": 0.45,
+            "seed": 9076,
+            "name": "Broad low dune"
+          }
+        }
+      ],
+      "cameras": {
+        "01_aerial": {
+          "position": [
+            0,
+            0,
+            800
+          ],
+          "target": [
+            0,
+            0,
+            0
+          ],
+          "fov": 62
+        },
+        "02_overview": {
+          "position": [
+            430,
+            -480,
+            350
+          ],
+          "target": [
+            0,
+            0,
+            6
+          ],
+          "fov": 60
+        },
+        "03_gameplay": {
+          "position": [
+            185,
+            -210,
+            4.5
+          ],
+          "target": [
+            30,
+            20,
+            9
+          ],
+          "fov": 75
+        },
+        "04_across": {
+          "position": [
+            -15,
+            -265,
+            22
+          ],
+          "target": [
+            -15,
+            40,
+            10
+          ],
+          "fov": 76
+        },
+        "05_flow": {
+          "position": [
+            -265,
+            -40,
+            26
+          ],
+          "target": [
+            130,
+            40,
+            10
+          ],
+          "fov": 72
+        }
+      },
+      "seed": 6195,
+      "max_height_m": 16.724347974905466,
+      "max_slope_deg": 32.92695902142685,
+      "sha256": "e2d823b1889f9bb80d83cf07b4409bd98081afb3441019c9b2127aa97ce92d2e",
+      "repeat_and_reorder_identical": true,
+      "generation_seconds": 3.1373436999856494,
+      "nonzero_fraction": 0.27976865013234,
+      "layout_seed": 101
+    },
+    "F2": {
+      "samples": 505,
+      "size_m": 504,
+      "name": "Flowing diagonal ridges",
+      "instances": [
+        {
+          "id": "d00",
+          "preset": "S2",
+          "center": [
+            -112.56857046292922,
+            122.20019368989887
+          ],
+          "parameters": {
+            "height": 13.111915000026215,
+            "length": 56.48209538472831,
+            "width": 213.82507538504288,
+            "wind_deg": 17.644547763507994,
+            "crest_position": 0.0,
+            "crest_curvature": 12.103306153870353,
+            "horn_length": 13.111915000026215,
+            "horn_curvature": 1.7,
+            "horn_asymmetry": 0.08,
+            "windward_shape": 2.55,
+            "leeward_shape": 0.36,
+            "lee_slope_deg": 31.0,
+            "end_taper": 0.92,
+            "smoothness": 2,
+            "crest_variation": 0.45,
+            "seed": 3127,
+            "name": "Long flowing ridge"
+          }
+        },
+        {
+          "id": "d01",
+          "preset": "S6",
+          "center": [
+            -18.772542753988482,
+            64.70188725964121
+          ],
+          "parameters": {
+            "height": 13.115265118193372,
+            "length": 60.89230233446923,
+            "width": 151.7623535105233,
+            "wind_deg": 8.478022286567484,
+            "crest_position": -25.29372558508722,
+            "crest_curvature": 0.0,
+            "horn_length": 85.24922326825693,
+            "horn_curvature": 0.8,
+            "horn_asymmetry": -0.13,
+            "windward_shape": 2.4,
+            "leeward_shape": 0.28,
+            "lee_slope_deg": 31.0,
+            "end_taper": 1.5,
+            "smoothness": 2,
+            "crest_variation": 0.45,
+            "seed": 2323,
+            "name": "Long sweeping arms"
+          }
+        },
+        {
+          "id": "d02",
+          "preset": "S2",
+          "center": [
+            86.31188238871498,
+            5.69574029637873
+          ],
+          "parameters": {
+            "height": 11.99867604353032,
+            "length": 51.68660449520754,
+            "width": 195.67071701757138,
+            "wind_deg": 11.365555300435485,
+            "crest_position": 0.0,
+            "crest_curvature": 11.075700963258758,
+            "horn_length": 11.99867604353032,
+            "horn_curvature": 1.7,
+            "horn_asymmetry": 0.08,
+            "windward_shape": 2.55,
+            "leeward_shape": 0.36,
+            "lee_slope_deg": 31.0,
+            "end_taper": 0.92,
+            "smoothness": 2,
+            "crest_variation": 0.45,
+            "seed": 3957,
+            "name": "Long flowing ridge"
+          }
+        },
+        {
+          "id": "d03",
+          "preset": "S6",
+          "center": [
+            156.18032015714218,
+            -94.16733069446123
+          ],
+          "parameters": {
+            "height": 14.513934411410961,
+            "length": 67.38612405297947,
+            "width": 167.9469553320411,
+            "wind_deg": 14.506892407572112,
+            "crest_position": -27.991159222006853,
+            "crest_curvature": 0.0,
+            "horn_length": 94.34057367417125,
+            "horn_curvature": 0.8,
+            "horn_asymmetry": -0.13,
+            "windward_shape": 2.4,
+            "leeward_shape": 0.28,
+            "lee_slope_deg": 31.0,
+            "end_taper": 1.5,
+            "smoothness": 2,
+            "crest_variation": 0.45,
+            "seed": 971,
+            "name": "Long sweeping arms"
+          }
+        },
+        {
+          "id": "d04",
+          "preset": "S3",
+          "center": [
+            -154.91099438803124,
+            7.91186461691702
+          ],
+          "parameters": {
+            "height": 11.650584219745394,
+            "length": 42.49036597789496,
+            "width": 76.7567901536167,
+            "wind_deg": 6.023084165683414,
+            "crest_position": -6.167956351629914,
+            "crest_curvature": 0.0,
+            "horn_length": 39.063723560322785,
+            "horn_curvature": 0.9,
+            "horn_asymmetry": 0.08,
+            "windward_shape": 2.25,
+            "leeward_shape": 0.22,
+            "lee_slope_deg": 31.0,
+            "end_taper": 1.45,
+            "smoothness": 2,
+            "crest_variation": 0.45,
+            "seed": 2011,
+            "name": "Compact barchan"
+          }
+        },
+        {
+          "id": "d05",
+          "preset": "S1",
+          "center": [
+            -70.19418915081432,
+            -86.75580585449617
+          ],
+          "parameters": {
+            "height": 10.004782565078125,
+            "length": 49.35692732105208,
+            "width": 116.05547775490625,
+            "wind_deg": 18.307166239947534,
+            "crest_position": -8.670811556401041,
+            "crest_curvature": 4.668898530369791,
+            "horn_length": 44.68802879068229,
+            "horn_curvature": 1.0,
+            "horn_asymmetry": 0.08,
+            "windward_shape": 2.25,
+            "leeward_shape": 0.22,
+            "lee_slope_deg": 31.0,
+            "end_taper": 1.15,
+            "smoothness": 2,
+            "crest_variation": 0.45,
+            "seed": 7051,
+            "name": "Broad crescent"
+          }
+        },
+        {
+          "id": "d06",
+          "preset": "S5",
+          "center": [
+            36.19193284138827,
+            -148.3496307457199
+          ],
+          "parameters": {
+            "height": 4.557553633944403,
+            "length": 55.992801788459815,
+            "width": 128.91365993157027,
+            "wind_deg": 6.342049590402226,
+            "crest_position": 2.604316362253945,
+            "crest_curvature": 3.9064745433809174,
+            "horn_length": 15.62589817352367,
+            "horn_curvature": 1.0,
+            "horn_asymmetry": 0.08,
+            "windward_shape": 2.65,
+            "leeward_shape": 0.44,
+            "lee_slope_deg": 25,
+            "end_taper": 1.1,
+            "smoothness": 3,
+            "crest_variation": 0.45,
+            "seed": 3809,
+            "name": "Broad low dune"
+          }
+        },
+        {
+          "id": "d07",
+          "preset": "S3",
+          "center": [
+            116.46327709381416,
+            156.0820761414356
+          ],
+          "parameters": {
+            "height": 10.512242514818933,
+            "length": 38.3387668187514,
+            "width": 69.25712715645415,
+            "wind_deg": 7.1122428304595,
+            "crest_position": -5.565304860786494,
+            "crest_curvature": 0.0,
+            "horn_length": 35.24693078498113,
+            "horn_curvature": 0.9,
+            "horn_asymmetry": 0.08,
+            "windward_shape": 2.25,
+            "leeward_shape": 0.22,
+            "lee_slope_deg": 31.0,
+            "end_taper": 1.45,
+            "smoothness": 2,
+            "crest_variation": 0.45,
+            "seed": 6693,
+            "name": "Compact barchan"
+          }
+        },
+        {
+          "id": "d08",
+          "preset": "S2",
+          "center": [
+            -43.339523678940616,
+            170.46088306692081
+          ],
+          "parameters": {
+            "height": 8.691378089344747,
+            "length": 37.43978253871583,
+            "width": 141.73631961085277,
+            "wind_deg": 13.721018484185578,
+            "crest_position": 0.0,
+            "crest_curvature": 8.022810544010536,
+            "horn_length": 8.691378089344747,
+            "horn_curvature": 1.7,
+            "horn_asymmetry": 0.08,
+            "windward_shape": 2.55,
+            "leeward_shape": 0.36,
+            "lee_slope_deg": 31.0,
+            "end_taper": 0.92,
+            "smoothness": 2,
+            "crest_variation": 0.45,
+            "seed": 8241,
+            "name": "Long flowing ridge"
+          }
+        },
+        {
+          "id": "d09",
+          "preset": "S3",
+          "center": [
+            164.14469455746533,
+            68.95574851090844
+          ],
+          "parameters": {
+            "height": 7.441283036131498,
+            "length": 27.13879695530311,
+            "width": 49.02492353216046,
+            "wind_deg": 17.561683276335405,
+            "crest_position": -3.939502783834323,
+            "crest_curvature": 0.0,
+            "horn_length": 24.950184297617376,
+            "horn_curvature": 0.9,
+            "horn_asymmetry": 0.08,
+            "windward_shape": 2.25,
+            "leeward_shape": 0.22,
+            "lee_slope_deg": 31.0,
+            "end_taper": 1.45,
+            "smoothness": 2,
+            "crest_variation": 0.45,
+            "seed": 7149,
+            "name": "Compact barchan"
+          }
+        },
+        {
+          "id": "d10",
+          "preset": "S5",
+          "center": [
+            -155.99949902975678,
+            -143.99655374799033
+          ],
+          "parameters": {
+            "height": 3.047706622261115,
+            "length": 37.443252787779414,
+            "width": 86.20655874395726,
+            "wind_deg": 9.094375341342825,
+            "crest_position": 1.7415466412920657,
+            "crest_curvature": 2.6123199619380983,
+            "horn_length": 10.449279847752393,
+            "horn_curvature": 1.0,
+            "horn_asymmetry": 0.08,
+            "windward_shape": 2.65,
+            "leeward_shape": 0.44,
+            "lee_slope_deg": 25,
+            "end_taper": 1.1,
+            "smoothness": 3,
+            "crest_variation": 0.45,
+            "seed": 9176,
+            "name": "Broad low dune"
+          }
+        },
+        {
+          "id": "d11",
+          "preset": "S6",
+          "center": [
+            -4.612571243298383,
+            -20.79201528208155
+          ],
+          "parameters": {
+            "height": 5.975337700601134,
+            "length": 27.742639324219553,
+            "width": 69.14319339267027,
+            "wind_deg": 18.429598722130557,
+            "crest_position": -11.523865565445044,
+            "crest_curvature": 0.0,
+            "horn_length": 38.83969505390737,
+            "horn_curvature": 0.8,
+            "horn_asymmetry": -0.13,
+            "windward_shape": 2.4,
+            "leeward_shape": 0.28,
+            "lee_slope_deg": 31.0,
+            "end_taper": 1.5,
+            "smoothness": 2,
+            "crest_variation": 0.45,
+            "seed": 6619,
+            "name": "Long sweeping arms"
+          }
+        },
+        {
+          "id": "d12",
+          "preset": "S3",
+          "center": [
+            75.20612524621083,
+            91.59266318268213
+          ],
+          "parameters": {
+            "height": 6.776026274369571,
+            "length": 24.712566412406673,
+            "width": 44.64205545467012,
+            "wind_deg": 15.166577289317493,
+            "crest_position": -3.58730802760742,
+            "crest_curvature": 0.0,
+            "horn_length": 22.719617508180328,
+            "horn_curvature": 0.9,
+            "horn_asymmetry": 0.08,
+            "windward_shape": 2.25,
+            "leeward_shape": 0.22,
+            "lee_slope_deg": 31.0,
+            "end_taper": 1.45,
+            "smoothness": 2,
+            "crest_variation": 0.45,
+            "seed": 3793,
+            "name": "Compact barchan"
+          }
+        },
+        {
+          "id": "d13",
+          "preset": "S1",
+          "center": [
+            -104.46464627029401,
+            63.47925353825393
+          ],
+          "parameters": {
+            "height": 6.280474873459642,
+            "length": 30.9836760424009,
+            "width": 72.85350853213184,
+            "wind_deg": 14.813343789369744,
+            "crest_position": -5.443078223665023,
+            "crest_curvature": 2.930888274281166,
+            "horn_length": 28.052787768119735,
+            "horn_curvature": 1.0,
+            "horn_asymmetry": 0.08,
+            "windward_shape": 2.25,
+            "leeward_shape": 0.22,
+            "lee_slope_deg": 31.0,
+            "end_taper": 1.15,
+            "smoothness": 2,
+            "crest_variation": 0.45,
+            "seed": 2192,
+            "name": "Broad crescent"
+          }
+        }
+      ],
+      "cameras": {
+        "01_aerial": {
+          "position": [
+            0,
+            0,
+            800
+          ],
+          "target": [
+            0,
+            0,
+            0
+          ],
+          "fov": 62
+        },
+        "02_overview": {
+          "position": [
+            430,
+            -480,
+            350
+          ],
+          "target": [
+            0,
+            0,
+            6
+          ],
+          "fov": 60
+        },
+        "03_gameplay": {
+          "position": [
+            185,
+            -210,
+            4.5
+          ],
+          "target": [
+            30,
+            20,
+            9
+          ],
+          "fov": 75
+        },
+        "04_across": {
+          "position": [
+            -15,
+            -265,
+            22
+          ],
+          "target": [
+            -15,
+            40,
+            10
+          ],
+          "fov": 76
+        },
+        "05_flow": {
+          "position": [
+            -265,
+            -40,
+            26
+          ],
+          "target": [
+            130,
+            40,
+            10
+          ],
+          "fov": 72
+        }
+      },
+      "seed": 3127,
+      "max_height_m": 14.513934411410961,
+      "max_slope_deg": 32.92555662314067,
+      "sha256": "9153a8cca7ecadedada8ea2ac8cd7cab1b82a57234522b3d3d1da5af3e624ab2",
+      "repeat_and_reorder_identical": true,
+      "generation_seconds": 3.286772999999812,
+      "nonzero_fraction": 0.2566846387609058,
+      "layout_seed": 307,
+      "merge_band_m": 1.8,
+      "grid_spacing_m": 1.0,
+      "encoding_height_units_per_m": 512
+    },
+    "F3": {
+      "samples": 505,
+      "size_m": 504,
+      "name": "Broad basin and shoulders",
+      "instances": [
+        {
+          "id": "d00",
+          "preset": "S1",
+          "center": [
+            -120.75572903151159,
+            100.42967936697612
+          ],
+          "parameters": {
+            "height": 15.274575209814943,
+            "length": 75.35457103508705,
+            "width": 177.18507243385332,
+            "wind_deg": 8.529114153653254,
+            "crest_position": -13.237965181839616,
+            "crest_curvature": 7.12813509791364,
+            "horn_length": 68.2264359371734,
+            "horn_curvature": 1.0,
+            "horn_asymmetry": 0.08,
+            "windward_shape": 2.25,
+            "leeward_shape": 0.22,
+            "lee_slope_deg": 31.0,
+            "end_taper": 1.15,
+            "smoothness": 2,
+            "crest_variation": 0.45,
+            "seed": 613,
+            "name": "Broad crescent"
+          }
+        },
+        {
+          "id": "d01",
+          "preset": "S5",
+          "center": [
+            100.33052146603771,
+            116.75959513165432
+          ],
+          "parameters": {
+            "height": 7.264720583173096,
+            "length": 89.25228145041231,
+            "width": 205.48781078118185,
+            "wind_deg": 13.189815888779494,
+            "crest_position": 4.15126890467034,
+            "crest_curvature": 6.226903357005511,
+            "horn_length": 24.907613428022042,
+            "horn_curvature": 1.0,
+            "horn_asymmetry": 0.08,
+            "windward_shape": 2.65,
+            "leeward_shape": 0.44,
+            "lee_slope_deg": 25,
+            "end_taper": 1.1,
+            "smoothness": 3,
+            "crest_variation": 0.45,
+            "seed": 411,
+            "name": "Broad low dune"
+          }
+        },
+        {
+          "id": "d02",
+          "preset": "S1",
+          "center": [
+            -76.33826226018154,
+            -98.33586062794889
+          ],
+          "parameters": {
+            "height": 15.40086947882186,
+            "length": 75.97762276218785,
+            "width": 178.65008595433358,
+            "wind_deg": 10.871496151372797,
+            "crest_position": -13.347420214978946,
+            "crest_curvature": 7.187072423450202,
+            "horn_length": 68.79055033873765,
+            "horn_curvature": 1.0,
+            "horn_asymmetry": 0.08,
+            "windward_shape": 2.25,
+            "leeward_shape": 0.22,
+            "lee_slope_deg": 31.0,
+            "end_taper": 1.15,
+            "smoothness": 2,
+            "crest_variation": 0.45,
+            "seed": 5306,
+            "name": "Broad crescent"
+          }
+        },
+        {
+          "id": "d03",
+          "preset": "S5",
+          "center": [
+            135.614037435687,
+            -86.75425517286979
+          ],
+          "parameters": {
+            "height": 6.896647452609413,
+            "length": 84.7302401320585,
+            "width": 195.0765993738091,
+            "wind_deg": 13.645098108195171,
+            "crest_position": 3.940941401491093,
+            "crest_curvature": 5.911412102236639,
+            "horn_length": 23.645648408946556,
+            "horn_curvature": 1.0,
+            "horn_asymmetry": 0.08,
+            "windward_shape": 2.65,
+            "leeward_shape": 0.44,
+            "lee_slope_deg": 25,
+            "end_taper": 1.1,
+            "smoothness": 3,
+            "crest_variation": 0.45,
+            "seed": 7276,
+            "name": "Broad low dune"
+          }
+        },
+        {
+          "id": "d04",
+          "preset": "S3",
+          "center": [
+            -153.62999378714775,
+            4.007413888570968
+          ],
+          "parameters": {
+            "height": 10.763397752189967,
+            "length": 39.25474474328106,
+            "width": 70.91179695560449,
+            "wind_deg": 9.479978147775437,
+            "crest_position": -5.698269398218218,
+            "crest_curvature": 0.0,
+            "horn_length": 36.089039522048715,
+            "horn_curvature": 0.9,
+            "horn_asymmetry": 0.08,
+            "windward_shape": 2.25,
+            "leeward_shape": 0.22,
+            "lee_slope_deg": 31.0,
+            "end_taper": 1.45,
+            "smoothness": 2,
+            "crest_variation": 0.45,
+            "seed": 3048,
+            "name": "Compact barchan"
+          }
+        },
+        {
+          "id": "d05",
+          "preset": "S1",
+          "center": [
+            -34.92194924751053,
+            145.70543590158303
+          ],
+          "parameters": {
+            "height": 9.448004075213198,
+            "length": 46.610153437718445,
+            "width": 109.59684727247311,
+            "wind_deg": 13.337187760220967,
+            "crest_position": -8.188270198518106,
+            "crest_curvature": 4.409068568432826,
+            "horn_length": 42.20108486928562,
+            "horn_curvature": 1.0,
+            "horn_asymmetry": 0.08,
+            "windward_shape": 2.25,
+            "leeward_shape": 0.22,
+            "lee_slope_deg": 31.0,
+            "end_taper": 1.15,
+            "smoothness": 2,
+            "crest_variation": 0.45,
+            "seed": 5982,
+            "name": "Broad crescent"
+          }
+        },
+        {
+          "id": "d06",
+          "preset": "S5",
+          "center": [
+            140.12209085723572,
+            22.108768153466805
+          ],
+          "parameters": {
+            "height": 4.56174718732656,
+            "length": 56.04432258715488,
+            "width": 129.03227758437984,
+            "wind_deg": 7.187765700558328,
+            "crest_position": 2.60671267847232,
+            "crest_curvature": 3.91006901770848,
+            "horn_length": 15.64027607083392,
+            "horn_curvature": 1.0,
+            "horn_asymmetry": 0.08,
+            "windward_shape": 2.65,
+            "leeward_shape": 0.44,
+            "lee_slope_deg": 25,
+            "end_taper": 1.1,
+            "smoothness": 3,
+            "crest_variation": 0.45,
+            "seed": 4617,
+            "name": "Broad low dune"
+          }
+        },
+        {
+          "id": "d07",
+          "preset": "S3",
+          "center": [
+            15.432992490881139,
+            -149.53831261206477
+          ],
+          "parameters": {
+            "height": 11.164877803752729,
+            "length": 40.71896610780407,
+            "width": 73.55684200119444,
+            "wind_deg": 10.957374529152373,
+            "crest_position": -5.9108176608102685,
+            "crest_curvature": 0.0,
+            "horn_length": 37.43517851846503,
+            "horn_curvature": 0.9,
+            "horn_asymmetry": 0.08,
+            "windward_shape": 2.25,
+            "leeward_shape": 0.22,
+            "lee_slope_deg": 31.0,
+            "end_taper": 1.45,
+            "smoothness": 2,
+            "crest_variation": 0.45,
+            "seed": 8224,
+            "name": "Compact barchan"
+          }
+        },
+        {
+          "id": "d08",
+          "preset": "S2",
+          "center": [
+            -146.87193426547108,
+            -166.92822400455776
+          ],
+          "parameters": {
+            "height": 8.255741676120985,
+            "length": 35.56319491252117,
+            "width": 134.632095025973,
+            "wind_deg": 10.965727500393722,
+            "crest_position": 0.0,
+            "crest_curvature": 7.6206846241116795,
+            "horn_length": 8.255741676120985,
+            "horn_curvature": 1.7,
+            "horn_asymmetry": 0.08,
+            "windward_shape": 2.55,
+            "leeward_shape": 0.36,
+            "lee_slope_deg": 31.0,
+            "end_taper": 0.92,
+            "smoothness": 2,
+            "crest_variation": 0.45,
+            "seed": 4872,
+            "name": "Long flowing ridge"
+          }
+        },
+        {
+          "id": "d09",
+          "preset": "S3",
+          "center": [
+            165.70473344577277,
+            156.78674830475293
+          ],
+          "parameters": {
+            "height": 7.021581444477705,
+            "length": 25.608120562212804,
+            "width": 46.259830693029585,
+            "wind_deg": 5.655525643558412,
+            "crest_position": -3.71730782354702,
+            "crest_curvature": 0.0,
+            "horn_length": 23.542949549131126,
+            "horn_curvature": 0.9,
+            "horn_asymmetry": 0.08,
+            "windward_shape": 2.25,
+            "leeward_shape": 0.22,
+            "lee_slope_deg": 31.0,
+            "end_taper": 1.45,
+            "smoothness": 2,
+            "crest_variation": 0.45,
+            "seed": 8145,
+            "name": "Compact barchan"
+          }
+        },
+        {
+          "id": "d10",
+          "preset": "S5",
+          "center": [
+            -49.90644528754735,
+            15.677314694260478
+          ],
+          "parameters": {
+            "height": 2.8348479833073332,
+            "length": 34.82813236634724,
+            "width": 80.18570009926457,
+            "wind_deg": 18.956252296432567,
+            "crest_position": 1.6199131333184762,
+            "crest_curvature": 2.429869699977714,
+            "horn_length": 9.719478799910856,
+            "horn_curvature": 1.0,
+            "horn_asymmetry": 0.08,
+            "windward_shape": 2.65,
+            "leeward_shape": 0.44,
+            "lee_slope_deg": 25,
+            "end_taper": 1.1,
+            "smoothness": 3,
+            "crest_variation": 0.45,
+            "seed": 4176,
+            "name": "Broad low dune"
+          }
+        },
+        {
+          "id": "d11",
+          "preset": "S6",
+          "center": [
+            53.399821124923385,
+            136.42923423654898
+          ],
+          "parameters": {
+            "height": 6.0103314242123975,
+            "length": 27.905110183843274,
+            "width": 69.54812076588631,
+            "wind_deg": 16.51156672473631,
+            "crest_position": -11.591353460981052,
+            "crest_curvature": 0.0,
+            "horn_length": 39.06715425738059,
+            "horn_curvature": 0.8,
+            "horn_asymmetry": -0.13,
+            "windward_shape": 2.4,
+            "leeward_shape": 0.28,
+            "lee_slope_deg": 31.0,
+            "end_taper": 1.5,
+            "smoothness": 2,
+            "crest_variation": 0.45,
+            "seed": 9045,
+            "name": "Long sweeping arms"
+          }
+        },
+        {
+          "id": "d12",
+          "preset": "S3",
+          "center": [
+            43.60751839049286,
+            -74.24785643517217
+          ],
+          "parameters": {
+            "height": 7.086936928896942,
+            "length": 25.846475858330024,
+            "width": 46.690408002144565,
+            "wind_deg": 10.331772269464455,
+            "crest_position": -3.7519077858866163,
+            "crest_curvature": 0.0,
+            "horn_length": 23.76208264394857,
+            "horn_curvature": 0.9,
+            "horn_asymmetry": 0.08,
+            "windward_shape": 2.25,
+            "leeward_shape": 0.22,
+            "lee_slope_deg": 31.0,
+            "end_taper": 1.45,
+            "smoothness": 2,
+            "crest_variation": 0.45,
+            "seed": 1315,
+            "name": "Compact barchan"
+          }
+        },
+        {
+          "id": "d13",
+          "preset": "S1",
+          "center": [
+            14.323667721555898,
+            96.55010171116318
+          ],
+          "parameters": {
+            "height": 6.54000800627726,
+            "length": 32.264039497634485,
+            "width": 75.86409287281622,
+            "wind_deg": 8.629701382785285,
+            "crest_position": -5.668006938773626,
+            "crest_curvature": 3.0520037362627215,
+            "horn_length": 29.212035761371762,
+            "horn_curvature": 1.0,
+            "horn_asymmetry": 0.08,
+            "windward_shape": 2.25,
+            "leeward_shape": 0.22,
+            "lee_slope_deg": 31.0,
+            "end_taper": 1.15,
+            "smoothness": 2,
+            "crest_variation": 0.45,
+            "seed": 3275,
+            "name": "Broad crescent"
+          }
+        }
+      ],
+      "cameras": {
+        "01_aerial": {
+          "position": [
+            0,
+            0,
+            800
+          ],
+          "target": [
+            0,
+            0,
+            0
+          ],
+          "fov": 62
+        },
+        "02_overview": {
+          "position": [
+            430,
+            -480,
+            350
+          ],
+          "target": [
+            0,
+            0,
+            6
+          ],
+          "fov": 60
+        },
+        "03_gameplay": {
+          "position": [
+            185,
+            -210,
+            4.5
+          ],
+          "target": [
+            30,
+            20,
+            9
+          ],
+          "fov": 75
+        },
+        "04_across": {
+          "position": [
+            -15,
+            -265,
+            22
+          ],
+          "target": [
+            -15,
+            40,
+            10
+          ],
+          "fov": 76
+        },
+        "05_flow": {
+          "position": [
+            -265,
+            -40,
+            26
+          ],
+          "target": [
+            130,
+            40,
+            10
+          ],
+          "fov": 72
+        }
+      },
+      "seed": 613,
+      "max_height_m": 15.40086947882186,
+      "max_slope_deg": 32.93811550087683,
+      "sha256": "070594350519c7f0aacc973222f870437eec30a1f23067a472ebcd9da9cf3189",
+      "repeat_and_reorder_identical": true,
+      "generation_seconds": 3.321880300005432,
+      "nonzero_fraction": 0.2985236741495932,
+      "layout_seed": 809,
+      "merge_band_m": 1.8,
+      "grid_spacing_m": 1.0,
+      "encoding_height_units_per_m": 512
+    }
+  }
+}

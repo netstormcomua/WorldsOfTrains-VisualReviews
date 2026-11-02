@@ -1,0 +1,86 @@
+{
+  "milestone": "WorldGenerator/M2",
+  "development_date": "2026-11-01",
+  "review_bundle_date": "2026-11-02",
+  "image_count": 6,
+  "images": [
+    {
+      "path": "images/six-dunes-overview.jpg",
+      "source_artifact": "results/singles-01_overview.jpg",
+      "kind": "actual Unreal screenshot(s)",
+      "dimensions": [
+        1920,
+        784
+      ],
+      "bytes": 118508,
+      "sha256": "aa819c10b2ef1b5acd2111f1468fe9566483e0e2a6c7248b79e4256f2b68d7cc",
+      "source_sha256": "aa819c10b2ef1b5acd2111f1468fe9566483e0e2a6c7248b79e4256f2b68d7cc",
+      "transform": "copied comparison JPEG"
+    },
+    {
+      "path": "images/six-dunes-gameplay.jpg",
+      "source_artifact": "results/singles-02_gameplay.jpg",
+      "kind": "actual Unreal screenshot(s)",
+      "dimensions": [
+        1920,
+        784
+      ],
+      "bytes": 133059,
+      "sha256": "807fa74624d25111f8c32ec9757ec4c694532ad23c10b77bd7690f70da5ff225",
+      "source_sha256": "807fa74624d25111f8c32ec9757ec4c694532ad23c10b77bd7690f70da5ff225",
+      "transform": "copied comparison JPEG"
+    },
+    {
+      "path": "images/two-dune-merge.jpg",
+      "source_artifact": "results/P1C-sheet.jpg",
+      "kind": "actual Unreal screenshot(s)",
+      "dimensions": [
+        1280,
+        784
+      ],
+      "bytes": 90617,
+      "sha256": "5869a9c922b8bba5470dc6bb0ff6b97b350b3009dce36310334ed443cc41efb4",
+      "source_sha256": "5869a9c922b8bba5470dc6bb0ff6b97b350b3009dce36310334ed443cc41efb4",
+      "transform": "copied comparison JPEG"
+    },
+    {
+      "path": "images/three-fields-comparison.jpg",
+      "source_artifact": "results/fields-comparison.jpg",
+      "kind": "actual Unreal screenshot(s)",
+      "dimensions": [
+        1920,
+        1176
+      ],
+      "bytes": 202529,
+      "sha256": "55e37d309e69d4612d5b213f58bf94a0c1aa5b32bd20e4c52c42133ca1a56ddb",
+      "source_sha256": "55e37d309e69d4612d5b213f58bf94a0c1aa5b32bd20e4c52c42133ca1a56ddb",
+      "transform": "copied comparison JPEG"
+    },
+    {
+      "path": "images/f1-before-after.jpg",
+      "source_artifact": "results/F1-before-after.jpg",
+      "kind": "actual Unreal screenshot(s)",
+      "dimensions": [
+        1280,
+        784
+      ],
+      "bytes": 93583,
+      "sha256": "aabb2f153f6772f52e213dd1f2a52a3b7b23bc55e367a3e31d191f131e08c766",
+      "source_sha256": "aabb2f153f6772f52e213dd1f2a52a3b7b23bc55e367a3e31d191f131e08c766",
+      "transform": "copied comparison JPEG"
+    },
+    {
+      "path": "images/f1-gameplay.jpg",
+      "source_artifact": "results/F1C/03_gameplay.png",
+      "kind": "actual Unreal screenshot(s)",
+      "dimensions": [
+        1600,
+        900
+      ],
+      "bytes": 83519,
+      "sha256": "05d3ec5130aeecd9da6a93e3ecbf60f987e7d67737a0db258582423ec9ebc62b",
+      "source_sha256": "d4c6e6ac48fb557a75ba6375c3808d669945d6a6516e46863fd4cd5ba28d1703",
+      "transform": "JPEG quality 90; no crop, colour adjustment or retouching"
+    }
+  ]
+}
