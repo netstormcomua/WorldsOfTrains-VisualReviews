@@ -23,3 +23,5 @@ Selected visual milestone artifacts for Worlds of Trains. This repository is int
 
 
 [Dune Lab — modular generator and interactive editor](WorldGenerator/DuneLab/README.md) — tool ready for review, morphology not artistically approved.
+
+[M22 — 20–50 m single-dune refinement](WorldGenerator/M22/README.md) — awaiting artistic review.

@@ -13,3 +13,5 @@ Public visual review artifacts only: selected Unreal screenshots, comparison col
 No game source code, Unreal project files, original asset packages, credentials or private project documentation are hosted here.
 
 [Dune Lab — modular generator and interactive editor](VisualReviews/WorldGenerator/DuneLab/README.md) — tool ready for review, morphology not artistically approved.
+
+[M22 — 20–50 m single-dune refinement](VisualReviews/WorldGenerator/M22/README.md) — awaiting artistic review.

@@ -1,0 +1,243 @@
+{
+  "configs": {
+    "PREV": {
+      "schema_version": 1,
+      "generator_id": "single_dune",
+      "implementation_version": "m21.1",
+      "name": "Unequal hooked ridge",
+      "seed": 17,
+      "parameters": {
+        "height": 18,
+        "width": 186,
+        "length": 78,
+        "crest_position": 0.0,
+        "bow": 20,
+        "bend_count": 1,
+        "bend_amplitude": 24,
+        "bend_phase": 1.2,
+        "height_variation": 0.18,
+        "height_phase": 0.4,
+        "height_skew": 0.38,
+        "end_taper": 0.9,
+        "lee_slope_deg": 29.0,
+        "leeward_shape": 0.3,
+        "windward_shape": 2.35,
+        "horn_length": 28,
+        "horn_asymmetry": 0.1,
+        "smoothness": 2
+      },
+      "transform": {
+        "origin_m": [
+          0.0,
+          0.0
+        ],
+        "yaw_deg": 12.0
+      }
+    },
+    "A24": {
+      "schema_version": 1,
+      "generator_id": "single_dune",
+      "implementation_version": "m22.1",
+      "name": "A24 | High bowed ridge",
+      "seed": 17,
+      "parameters": {
+        "height": 24,
+        "width": 180,
+        "length": 85,
+        "crest_position": 0.0,
+        "bow": 8,
+        "bend_count": 0.8,
+        "bend_amplitude": 9,
+        "bend_phase": 0.0,
+        "height_variation": 0.12,
+        "height_phase": 0.4,
+        "height_skew": 0.08,
+        "end_taper": 0.85,
+        "lee_slope_deg": 31,
+        "leeward_shape": 0.22,
+        "windward_shape": 2.5,
+        "horn_length": 10,
+        "horn_asymmetry": 0.1,
+        "smoothness": 2
+      },
+      "transform": {
+        "origin_m": [
+          0.0,
+          0.0
+        ],
+        "yaw_deg": 12.0
+      }
+    },
+    "B32": {
+      "schema_version": 1,
+      "generator_id": "single_dune",
+      "implementation_version": "m22.1",
+      "name": "B32 | Long flowing crest",
+      "seed": 17,
+      "parameters": {
+        "height": 32,
+        "width": 230,
+        "length": 85,
+        "crest_position": 0.0,
+        "bow": -5,
+        "bend_count": 1.45,
+        "bend_amplitude": 13,
+        "bend_phase": 0.0,
+        "height_variation": 0.12,
+        "height_phase": 0.4,
+        "height_skew": 0.08,
+        "end_taper": 0.85,
+        "lee_slope_deg": 31,
+        "leeward_shape": 0.22,
+        "windward_shape": 2.5,
+        "horn_length": 3,
+        "horn_asymmetry": 0.1,
+        "smoothness": 2
+      },
+      "transform": {
+        "origin_m": [
+          0.0,
+          0.0
+        ],
+        "yaw_deg": 12.0
+      }
+    },
+    "C40": {
+      "schema_version": 1,
+      "generator_id": "single_dune",
+      "implementation_version": "m22.1",
+      "name": "C40 | Asymmetric crescent",
+      "seed": 17,
+      "parameters": {
+        "height": 40,
+        "width": 210,
+        "length": 82,
+        "crest_position": 0.0,
+        "bow": 22,
+        "bend_count": 0.6,
+        "bend_amplitude": 7,
+        "bend_phase": 0.0,
+        "height_variation": 0.12,
+        "height_phase": 0.4,
+        "height_skew": 0.25,
+        "end_taper": 0.85,
+        "lee_slope_deg": 31,
+        "leeward_shape": 0.22,
+        "windward_shape": 2.5,
+        "horn_length": 17,
+        "horn_asymmetry": 0.3,
+        "smoothness": 2
+      },
+      "transform": {
+        "origin_m": [
+          0.0,
+          0.0
+        ],
+        "yaw_deg": 12.0
+      }
+    },
+    "D50": {
+      "schema_version": 1,
+      "generator_id": "single_dune",
+      "implementation_version": "m22.1",
+      "name": "D50 | Monumental wave",
+      "seed": 17,
+      "parameters": {
+        "height": 50,
+        "width": 210,
+        "length": 80,
+        "crest_position": 0.0,
+        "bow": 2,
+        "bend_count": 1.2,
+        "bend_amplitude": 10,
+        "bend_phase": 0.0,
+        "height_variation": 0.19,
+        "height_phase": 0.4,
+        "height_skew": 0.08,
+        "end_taper": 0.85,
+        "lee_slope_deg": 31,
+        "leeward_shape": 0.22,
+        "windward_shape": 2.5,
+        "horn_length": 5,
+        "horn_asymmetry": 0.1,
+        "smoothness": 2
+      },
+      "transform": {
+        "origin_m": [
+          0.0,
+          0.0
+        ],
+        "yaw_deg": 12.0
+      }
+    }
+  },
+  "cameras": {
+    "01_overview": {
+      "position": [
+        -360,
+        -430,
+        270
+      ],
+      "target": [
+        0,
+        0,
+        16
+      ],
+      "fov": 48
+    },
+    "02_gameplay": {
+      "position": [
+        -230,
+        -135,
+        4.5
+      ],
+      "target": [
+        0,
+        0,
+        18
+      ],
+      "fov": 65
+    },
+    "03_lee": {
+      "position": [
+        165,
+        -160,
+        4.5
+      ],
+      "target": [
+        0,
+        0,
+        22
+      ],
+      "fov": 65
+    },
+    "04_top": {
+      "position": [
+        0,
+        0,
+        600
+      ],
+      "target": [
+        0,
+        0,
+        0
+      ],
+      "fov": 48
+    },
+    "05_profile": {
+      "position": [
+        0,
+        -340,
+        35
+      ],
+      "target": [
+        0,
+        0,
+        18
+      ],
+      "fov": 55
+    }
+  },
+  "area_m": 504,
+  "spacing_m": 1
+}

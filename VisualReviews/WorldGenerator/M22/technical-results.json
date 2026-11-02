@@ -1,0 +1,512 @@
+{
+  "numerical": {
+    "variants": {
+      "PREV": {
+        "config": {
+          "schema_version": 1,
+          "generator_id": "single_dune",
+          "implementation_version": "m21.1",
+          "name": "Unequal hooked ridge",
+          "seed": 17,
+          "parameters": {
+            "height": 18,
+            "width": 186,
+            "length": 78,
+            "crest_position": 0.0,
+            "bow": 20,
+            "bend_count": 1,
+            "bend_amplitude": 24,
+            "bend_phase": 1.2,
+            "height_variation": 0.18,
+            "height_phase": 0.4,
+            "height_skew": 0.38,
+            "end_taper": 0.9,
+            "lee_slope_deg": 29.0,
+            "leeward_shape": 0.3,
+            "windward_shape": 2.35,
+            "horn_length": 28,
+            "horn_asymmetry": 0.1,
+            "smoothness": 2
+          },
+          "transform": {
+            "origin_m": [
+              0.0,
+              0.0
+            ],
+            "yaw_deg": 12.0
+          }
+        },
+        "max_height_m": 17.881568215950466,
+        "max_slope_deg": 34.86422286240985,
+        "slope_p99_deg": 34.03816763628802,
+        "boundary_height_m": 0.0,
+        "generation_seconds": 0.13243840000359342,
+        "deterministic": true,
+        "mesh_sha256": "fb471736f9e7fad190d567d0f86652d566c703bc4e367e9309d951003491d65d"
+      },
+      "A24": {
+        "config": {
+          "schema_version": 1,
+          "generator_id": "single_dune",
+          "implementation_version": "m22.1",
+          "name": "A24 | High bowed ridge",
+          "seed": 17,
+          "parameters": {
+            "height": 24,
+            "width": 180,
+            "length": 85,
+            "crest_position": 0.0,
+            "bow": 8,
+            "bend_count": 0.8,
+            "bend_amplitude": 9,
+            "bend_phase": 0.0,
+            "height_variation": 0.12,
+            "height_phase": 0.4,
+            "height_skew": 0.08,
+            "end_taper": 0.85,
+            "lee_slope_deg": 31,
+            "leeward_shape": 0.22,
+            "windward_shape": 2.5,
+            "horn_length": 10,
+            "horn_asymmetry": 0.1,
+            "smoothness": 2
+          },
+          "transform": {
+            "origin_m": [
+              0.0,
+              0.0
+            ],
+            "yaw_deg": 12.0
+          }
+        },
+        "max_height_m": 23.81351917130471,
+        "max_slope_deg": 35.14093526493594,
+        "slope_p99_deg": 34.85684967511913,
+        "boundary_height_m": 0.0,
+        "generation_seconds": 0.2069091000012122,
+        "deterministic": true,
+        "mesh_sha256": "44b09de21cec044b8740c87cacae9987481dbc798cb9460495ef56ccd2064bdc"
+      },
+      "B32": {
+        "config": {
+          "schema_version": 1,
+          "generator_id": "single_dune",
+          "implementation_version": "m22.1",
+          "name": "B32 | Long flowing crest",
+          "seed": 17,
+          "parameters": {
+            "height": 32,
+            "width": 230,
+            "length": 85,
+            "crest_position": 0.0,
+            "bow": -5,
+            "bend_count": 1.45,
+            "bend_amplitude": 13,
+            "bend_phase": 0.0,
+            "height_variation": 0.12,
+            "height_phase": 0.4,
+            "height_skew": 0.08,
+            "end_taper": 0.85,
+            "lee_slope_deg": 31,
+            "leeward_shape": 0.22,
+            "windward_shape": 2.5,
+            "horn_length": 3,
+            "horn_asymmetry": 0.1,
+            "smoothness": 2
+          },
+          "transform": {
+            "origin_m": [
+              0.0,
+              0.0
+            ],
+            "yaw_deg": 12.0
+          }
+        },
+        "max_height_m": 31.86900363123086,
+        "max_slope_deg": 36.72272443987256,
+        "slope_p99_deg": 35.83100658951976,
+        "boundary_height_m": 0.0,
+        "generation_seconds": 0.20929059997433797,
+        "deterministic": true,
+        "mesh_sha256": "af85af609eb43ffe533b78ffc4c410ac6c8c1a50696951e9766bb20b7bb9a139"
+      },
+      "C40": {
+        "config": {
+          "schema_version": 1,
+          "generator_id": "single_dune",
+          "implementation_version": "m22.1",
+          "name": "C40 | Asymmetric crescent",
+          "seed": 17,
+          "parameters": {
+            "height": 40,
+            "width": 210,
+            "length": 82,
+            "crest_position": 0.0,
+            "bow": 22,
+            "bend_count": 0.6,
+            "bend_amplitude": 7,
+            "bend_phase": 0.0,
+            "height_variation": 0.12,
+            "height_phase": 0.4,
+            "height_skew": 0.25,
+            "end_taper": 0.85,
+            "lee_slope_deg": 31,
+            "leeward_shape": 0.22,
+            "windward_shape": 2.5,
+            "horn_length": 17,
+            "horn_asymmetry": 0.3,
+            "smoothness": 2
+          },
+          "transform": {
+            "origin_m": [
+              0.0,
+              0.0
+            ],
+            "yaw_deg": 12.0
+          }
+        },
+        "max_height_m": 39.850498050183695,
+        "max_slope_deg": 33.51516767790277,
+        "slope_p99_deg": 33.436304126875065,
+        "boundary_height_m": 0.0,
+        "generation_seconds": 0.20896730001550168,
+        "deterministic": true,
+        "mesh_sha256": "203ab11e9a1015500ace5e3cc06192986c52e1a29cd48ceddc5b8cd1ba3484fc"
+      },
+      "D50": {
+        "config": {
+          "schema_version": 1,
+          "generator_id": "single_dune",
+          "implementation_version": "m22.1",
+          "name": "D50 | Monumental wave",
+          "seed": 17,
+          "parameters": {
+            "height": 50,
+            "width": 210,
+            "length": 80,
+            "crest_position": 0.0,
+            "bow": 2,
+            "bend_count": 1.2,
+            "bend_amplitude": 10,
+            "bend_phase": 0.0,
+            "height_variation": 0.19,
+            "height_phase": 0.4,
+            "height_skew": 0.08,
+            "end_taper": 0.85,
+            "lee_slope_deg": 31,
+            "leeward_shape": 0.22,
+            "windward_shape": 2.5,
+            "horn_length": 5,
+            "horn_asymmetry": 0.1,
+            "smoothness": 2
+          },
+          "transform": {
+            "origin_m": [
+              0.0,
+              0.0
+            ],
+            "yaw_deg": 12.0
+          }
+        },
+        "max_height_m": 49.81949115415447,
+        "max_slope_deg": 36.67530542973615,
+        "slope_p99_deg": 36.16042567029547,
+        "boundary_height_m": 0.0,
+        "generation_seconds": 0.21048410004004836,
+        "deterministic": true,
+        "mesh_sha256": "8f62c63123882ba346a3d7daf106a6964cc8a1de4d5fbc06d4948098ff517147"
+      }
+    },
+    "pinned_regression": {
+      "S1": "5251b0c329e5b574037245fbb1fb97a89a88e7cdbf9e0b04dee44be14ff8832b",
+      "S2": "7e53a111ad67c3f2c28b717ee59bbb94aacb9725687b66cbb1a66ecce2f63efd",
+      "S3": "a95defb9cb0306d866ead8c3250ecfc356e2488f4c73ae25617b577d90db318a",
+      "S4": "82ee17ee1fad6e61c9458252df499e437029b76ae555b86296c244f59e523c10",
+      "S5": "b77f2df15505920b06a1424fdd2a46f7cbba99b2fa4fa3e6579047603bfb251d",
+      "S6": "a993e4915ead9ecceee86c8a46ff57ba6366a9287ceb7c9e7334e9e92c6e60a0",
+      "T1": "dae2c07e87ede5dee4fc9f2c433fc479d754cb44737cbb4d6d78be2e4437fccb",
+      "G1": "5a8859013e105f95a89c1aa6b79ecff8cb1359a2d2e549535bb60b727ed7de6a",
+      "G2": "8a86c2de186bbdf37a90683fe8b65752b412805d8284109557c1110cb94d6f81",
+      "G3": "fe41546cdaa323f0dbd9277e18df5b0e7c9cda8a1245cf42e8e56c5b6a9c043b"
+    },
+    "explicit_field_adoption": true,
+    "implicit_adoption_rejected": true,
+    "refinement_study": {
+      "patch_m": 120,
+      "reference_spacing_m": 0.25,
+      "samples": 481,
+      "seconds": 0.16713069996330887,
+      "one_m_max_error_m": 0.13448843473561567,
+      "half_m_max_error_m": 0.04944382937014069,
+      "one_m_p99_error_m": 0.011014599175533121,
+      "implemented_local_refinement": false
+    }
+  },
+  "contract": {
+    "base_unchanged": true,
+    "masks": true,
+    "world_translation": true,
+    "seed_changes_shape": true,
+    "unknown_versions_rejected": true,
+    "growth": [
+      {
+        "height": 20,
+        "scale": 1.0,
+        "peak": 19.857305571906366
+      },
+      {
+        "height": 30,
+        "scale": 1.4114892347853742,
+        "peak": 29.870280236206135
+      },
+      {
+        "height": 40,
+        "scale": 1.8025009252216604,
+        "peak": 39.850498050183695
+      },
+      {
+        "height": 50,
+        "scale": 2.1789587434890403,
+        "peak": 49.77949892996715
+      }
+    ],
+    "protected_files": 100,
+    "changed_files": []
+  },
+  "unreal": {
+    "PREVN": {
+      "saved_reopened": true,
+      "preview_actors": 1,
+      "mesh_sections": 1,
+      "samples": 505,
+      "collision_probes": 169,
+      "max_collision_error_cm": 6.103515625e-05,
+      "repeat_apply": 2
+    },
+    "PREVC": {
+      "saved_reopened": true,
+      "preview_actors": 1,
+      "mesh_sections": 1,
+      "samples": 505,
+      "collision_probes": 169,
+      "max_collision_error_cm": 6.103515625e-05,
+      "repeat_apply": 2
+    },
+    "A24N": {
+      "saved_reopened": true,
+      "preview_actors": 1,
+      "mesh_sections": 1,
+      "samples": 505,
+      "collision_probes": 169,
+      "max_collision_error_cm": 6.103515625e-05,
+      "repeat_apply": 2
+    },
+    "A24C": {
+      "saved_reopened": true,
+      "preview_actors": 1,
+      "mesh_sections": 1,
+      "samples": 505,
+      "collision_probes": 169,
+      "max_collision_error_cm": 6.103515625e-05,
+      "repeat_apply": 2
+    },
+    "B32N": {
+      "saved_reopened": true,
+      "preview_actors": 1,
+      "mesh_sections": 1,
+      "samples": 505,
+      "collision_probes": 169,
+      "max_collision_error_cm": 5.340576171875e-05,
+      "repeat_apply": 2
+    },
+    "B32C": {
+      "saved_reopened": true,
+      "preview_actors": 1,
+      "mesh_sections": 1,
+      "samples": 505,
+      "collision_probes": 169,
+      "max_collision_error_cm": 5.340576171875e-05,
+      "repeat_apply": 2
+    },
+    "C40N": {
+      "saved_reopened": true,
+      "preview_actors": 1,
+      "mesh_sections": 1,
+      "samples": 505,
+      "collision_probes": 169,
+      "max_collision_error_cm": 0.0001220703125,
+      "repeat_apply": 2
+    },
+    "C40C": {
+      "saved_reopened": true,
+      "preview_actors": 1,
+      "mesh_sections": 1,
+      "samples": 505,
+      "collision_probes": 169,
+      "max_collision_error_cm": 0.0001220703125,
+      "repeat_apply": 2
+    },
+    "D50N": {
+      "saved_reopened": true,
+      "preview_actors": 1,
+      "mesh_sections": 1,
+      "samples": 505,
+      "collision_probes": 169,
+      "max_collision_error_cm": 0.000244140625,
+      "repeat_apply": 2
+    },
+    "D50C": {
+      "saved_reopened": true,
+      "preview_actors": 1,
+      "mesh_sections": 1,
+      "samples": 505,
+      "collision_probes": 169,
+      "max_collision_error_cm": 0.000244140625,
+      "repeat_apply": 2
+    }
+  },
+  "runtime": {
+    "A24C": {
+      "pass": true,
+      "landscapes": 0,
+      "preview_actors": 1,
+      "screenshots": 5,
+      "frame_samples": 749,
+      "mean_ms": 16.666932581104486,
+      "p95_ms": 16.66710153222084,
+      "peak_ram_mb": 2724.99609375,
+      "scope": "Editor game DX11; settled static cameras; capture frames excluded; not packaged or moving gameplay"
+    },
+    "A24N": {
+      "pass": true,
+      "landscapes": 0,
+      "preview_actors": 1,
+      "screenshots": 5,
+      "frame_samples": 750,
+      "mean_ms": 16.667023599147797,
+      "p95_ms": 16.667097806930542,
+      "peak_ram_mb": 2736.109375,
+      "scope": "Editor game DX11; settled static cameras; capture frames excluded; not packaged or moving gameplay"
+    },
+    "B32C": {
+      "pass": true,
+      "landscapes": 0,
+      "preview_actors": 1,
+      "screenshots": 5,
+      "frame_samples": 750,
+      "mean_ms": 16.66707734266917,
+      "p95_ms": 16.667097806930542,
+      "peak_ram_mb": 2732.08203125,
+      "scope": "Editor game DX11; settled static cameras; capture frames excluded; not packaged or moving gameplay"
+    },
+    "B32N": {
+      "pass": true,
+      "landscapes": 0,
+      "preview_actors": 1,
+      "screenshots": 5,
+      "frame_samples": 751,
+      "mean_ms": 16.666943006485344,
+      "p95_ms": 16.66710153222084,
+      "peak_ram_mb": 2727.45703125,
+      "scope": "Editor game DX11; settled static cameras; capture frames excluded; not packaged or moving gameplay"
+    },
+    "C40C": {
+      "pass": true,
+      "landscapes": 0,
+      "preview_actors": 1,
+      "screenshots": 5,
+      "frame_samples": 750,
+      "mean_ms": 16.667026673754055,
+      "p95_ms": 16.667097806930542,
+      "peak_ram_mb": 2732.203125,
+      "scope": "Editor game DX11; settled static cameras; capture frames excluded; not packaged or moving gameplay"
+    },
+    "C40N": {
+      "pass": true,
+      "landscapes": 0,
+      "preview_actors": 1,
+      "screenshots": 5,
+      "frame_samples": 749,
+      "mean_ms": 16.667122565936022,
+      "p95_ms": 16.667097806930542,
+      "peak_ram_mb": 2727.00390625,
+      "scope": "Editor game DX11; settled static cameras; capture frames excluded; not packaged or moving gameplay"
+    },
+    "D50C": {
+      "pass": true,
+      "landscapes": 0,
+      "preview_actors": 1,
+      "screenshots": 5,
+      "frame_samples": 751,
+      "mean_ms": 16.66690679527472,
+      "p95_ms": 16.66710153222084,
+      "peak_ram_mb": 2734.94140625,
+      "scope": "Editor game DX11; settled static cameras; capture frames excluded; not packaged or moving gameplay"
+    },
+    "D50N": {
+      "pass": true,
+      "landscapes": 0,
+      "preview_actors": 1,
+      "screenshots": 5,
+      "frame_samples": 750,
+      "mean_ms": 16.66693600018819,
+      "p95_ms": 16.667097806930542,
+      "peak_ram_mb": 2758.32421875,
+      "scope": "Editor game DX11; settled static cameras; capture frames excluded; not packaged or moving gameplay"
+    },
+    "PREVC": {
+      "pass": true,
+      "landscapes": 0,
+      "preview_actors": 1,
+      "screenshots": 5,
+      "frame_samples": 750,
+      "mean_ms": 16.666837736964226,
+      "p95_ms": 16.667097806930542,
+      "peak_ram_mb": 2723.59375,
+      "scope": "Editor game DX11; settled static cameras; capture frames excluded; not packaged or moving gameplay"
+    },
+    "PREVN": {
+      "pass": true,
+      "landscapes": 0,
+      "preview_actors": 1,
+      "screenshots": 5,
+      "frame_samples": 750,
+      "mean_ms": 16.667044808467228,
+      "p95_ms": 16.66710153222084,
+      "peak_ram_mb": 2695.4296875,
+      "scope": "Editor game DX11; settled static cameras; capture frames excluded; not packaged or moving gameplay"
+    }
+  },
+  "ui": {
+    "ui_generated": {
+      "A24": {
+        "mesh_sha256": "44b09de21cec044b8740c87cacae9987481dbc798cb9460495ef56ccd2064bdc",
+        "samples": 505,
+        "quality": "final",
+        "python_seconds": 0.2732580000301823
+      },
+      "B32": {
+        "mesh_sha256": "af85af609eb43ffe533b78ffc4c410ac6c8c1a50696951e9766bb20b7bb9a139",
+        "samples": 505,
+        "quality": "final",
+        "python_seconds": 0.32091060001403093
+      },
+      "D50": {
+        "mesh_sha256": "8f62c63123882ba346a3d7daf106a6964cc8a1de4d5fbc06d4948098ff517147",
+        "samples": 505,
+        "quality": "final",
+        "python_seconds": 0.2752667000168003
+      },
+      "C40": {
+        "mesh_sha256": "203ab11e9a1015500ace5e3cc06192986c52e1a29cd48ceddc5b8cd1ba3484fc",
+        "samples": 505,
+        "quality": "final",
+        "python_seconds": 0.2714108999934979
+      }
+    },
+    "ui_meshes_equal_batch": true,
+    "user_preset_saved_exact": true,
+    "lighting_toggle_verified": true,
+    "scope": "Four presets, fixed overview, neutral/cinematic lighting, user preset save. Not an exhaustive mouse test of every slider."
+  }
+}

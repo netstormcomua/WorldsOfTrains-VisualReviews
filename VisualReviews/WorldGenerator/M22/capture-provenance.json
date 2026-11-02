@@ -1,0 +1,222 @@
+{
+  "type": "Actual Unreal Editor/Game DX11 captures",
+  "processing": "Uniform resize, JPEG compression and labels only; no retouching, relighting or synthetic imagery.",
+  "sources": [
+    {
+      "capture": "r2/A24C/01_overview.png",
+      "sha256": "91f65fdb5d5cc7b86644b5e5ab2150ad13458edcca555d811a0e2b80fba055e7",
+      "dimensions": [
+        1600,
+        900
+      ]
+    },
+    {
+      "capture": "r2/B32C/01_overview.png",
+      "sha256": "a7d5acabee8ffeac60c269659f4982788f7b3cfc92b0ef40f6de5b96c4e535d2",
+      "dimensions": [
+        1600,
+        900
+      ]
+    },
+    {
+      "capture": "r2/C40C/01_overview.png",
+      "sha256": "a1f51d75892ca5f265d9274550716ede2c1cec024dea2a6eea99e830b61978cd",
+      "dimensions": [
+        1600,
+        900
+      ]
+    },
+    {
+      "capture": "r2/D50C/01_overview.png",
+      "sha256": "95087baab11fec28f61356aa1f0fbf57614a09dfe497b0341158c8a4c5c733ba",
+      "dimensions": [
+        1600,
+        900
+      ]
+    },
+    {
+      "capture": "r2/PREVC/02_gameplay.png",
+      "sha256": "7b0855335cddc244ea2b7a0f7aff8fcb018f101641eb9ae68ce97c33b881a68f",
+      "dimensions": [
+        1600,
+        900
+      ]
+    },
+    {
+      "capture": "r2/PREVC/03_lee.png",
+      "sha256": "4add2731941ad4056794760f73e3f69c5668c0fbf6984265e5ac461b709b4029",
+      "dimensions": [
+        1600,
+        900
+      ]
+    },
+    {
+      "capture": "r2/A24C/02_gameplay.png",
+      "sha256": "1c403cfc6790533689d357a1ff810ed6baadd2b014eea5f833b12a1e98eef519",
+      "dimensions": [
+        1600,
+        900
+      ]
+    },
+    {
+      "capture": "r2/A24C/03_lee.png",
+      "sha256": "7f22fdf122cf6754572a989f783697c0740ba710b9dfc6f9ebddd4b9d5e7ffa8",
+      "dimensions": [
+        1600,
+        900
+      ]
+    },
+    {
+      "capture": "r2/B32C/02_gameplay.png",
+      "sha256": "516d878511b497a4501627d9350ed0610cfe437bfa61f1e084959a04832df4f3",
+      "dimensions": [
+        1600,
+        900
+      ]
+    },
+    {
+      "capture": "r2/B32C/03_lee.png",
+      "sha256": "67f173ecf14ac459d515f44c5f134d141b91d193aec8fb7d6b7897caeb45e00d",
+      "dimensions": [
+        1600,
+        900
+      ]
+    },
+    {
+      "capture": "r2/C40C/02_gameplay.png",
+      "sha256": "826b05d5357dabd0593def1b0f38153bd6f47e31d32d3e19723010f6ce46e167",
+      "dimensions": [
+        1600,
+        900
+      ]
+    },
+    {
+      "capture": "r2/C40C/03_lee.png",
+      "sha256": "0316f61075846cd9d20fca7041ef456b8cb6624ea4a3096e9593474283a9ad3c",
+      "dimensions": [
+        1600,
+        900
+      ]
+    },
+    {
+      "capture": "r2/D50C/02_gameplay.png",
+      "sha256": "2e2bc4b243bb235e579df9cdbf06dd36966f099ac530fd2686f1f39f3efbfc45",
+      "dimensions": [
+        1600,
+        900
+      ]
+    },
+    {
+      "capture": "r2/D50C/03_lee.png",
+      "sha256": "c26db1788d2d9e23927e5f6bfc15198b2e49f278ae88fc67ecdd069b8e69fc58",
+      "dimensions": [
+        1600,
+        900
+      ]
+    },
+    {
+      "capture": "r2/A24N/04_top.png",
+      "sha256": "28513235f2342be18bf848bd3878a5dd66e58306168c2c98ea229b44c1e68c27",
+      "dimensions": [
+        1600,
+        900
+      ]
+    },
+    {
+      "capture": "r2/A24N/05_profile.png",
+      "sha256": "f52974e49618963c9d84e3b9687fcaec5647ba3ac0c5267cec990b9a08e02011",
+      "dimensions": [
+        1600,
+        900
+      ]
+    },
+    {
+      "capture": "r2/B32N/04_top.png",
+      "sha256": "26ceed94714af846453bc4567032abdeb90ee725a8cee614a154acf390573825",
+      "dimensions": [
+        1600,
+        900
+      ]
+    },
+    {
+      "capture": "r2/B32N/05_profile.png",
+      "sha256": "44936b58aa22d92c9fca33d2c19df775160b1537df75990580c83f41015bb490",
+      "dimensions": [
+        1600,
+        900
+      ]
+    },
+    {
+      "capture": "r2/C40N/04_top.png",
+      "sha256": "361c5d32fbf21f60c48d14019974a015b5af25a25f09ad2bea50c3a851678db5",
+      "dimensions": [
+        1600,
+        900
+      ]
+    },
+    {
+      "capture": "r2/C40N/05_profile.png",
+      "sha256": "d8812203e789a7f60fb39a6a405d3d9dc57e6d9c8476a4e7e602809525ed0d40",
+      "dimensions": [
+        1600,
+        900
+      ]
+    },
+    {
+      "capture": "r2/D50N/04_top.png",
+      "sha256": "578f954b4d49f235f5ba5e6df8e4902c98c2f82d09a99fecd31ced0bf06a5bf8",
+      "dimensions": [
+        1600,
+        900
+      ]
+    },
+    {
+      "capture": "r2/D50N/05_profile.png",
+      "sha256": "93847bac72d9d9776b72ca89cc686e0b7ae64e215b12bea1527935f60c26ef3b",
+      "dimensions": [
+        1600,
+        900
+      ]
+    },
+    {
+      "capture": "r2/PREVC/01_overview.png",
+      "sha256": "62dae86aa797dde3c014304883630df678d30f95a75194529861bab9a2ee3e3d",
+      "dimensions": [
+        1600,
+        900
+      ]
+    },
+    {
+      "capture": "r2/C40C/01_overview.png",
+      "sha256": "a1f51d75892ca5f265d9274550716ede2c1cec024dea2a6eea99e830b61978cd",
+      "dimensions": [
+        1600,
+        900
+      ]
+    },
+    {
+      "capture": "r1/A24C/03_lee.png",
+      "sha256": "a78b90d438fa28c646d693c5a7d1ab8bc62d363bd08fa743b890afe2dc965c63",
+      "dimensions": [
+        1600,
+        900
+      ]
+    },
+    {
+      "capture": "r2/A24C/03_lee.png",
+      "sha256": "7f22fdf122cf6754572a989f783697c0740ba710b9dfc6f9ebddd4b9d5e7ffa8",
+      "dimensions": [
+        1600,
+        900
+      ]
+    },
+    {
+      "capture": "screens/C40-overview-ui.png",
+      "sha256": "0ca34d5c0343cea1e05d70d87a571609a43698eabef8fa464df5b4bdfcbfde1c",
+      "dimensions": [
+        1656,
+        963
+      ]
+    }
+  ]
+}
