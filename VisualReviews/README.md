@@ -21,3 +21,5 @@ Selected visual milestone artifacts for Worlds of Trains. This repository is int
 
 [M2.1 — crest diversity and terrain-aware composition](WorldGenerator/M21/README.md): six new crest examples, three fields, uneven terrain test, comparisons and short moving-camera sequences. Awaiting visual approval.
 
+
+[Dune Lab — modular generator and interactive editor](WorldGenerator/DuneLab/README.md) — tool ready for review, morphology not artistically approved.

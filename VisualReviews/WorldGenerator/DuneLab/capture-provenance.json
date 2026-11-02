@@ -1,0 +1,62 @@
+{
+  "capture_type": "Actual Unreal Editor window screenshots, inspected locally",
+  "processing": "Viewport crops, uniform resizing, JPEG compression and captions only. No retouching or generated imagery.",
+  "sources": [
+    {
+      "source_capture": "S1-overview-ui.png",
+      "dimensions": [
+        1656,
+        963
+      ],
+      "sha256": "153be0b149489aecdefeab74edf83107f3dc688b4d42fe463c0a18fa91b89430"
+    },
+    {
+      "source_capture": "S3-overview-ui.png",
+      "dimensions": [
+        1656,
+        963
+      ],
+      "sha256": "bcb49f0ced4040ab2ea1a9516fa8bb9aa9996e749a0a33e640ac3f04c018c55a"
+    },
+    {
+      "source_capture": "S4-gameplay-ui.png",
+      "dimensions": [
+        1656,
+        963
+      ],
+      "sha256": "b98d41954e52c59dbeb0d6ba7c1454cd9ea7e3ca8a1dcbcce61173865d7b4721"
+    },
+    {
+      "source_capture": "S4-overview-ui.png",
+      "dimensions": [
+        1656,
+        963
+      ],
+      "sha256": "15b1ee8925c5fec317e9c66f51f139c4099877f284cb1c6b9cc7980814bfd72a"
+    },
+    {
+      "source_capture": "S4-side-neutral-ui.png",
+      "dimensions": [
+        2560,
+        1400
+      ],
+      "sha256": "86e1e53e65c0aa403f9a36079a7c1715e7e7743b013f7b76dd459974b395f15b"
+    },
+    {
+      "source_capture": "S4-top-neutral-ui.png",
+      "dimensions": [
+        1656,
+        963
+      ],
+      "sha256": "77729f6614cca472bc91e8e416e9501ebc1f5c1063c1e5c3e8fd1a07f8b9dfe5"
+    },
+    {
+      "source_capture": "S4-top-ui.png",
+      "dimensions": [
+        1656,
+        963
+      ],
+      "sha256": "69a21e88c12519c61d98d5235e4a8b3e8304dc3ea3bfa4d1efa60f8a023646bc"
+    }
+  ]
+}

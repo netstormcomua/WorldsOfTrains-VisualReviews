@@ -1,0 +1,275 @@
+{
+  "schema_version": 1,
+  "implementation_version": "m21.1",
+  "preview_area_m": [
+    252,
+    252
+  ],
+  "final_spacing_m": 1,
+  "fast_spacing_m": 2,
+  "displayed_presets": [
+    "S1",
+    "S3",
+    "S4"
+  ],
+  "presets": {
+    "S1": {
+      "schema_version": 1,
+      "generator_id": "single_dune",
+      "implementation_version": "m21.1",
+      "name": "Long sinuous ridge",
+      "seed": 17,
+      "parameters": {
+        "height": 16.0,
+        "width": 218,
+        "length": 75.0,
+        "crest_position": 0.0,
+        "bow": 1,
+        "bend_count": 1.2,
+        "bend_amplitude": 19,
+        "bend_phase": 0.0,
+        "height_variation": 0.18,
+        "height_phase": 0.4,
+        "height_skew": 0.12,
+        "end_taper": 0.9,
+        "lee_slope_deg": 29.0,
+        "leeward_shape": 0.3,
+        "windward_shape": 2.35,
+        "horn_length": 0.0,
+        "horn_asymmetry": 0.1,
+        "smoothness": 2
+      },
+      "transform": {
+        "origin_m": [
+          0.0,
+          0.0
+        ],
+        "yaw_deg": 12.0
+      }
+    },
+    "S2": {
+      "schema_version": 1,
+      "generator_id": "single_dune",
+      "implementation_version": "m21.1",
+      "name": "Broad bowed crest",
+      "seed": 17,
+      "parameters": {
+        "height": 14,
+        "width": 204,
+        "length": 88,
+        "crest_position": 0.0,
+        "bow": 43,
+        "bend_count": 0.5,
+        "bend_amplitude": 5,
+        "bend_phase": 0.0,
+        "height_variation": 0.18,
+        "height_phase": 0.4,
+        "height_skew": -0.22,
+        "end_taper": 0.9,
+        "lee_slope_deg": 29.0,
+        "leeward_shape": 0.3,
+        "windward_shape": 2.35,
+        "horn_length": 0.0,
+        "horn_asymmetry": 0.1,
+        "smoothness": 2
+      },
+      "transform": {
+        "origin_m": [
+          0.0,
+          0.0
+        ],
+        "yaw_deg": 12.0
+      }
+    },
+    "S3": {
+      "schema_version": 1,
+      "generator_id": "single_dune",
+      "implementation_version": "m21.1",
+      "name": "Three soft crest bends",
+      "seed": 17,
+      "parameters": {
+        "height": 12,
+        "width": 224,
+        "length": 64,
+        "crest_position": 0.0,
+        "bow": 0,
+        "bend_count": 2.6,
+        "bend_amplitude": 13,
+        "bend_phase": 0.0,
+        "height_variation": 0.24,
+        "height_phase": 0.4,
+        "height_skew": 0.12,
+        "end_taper": 0.9,
+        "lee_slope_deg": 29.0,
+        "leeward_shape": 0.3,
+        "windward_shape": 2.35,
+        "horn_length": 0.0,
+        "horn_asymmetry": 0.1,
+        "smoothness": 2
+      },
+      "transform": {
+        "origin_m": [
+          0.0,
+          0.0
+        ],
+        "yaw_deg": 12.0
+      }
+    },
+    "S4": {
+      "schema_version": 1,
+      "generator_id": "single_dune",
+      "implementation_version": "m21.1",
+      "name": "Unequal hooked ridge",
+      "seed": 17,
+      "parameters": {
+        "height": 18,
+        "width": 186,
+        "length": 78,
+        "crest_position": 0.0,
+        "bow": 20,
+        "bend_count": 1,
+        "bend_amplitude": 24,
+        "bend_phase": 1.2,
+        "height_variation": 0.18,
+        "height_phase": 0.4,
+        "height_skew": 0.38,
+        "end_taper": 0.9,
+        "lee_slope_deg": 29.0,
+        "leeward_shape": 0.3,
+        "windward_shape": 2.35,
+        "horn_length": 28,
+        "horn_asymmetry": 0.1,
+        "smoothness": 2
+      },
+      "transform": {
+        "origin_m": [
+          0.0,
+          0.0
+        ],
+        "yaw_deg": 12.0
+      }
+    },
+    "S5": {
+      "schema_version": 1,
+      "generator_id": "single_dune",
+      "implementation_version": "m21.1",
+      "name": "Low sand shoulder",
+      "seed": 17,
+      "parameters": {
+        "height": 6.5,
+        "width": 214,
+        "length": 96,
+        "crest_position": 0.0,
+        "bow": 2,
+        "bend_count": 1.5,
+        "bend_amplitude": 9,
+        "bend_phase": 0.0,
+        "height_variation": 0.3,
+        "height_phase": 0.4,
+        "height_skew": 0.12,
+        "end_taper": 1.2,
+        "lee_slope_deg": 23,
+        "leeward_shape": 0.3,
+        "windward_shape": 2.35,
+        "horn_length": 0.0,
+        "horn_asymmetry": 0.1,
+        "smoothness": 2
+      },
+      "transform": {
+        "origin_m": [
+          0.0,
+          0.0
+        ],
+        "yaw_deg": 12.0
+      }
+    },
+    "S6": {
+      "schema_version": 1,
+      "generator_id": "single_dune",
+      "implementation_version": "m21.1",
+      "name": "Tall tapering transverse ridge",
+      "seed": 17,
+      "parameters": {
+        "height": 20,
+        "width": 214,
+        "length": 86,
+        "crest_position": 0.0,
+        "bow": -10,
+        "bend_count": 0.8,
+        "bend_amplitude": 18,
+        "bend_phase": 2.4,
+        "height_variation": 0.26,
+        "height_phase": 0.4,
+        "height_skew": -0.3,
+        "end_taper": 0.9,
+        "lee_slope_deg": 29.0,
+        "leeward_shape": 0.3,
+        "windward_shape": 2.35,
+        "horn_length": 0.0,
+        "horn_asymmetry": 0.1,
+        "smoothness": 2
+      },
+      "transform": {
+        "origin_m": [
+          0.0,
+          0.0
+        ],
+        "yaw_deg": 12.0
+      }
+    }
+  },
+  "cameras_m": {
+    "Overview": {
+      "position": [
+        -190,
+        -215,
+        150
+      ],
+      "target": [
+        0,
+        0,
+        7
+      ],
+      "fov": 48
+    },
+    "Gameplay": {
+      "position": [
+        -130,
+        -130,
+        4.5
+      ],
+      "target": [
+        0,
+        0,
+        8
+      ],
+      "fov": 65
+    },
+    "Top": {
+      "position": [
+        0,
+        0,
+        320
+      ],
+      "target": [
+        0,
+        0,
+        0
+      ],
+      "fov": 48
+    },
+    "Side": {
+      "position": [
+        -170,
+        0,
+        35
+      ],
+      "target": [
+        0,
+        0,
+        8
+      ],
+      "fov": 55
+    }
+  }
+}

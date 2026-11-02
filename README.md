@@ -11,3 +11,5 @@ Public visual review artifacts only: selected Unreal screenshots, comparison col
 [Review index and publication convention](VisualReviews/README.md)
 
 No game source code, Unreal project files, original asset packages, credentials or private project documentation are hosted here.
+
+[Dune Lab — modular generator and interactive editor](VisualReviews/WorldGenerator/DuneLab/README.md) — tool ready for review, morphology not artistically approved.

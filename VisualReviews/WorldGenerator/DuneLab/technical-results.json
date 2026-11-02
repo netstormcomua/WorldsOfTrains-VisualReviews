@@ -1,0 +1,155 @@
+{
+  "date": "2026-11-02",
+  "python": {
+    "S1": {
+      "r16_sha256": "5251b0c329e5b574037245fbb1fb97a89a88e7cdbf9e0b04dee44be14ff8832b",
+      "pinned_field_match": true,
+      "stable_order": true,
+      "instances": 1
+    },
+    "S2": {
+      "r16_sha256": "7e53a111ad67c3f2c28b717ee59bbb94aacb9725687b66cbb1a66ecce2f63efd",
+      "pinned_field_match": true,
+      "stable_order": true,
+      "instances": 1
+    },
+    "S3": {
+      "r16_sha256": "a95defb9cb0306d866ead8c3250ecfc356e2488f4c73ae25617b577d90db318a",
+      "pinned_field_match": true,
+      "stable_order": true,
+      "instances": 1
+    },
+    "S4": {
+      "r16_sha256": "82ee17ee1fad6e61c9458252df499e437029b76ae555b86296c244f59e523c10",
+      "pinned_field_match": true,
+      "stable_order": true,
+      "instances": 1
+    },
+    "S5": {
+      "r16_sha256": "b77f2df15505920b06a1424fdd2a46f7cbba99b2fa4fa3e6579047603bfb251d",
+      "pinned_field_match": true,
+      "stable_order": true,
+      "instances": 1
+    },
+    "S6": {
+      "r16_sha256": "a993e4915ead9ecceee86c8a46ff57ba6366a9287ceb7c9e7334e9e92c6e60a0",
+      "pinned_field_match": true,
+      "stable_order": true,
+      "instances": 1
+    },
+    "T1": {
+      "r16_sha256": "dae2c07e87ede5dee4fc9f2c433fc479d754cb44737cbb4d6d78be2e4437fccb",
+      "pinned_field_match": true,
+      "stable_order": true,
+      "instances": 3
+    },
+    "G1": {
+      "r16_sha256": "5a8859013e105f95a89c1aa6b79ecff8cb1359a2d2e549535bb60b727ed7de6a",
+      "pinned_field_match": true,
+      "stable_order": true,
+      "instances": 9
+    },
+    "G2": {
+      "r16_sha256": "8a86c2de186bbdf37a90683fe8b65752b412805d8284109557c1110cb94d6f81",
+      "pinned_field_match": true,
+      "stable_order": true,
+      "instances": 8
+    },
+    "G3": {
+      "r16_sha256": "fe41546cdaa323f0dbd9277e18df5b0e7c9cda8a1245cf42e8e56c5b6a9c043b",
+      "pinned_field_match": true,
+      "stable_order": true,
+      "instances": 10
+    },
+    "controls_max_delta_m": {
+      "length": 0.6716760061392062,
+      "width": 1.980591785231331,
+      "height": 0.9982295313786373,
+      "bow": 1.5443270718633266,
+      "bend_count": 5.874902736756416,
+      "bend_amplitude": 2.04896006996022,
+      "smoothness": 0.10161291574351594,
+      "height_variation": 2.099504688627456,
+      "horn_length": 1.108613775544165,
+      "horn_asymmetry": 1.3681042022884515,
+      "windward_shape": 0.799563588418291,
+      "lee_slope_deg": 2.293182535428683,
+      "seed": 8.746612329682758,
+      "wind_deg": 9.419497005303453
+    },
+    "preview": {
+      "S1": {
+        "common_vertex_error_m": 0,
+        "fast_interpolated_max_error_m": 0.2441725730895996,
+        "final_seconds": 0.02815330002340488,
+        "boundary_height_m": 0.0
+      },
+      "S2": {
+        "common_vertex_error_m": 0,
+        "fast_interpolated_max_error_m": 0.2394242286682129,
+        "final_seconds": 0.025728600012371317,
+        "boundary_height_m": 0.0
+      },
+      "S3": {
+        "common_vertex_error_m": 0,
+        "fast_interpolated_max_error_m": 0.2179417610168457,
+        "final_seconds": 0.02459329998237081,
+        "boundary_height_m": 0.0
+      },
+      "S4": {
+        "common_vertex_error_m": 0,
+        "fast_interpolated_max_error_m": 0.24779033660888672,
+        "final_seconds": 0.02567929998622276,
+        "boundary_height_m": 0.0
+      },
+      "S5": {
+        "common_vertex_error_m": 0,
+        "fast_interpolated_max_error_m": 0.1536850929260254,
+        "final_seconds": 0.024494699988281354,
+        "boundary_height_m": 0.0
+      },
+      "S6": {
+        "common_vertex_error_m": 0,
+        "fast_interpolated_max_error_m": 0.250058650970459,
+        "final_seconds": 0.02370839999639429,
+        "boundary_height_m": 0.0
+      }
+    },
+    "deterministic": true,
+    "base_not_mutated": true,
+    "masks": true,
+    "world_translation": true,
+    "unknown_version_rejected": true,
+    "preset_roundtrip": true
+  },
+  "unreal": {
+    "reopened": true,
+    "preview_actors": 1,
+    "mesh_sections": 1,
+    "samples": 253,
+    "repeat_apply": 2,
+    "collision_probes": 169,
+    "max_collision_error_cm": 6.103515625e-05,
+    "mesh_sha256": "d43ce48edb8f4b5e4a19f6647e9ef6b544f3aaecfa7426b411f7b9d0ad784bca",
+    "fixture_light_priority_fixed": true
+  },
+  "protected_existing_files": {
+    "checked": 135,
+    "changed": 0
+  },
+  "ui_verified": [
+    "S1/S3/S4 generated from native panel",
+    "height 28m custom preset saved, reset and reloaded",
+    "fast/final modes",
+    "sand/neutral material",
+    "top/overview/gameplay/side cameras",
+    "presentation overlay toggle",
+    "viewport PNG capture",
+    "save level"
+  ],
+  "scope_limits": [
+    "14 parameter responses tested numerically; not an exhaustive UI interaction test for every control",
+    "No packaged build, Railway, new field authoring, gameplay traversal or performance benchmark",
+    "Legacy generation math preserved; no artistic approval claimed"
+  ]
+}
