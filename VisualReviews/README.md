@@ -27,3 +27,5 @@ Selected visual milestone artifacts for Worlds of Trains. This repository is int
 [M22 — 20–50 m single-dune refinement](WorldGenerator/M22/README.md) — awaiting artistic review.
 
 [M23 | C40 crest and terrain review](WorldGenerator/M23/README.md)
+
+[M24 | Three desert Landscapes and streaming review](WorldGenerator/M24/README.md)

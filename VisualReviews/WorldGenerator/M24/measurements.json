@@ -1,0 +1,423 @@
+{
+  "field": "m24.1",
+  "single": "m23.1",
+  "terrain": "m24.1",
+  "units": "metres unless marked",
+  "compositions": {
+    "A": {
+      "seed": 2417,
+      "design_heights_m": [
+        42,
+        21.84,
+        10.08,
+        34,
+        17.68,
+        47,
+        24.44,
+        11.28,
+        32,
+        16.64,
+        7.68,
+        46,
+        23.92,
+        34,
+        17.68,
+        8.16,
+        45,
+        23.4,
+        10.8,
+        37,
+        19.24,
+        38,
+        19.76,
+        9.12
+      ],
+      "camera_specs": {
+        "01_valley": {
+          "position": [
+            -105,
+            -242,
+            8.103515625
+          ],
+          "target": [
+            -34,
+            110,
+            26
+          ],
+          "fov": 72
+        },
+        "02_reverse": {
+          "position": [
+            75,
+            182,
+            28.576171875
+          ],
+          "target": [
+            -160,
+            -110,
+            28
+          ],
+          "fov": 75
+        },
+        "03_seam": {
+          "position": [
+            -38,
+            -48,
+            10.99609375
+          ],
+          "target": [
+            55,
+            110,
+            19
+          ],
+          "fov": 74
+        },
+        "04_elevated": {
+          "position": [
+            -348,
+            -422,
+            209.0703125
+          ],
+          "target": [
+            18,
+            72,
+            13
+          ],
+          "fov": 70
+        }
+      },
+      "regions": 16,
+      "core_r16_sha256": "b3f0b7ab7c770337e6e48ea98ad3a0c31586439a616c208e4beab3ee2c575858",
+      "terrain_height_range_m": [
+        3.26171875,
+        68.71484375
+      ],
+      "max_occupied_base_deg": 14.854659017147132,
+      "changed_regions": [
+        "NE"
+      ],
+      "collision_error_cm": 0.06783410105526855,
+      "probes": 384,
+      "profile": {
+        "whole_repeat_s": 10.714738999959081,
+        "peak_working_set_mib": 421.203125,
+        "NE_repeat_s": 5.29636020003818,
+        "NE_intersecting_instances": 11,
+        "all_16_hashes_reproduced": true
+      },
+      "static_capture": {
+        "pass": true,
+        "landscapes": 16,
+        "preview_actors": 0,
+        "screenshots": 4,
+        "frame_samples": 600,
+        "mean_ms": 16.667417002220947,
+        "p95_ms": 16.667097806930542,
+        "peak_ram_mb": 2442.8359375,
+        "scope": "Editor game DX11; settled static cameras; capture frames excluded; not packaged or moving gameplay"
+      }
+    },
+    "B": {
+      "seed": 2489,
+      "design_heights_m": [
+        32,
+        16.64,
+        7.68,
+        43,
+        22.36,
+        38,
+        19.76,
+        9.12,
+        49,
+        25.48,
+        11.76,
+        45,
+        23.4,
+        34,
+        17.68,
+        8.16,
+        43,
+        22.36,
+        10.32,
+        37,
+        19.24,
+        36,
+        18.72,
+        8.64
+      ],
+      "camera_specs": {
+        "01_valley": {
+          "position": [
+            -105,
+            -242,
+            16.529296875
+          ],
+          "target": [
+            -34,
+            110,
+            26
+          ],
+          "fov": 72
+        },
+        "02_reverse": {
+          "position": [
+            75,
+            182,
+            18.751953125
+          ],
+          "target": [
+            -160,
+            -110,
+            28
+          ],
+          "fov": 75
+        },
+        "03_seam": {
+          "position": [
+            -38,
+            -48,
+            33.8125
+          ],
+          "target": [
+            55,
+            110,
+            19
+          ],
+          "fov": 74
+        },
+        "04_elevated": {
+          "position": [
+            -348,
+            -422,
+            208.5078125
+          ],
+          "target": [
+            18,
+            72,
+            13
+          ],
+          "fov": 70
+        }
+      },
+      "regions": 16,
+      "core_r16_sha256": "aad62f6ccb9ed4b65653345a6b6c163f9a9035061c1e2080e65f550b1a7bca3f",
+      "terrain_height_range_m": [
+        3.22265625,
+        71.107421875
+      ],
+      "max_occupied_base_deg": 14.213027204654212,
+      "changed_regions": [
+        "NE"
+      ],
+      "collision_error_cm": 0.05502188715945522,
+      "probes": 384,
+      "profile": {
+        "whole_repeat_s": 9.707272899977397,
+        "peak_working_set_mib": 375.34765625,
+        "NE_repeat_s": 5.67334799998207,
+        "NE_intersecting_instances": 15,
+        "all_16_hashes_reproduced": true
+      },
+      "static_capture": {
+        "pass": true,
+        "landscapes": 16,
+        "preview_actors": 0,
+        "screenshots": 4,
+        "frame_samples": 601,
+        "mean_ms": 16.667112646106872,
+        "p95_ms": 16.667097806930542,
+        "peak_ram_mb": 1517.62890625,
+        "scope": "Editor game DX11; settled static cameras; capture frames excluded; not packaged or moving gameplay"
+      }
+    },
+    "C": {
+      "seed": 2459,
+      "design_heights_m": [
+        45,
+        23.4,
+        10.8,
+        34,
+        17.68,
+        44,
+        22.88,
+        10.56,
+        49,
+        25.48,
+        11.76,
+        40,
+        20.8,
+        37,
+        19.24,
+        8.88,
+        34,
+        17.68,
+        8.16,
+        43,
+        22.36,
+        42,
+        21.84,
+        10.08
+      ],
+      "camera_specs": {
+        "01_valley": {
+          "position": [
+            -105,
+            -242,
+            17.365234375
+          ],
+          "target": [
+            -34,
+            110,
+            26
+          ],
+          "fov": 72
+        },
+        "02_reverse": {
+          "position": [
+            75,
+            182,
+            15.841796875
+          ],
+          "target": [
+            -160,
+            -110,
+            28
+          ],
+          "fov": 75
+        },
+        "03_seam": {
+          "position": [
+            -38,
+            -48,
+            21.46484375
+          ],
+          "target": [
+            55,
+            110,
+            19
+          ],
+          "fov": 74
+        },
+        "04_elevated": {
+          "position": [
+            -348,
+            -422,
+            208.6171875
+          ],
+          "target": [
+            18,
+            72,
+            13
+          ],
+          "fov": 70
+        }
+      },
+      "regions": 16,
+      "core_r16_sha256": "c8aa686cf4db4a83f474fcf545d087de113290bbbc4831338965c65aa4c30500",
+      "terrain_height_range_m": [
+        3.5859375,
+        75.853515625
+      ],
+      "max_occupied_base_deg": 14.40907848793821,
+      "changed_regions": [
+        "NE"
+      ],
+      "collision_error_cm": 0.05816906042582559,
+      "probes": 384,
+      "profile": {
+        "whole_repeat_s": 9.20608449995052,
+        "peak_working_set_mib": 386.75,
+        "NE_repeat_s": 3.6820051000104286,
+        "NE_intersecting_instances": 10,
+        "all_16_hashes_reproduced": true
+      },
+      "static_capture": {
+        "pass": true,
+        "landscapes": 16,
+        "preview_actors": 0,
+        "screenshots": 4,
+        "frame_samples": 599,
+        "mean_ms": 16.66691569682951,
+        "p95_ms": 16.667000949382782,
+        "peak_ram_mb": 2671.8046875,
+        "scope": "Editor game DX11; settled static cameras; capture frames excluded; not packaged or moving gameplay"
+      }
+    }
+  },
+  "streaming": {
+    "core_components": 256,
+    "unloaded_probe_actor": "none",
+    "descriptor_unloaded": true,
+    "unloaded_absent": true,
+    "neighbor_still_collides": true,
+    "reloaded_and_visible": true,
+    "reload_height_error_cm": 0,
+    "seam_pairs": 242,
+    "min_collision_normal_dot": 0.991273351788426,
+    "max_step_across_20cm_cm": 11.253905653946276,
+    "pass": true
+  },
+  "local_edit": {
+    "changed_probe_m": 3.9082378452353805,
+    "protected_A_packages": 5,
+    "reference_restored": true,
+    "steep_xy": [
+      116,
+      153
+    ],
+    "base_slope_deg": 14.854659017147132,
+    "steep_collision_error_cm": 0.035879563401977066
+  },
+  "motion": {
+    "pass": true,
+    "frames": 72,
+    "fps": 24,
+    "collision_checks": 72,
+    "minimum_clearance_cm": 450.0000059605554,
+    "p95_capture_tick_ms": 219.9971923828125,
+    "peak_ram_mb": 2639.45703125,
+    "scope": "Offline sampled moving camera, 24fps playback. Capture timings include screenshot overhead; not gameplay benchmark."
+  },
+  "railway_proposal": {
+    "layout": "A",
+    "sample_step_y_m": 5,
+    "length_m": 624.2997291639532,
+    "railhead_proposal_grade_pct": 1.4999999999999998,
+    "max_cut_m": 1.931478653859024,
+    "max_fill_m": 1.884119404079283,
+    "max_dune_contribution_m": 0.27317100077452316,
+    "points_m": [
+      [
+        11.32,
+        -300,
+        4.71
+      ],
+      [
+        11.48,
+        -175,
+        6.59
+      ],
+      [
+        6.97,
+        -50,
+        8.47
+      ],
+      [
+        7.51,
+        75,
+        10.34
+      ],
+      [
+        21.03,
+        200,
+        12.23
+      ],
+      [
+        49.26,
+        320,
+        14.08
+      ]
+    ],
+    "note": "Planning centerline only. Dimensions, spline fit and railhead/ballast datum require verification with real rolling stock."
+  }
+}
