@@ -1,0 +1,338 @@
+{
+  "D1": {
+    "count": 24,
+    "cameras": {
+      "01_overview": {
+        "position": [
+          320,
+          -390,
+          350.107421875
+        ],
+        "target": [
+          5,
+          24,
+          15
+        ],
+        "fov": 72
+      },
+      "02_gameplay": {
+        "position": [
+          -36,
+          -256,
+          8.59765625
+        ],
+        "target": [
+          -75,
+          -25,
+          23
+        ],
+        "fov": 72
+      },
+      "03_train": {
+        "position": [
+          -43,
+          -290,
+          6.69296875
+        ],
+        "target": [
+          22,
+          -245,
+          8
+        ],
+        "fov": 72
+      },
+      "04_along": {
+        "position": [
+          -2,
+          -180,
+          10.052734375
+        ],
+        "target": [
+          54,
+          210,
+          18
+        ],
+        "fov": 72
+      },
+      "05_across": {
+        "position": [
+          72,
+          48,
+          26.4296875
+        ],
+        "target": [
+          -182,
+          120,
+          23
+        ],
+        "fov": 72
+      }
+    },
+    "coverage_pct_above_3m": 32.84581143947254,
+    "median_lateral_distance_to_5m_relief_m": 166.0,
+    "lateral_probe_count": 132,
+    "core_sha256": "bbdf9fdf818da02e2900676a417063c925ad796a6a265cf2aa36bc69046363f7",
+    "route_30m_exact": true,
+    "max_extra_m": 0.0,
+    "world": {
+      "reopened": true,
+      "route_m": 624.370234375,
+      "tracks": 2,
+      "cameras": 5
+    },
+    "wiring": {
+      "reciprocal_reopened": true
+    },
+    "drive": {
+      "travel_m": 513.6053125,
+      "rise_m": 7.703212971734261,
+      "peak_speed_mps": 17.106700897216797,
+      "max_wheel_z_residual_cm": 0.004519124049693346,
+      "wheel_bindings": true,
+      "junction_crossed": true,
+      "p95_ms_with_capture": 7.281098365783691,
+      "samples": 5415,
+      "peak_ram_mib": 3171.76171875,
+      "motion_frames": 48,
+      "exited": true,
+      "reset": true,
+      "result": "completed",
+      "pass": true
+    },
+    "stills": {
+      "pass": true,
+      "landscapes": 16,
+      "preview_actors": 0,
+      "screenshots": 5,
+      "frame_samples": 2055,
+      "mean_ms": 6.080575133254638,
+      "p95_ms": 7.534399628639221,
+      "peak_ram_mb": 3017.25,
+      "scope": "Editor game DX11; settled static cameras; capture frames excluded; not packaged or moving gameplay"
+    }
+  },
+  "D2": {
+    "count": 32,
+    "cameras": {
+      "01_overview": {
+        "position": [
+          320,
+          -390,
+          350.107421875
+        ],
+        "target": [
+          5,
+          24,
+          15
+        ],
+        "fov": 72
+      },
+      "02_gameplay": {
+        "position": [
+          -36,
+          -256,
+          8.6015625
+        ],
+        "target": [
+          -75,
+          -25,
+          23
+        ],
+        "fov": 72
+      },
+      "03_train": {
+        "position": [
+          -43,
+          -290,
+          6.69296875
+        ],
+        "target": [
+          22,
+          -245,
+          8
+        ],
+        "fov": 72
+      },
+      "04_along": {
+        "position": [
+          -2,
+          -180,
+          10.052734375
+        ],
+        "target": [
+          54,
+          210,
+          18
+        ],
+        "fov": 72
+      },
+      "05_across": {
+        "position": [
+          72,
+          48,
+          26.4296875
+        ],
+        "target": [
+          -182,
+          120,
+          23
+        ],
+        "fov": 72
+      }
+    },
+    "coverage_pct_above_3m": 61.667391813648386,
+    "median_lateral_distance_to_5m_relief_m": 71.0,
+    "lateral_probe_count": 132,
+    "core_sha256": "97bea1111eea1925219c15eda5b6472ba44298b83c8d88a35aeab494669c9e26",
+    "route_30m_exact": true,
+    "max_extra_m": 30.619282967889593,
+    "world": {
+      "reopened": true,
+      "route_m": 624.370234375,
+      "tracks": 2,
+      "cameras": 5
+    },
+    "wiring": {
+      "reciprocal_reopened": true
+    },
+    "drive": {
+      "travel_m": 513.554140625,
+      "rise_m": 7.702446096037911,
+      "peak_speed_mps": 17.11249542236328,
+      "max_wheel_z_residual_cm": 0.00452716089785099,
+      "wheel_bindings": true,
+      "junction_crossed": true,
+      "p95_ms_with_capture": 7.742699146270752,
+      "samples": 5014,
+      "peak_ram_mib": 3105.35546875,
+      "motion_frames": 48,
+      "exited": true,
+      "reset": true,
+      "result": "completed",
+      "pass": true
+    },
+    "stills": {
+      "pass": true,
+      "landscapes": 16,
+      "preview_actors": 0,
+      "screenshots": 5,
+      "frame_samples": 2115,
+      "mean_ms": 5.908743498173166,
+      "p95_ms": 7.505800575017929,
+      "peak_ram_mb": 3022.9375,
+      "scope": "Editor game DX11; settled static cameras; capture frames excluded; not packaged or moving gameplay"
+    }
+  },
+  "D3": {
+    "count": 44,
+    "cameras": {
+      "01_overview": {
+        "position": [
+          320,
+          -390,
+          350.107421875
+        ],
+        "target": [
+          5,
+          24,
+          15
+        ],
+        "fov": 72
+      },
+      "02_gameplay": {
+        "position": [
+          -36,
+          -256,
+          8.6015625
+        ],
+        "target": [
+          -75,
+          -25,
+          23
+        ],
+        "fov": 72
+      },
+      "03_train": {
+        "position": [
+          -43,
+          -290,
+          6.69296875
+        ],
+        "target": [
+          22,
+          -245,
+          8
+        ],
+        "fov": 72
+      },
+      "04_along": {
+        "position": [
+          -2,
+          -180,
+          10.052734375
+        ],
+        "target": [
+          54,
+          210,
+          18
+        ],
+        "fov": 72
+      },
+      "05_across": {
+        "position": [
+          72,
+          48,
+          26.4296875
+        ],
+        "target": [
+          -182,
+          120,
+          23
+        ],
+        "fov": 72
+      }
+    },
+    "coverage_pct_above_3m": 72.26480136550755,
+    "median_lateral_distance_to_5m_relief_m": 59.0,
+    "lateral_probe_count": 132,
+    "core_sha256": "f0443bae5fe97b20666d3e1ad1e24c268d5d451fbc8564f83dfe15ae6c2db85e",
+    "route_30m_exact": true,
+    "max_extra_m": 30.619282967889593,
+    "world": {
+      "reopened": true,
+      "route_m": 624.370234375,
+      "tracks": 2,
+      "cameras": 5
+    },
+    "wiring": {
+      "reciprocal_reopened": true
+    },
+    "drive": {
+      "travel_m": 513.5561328125,
+      "rise_m": 7.7024756419598885,
+      "peak_speed_mps": 17.119632720947266,
+      "max_wheel_z_residual_cm": 0.004525117576122284,
+      "wheel_bindings": true,
+      "junction_crossed": true,
+      "p95_ms_with_capture": 8.0733003616333,
+      "samples": 4733,
+      "peak_ram_mib": 3171.0390625,
+      "motion_frames": 48,
+      "exited": true,
+      "reset": true,
+      "result": "completed",
+      "pass": true
+    },
+    "stills": {
+      "pass": true,
+      "landscapes": 16,
+      "preview_actors": 0,
+      "screenshots": 5,
+      "frame_samples": 2029,
+      "mean_ms": 6.161427399820151,
+      "p95_ms": 7.88160040974617,
+      "peak_ram_mb": 3040.29296875,
+      "scope": "Editor game DX11; settled static cameras; capture frames excluded; not packaged or moving gameplay"
+    }
+  }
+}

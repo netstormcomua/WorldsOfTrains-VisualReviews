@@ -23,3 +23,5 @@ No game source code, Unreal project files, original asset packages, credentials 
 [M25 | Mammoth through the low valley](VisualReviews/WorldGenerator/M25/README.md)
 
 [M26 | Vertical scale laboratory](VisualReviews/WorldGenerator/M26/README.md)
+
+[M27 | World layouts and playable valley density](VisualReviews/WorldGenerator/M27/README.md)
