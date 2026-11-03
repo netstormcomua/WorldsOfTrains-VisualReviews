@@ -1,0 +1,65 @@
+{
+  "route_length_m": 624.370234375,
+  "ground": {
+    "reopened": true,
+    "probes": 1260,
+    "max_bed_error_cm": 0.24413215467143345,
+    "max_grade_pct": 1.5000254149428087,
+    "min_radius_m": 679.2800367440558,
+    "min_railhead_minus_ground_cm_at_6m": 67.8386107892602,
+    "persistent_track_guids": [
+      "9D21E25548899B8B75A21380E9329F51",
+      "643386F54CFD6F3AD32678B3ED5C5988"
+    ],
+    "generated_sections": 26,
+    "protected_packages": 17
+  },
+  "grade": {
+    "tiles": [
+      {
+        "tile": "SW",
+        "changed": 2251,
+        "cut_m": 1.2487473048207187,
+        "fill_m": 1.2141678343364397
+      },
+      {
+        "tile": "SE",
+        "changed": 8744,
+        "cut_m": 2.8566975439255016,
+        "fill_m": 1.316264898362272
+      },
+      {
+        "tile": "NW",
+        "changed": 1994,
+        "cut_m": 1.7204065862875861,
+        "fill_m": 0.47080144319046546
+      },
+      {
+        "tile": "NE",
+        "changed": 11775,
+        "cut_m": 2.838659592890526,
+        "fill_m": 0.7482056651988351
+      }
+    ],
+    "bed_half_width_m": 4.009141845703125,
+    "rail_depth_m": 0.7515393447875977,
+    "embed_m": 0.035,
+    "seams_equal": true
+  },
+  "runtime": {
+    "travel_m": 513.66140625,
+    "rise_m": 7.704054134885687,
+    "peak_speed_mps": 17.23939323425293,
+    "max_wheel_z_residual_cm": 0.004515031352639198,
+    "wheel_bindings": true,
+    "junction_crossed": true,
+    "p95_ms_with_capture": 8.701801300048828,
+    "samples": 4694,
+    "peak_ram_mib": 3457.33984375,
+    "motion_frames": 48,
+    "exited": true,
+    "reset": true,
+    "result": "completed",
+    "pass": true
+  }
+}

@@ -1,0 +1,27 @@
+# Vertical desert and panoramic railway roadmap
+
+## Scale and composition
+
+Use 2–25 m for small dunes, 25–100 m for large dunes, 100–300 m for giants and 300–600 m for megadunes. Exceptional fictional massifs around 1,000 m or taller are a feasibility question. These are art-direction bands. Keep the versioned M23 single-dune and M24 field presets intact. New dimensional ranges require explicit validated presets and versions. A valley with a low horizon can be as important as a towering wall. Contrast intimate cuts and open basins with occasional multi-kilometre silhouettes. In low train shots use the train and track as near-scale references, secondary ridges across the middle distance and a crest partially beyond the field of view. From above, reveal the relation between valley and massif.
+
+## Optional massif module
+
+Desert Terrain selects a compound macroform alongside ordinary dune fields. Inputs are version, seed, world-space footprint, wind, relief, dimensioned windward/lee shoulders, protected zones and corridor data. Output is a bounded world-space height contribution plus its influence extent. Form a broad, curved asymmetric ridge over a low-frequency base, then place secondary ridges with pinned field/single-dune implementations. Blend into the surrounding terrain once and apply railway grading last. Keep renderer LOD separate from deterministic sampling. A 1,000 m feature with a 10–15° windward and 30° lee face needs roughly 5.5–7.4 km across those two runs before the toes. It cannot be judged inside the current 1 km test square.
+
+## Encoding, streaming and performance
+
+M24 uses metre-spaced samples, 505 samples per core tile, common Z scale 25 and datum +16 m. The unsigned 16-bit height step is 1.95 mm and representable elevations are approximately −48 to +80 m. For a separate vertical test, Z scale 250 and datum +550 m give a 1.95 cm step and about −90 to +1,190 m. Z scale 320 gives a 2.50 cm step and about 1,638 m total relief. Choose one datum/scale across adjoining regions, reject overflows before quantization and include valley floors and construction cuts in the bounds.
+
+Sample macro relief on a proposed 4–8 m calculation grid. Retain 1 m final samples near rails where the bed, physics and silhouette demand it. Compare against a dense reference before choosing far-field spacing. An 8 × 8 km heightfield at 1 m needs about 122 MiB just for one uint16 channel. Budget working arrays, collision, textures, renderer and streamed proxies separately. Bound work by tile and influence footprint. Regenerate the union of old/new extents plus a normal halo and hash untouched tiles. Test independent cells with the same world-coordinate samples, cross-LOD normals and oblique silhouettes from a moving train. Measure CPU generation time, working set, VRAM, frame p95, collision error and unload/reload hitches in a packaged build. M24's four streamed core sublevels do not establish World Partition behaviour at this scale.
+
+## Route concept
+
+Retain the M25 low valley for the small loop. Beyond its north end, survey an adjoining saddle and a broad shoulder for the large loop. A future turnout before the climb and a return connection after the descent should allow both closed itineraries. Keep stable track GUIDs and reciprocal endpoint topology with references validated on streaming. Work in existing Railway splines. Screen alignments for grade, vertical curves, lateral acceleration, camera/vehicle swept clearance and cut/fill. Rejoin at compatible elevation and heading. Reserve enough level length for switches and stopping. Keep the railway on the flank and leave the summit as scenery.
+
+At a sustained 1.5%, gaining 100 m needs 6.67 km and 250 m needs 16.67 km horizontally, before transition curves. At 1% those climbs need 10 and 25 km. Descent needs comparable distance. Start with +100 m and check fit in the planned 10 × 10 km world. Sightline value, service speed and return-loop geometry decide whether to attempt +250 m. M25 measured the existing spline dynamics on a modest uphill section. The vehicle's longitudinal update combines traction, braking and rolling resistance and contains no explicit gravity term for grade. Do not infer real climbing performance or downhill braking distance from this test.
+
+## Independent milestones after M25 review
+
+1. **Vertical-scale laboratory.** Compare 100 / 300 / 500 / 1,000 m with proportionate footprints. Capture fixed 4.5 m train-height cameras, elevated views, a moving lateral shot and a distance-normalized view with the same FOV and reference vehicle. Report requested versus measured relief, footprint, horizon readability, precision, mesh/physics LOD, seam errors, peak memory and frame pacing. Reject clipped heights, floaters, step changes at boundaries or regeneration spilling into protected track.
+2. **Scenic ascent experiment.** Independently survey a contour climb to +100 m, plateau reveal, descent and return connection. Validate loaded endpoint handles, both directions, low-speed start, service and emergency braking, longest-vehicle clearance and camera swing, including save/reopen and approach to unloaded track. Publish actual low and high viewpoints and measured loop lengths/grades/radii before considering +250 m.
+3. **Biome adoption.** Pin only accepted modules and tested operating envelopes. Integrate ordinary fields, selected massifs and protected small/large loops with local regeneration and a streaming regression route. Keep the rare highest massifs outside the train alignment.
