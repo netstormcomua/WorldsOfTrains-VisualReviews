@@ -1,0 +1,714 @@
+{
+  "100": {
+    "height_m": 100,
+    "spacing_m": 2.1269132768870604,
+    "footprint_m": [
+      1322.9400582237515,
+      769.9426062331158
+    ],
+    "peak_xy_m": [
+      27.649872599531786,
+      -29.776785876418845
+    ],
+    "train": [
+      0,
+      -317.24489944154374,
+      0.72
+    ],
+    "cameras": {
+      "01_train": {
+        "position": [
+          -79,
+          -403.24489944154374,
+          4.5
+        ],
+        "target": [
+          28,
+          -244.24489944154374,
+          18
+        ],
+        "fov": 75,
+        "horizontal_distance_to_summit_m": 388.4
+      },
+      "02_base": {
+        "position": [
+          65.64987259953179,
+          -305.24489944154374,
+          4.5
+        ],
+        "target": [
+          27.649872599531786,
+          -29.776785876418845,
+          70.0
+        ],
+        "fov": 75,
+        "horizontal_distance_to_summit_m": 278.08
+      },
+      "03_distant": {
+        "position": [
+          138.24936299765892,
+          -1297.4170989011068,
+          46.0
+        ],
+        "target": [
+          0,
+          42.53826553774121,
+          42.0
+        ],
+        "fov": 75,
+        "horizontal_distance_to_summit_m": 1272.46
+      },
+      "04_panorama": {
+        "position": [
+          -414.74808899297676,
+          202.05676130427074,
+          111.3809732074593
+        ],
+        "target": [
+          127.61479661322363,
+          -42.53826553774121,
+          45.0
+        ],
+        "fov": 75,
+        "horizontal_distance_to_summit_m": 499.46
+      },
+      "05_aerial": {
+        "position": [
+          776.3233460637771,
+          -786.9579124482124,
+          355.0
+        ],
+        "target": [
+          0,
+          31.903699153305908,
+          42.0
+        ],
+        "fov": 75,
+        "horizontal_distance_to_summit_m": 1064.82
+      },
+      "06_fixed": {
+        "position": [
+          27.649872599531786,
+          -1679.776785876419,
+          4.5
+        ],
+        "target": [
+          27.649872599531786,
+          -29.776785876418845,
+          60.0
+        ],
+        "fov": 75,
+        "horizontal_distance_to_summit_m": 1650.0
+      }
+    },
+    "bounds_m": [
+      -1071.9642915510785,
+      1071.9642915510785
+    ],
+    "generation_s": 2.7107422999688424,
+    "peak_working_set_mib": 315.03125,
+    "local_repeat": true,
+    "edge_samples_equal": true,
+    "encoded_min": 4608,
+    "encoded_max": 9728,
+    "max_quantization_error_m": 0.009765614593375993,
+    "stills": {
+      "pass": true,
+      "landscapes": 12,
+      "preview_actors": 0,
+      "screenshots": 6,
+      "gpu_p95_ms": 6.408199787139893,
+      "gpu_samples": 2642,
+      "frame_samples": 2642,
+      "mean_ms": 5.678424108308161,
+      "p95_ms": 6.807297468185425,
+      "peak_ram_mb": 2885.94140625,
+      "scope": "Editor game DX11; settled static cameras; capture frames excluded; not packaged or moving gameplay"
+    },
+    "motion": {
+      "pass": true,
+      "frames": 48,
+      "fps": 24,
+      "collision_checks": 48,
+      "minimum_clearance_cm": 550,
+      "p95_capture_tick_ms": 239.87010192871094,
+      "peak_ram_mb": 2894.6640625,
+      "scope": "Offline sampled moving camera, 24fps playback. Capture timings include screenshot overhead; not gameplay benchmark."
+    },
+    "stream": {
+      "core_components": 256,
+      "unloaded_probe_actor": "none",
+      "descriptor_unloaded": true,
+      "unloaded_absent": true,
+      "neighbor_still_collides": true,
+      "reloaded_and_visible": true,
+      "reload_height_error_cm": 0,
+      "seam_pairs": 242,
+      "min_collision_normal_dot": 0.9653147575146572,
+      "max_step_across_20cm_cm": 11.210723728785524,
+      "pass": true
+    },
+    "author": {
+      "reopened": true,
+      "landscapes": 4,
+      "landscape_components": 256,
+      "collision_probes": 24,
+      "max_collision_error_cm": 0.06794933190394659
+    },
+    "local_edit": {
+      "unchanged_tiles": [
+        "NE",
+        "SE",
+        "SW"
+      ],
+      "changed_NW_samples": 5741,
+      "local_equals_full": true,
+      "slope_max_deg": 37.61775127185336,
+      "coarse4_error_max_m": 1.0791015625,
+      "coarse4_nonflat_p95_m": 0.2587890625
+    },
+    "physical": {
+      "actual_relief_m": 99.99873247510783,
+      "actual_summit_z_m": 99.99873247510769,
+      "min_train_ground_m": -1.4551915228366852e-13,
+      "max_train_ground_m": -1.4551915228366852e-13,
+      "core_components": 256,
+      "horizon_components": 8,
+      "reopened": true
+    }
+  },
+  "300": {
+    "height_m": 300,
+    "spacing_m": 6.380739830661181,
+    "footprint_m": [
+      3968.8201746712543,
+      2309.8278186993475
+    ],
+    "peak_xy_m": [
+      82.94961779859536,
+      -89.33035762925653
+    ],
+    "train": [
+      0,
+      -861.7346983246312,
+      0.72
+    ],
+    "cameras": {
+      "01_train": {
+        "position": [
+          -79,
+          -947.7346983246312,
+          4.5
+        ],
+        "target": [
+          28,
+          -788.7346983246312,
+          18
+        ],
+        "fov": 75,
+        "horizontal_distance_to_summit_m": 873.55
+      },
+      "02_base": {
+        "position": [
+          120.94961779859536,
+          -849.7346983246312,
+          4.5
+        ],
+        "target": [
+          82.94961779859536,
+          -89.33035762925653,
+          210.0
+        ],
+        "fov": 75,
+        "horizontal_distance_to_summit_m": 761.35
+      },
+      "03_distant": {
+        "position": [
+          414.74808899297676,
+          -3892.2512967033203,
+          138.0
+        ],
+        "target": [
+          0,
+          127.61479661322362,
+          126.0
+        ],
+        "fov": 75,
+        "horizontal_distance_to_summit_m": 3817.37
+      },
+      "04_panorama": {
+        "position": [
+          -1244.2442669789302,
+          606.1702839128122,
+          334.1429196223779
+        ],
+        "target": [
+          382.84438983967084,
+          -127.61479661322362,
+          135.0
+        ],
+        "fov": 75,
+        "horizontal_distance_to_summit_m": 1498.39
+      },
+      "05_aerial": {
+        "position": [
+          2328.9700381913312,
+          -2360.873737344637,
+          1065.0
+        ],
+        "target": [
+          0,
+          95.71109745991771,
+          126.0
+        ],
+        "fov": 75,
+        "horizontal_distance_to_summit_m": 3194.45
+      },
+      "06_fixed": {
+        "position": [
+          82.94961779859536,
+          -1739.3303576292565,
+          4.5
+        ],
+        "target": [
+          82.94961779859536,
+          -89.33035762925653,
+          180.0
+        ],
+        "fov": 75,
+        "horizontal_distance_to_summit_m": 1650.0
+      }
+    },
+    "bounds_m": [
+      -3215.892874653235,
+      3215.892874653235
+    ],
+    "generation_s": 2.634145400021225,
+    "peak_working_set_mib": 315.015625,
+    "local_repeat": true,
+    "edge_samples_equal": true,
+    "encoded_min": 4608,
+    "encoded_max": 19968,
+    "max_quantization_error_m": 0.009765593780127091,
+    "stills": {
+      "pass": true,
+      "landscapes": 12,
+      "preview_actors": 0,
+      "screenshots": 6,
+      "gpu_p95_ms": 7.166500091552734,
+      "gpu_samples": 2442,
+      "frame_samples": 2442,
+      "mean_ms": 6.143242425844378,
+      "p95_ms": 7.527999579906464,
+      "peak_ram_mb": 2898.14453125,
+      "scope": "Editor game DX11; settled static cameras; capture frames excluded; not packaged or moving gameplay"
+    },
+    "motion": {
+      "pass": true,
+      "frames": 48,
+      "fps": 24,
+      "collision_checks": 48,
+      "minimum_clearance_cm": 550,
+      "p95_capture_tick_ms": 238.96969604492188,
+      "peak_ram_mb": 2876.421875,
+      "scope": "Offline sampled moving camera, 24fps playback. Capture timings include screenshot overhead; not gameplay benchmark."
+    },
+    "stream": {
+      "core_components": 256,
+      "unloaded_probe_actor": "none",
+      "descriptor_unloaded": true,
+      "unloaded_absent": true,
+      "neighbor_still_collides": true,
+      "reloaded_and_visible": true,
+      "reload_height_error_cm": 0,
+      "seam_pairs": 242,
+      "min_collision_normal_dot": 0.9998775416233822,
+      "max_step_across_20cm_cm": 7.129561753929011,
+      "pass": true
+    },
+    "author": {
+      "reopened": true,
+      "landscapes": 4,
+      "landscape_components": 256,
+      "collision_probes": 24,
+      "max_collision_error_cm": 0.12097346180235036
+    },
+    "local_edit": {
+      "unchanged_tiles": [
+        "NE",
+        "SE",
+        "SW"
+      ],
+      "changed_NW_samples": 5866,
+      "local_equals_full": true,
+      "slope_max_deg": 37.61775127185336,
+      "coarse4_error_max_m": 3.22265625,
+      "coarse4_nonflat_p95_m": 0.78125
+    },
+    "physical": {
+      "actual_relief_m": 299.99999478821223,
+      "actual_summit_z_m": 299.99999478821206,
+      "min_train_ground_m": -1.4551915228366852e-13,
+      "max_train_ground_m": -1.4551915228366852e-13,
+      "core_components": 256,
+      "horizon_components": 8,
+      "reopened": true
+    }
+  },
+  "500": {
+    "height_m": 500,
+    "spacing_m": 10.634566384435303,
+    "footprint_m": [
+      6614.700291118758,
+      3849.7130311655797
+    ],
+    "peak_xy_m": [
+      138.24936299765892,
+      -148.88392938209424
+    ],
+    "train": [
+      0,
+      -1406.2244972077187,
+      0.72
+    ],
+    "cameras": {
+      "01_train": {
+        "position": [
+          -79,
+          -1492.2244972077187,
+          4.5
+        ],
+        "target": [
+          28,
+          -1333.2244972077187,
+          18
+        ],
+        "fov": 75,
+        "horizontal_distance_to_summit_m": 1360.79
+      },
+      "02_base": {
+        "position": [
+          176.24936299765892,
+          -1394.2244972077187,
+          4.5
+        ],
+        "target": [
+          138.24936299765892,
+          -148.88392938209424,
+          350.0
+        ],
+        "fov": 75,
+        "horizontal_distance_to_summit_m": 1245.92
+      },
+      "03_distant": {
+        "position": [
+          691.2468149882947,
+          -6487.085494505534,
+          230.0
+        ],
+        "target": [
+          0,
+          212.69132768870605,
+          210.0
+        ],
+        "fov": 75,
+        "horizontal_distance_to_summit_m": 6362.28
+      },
+      "04_panorama": {
+        "position": [
+          -2073.740444964884,
+          1010.2838065213538,
+          556.9048660372965
+        ],
+        "target": [
+          638.0739830661182,
+          -212.69132768870605,
+          225.0
+        ],
+        "fov": 75,
+        "horizontal_distance_to_summit_m": 2497.31
+      },
+      "05_aerial": {
+        "position": [
+          3881.6167303188854,
+          -3934.789562241062,
+          1775.0
+        ],
+        "target": [
+          0,
+          159.51849576652955,
+          210.0
+        ],
+        "fov": 75,
+        "horizontal_distance_to_summit_m": 5324.08
+      },
+      "06_fixed": {
+        "position": [
+          138.24936299765892,
+          -1798.8839293820943,
+          4.5
+        ],
+        "target": [
+          138.24936299765892,
+          -148.88392938209424,
+          300.0
+        ],
+        "fov": 75,
+        "horizontal_distance_to_summit_m": 1650.0
+      }
+    },
+    "bounds_m": [
+      -5359.821457755393,
+      5359.821457755393
+    ],
+    "generation_s": 2.462393800029531,
+    "peak_working_set_mib": 315.1953125,
+    "local_repeat": true,
+    "edge_samples_equal": true,
+    "encoded_min": 4608,
+    "encoded_max": 30208,
+    "max_quantization_error_m": 0.009765617107916569,
+    "stills": {
+      "pass": true,
+      "landscapes": 12,
+      "preview_actors": 0,
+      "screenshots": 6,
+      "gpu_p95_ms": 9.293899536132812,
+      "gpu_samples": 2226,
+      "frame_samples": 2226,
+      "mean_ms": 6.738397305344314,
+      "p95_ms": 9.293701499700546,
+      "peak_ram_mb": 2877.2421875,
+      "scope": "Editor game DX11; settled static cameras; capture frames excluded; not packaged or moving gameplay"
+    },
+    "motion": {
+      "pass": true,
+      "frames": 48,
+      "fps": 24,
+      "collision_checks": 48,
+      "minimum_clearance_cm": 550,
+      "p95_capture_tick_ms": 263.76458740234375,
+      "peak_ram_mb": 2890.76953125,
+      "scope": "Offline sampled moving camera, 24fps playback. Capture timings include screenshot overhead; not gameplay benchmark."
+    },
+    "stream": {
+      "core_components": 256,
+      "unloaded_probe_actor": "none",
+      "descriptor_unloaded": true,
+      "unloaded_absent": true,
+      "neighbor_still_collides": true,
+      "reloaded_and_visible": true,
+      "reload_height_error_cm": 0,
+      "seam_pairs": 242,
+      "min_collision_normal_dot": 0.9998852263465334,
+      "max_step_across_20cm_cm": 7.296359730346012,
+      "pass": true
+    },
+    "author": {
+      "reopened": true,
+      "landscapes": 4,
+      "landscape_components": 256,
+      "collision_probes": 24,
+      "max_collision_error_cm": 0.25870599325571675
+    },
+    "local_edit": {
+      "unchanged_tiles": [
+        "NE",
+        "SE",
+        "SW"
+      ],
+      "changed_NW_samples": 5905,
+      "local_equals_full": true,
+      "slope_max_deg": 37.61775127185336,
+      "coarse4_error_max_m": 5.361328125,
+      "coarse4_nonflat_p95_m": 1.298828125
+    },
+    "physical": {
+      "actual_relief_m": 499.99999300104497,
+      "actual_summit_z_m": 499.9999930010448,
+      "min_train_ground_m": -1.4551915228366852e-13,
+      "max_train_ground_m": -1.4551915228366852e-13,
+      "core_components": 256,
+      "horizon_components": 8,
+      "reopened": true
+    }
+  },
+  "1000": {
+    "height_m": 1000,
+    "spacing_m": 21.269132768870605,
+    "footprint_m": [
+      13229.400582237517,
+      7699.426062331159
+    ],
+    "peak_xy_m": [
+      276.49872599531784,
+      -297.7678587641885
+    ],
+    "train": [
+      0,
+      -2767.4489944154375,
+      0.72
+    ],
+    "cameras": {
+      "01_train": {
+        "position": [
+          -79,
+          -2853.4489944154375,
+          4.5
+        ],
+        "target": [
+          28,
+          -2694.4489944154375,
+          18
+        ],
+        "fov": 75,
+        "horizontal_distance_to_summit_m": 2580.29
+      },
+      "02_base": {
+        "position": [
+          314.49872599531784,
+          -2755.4489944154375,
+          4.5
+        ],
+        "target": [
+          276.49872599531784,
+          -297.7678587641885,
+          700.0
+        ],
+        "fov": 75,
+        "horizontal_distance_to_summit_m": 2457.97
+      },
+      "03_distant": {
+        "position": [
+          1382.4936299765893,
+          -12974.170989011069,
+          460.0
+        ],
+        "target": [
+          0,
+          425.3826553774121,
+          420.0
+        ],
+        "fov": 75,
+        "horizontal_distance_to_summit_m": 12724.56
+      },
+      "04_panorama": {
+        "position": [
+          -4147.480889929768,
+          2020.5676130427075,
+          1113.809732074593
+        ],
+        "target": [
+          1276.1479661322364,
+          -425.3826553774121,
+          450.0
+        ],
+        "fov": 75,
+        "horizontal_distance_to_summit_m": 4994.62
+      },
+      "05_aerial": {
+        "position": [
+          7763.233460637771,
+          -7869.579124482124,
+          3550.0
+        ],
+        "target": [
+          0,
+          319.0369915330591,
+          420.0
+        ],
+        "fov": 75,
+        "horizontal_distance_to_summit_m": 10648.17
+      },
+      "06_fixed": {
+        "position": [
+          276.49872599531784,
+          -1947.7678587641885,
+          35.17717442650288
+        ],
+        "target": [
+          276.49872599531784,
+          -297.7678587641885,
+          600.0
+        ],
+        "fov": 75,
+        "horizontal_distance_to_summit_m": 1650.0
+      }
+    },
+    "bounds_m": [
+      -10719.642915510785,
+      10719.642915510785
+    ],
+    "generation_s": 2.585839700012002,
+    "peak_working_set_mib": 315.01171875,
+    "local_repeat": true,
+    "edge_samples_equal": true,
+    "encoded_min": 4608,
+    "encoded_max": 55808,
+    "max_quantization_error_m": 0.009765583779554277,
+    "stills": {
+      "pass": true,
+      "landscapes": 12,
+      "preview_actors": 0,
+      "screenshots": 6,
+      "gpu_p95_ms": 6.678599834442139,
+      "gpu_samples": 2296,
+      "frame_samples": 2296,
+      "mean_ms": 6.526955182725752,
+      "p95_ms": 7.220499217510223,
+      "peak_ram_mb": 2908.91015625,
+      "scope": "Editor game DX11; settled static cameras; capture frames excluded; not packaged or moving gameplay"
+    },
+    "motion": {
+      "pass": true,
+      "frames": 48,
+      "fps": 24,
+      "collision_checks": 48,
+      "minimum_clearance_cm": 550,
+      "p95_capture_tick_ms": 254.75270080566406,
+      "peak_ram_mb": 2903.65625,
+      "scope": "Offline sampled moving camera, 24fps playback. Capture timings include screenshot overhead; not gameplay benchmark."
+    },
+    "stream": {
+      "core_components": 256,
+      "unloaded_probe_actor": "none",
+      "descriptor_unloaded": true,
+      "unloaded_absent": true,
+      "neighbor_still_collides": true,
+      "reloaded_and_visible": true,
+      "reload_height_error_cm": 0,
+      "seam_pairs": 242,
+      "min_collision_normal_dot": 0.9999022356397562,
+      "max_step_across_20cm_cm": 7.526311371126212,
+      "pass": true
+    },
+    "author": {
+      "reopened": true,
+      "landscapes": 4,
+      "landscape_components": 256,
+      "collision_probes": 24,
+      "max_collision_error_cm": 0.6158430939976824
+    },
+    "local_edit": {
+      "unchanged_tiles": [
+        "NE",
+        "SE",
+        "SW"
+      ],
+      "changed_NW_samples": 5947,
+      "local_equals_full": true,
+      "slope_max_deg": 37.61775127185336,
+      "coarse4_error_max_m": 10.703125,
+      "coarse4_nonflat_p95_m": 2.59857177734375
+    },
+    "physical": {
+      "actual_relief_m": 999.9999863040447,
+      "actual_summit_z_m": 999.9999863040446,
+      "min_train_ground_m": -1.4551915228366852e-13,
+      "max_train_ground_m": -1.4551915228366852e-13,
+      "core_components": 256,
+      "horizon_components": 8,
+      "reopened": true
+    }
+  }
+}

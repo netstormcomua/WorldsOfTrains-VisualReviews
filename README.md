@@ -21,3 +21,5 @@ No game source code, Unreal project files, original asset packages, credentials 
 [M24 | Three desert Landscapes and streaming review](VisualReviews/WorldGenerator/M24/README.md)
 
 [M25 | Mammoth through the low valley](VisualReviews/WorldGenerator/M25/README.md)
+
+[M26 | Vertical scale laboratory](VisualReviews/WorldGenerator/M26/README.md)

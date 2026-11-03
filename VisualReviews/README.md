@@ -31,3 +31,5 @@ Selected visual milestone artifacts for Worlds of Trains. This repository is int
 [M24 | Three desert Landscapes and streaming review](WorldGenerator/M24/README.md)
 
 [M25 | Mammoth through the low valley](WorldGenerator/M25/README.md)
+
+[M26 | Vertical scale laboratory](WorldGenerator/M26/README.md)
