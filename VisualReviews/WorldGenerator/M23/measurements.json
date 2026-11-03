@@ -1,0 +1,431 @@
+{
+  "implementation": "m23.1",
+  "reference": "C40 / m22.1",
+  "seed": 17,
+  "configurations": {
+    "C40": {
+      "schema_version": 1,
+      "generator_id": "single_dune",
+      "implementation_version": "m22.1",
+      "name": "C40 | Asymmetric crescent",
+      "seed": 17,
+      "parameters": {
+        "height": 40,
+        "width": 210,
+        "length": 82,
+        "crest_position": 0.0,
+        "bow": 22,
+        "bend_count": 0.6,
+        "bend_amplitude": 7,
+        "bend_phase": 0.0,
+        "height_variation": 0.12,
+        "height_phase": 0.4,
+        "height_skew": 0.25,
+        "end_taper": 0.85,
+        "lee_slope_deg": 31,
+        "leeward_shape": 0.22,
+        "windward_shape": 2.5,
+        "horn_length": 17,
+        "horn_asymmetry": 0.3,
+        "smoothness": 2
+      },
+      "transform": {
+        "origin_m": [
+          0.0,
+          0.0
+        ],
+        "yaw_deg": 12.0
+      }
+    },
+    "R1": {
+      "schema_version": 1,
+      "generator_id": "single_dune",
+      "implementation_version": "m23.1",
+      "name": "R1 | C40 refinement",
+      "seed": 17,
+      "parameters": {
+        "height": 40,
+        "width": 210,
+        "length": 86,
+        "crest_position": 0.0,
+        "bow": 24,
+        "bend_count": 0.74,
+        "bend_amplitude": 10,
+        "bend_phase": 0.0,
+        "height_variation": 0.11,
+        "height_phase": 0.4,
+        "height_skew": 0.32,
+        "end_taper": 0.95,
+        "lee_slope_deg": 31,
+        "leeward_shape": 0.22,
+        "windward_shape": 2.8,
+        "horn_length": 17,
+        "horn_asymmetry": 0.3,
+        "smoothness": 5
+      },
+      "transform": {
+        "origin_m": [
+          0.0,
+          0.0
+        ],
+        "yaw_deg": 12.0
+      }
+    },
+    "R2": {
+      "schema_version": 1,
+      "generator_id": "single_dune",
+      "implementation_version": "m23.1",
+      "name": "R2 | C40 refinement",
+      "seed": 17,
+      "parameters": {
+        "height": 40,
+        "width": 236,
+        "length": 79,
+        "crest_position": 0.0,
+        "bow": 2,
+        "bend_count": 1.24,
+        "bend_amplitude": 15,
+        "bend_phase": 0.0,
+        "height_variation": 0.17,
+        "height_phase": -0.9,
+        "height_skew": -0.27,
+        "end_taper": 1.25,
+        "lee_slope_deg": 33,
+        "leeward_shape": 0.33,
+        "windward_shape": 2.5,
+        "horn_length": 9,
+        "horn_asymmetry": 0.3,
+        "smoothness": 4
+      },
+      "transform": {
+        "origin_m": [
+          0.0,
+          0.0
+        ],
+        "yaw_deg": 12.0
+      }
+    },
+    "R3": {
+      "schema_version": 1,
+      "generator_id": "single_dune",
+      "implementation_version": "m23.1",
+      "name": "R3 | C40 refinement",
+      "seed": 17,
+      "parameters": {
+        "height": 40,
+        "width": 190,
+        "length": 92,
+        "crest_position": 0.0,
+        "bow": 30,
+        "bend_count": 0.9,
+        "bend_amplitude": 9,
+        "bend_phase": 1.2,
+        "height_variation": 0.23,
+        "height_phase": 1.8,
+        "height_skew": 0.1,
+        "end_taper": 0.75,
+        "lee_slope_deg": 30,
+        "leeward_shape": 0.22,
+        "windward_shape": 2.9,
+        "horn_length": 22,
+        "horn_asymmetry": -0.6,
+        "smoothness": 7
+      },
+      "transform": {
+        "origin_m": [
+          0.0,
+          0.0
+        ],
+        "yaw_deg": 12.0
+      }
+    }
+  },
+  "variants": {
+    "C40": {
+      "peak_m": 39.850498050183695,
+      "peak_xy": [
+        -1.0,
+        19.0
+      ],
+      "mesh_sha256": "203ab11e9a1015500ace5e3cc06192986c52e1a29cd48ceddc5b8cd1ba3484fc",
+      "deterministic": true
+    },
+    "R1": {
+      "peak_m": 39.344661134384694,
+      "peak_xy": [
+        5.0,
+        71.0
+      ],
+      "mesh_sha256": "4320f45420725106070c5b926360cc1e3b826e46d7be8cf8d23ef6d7d0c4fafa",
+      "deterministic": true
+    },
+    "R2": {
+      "peak_m": 39.39980232243429,
+      "peak_xy": [
+        -6.0,
+        -25.0
+      ],
+      "mesh_sha256": "417611587e9c5573060302d92af49ae86b7b7a3959d52b4c788a283035703cdc",
+      "deterministic": true
+    },
+    "R3": {
+      "peak_m": 39.272269913136675,
+      "peak_xy": [
+        13.0,
+        16.0
+      ],
+      "mesh_sha256": "74cac9772c5843023c836e8eaa1becb018a068b4feb63dfa143c041cdf45ed1d",
+      "deterministic": true
+    }
+  },
+  "camera_positions": {
+    "01_overview": {
+      "position": [
+        -360,
+        -430,
+        270
+      ],
+      "target": [
+        0,
+        0,
+        16
+      ],
+      "fov": 48
+    },
+    "02_gameplay": {
+      "position": [
+        -230,
+        -135,
+        4.5
+      ],
+      "target": [
+        0,
+        0,
+        18
+      ],
+      "fov": 65
+    },
+    "03_lee": {
+      "position": [
+        165,
+        -160,
+        4.5
+      ],
+      "target": [
+        0,
+        0,
+        22
+      ],
+      "fov": 65
+    },
+    "04_top": {
+      "position": [
+        0,
+        0,
+        600
+      ],
+      "target": [
+        0,
+        0,
+        0
+      ],
+      "fov": 48
+    },
+    "05_profile": {
+      "position": [
+        0,
+        -340,
+        35
+      ],
+      "target": [
+        0,
+        0,
+        18
+      ],
+      "fov": 55
+    },
+    "06_near": {
+      "position": [
+        -162,
+        -65,
+        4.5
+      ],
+      "target": [
+        10,
+        25,
+        24
+      ],
+      "fov": 72
+    }
+  },
+  "terrain": {
+    "cases": {
+      "R1_flat": {
+        "max_base_deg": 0.0,
+        "relative_crest_shift_m": 0.0,
+        "absolute_summit_shift_m": 0.0,
+        "windward_deg": 22.157750518639638,
+        "lee_deg": 29.743208243042616,
+        "partial_overlap_uplift_m": 0.5999174587053848,
+        "tile_error_m": 0.0,
+        "toe_grade_p99": 0.06580153275565498
+      },
+      "R1_inclined": {
+        "max_base_deg": 4.305833161398915,
+        "relative_crest_shift_m": 0.0,
+        "absolute_summit_shift_m": 5.0990195135927845,
+        "windward_deg": 24.864678033835585,
+        "lee_deg": 31.7709376449782,
+        "partial_overlap_uplift_m": 0.5999322818758337,
+        "tile_error_m": 0.0,
+        "toe_grade_p99": 0.07108064685404053
+      },
+      "R1_curved": {
+        "max_base_deg": 3.1241922254097068,
+        "relative_crest_shift_m": 0.0,
+        "absolute_summit_shift_m": 5.0990195135927845,
+        "windward_deg": 23.595594315427807,
+        "lee_deg": 30.49240239509908,
+        "partial_overlap_uplift_m": 0.5999174587053848,
+        "tile_error_m": 0.0,
+        "toe_grade_p99": 0.0667424219888969
+      },
+      "R1_uneven": {
+        "max_base_deg": 6.380987250847831,
+        "relative_crest_shift_m": 0.0,
+        "absolute_summit_shift_m": 7.0710678118654755,
+        "windward_deg": 25.566906455433237,
+        "lee_deg": 31.926509935089893,
+        "partial_overlap_uplift_m": 0.5999174587053848,
+        "tile_error_m": 0.0,
+        "toe_grade_p99": 0.0663188367784668
+      },
+      "R2_flat": {
+        "max_base_deg": 0.0,
+        "relative_crest_shift_m": 0.0,
+        "absolute_summit_shift_m": 0.0,
+        "windward_deg": 22.548024062319236,
+        "lee_deg": 32.50223301095472,
+        "partial_overlap_uplift_m": 0.5991981269915385,
+        "tile_error_m": 0.0,
+        "toe_grade_p99": 0.05773571872195614
+      },
+      "R2_inclined": {
+        "max_base_deg": 4.305833161398915,
+        "relative_crest_shift_m": 0.0,
+        "absolute_summit_shift_m": 6.082762530298219,
+        "windward_deg": 25.22655109783094,
+        "lee_deg": 33.4410894943709,
+        "partial_overlap_uplift_m": 0.5998042364970075,
+        "tile_error_m": 0.0,
+        "toe_grade_p99": 0.06143059843658971
+      },
+      "R2_curved": {
+        "max_base_deg": 3.1241922254097068,
+        "relative_crest_shift_m": 0.0,
+        "absolute_summit_shift_m": 4.123105625617661,
+        "windward_deg": 25.027608648426863,
+        "lee_deg": 32.47512686618776,
+        "partial_overlap_uplift_m": 0.5998980458382377,
+        "tile_error_m": 0.0,
+        "toe_grade_p99": 0.05716500931646724
+      },
+      "R2_uneven": {
+        "max_base_deg": 6.380987250847831,
+        "relative_crest_shift_m": 0.0,
+        "absolute_summit_shift_m": 11.40175425099138,
+        "windward_deg": 26.809103287760614,
+        "lee_deg": 33.4534305594322,
+        "partial_overlap_uplift_m": 0.5998160734796869,
+        "tile_error_m": 0.0,
+        "toe_grade_p99": 0.05688721865391295
+      },
+      "R3_flat": {
+        "max_base_deg": 0.0,
+        "relative_crest_shift_m": 0.0,
+        "absolute_summit_shift_m": 0.0,
+        "windward_deg": 22.52838294950558,
+        "lee_deg": 29.93406245070499,
+        "partial_overlap_uplift_m": 0.5995875048683406,
+        "tile_error_m": 0.0,
+        "toe_grade_p99": 0.06546989619553846
+      },
+      "R3_inclined": {
+        "max_base_deg": 4.305833161398915,
+        "relative_crest_shift_m": 0.0,
+        "absolute_summit_shift_m": 4.123105625617661,
+        "windward_deg": 25.220124400795058,
+        "lee_deg": 31.81017196171178,
+        "partial_overlap_uplift_m": 0.5995998783545051,
+        "tile_error_m": 0.0,
+        "toe_grade_p99": 0.06399733737552225
+      },
+      "R3_curved": {
+        "max_base_deg": 3.1241922254097068,
+        "relative_crest_shift_m": 0.0,
+        "absolute_summit_shift_m": 2.0,
+        "windward_deg": 24.4628464536672,
+        "lee_deg": 30.17095133593769,
+        "partial_overlap_uplift_m": 0.5996495864617213,
+        "tile_error_m": 0.0,
+        "toe_grade_p99": 0.0631747682252117
+      },
+      "R3_uneven": {
+        "max_base_deg": 6.380987250847831,
+        "relative_crest_shift_m": 0.0,
+        "absolute_summit_shift_m": 3.1622776601683795,
+        "windward_deg": 26.42904172895316,
+        "lee_deg": 31.427522294167023,
+        "partial_overlap_uplift_m": 0.599173249357614,
+        "tile_error_m": 0.0,
+        "toe_grade_p99": 0.06523498804210565
+      }
+    },
+    "steep": {
+      "accepted": false,
+      "max_slope_deg": 21.80140948635192,
+      "limit_deg": 15.0
+    },
+    "localized_rejected": true,
+    "partial_placement_rejected": true
+  },
+  "terrain_orientation": {
+    "curvature1_yaw12": "passed",
+    "curvature-1_yaw12": "passed",
+    "curvature1_yaw102": "passed",
+    "curvature-1_yaw102": "passed",
+    "curvature1_yaw-168": "passed",
+    "curvature-1_yaw-168": "passed",
+    "14.9": {
+      "accepted": true,
+      "max_slope_deg": 14.900000000000091,
+      "limit_deg": 15.0
+    },
+    "15.1": {
+      "accepted": false,
+      "max_slope_deg": 15.10000000000004,
+      "limit_deg": 15.0
+    }
+  },
+  "pinned_field_hashes": {
+    "S1": "5251b0c329e5b574037245fbb1fb97a89a88e7cdbf9e0b04dee44be14ff8832b",
+    "S2": "7e53a111ad67c3f2c28b717ee59bbb94aacb9725687b66cbb1a66ecce2f63efd",
+    "S3": "a95defb9cb0306d866ead8c3250ecfc356e2488f4c73ae25617b577d90db318a",
+    "S4": "82ee17ee1fad6e61c9458252df499e437029b76ae555b86296c244f59e523c10",
+    "S5": "b77f2df15505920b06a1424fdd2a46f7cbba99b2fa4fa3e6579047603bfb251d",
+    "S6": "a993e4915ead9ecceee86c8a46ff57ba6366a9287ceb7c9e7334e9e92c6e60a0",
+    "T1": "dae2c07e87ede5dee4fc9f2c433fc479d754cb44737cbb4d6d78be2e4437fccb",
+    "G1": "5a8859013e105f95a89c1aa6b79ecff8cb1359a2d2e549535bb60b727ed7de6a",
+    "G2": "8a86c2de186bbdf37a90683fe8b65752b412805d8284109557c1110cb94d6f81",
+    "G3": "fe41546cdaa323f0dbd9277e18df5b0e7c9cda8a1245cf42e8e56c5b6a9c043b"
+  },
+  "old_m22_mesh_regressions": 4,
+  "reopened_levels": 9,
+  "collision_probes": 1521,
+  "max_collision_error_cm": 0.000213623046875,
+  "static_game_captures": 54,
+  "static_camera_p95_ms_range": [
+    16.667000949382782,
+    175.32719671726227
+  ]
+}
