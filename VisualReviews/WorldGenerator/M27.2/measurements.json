@@ -1,0 +1,439 @@
+{
+  "lumen_verification": {
+    "rhi": "D3D12",
+    "feature_level": "SM6",
+    "dynamic_gi_method": 1,
+    "mesh_distance_fields": 1,
+    "hardware_ray_tracing": 0,
+    "observed_passes": [
+      "LumenSceneLighting",
+      "LumenScreenProbeGather",
+      "LumenSceneUpdate",
+      "TraceGlobalSDF"
+    ]
+  },
+  "performance": {
+    "M27.1": [
+      {
+        "gpu_p95_ms": 21.19569969177246,
+        "tick_mean_ms": 8.085510732259715,
+        "frame_p95_ms": 21.240700036287308,
+        "samples": 2162,
+        "process_peak_ram_mib": 3175.8125,
+        "wddm_peak_dedicated_mib": 860.7,
+        "busy_sample_clock_mhz": [
+          915,
+          1365
+        ],
+        "peak_observed_temp_c": 87
+      },
+      {
+        "gpu_p95_ms": 21.206600189208984,
+        "tick_mean_ms": 10.782745674860346,
+        "frame_p95_ms": 21.32660150527954,
+        "samples": 1618,
+        "process_peak_ram_mib": 3144.53125,
+        "wddm_peak_dedicated_mib": 860.8,
+        "busy_sample_clock_mhz": [
+          975,
+          1335
+        ],
+        "peak_observed_temp_c": 87
+      }
+    ],
+    "DX11": [
+      {
+        "gpu_p95_ms": 15.06350040435791,
+        "tick_mean_ms": 7.335151111450363,
+        "frame_p95_ms": 15.715699642896652,
+        "samples": 2387,
+        "process_peak_ram_mib": 3230.28125,
+        "wddm_peak_dedicated_mib": 869.8,
+        "busy_sample_clock_mhz": [
+          975,
+          1365
+        ],
+        "peak_observed_temp_c": 87
+      },
+      {
+        "gpu_p95_ms": 22.521900177001953,
+        "tick_mean_ms": 10.01796580897937,
+        "frame_p95_ms": 22.53139764070511,
+        "samples": 1749,
+        "process_peak_ram_mib": 3222.3125,
+        "wddm_peak_dedicated_mib": 869.6,
+        "busy_sample_clock_mhz": [
+          975,
+          1380
+        ],
+        "peak_observed_temp_c": 87
+      }
+    ],
+    "DX12 raster": [
+      {
+        "gpu_p95_ms": 22.747299194335938,
+        "tick_mean_ms": 9.017738976911954,
+        "frame_p95_ms": 23.6361026763916,
+        "samples": 1942,
+        "process_peak_ram_mib": 3904.8515625,
+        "wddm_peak_dedicated_mib": 1103.4,
+        "busy_sample_clock_mhz": [
+          975,
+          1350
+        ],
+        "peak_observed_temp_c": 87
+      },
+      {
+        "gpu_p95_ms": 22.784700393676758,
+        "tick_mean_ms": 10.280319310290594,
+        "frame_p95_ms": 23.751601576805115,
+        "samples": 1699,
+        "process_peak_ram_mib": 3980.24609375,
+        "wddm_peak_dedicated_mib": 1102.8,
+        "busy_sample_clock_mhz": [
+          975,
+          1350
+        ],
+        "peak_observed_temp_c": 88
+      }
+    ],
+    "DX12 Lumen": [
+      {
+        "gpu_p95_ms": 48.85850143432617,
+        "tick_mean_ms": 19.136877319730786,
+        "frame_p95_ms": 50.25249719619751,
+        "samples": 916,
+        "process_peak_ram_mib": 4287.9375,
+        "wddm_peak_dedicated_mib": 1755.5,
+        "busy_sample_clock_mhz": [
+          915,
+          1305
+        ],
+        "peak_observed_temp_c": 87
+      },
+      {
+        "gpu_p95_ms": 49.16749954223633,
+        "tick_mean_ms": 22.72488556133755,
+        "frame_p95_ms": 50.329599529504776,
+        "samples": 769,
+        "process_peak_ram_mib": 4198.07421875,
+        "wddm_peak_dedicated_mib": 1754.8,
+        "busy_sample_clock_mhz": [
+          975,
+          1575
+        ],
+        "peak_observed_temp_c": 87
+      }
+    ]
+  },
+  "temporal": {
+    "dx11": {
+      "frames": 104,
+      "fixed_pairs": 20,
+      "minimum_camera_clearance_cm": 466.3857105976058,
+      "mean_luma_delta_8bit": 0.5093553140541536,
+      "pixels_delta_over_3_pct": 9.209799226376865e-05,
+      "p99_luma_delta": 2.0
+    },
+    "lumen": {
+      "frames": 104,
+      "fixed_pairs": 20,
+      "minimum_camera_clearance_cm": 466.3857105976058,
+      "mean_luma_delta_8bit": 0.5116638423282373,
+      "pixels_delta_over_3_pct": 0.00023945477988579847,
+      "p99_luma_delta": 2.0
+    }
+  },
+  "geometry": {
+    "peak_m": 0.40625,
+    "sample_pct_over_5cm": 8.058523674149594,
+    "seed": 272
+  },
+  "contact": {
+    "patches_seed": 27241,
+    "triangles": 65628,
+    "max_deposit_m": 0.08872442333573058,
+    "min_railhead_above_patches_m": 0.6183246209928157,
+    "collision": false
+  },
+  "parity": {
+    "Reference": {
+      "rail_probes": 264,
+      "bed_delta_cm": 0.0,
+      "min_railhead_over_landscape_cm": 71.5784743827785,
+      "equal_cameras": true,
+      "exposure_bias": -12.699999809265137,
+      "landscape_ps_instructions": 454,
+      "material_samplers": 8
+    },
+    "Procedural": {
+      "rail_probes": 264,
+      "bed_delta_cm": 0.0,
+      "min_railhead_over_landscape_cm": 71.5784743827785,
+      "equal_cameras": true,
+      "exposure_bias": -12.699999809265137,
+      "landscape_ps_instructions": 529,
+      "material_samplers": 9
+    },
+    "Scan": {
+      "rail_probes": 264,
+      "bed_delta_cm": 0.0,
+      "min_railhead_over_landscape_cm": 71.5784743827785,
+      "equal_cameras": true,
+      "exposure_bias": -12.699999809265137,
+      "landscape_ps_instructions": 529,
+      "material_samplers": 9
+    },
+    "Hybrid": {
+      "rail_probes": 264,
+      "bed_delta_cm": 0.0,
+      "min_railhead_over_landscape_cm": 71.5784743827785,
+      "equal_cameras": true,
+      "exposure_bias": -12.699999809265137,
+      "landscape_ps_instructions": 529,
+      "material_samplers": 9
+    },
+    "Playable": {
+      "rail_probes": 264,
+      "bed_delta_cm": 0.07228070178825874,
+      "min_railhead_over_landscape_cm": 71.56497765019822,
+      "equal_cameras": true,
+      "exposure_bias": -12.699999809265137,
+      "landscape_ps_instructions": 529,
+      "material_samplers": 9
+    },
+    "Final": {
+      "rail_probes": 264,
+      "bed_delta_cm": 0.03476970930387324,
+      "min_railhead_over_landscape_cm": 71.57794517779757,
+      "equal_cameras": true,
+      "exposure_bias": -12.699999809265137,
+      "landscape_ps_instructions": 529,
+      "material_samplers": 9
+    },
+    "unchanged_packages": 10
+  },
+  "drive": {
+    "travel_m": 513.185078125,
+    "rise_m": 7.696910208792706,
+    "peak_speed_mps": 17.185298919677734,
+    "max_wheel_z_residual_cm": 0.004509385675191879,
+    "wheel_bindings": true,
+    "junction_crossed": true,
+    "p95_ms_with_capture": 394.1539001464844,
+    "samples": 517,
+    "peak_ram_mib": 3181.0625,
+    "motion_frames": 48,
+    "exited": true,
+    "reset": true,
+    "result": "completed",
+    "pass": true
+  },
+  "camera_selections": {
+    "A": {
+      "map": "Photo",
+      "run": "dx11",
+      "before_map": "PhotoBefore",
+      "before_run": "dx11",
+      "tag": "A1",
+      "label": "Near ripples | DX11 | 0.48 m"
+    },
+    "B": {
+      "map": "Photo",
+      "run": "cine",
+      "before_map": "PhotoBefore",
+      "before_run": "dx11",
+      "tag": "B2",
+      "label": "Mammoth among dunes | software Lumen | 3.1 m"
+    },
+    "C": {
+      "map": "Photo",
+      "run": "wide-C4",
+      "before_map": "PhotoBefore",
+      "before_run": "wide-C4",
+      "tag": "C4",
+      "label": "Desert basin | DX11 | 4.5 m"
+    }
+  },
+  "photo_rig_m": {
+    "A1": {
+      "eye": [
+        -17.396432757750972,
+        144.53844784752516,
+        14.715206964291983
+      ],
+      "target": [
+        -26.32240150740539,
+        173.1798005020384,
+        13.667583879539551
+      ],
+      "fov": 47,
+      "height": 0.48
+    },
+    "A2": {
+      "eye": [
+        -179.31998061755917,
+        141.1778816283355,
+        28.051825894783786
+      ],
+      "target": [
+        -193.67120094801385,
+        167.52256752562312,
+        27.004202810031355
+      ],
+      "fov": 47,
+      "height": 0.48
+    },
+    "C1": {
+      "eye": [
+        -152.29718781744978,
+        -12.243870197867409,
+        25.92068190122286
+      ],
+      "target": [
+        -161.6887149211787,
+        16.248220260010985,
+        25.397029953376332
+      ],
+      "fov": 60,
+      "height": 4.5
+    },
+    "C2": {
+      "eye": [
+        -8.165831186606255,
+        142.14545277811214,
+        18.21450571293025
+      ],
+      "target": [
+        -15.113212670512276,
+        171.329933080442,
+        17.690853765083723
+      ],
+      "fov": 60,
+      "height": 4.5
+    },
+    "B1": {
+      "eye": [
+        -80,
+        -224,
+        7.93203125
+      ],
+      "target": [
+        18,
+        -256,
+        10.7
+      ],
+      "fov": 38,
+      "height": 3.1
+    },
+    "B2": {
+      "eye": [
+        -68,
+        -309,
+        9.8109375
+      ],
+      "target": [
+        18,
+        -249,
+        10.7
+      ],
+      "fov": 43,
+      "height": 3.1
+    },
+    "C3": {
+      "eye": [
+        -176.84726913255452,
+        300.07249417057994,
+        38.767442206185784
+      ],
+      "target": [
+        -117.56756669493134,
+        290.80335834749195,
+        32.767442206185784
+      ],
+      "fov": 63,
+      "height": 4.5
+    },
+    "C4": {
+      "eye": [
+        -249.5516820484035,
+        -195.3496415503722,
+        47.11937706132482
+      ],
+      "target": [
+        -293.1502178239433,
+        -154.12867991397934,
+        41.11937706132482
+      ],
+      "fov": 63,
+      "height": 4.5
+    }
+  },
+  "original_benchmark_cameras_m": {
+    "A_Sand": {
+      "eye_m": [
+        -82.0,
+        -252.0,
+        11.8746875
+      ],
+      "target_m": [
+        -85.0,
+        -247.0,
+        9.4015625
+      ],
+      "horizontal_fov": 53
+    },
+    "B_Mammoth": {
+      "eye_m": [
+        -30.0,
+        -302.0,
+        8.542578125
+      ],
+      "target_m": [
+        21.0,
+        -235.0,
+        12.212890625
+      ],
+      "horizontal_fov": 54
+    },
+    "C_Valley": {
+      "eye_m": [
+        -55.0,
+        -263.0,
+        17.73046875
+      ],
+      "target_m": [
+        -92.0,
+        -64.0,
+        45.01171875
+      ],
+      "horizontal_fov": 57
+    },
+    "D_Sleepers": {
+      "eye_m": [
+        4.0,
+        -170.0,
+        7.20546875
+      ],
+      "target_m": [
+        13.0,
+        -178.0,
+        7.07421875
+      ],
+      "horizontal_fov": 58
+    },
+    "E_Overview": {
+      "eye_m": [
+        300.0,
+        -380.0,
+        239.5234375
+      ],
+      "target_m": [
+        8.0,
+        58.0,
+        19.365234375
+      ],
+      "horizontal_fov": 68
+    }
+  }
+}

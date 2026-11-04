@@ -27,3 +27,5 @@ No game source code, Unreal project files, original asset packages, credentials 
 [M27 | World layouts and playable valley density](VisualReviews/WorldGenerator/M27/README.md)
 
 [M27.1 | Desert surface, daylight and railway look development](VisualReviews/WorldGenerator/M27.1/README.md)
+
+[M27.2 | Desert photographic benchmark](VisualReviews/WorldGenerator/M27.2/README.md)
