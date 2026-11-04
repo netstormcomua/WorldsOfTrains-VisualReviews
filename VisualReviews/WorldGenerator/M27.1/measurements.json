@@ -1,0 +1,231 @@
+{
+  "stages": {
+    "Base": {
+      "gpu_p95_ms": 7.555600166320801,
+      "gpu_samples": 2795,
+      "mean_frame_ms": 6.261334562930736,
+      "frame_p95_ms": 7.828500121831894,
+      "peak_ram_mib": 2794.3515625,
+      "peak_dedicated_gpu_mib": 601.81640625,
+      "vram_observations": 27
+    },
+    "Sand": {
+      "gpu_p95_ms": 21.524499893188477,
+      "gpu_samples": 1912,
+      "mean_frame_ms": 9.13875475603791,
+      "frame_p95_ms": 21.24439924955368,
+      "peak_ram_mib": 3021.50390625,
+      "peak_dedicated_gpu_mib": 601.55078125,
+      "vram_observations": 24
+    },
+    "Light": {
+      "gpu_p95_ms": 23.54759979248047,
+      "gpu_samples": 1791,
+      "mean_frame_ms": 9.756172361868444,
+      "frame_p95_ms": 23.456599563360214,
+      "peak_ram_mib": 2951.49609375,
+      "peak_dedicated_gpu_mib": 796.76171875,
+      "vram_observations": 25
+    },
+    "Air": {
+      "gpu_p95_ms": 23.78849983215332,
+      "gpu_samples": 1681,
+      "mean_frame_ms": 10.397369127359367,
+      "frame_p95_ms": 24.3632011115551,
+      "peak_ram_mib": 3024.9765625,
+      "peak_dedicated_gpu_mib": 602.29296875,
+      "vram_observations": 25
+    },
+    "Day": {
+      "gpu_p95_ms": 6.132900238037109,
+      "gpu_samples": 3317,
+      "mean_frame_ms": 5.274122581447433,
+      "frame_p95_ms": 6.304599344730377,
+      "peak_ram_mib": 2957.26953125,
+      "peak_dedicated_gpu_mib": 699.13671875,
+      "vram_observations": 24
+    },
+    "Warm": {
+      "gpu_p95_ms": 15.865799903869629,
+      "gpu_samples": 2202,
+      "mean_frame_ms": 7.947134693152357,
+      "frame_p95_ms": 15.797801315784454,
+      "peak_ram_mib": 2949.40625,
+      "peak_dedicated_gpu_mib": 797.78515625,
+      "vram_observations": 25
+    },
+    "Rail": {
+      "gpu_p95_ms": 6.791999816894531,
+      "gpu_samples": 3067,
+      "mean_frame_ms": 5.701642026769481,
+      "frame_p95_ms": 7.342498749494553,
+      "peak_ram_mib": 2983.73046875,
+      "peak_dedicated_gpu_mib": 746.1796875,
+      "vram_observations": 25
+    }
+  },
+  "repeated_captures": {
+    "Base": {
+      "gpu_p95_ms": 8.224300384521484,
+      "mean_frame_ms": 6.8522410119252255,
+      "peak_dedicated_gpu_mib": 601.796875,
+      "scope": "same lighting and terrain"
+    },
+    "Day": {
+      "gpu_p95_ms": 15.995699882507324,
+      "mean_frame_ms": 6.876576589442386,
+      "peak_dedicated_gpu_mib": 1028.0390625,
+      "scope": "same lighting and terrain"
+    },
+    "Warm": {
+      "gpu_p95_ms": 14.828399658203125,
+      "mean_frame_ms": 6.09452789000814,
+      "peak_dedicated_gpu_mib": 1012.49609375,
+      "scope": "same lighting and terrain"
+    },
+    "Rail": {
+      "gpu_p95_ms": 5.964200019836426,
+      "mean_frame_ms": 4.660871929517599,
+      "peak_dedicated_gpu_mib": 844.9765625,
+      "scope": "before final track dust"
+    }
+  },
+  "sm5_surface": {
+    "sand": {
+      "sm5_instruction_slots": 115,
+      "sample_opcodes": 7,
+      "texture_objects": 4
+    },
+    "corridor": {
+      "sm5_instruction_slots": 155,
+      "sample_opcodes": 8,
+      "texture_objects": 5
+    }
+  },
+  "complexity": {
+    "baseline": {
+      "num_vertex_shader_instructions": 136,
+      "num_pixel_shader_instructions": 1121,
+      "num_samplers": 6,
+      "num_pixel_texture_samples": 3,
+      "num_vertex_texture_samples": 0
+    },
+    "sand": {
+      "num_vertex_shader_instructions": 136,
+      "num_pixel_shader_instructions": 454,
+      "num_samplers": 8,
+      "num_pixel_texture_samples": 3,
+      "num_vertex_texture_samples": 0
+    },
+    "corridor": {
+      "num_vertex_shader_instructions": 136,
+      "num_pixel_shader_instructions": 454,
+      "num_samplers": 8,
+      "num_pixel_texture_samples": 3,
+      "num_vertex_texture_samples": 0
+    },
+    "Base_landscape": {
+      "num_vertex_shader_instructions": 136,
+      "num_pixel_shader_instructions": 1121,
+      "num_samplers": 6,
+      "num_pixel_texture_samples": 3,
+      "num_vertex_texture_samples": 0
+    },
+    "Rail_landscape": {
+      "num_vertex_shader_instructions": 136,
+      "num_pixel_shader_instructions": 454,
+      "num_samplers": 8,
+      "num_pixel_texture_samples": 3,
+      "num_vertex_texture_samples": 0
+    },
+    "protected_packages": 13
+  },
+  "comparison": {
+    "Base": {
+      "cameras_equal": true,
+      "exposure_bias": -12.699999809265137,
+      "manual_exposure": true,
+      "height_probes": 30,
+      "max_difference_cm": 0.0,
+      "rail_length_m": 624.370234375,
+      "core_material": "MI_DuneSand"
+    },
+    "Sand": {
+      "cameras_equal": true,
+      "exposure_bias": -12.699999809265137,
+      "manual_exposure": true,
+      "height_probes": 30,
+      "max_difference_cm": 0.0,
+      "rail_length_m": 624.370234375,
+      "core_material": "MI_Sand_v1"
+    },
+    "Light": {
+      "cameras_equal": true,
+      "exposure_bias": -12.699999809265137,
+      "manual_exposure": true,
+      "height_probes": 30,
+      "max_difference_cm": 0.0,
+      "rail_length_m": 624.370234375,
+      "core_material": "MI_DuneSand"
+    },
+    "Air": {
+      "cameras_equal": true,
+      "exposure_bias": -12.699999809265137,
+      "manual_exposure": true,
+      "height_probes": 30,
+      "max_difference_cm": 0.0,
+      "rail_length_m": 624.370234375,
+      "core_material": "MI_DuneSand"
+    },
+    "Day": {
+      "cameras_equal": true,
+      "exposure_bias": -12.699999809265137,
+      "manual_exposure": true,
+      "height_probes": 30,
+      "max_difference_cm": 0.0,
+      "rail_length_m": 624.370234375,
+      "core_material": "MI_Sand_v1"
+    },
+    "Warm": {
+      "cameras_equal": true,
+      "exposure_bias": -12.699999809265137,
+      "manual_exposure": true,
+      "height_probes": 30,
+      "max_difference_cm": 0.0,
+      "rail_length_m": 624.370234375,
+      "core_material": "MI_Sand_v1"
+    },
+    "Rail": {
+      "cameras_equal": true,
+      "exposure_bias": -12.699999809265137,
+      "manual_exposure": true,
+      "height_probes": 30,
+      "max_difference_cm": 0.0,
+      "rail_length_m": 624.370234375,
+      "core_material": "MI_D2_Corridor"
+    }
+  },
+  "continuous_film": {
+    "motion_frames": 120,
+    "segment_m": 67.54484375000001,
+    "fixed_dt_s": 0.041666666666666664,
+    "result": "continuous train pass",
+    "pass": true
+  },
+  "drive": {
+    "travel_m": 513.6621875,
+    "rise_m": 7.70406644519122,
+    "peak_speed_mps": 17.039867401123047,
+    "max_wheel_z_residual_cm": 0.004536005202680826,
+    "wheel_bindings": true,
+    "junction_crossed": true,
+    "p95_ms_with_capture": 7.05800199508667,
+    "samples": 5623,
+    "peak_ram_mib": 3134.73828125,
+    "motion_frames": 48,
+    "exited": true,
+    "reset": true,
+    "result": "completed",
+    "pass": true
+  }
+}

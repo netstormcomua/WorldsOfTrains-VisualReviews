@@ -25,3 +25,5 @@ No game source code, Unreal project files, original asset packages, credentials 
 [M26 | Vertical scale laboratory](VisualReviews/WorldGenerator/M26/README.md)
 
 [M27 | World layouts and playable valley density](VisualReviews/WorldGenerator/M27/README.md)
+
+[M27.1 | Desert surface, daylight and railway look development](VisualReviews/WorldGenerator/M27.1/README.md)

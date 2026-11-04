@@ -35,3 +35,5 @@ Selected visual milestone artifacts for Worlds of Trains. This repository is int
 [M26 | Vertical scale laboratory](WorldGenerator/M26/README.md)
 
 [M27 | World layouts and playable valley density](WorldGenerator/M27/README.md)
+
+[M27.1 | Desert surface, daylight and railway look development](WorldGenerator/M27.1/README.md)
