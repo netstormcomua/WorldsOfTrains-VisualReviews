@@ -1,0 +1,9 @@
+{
+  "decoded_frames": 2652,
+  "average_fps": 58.91,
+  "duration_s": 45.0,
+  "identical_adjacent_decoded_frames": 0,
+  "source": "actual DX11 gameplay, desktop duplication capture, variable timestamps preserved",
+  "processing": "8-pixel window border removed; resized to 1280x720; H264 CRF26; no interpolation or audio",
+  "decode_vsync": "passthrough; no raw decode resampling"
+}

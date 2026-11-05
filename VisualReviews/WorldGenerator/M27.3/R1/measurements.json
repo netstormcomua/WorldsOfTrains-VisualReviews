@@ -1,0 +1,576 @@
+{
+  "geometry": {
+    "version": "secondary-sand-m27.3.1",
+    "field": "field-m27.3",
+    "preset": "B",
+    "retained_relief": 0.1,
+    "inherited_peak_m": 0.40625,
+    "removed_max_m": 0.349609375,
+    "protected_8m_exact": true,
+    "outer_boundary_exact": true,
+    "local_equal": true,
+    "repeat_equal": true,
+    "hashes": {
+      "SW": "4181f8e72f9039f6a07ecea8c54946e625c711eea9716277adc948a547f8217c",
+      "SE": "9f5c682b7c177154ca76d8b4c75eff08eb75d0f2e5a13adbd6589f860e5c5949",
+      "NW": "cf0c714284aa0a77f7426b4a7828203ca646459f9dfd991ccc3dc7f0efbb1e68",
+      "NE": "c72c1f9a79ab10035dd8193ea0e5cb9fcd21c88362ebaeee44aedfa2fbf7c867"
+    }
+  },
+  "author": {
+    "BeforeMatte": {
+      "core": 4,
+      "cameras": 7
+    },
+    "AfterMatte": {
+      "core": 4,
+      "cameras": 7
+    },
+    "Clean": {
+      "core": 4,
+      "cameras": 7
+    },
+    "Final": {
+      "core": 4,
+      "cameras": 7
+    }
+  },
+  "parity": {
+    "B": {
+      "cameras_equal": true,
+      "daylight_settings_equal": true,
+      "core_material": "Hybrid Sand v2 D2",
+      "rail_probes": 264,
+      "bed_max_delta_cm": 0.0,
+      "min_railhead_above_terrain_cm": 71.57938107850441,
+      "seam_pairs": 162,
+      "seam_max_delta_cm_across_20cm": 10.857221749351083,
+      "min_normal_dot": 0.9935168832351444,
+      "vertex_probes": 28,
+      "max_vertex_err_cm": 0.03987611581578676
+    },
+    "R1/Clean": {
+      "cameras_equal": true,
+      "daylight_settings_equal": true,
+      "core_material": "Hybrid Sand v2 D2",
+      "rail_probes": 264,
+      "bed_max_delta_cm": 0.008347176781171584,
+      "min_railhead_above_terrain_cm": 71.57938107850441,
+      "seam_pairs": 162,
+      "seam_max_delta_cm_across_20cm": 10.857221749351083,
+      "min_normal_dot": 0.9934205150168064,
+      "vertex_probes": 28,
+      "max_vertex_err_cm": 0.04864707312844985
+    },
+    "R1/Final": {
+      "cameras_equal": true,
+      "daylight_settings_equal": true,
+      "core_material": "Hybrid Sand v2 D2",
+      "rail_probes": 264,
+      "bed_max_delta_cm": 0.008347176781171584,
+      "min_railhead_above_terrain_cm": 71.57938107850441,
+      "seam_pairs": 162,
+      "seam_max_delta_cm_across_20cm": 10.857221749351083,
+      "min_normal_dot": 0.9934205150168064,
+      "vertex_probes": 28,
+      "max_vertex_err_cm": 0.04864707312844985
+    },
+    "old_package_hashes_matched": 10
+  },
+  "performance": {
+    "Base": {
+      "rt1": {
+        "travel_m": 511.176875,
+        "rise_m": 7.666790854003329,
+        "peak_speed_mps": 9.520414352416992,
+        "max_wheel_z_residual_cm": 0.004554959945380688,
+        "wheel_bindings": true,
+        "junction_crossed": true,
+        "frame_p95_ms": 16.66710090637207,
+        "samples": 3088,
+        "peak_ram_mib": 3239.015625,
+        "frame_p50_ms": 16.666799545288086,
+        "frame_p99_ms": 16.670101165771484,
+        "frame_max_ms": 27.407299041748047,
+        "realtime_duration_s": 51.461706303060055,
+        "fixed_timestep": false,
+        "gpu_samples": 3088,
+        "gpu_p50_ms": 16.653099060058594,
+        "gpu_p95_ms": 17.904199600219727,
+        "gpu_p99_ms": 19.347400665283203,
+        "motion_frames": 0,
+        "exited": true,
+        "exit_status": "On foot",
+        "exit_speed_mps": 0,
+        "reset": true,
+        "result": "completed",
+        "pass": true,
+        "telemetry": {
+          "samples": 91,
+          "temp_min_c": 61.0,
+          "temp_max_c": 65.0,
+          "clock_median_mhz": 1050.0,
+          "clock_p10_mhz": 990.0,
+          "clock_p90_mhz": 1080.0,
+          "utilization_median_pct": 38.0,
+          "power_median_w": 30.76,
+          "thermal_pct": 0.0,
+          "power_limit_pct": 0.0
+        },
+        "frames_over_25ms": 1,
+        "frames_over_33ms": 0,
+        "run_settings": {
+          "scene": "Base",
+          "run": "rt1",
+          "start_temperature_c": 56.0,
+          "fps_cap": 60,
+          "resolution": [
+            1440,
+            810
+          ],
+          "recorded": false
+        }
+      },
+      "rt2": {
+        "travel_m": 511.17414062499995,
+        "rise_m": 7.666749874136437,
+        "peak_speed_mps": 9.520410537719727,
+        "max_wheel_z_residual_cm": 0.004514174535870552,
+        "wheel_bindings": true,
+        "junction_crossed": true,
+        "frame_p95_ms": 16.66710090637207,
+        "samples": 3087,
+        "peak_ram_mib": 3164.81640625,
+        "frame_p50_ms": 16.666799545288086,
+        "frame_p99_ms": 16.714998245239258,
+        "frame_max_ms": 30.42180061340332,
+        "realtime_duration_s": 51.46411690115929,
+        "fixed_timestep": false,
+        "gpu_samples": 3087,
+        "gpu_p50_ms": 16.66200065612793,
+        "gpu_p95_ms": 17.7992000579834,
+        "gpu_p99_ms": 18.970800399780273,
+        "motion_frames": 0,
+        "exited": true,
+        "exit_status": "On foot",
+        "exit_speed_mps": 0,
+        "reset": true,
+        "result": "completed",
+        "pass": true,
+        "telemetry": {
+          "samples": 92,
+          "temp_min_c": 77.0,
+          "temp_max_c": 80.0,
+          "clock_median_mhz": 1035.0,
+          "clock_p10_mhz": 1005.0,
+          "clock_p90_mhz": 1345.5000000000002,
+          "utilization_median_pct": 39.0,
+          "power_median_w": 34.775,
+          "thermal_pct": 0.0,
+          "power_limit_pct": 2.1739130434782608
+        },
+        "frames_over_25ms": 1,
+        "frames_over_33ms": 0,
+        "run_settings": {
+          "scene": "Base",
+          "run": "rt2",
+          "start_temperature_c": 70.0,
+          "fps_cap": 60,
+          "resolution": [
+            1440,
+            810
+          ],
+          "recorded": false
+        }
+      }
+    },
+    "Published": {
+      "rt1": {
+        "travel_m": 511.16753906250005,
+        "rise_m": 7.666650889410715,
+        "peak_speed_mps": 9.520406723022461,
+        "max_wheel_z_residual_cm": 0.004526967648416758,
+        "wheel_bindings": true,
+        "junction_crossed": true,
+        "frame_p95_ms": 16.66710090637207,
+        "samples": 3088,
+        "peak_ram_mib": 3175.80859375,
+        "frame_p50_ms": 16.666799545288086,
+        "frame_p99_ms": 16.67329978942871,
+        "frame_max_ms": 26.991497039794922,
+        "realtime_duration_s": 51.46234929934144,
+        "fixed_timestep": false,
+        "gpu_samples": 3088,
+        "gpu_p50_ms": 16.668399810791016,
+        "gpu_p95_ms": 17.869199752807617,
+        "gpu_p99_ms": 18.704599380493164,
+        "motion_frames": 0,
+        "exited": true,
+        "exit_status": "On foot",
+        "exit_speed_mps": 0,
+        "reset": true,
+        "result": "completed",
+        "pass": true,
+        "telemetry": {
+          "samples": 91,
+          "temp_min_c": 61.0,
+          "temp_max_c": 66.0,
+          "clock_median_mhz": 1035.0,
+          "clock_p10_mhz": 1005.0,
+          "clock_p90_mhz": 1065.0,
+          "utilization_median_pct": 39.0,
+          "power_median_w": 30.66,
+          "thermal_pct": 0.0,
+          "power_limit_pct": 0.0
+        },
+        "frames_over_25ms": 1,
+        "frames_over_33ms": 0,
+        "run_settings": {
+          "scene": "Published",
+          "run": "rt1",
+          "start_temperature_c": 55.0,
+          "fps_cap": 60,
+          "resolution": [
+            1440,
+            810
+          ],
+          "recorded": false
+        }
+      },
+      "rt2": {
+        "travel_m": 511.19023437500005,
+        "rise_m": 7.666990790566917,
+        "peak_speed_mps": 9.520413398742676,
+        "max_wheel_z_residual_cm": 0.0045256419107317924,
+        "wheel_bindings": true,
+        "junction_crossed": true,
+        "frame_p95_ms": 16.667701721191406,
+        "samples": 3086,
+        "peak_ram_mib": 3203.57421875,
+        "frame_p50_ms": 16.666799545288086,
+        "frame_p99_ms": 16.98980140686035,
+        "frame_max_ms": 31.20639991760254,
+        "realtime_duration_s": 51.456849098205566,
+        "fixed_timestep": false,
+        "gpu_samples": 3086,
+        "gpu_p50_ms": 16.678699493408203,
+        "gpu_p95_ms": 17.747900009155273,
+        "gpu_p99_ms": 18.637300491333008,
+        "motion_frames": 0,
+        "exited": true,
+        "exit_status": "On foot",
+        "exit_speed_mps": 0,
+        "reset": true,
+        "result": "completed",
+        "pass": true,
+        "telemetry": {
+          "samples": 91,
+          "temp_min_c": 76.0,
+          "temp_max_c": 77.0,
+          "clock_median_mhz": 1035.0,
+          "clock_p10_mhz": 1020.0,
+          "clock_p90_mhz": 1080.0,
+          "utilization_median_pct": 39.0,
+          "power_median_w": 34.24,
+          "thermal_pct": 0.0,
+          "power_limit_pct": 0.0
+        },
+        "frames_over_25ms": 1,
+        "frames_over_33ms": 0,
+        "run_settings": {
+          "scene": "Published",
+          "run": "rt2",
+          "start_temperature_c": 72.0,
+          "fps_cap": 60,
+          "resolution": [
+            1440,
+            810
+          ],
+          "recorded": false
+        }
+      }
+    },
+    "Clean": {
+      "rt1": {
+        "travel_m": 511.17999999999995,
+        "rise_m": 7.666837400668753,
+        "peak_speed_mps": 9.520414352416992,
+        "max_wheel_z_residual_cm": 0.004517245572060347,
+        "wheel_bindings": true,
+        "junction_crossed": true,
+        "frame_p95_ms": 16.667097091674805,
+        "samples": 3088,
+        "peak_ram_mib": 3149.921875,
+        "frame_p50_ms": 16.666799545288086,
+        "frame_p99_ms": 16.670503616333008,
+        "frame_max_ms": 27.5961971282959,
+        "realtime_duration_s": 51.46305849775672,
+        "fixed_timestep": false,
+        "gpu_samples": 3088,
+        "gpu_p50_ms": 16.652299880981445,
+        "gpu_p95_ms": 17.784500122070312,
+        "gpu_p99_ms": 18.80769920349121,
+        "motion_frames": 0,
+        "exited": true,
+        "exit_status": "On foot",
+        "exit_speed_mps": 0,
+        "reset": true,
+        "result": "completed",
+        "pass": true,
+        "telemetry": {
+          "samples": 92,
+          "temp_min_c": 63.0,
+          "temp_max_c": 67.0,
+          "clock_median_mhz": 1035.0,
+          "clock_p10_mhz": 1005.0,
+          "clock_p90_mhz": 1080.0,
+          "utilization_median_pct": 39.0,
+          "power_median_w": 31.355,
+          "thermal_pct": 0.0,
+          "power_limit_pct": 0.0
+        },
+        "frames_over_25ms": 1,
+        "frames_over_33ms": 0,
+        "run_settings": {
+          "scene": "Clean",
+          "run": "rt1",
+          "start_temperature_c": 60.0,
+          "fps_cap": 60,
+          "resolution": [
+            1440,
+            810
+          ],
+          "recorded": false
+        }
+      },
+      "rt2": {
+        "travel_m": 511.17886718750003,
+        "rise_m": 7.66682067464928,
+        "peak_speed_mps": 9.520682334899902,
+        "max_wheel_z_residual_cm": 0.00451982906088233,
+        "wheel_bindings": true,
+        "junction_crossed": true,
+        "frame_p95_ms": 16.67150115966797,
+        "samples": 3085,
+        "peak_ram_mib": 3193.88671875,
+        "frame_p50_ms": 16.666799545288086,
+        "frame_p99_ms": 17.152599334716797,
+        "frame_max_ms": 34.47760009765625,
+        "realtime_duration_s": 51.453519497066736,
+        "fixed_timestep": false,
+        "gpu_samples": 3085,
+        "gpu_p50_ms": 16.654499053955078,
+        "gpu_p95_ms": 17.975099563598633,
+        "gpu_p99_ms": 18.703399658203125,
+        "motion_frames": 0,
+        "exited": true,
+        "exit_status": "On foot",
+        "exit_speed_mps": 0,
+        "reset": true,
+        "result": "completed",
+        "pass": true,
+        "telemetry": {
+          "samples": 92,
+          "temp_min_c": 74.0,
+          "temp_max_c": 77.0,
+          "clock_median_mhz": 1035.0,
+          "clock_p10_mhz": 1020.0,
+          "clock_p90_mhz": 1080.0,
+          "utilization_median_pct": 39.0,
+          "power_median_w": 34.04,
+          "thermal_pct": 0.0,
+          "power_limit_pct": 0.0
+        },
+        "frames_over_25ms": 1,
+        "frames_over_33ms": 1,
+        "run_settings": {
+          "scene": "Clean",
+          "run": "rt2",
+          "start_temperature_c": 70.0,
+          "fps_cap": 60,
+          "resolution": [
+            1440,
+            810
+          ],
+          "recorded": false
+        }
+      }
+    },
+    "Final": {
+      "rt1": {
+        "travel_m": 511.049921875,
+        "rise_m": 7.664887145257598,
+        "peak_speed_mps": 9.520415306091309,
+        "max_wheel_z_residual_cm": 0.00452762795612216,
+        "wheel_bindings": true,
+        "junction_crossed": true,
+        "frame_p95_ms": 16.667097091674805,
+        "samples": 3087,
+        "peak_ram_mib": 3189.13671875,
+        "frame_p50_ms": 16.666799545288086,
+        "frame_p99_ms": 16.674100875854492,
+        "frame_max_ms": 28.758399963378906,
+        "realtime_duration_s": 51.44910179823637,
+        "fixed_timestep": false,
+        "gpu_samples": 3087,
+        "gpu_p50_ms": 16.660499572753906,
+        "gpu_p95_ms": 17.819799423217773,
+        "gpu_p99_ms": 19.431800842285156,
+        "motion_frames": 0,
+        "exited": true,
+        "exit_status": "On foot",
+        "exit_speed_mps": 0,
+        "reset": true,
+        "result": "completed",
+        "pass": true,
+        "telemetry": {
+          "samples": 91,
+          "temp_min_c": 65.0,
+          "temp_max_c": 69.0,
+          "clock_median_mhz": 1110.0,
+          "clock_p10_mhz": 1080.0,
+          "clock_p90_mhz": 1140.0,
+          "utilization_median_pct": 38.0,
+          "power_median_w": 32.36,
+          "thermal_pct": 0.0,
+          "power_limit_pct": 0.0
+        },
+        "frames_over_25ms": 1,
+        "frames_over_33ms": 0,
+        "run_settings": {
+          "scene": "Final",
+          "run": "rt1",
+          "start_temperature_c": 61.0,
+          "fps_cap": 60,
+          "resolution": [
+            1440,
+            810
+          ],
+          "recorded": false
+        }
+      },
+      "rt2": {
+        "travel_m": 511.174921875,
+        "rise_m": 7.666761165272789,
+        "peak_speed_mps": 9.520747184753418,
+        "max_wheel_z_residual_cm": 0.004518452100455761,
+        "wheel_bindings": true,
+        "junction_crossed": true,
+        "frame_p95_ms": 16.672298431396484,
+        "samples": 3085,
+        "peak_ram_mib": 3175.28125,
+        "frame_p50_ms": 16.666799545288086,
+        "frame_p99_ms": 17.366600036621094,
+        "frame_max_ms": 34.69150161743164,
+        "realtime_duration_s": 51.46778519824147,
+        "fixed_timestep": false,
+        "gpu_samples": 3085,
+        "gpu_p50_ms": 16.646299362182617,
+        "gpu_p95_ms": 18.09160041809082,
+        "gpu_p99_ms": 18.999300003051758,
+        "motion_frames": 0,
+        "exited": true,
+        "exit_status": "On foot",
+        "exit_speed_mps": 0,
+        "reset": true,
+        "result": "completed",
+        "pass": true,
+        "telemetry": {
+          "samples": 91,
+          "temp_min_c": 69.0,
+          "temp_max_c": 74.0,
+          "clock_median_mhz": 1095.0,
+          "clock_p10_mhz": 1065.0,
+          "clock_p90_mhz": 1125.0,
+          "utilization_median_pct": 39.0,
+          "power_median_w": 33.8,
+          "thermal_pct": 0.0,
+          "power_limit_pct": 0.0
+        },
+        "frames_over_25ms": 1,
+        "frames_over_33ms": 1,
+        "run_settings": {
+          "scene": "Final",
+          "run": "rt2",
+          "start_temperature_c": 64.0,
+          "fps_cap": 60,
+          "resolution": [
+            1440,
+            810
+          ],
+          "recorded": false
+        }
+      },
+      "desktop": {
+        "travel_m": 511.1778515625,
+        "rise_m": 7.666805437008593,
+        "peak_speed_mps": 9.52041244506836,
+        "max_wheel_z_residual_cm": 0.004540630616247654,
+        "wheel_bindings": true,
+        "junction_crossed": true,
+        "frame_p95_ms": 16.667001724243164,
+        "samples": 3086,
+        "peak_ram_mib": 3165.15234375,
+        "frame_p50_ms": 16.666799545288086,
+        "frame_p99_ms": 16.67279815673828,
+        "frame_max_ms": 46.16429901123047,
+        "realtime_duration_s": 51.461990002542734,
+        "fixed_timestep": false,
+        "gpu_samples": 3086,
+        "gpu_p50_ms": 16.653799057006836,
+        "gpu_p95_ms": 17.624399185180664,
+        "gpu_p99_ms": 21.22610092163086,
+        "motion_frames": 0,
+        "exited": true,
+        "exit_status": "On foot",
+        "exit_speed_mps": 0,
+        "reset": true,
+        "result": "completed",
+        "pass": true,
+        "telemetry": {
+          "samples": 92,
+          "temp_min_c": 62.0,
+          "temp_max_c": 67.0,
+          "clock_median_mhz": 855.0,
+          "clock_p10_mhz": 855.0,
+          "clock_p90_mhz": 855.0,
+          "utilization_median_pct": 50.0,
+          "power_median_w": 30.9,
+          "thermal_pct": 0.0,
+          "power_limit_pct": 0.0
+        },
+        "frames_over_25ms": 2,
+        "frames_over_33ms": 1,
+        "run_settings": {
+          "scene": "Final",
+          "run": "desktop",
+          "start_temperature_c": 52.0,
+          "fps_cap": 60,
+          "resolution": [
+            1440,
+            810
+          ],
+          "recorded": true
+        }
+      }
+    },
+    "matte_row_contrast": {
+      "roi": [
+        250,
+        455,
+        1050,
+        625
+      ],
+      "method": "RMS row luminance minus 25-pixel moving average, 8-bit levels",
+      "values": {
+        "BeforeMatte": 2.295729305865314,
+        "AfterMatte": 0.2985909805678464
+      },
+      "reduction_pct": 86.99363292505863
+    }
+  },
+  "protected_content": {
+    "files": 26,
+    "all_hashes_match": true
+  }
+}

@@ -1,5 +1,7 @@
 # M27.3 — Terrain-aware dune composition
 
+**5 November follow-up:** [R1 band-removal diagnosis, matched comparisons and 45-second real-time train recording](R1/README.md). The original review below is preserved for comparison.
+
 4 November 2026. Prepared for artistic review. Recommended composition **B**. Artistic approval remains with Anton.
 
 ## Review materials

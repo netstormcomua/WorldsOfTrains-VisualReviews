@@ -1,0 +1,44 @@
+{
+  "files": [
+    {
+      "path": "VisualReviews/WorldGenerator/M27.3/R1/01-before-after.jpg",
+      "bytes": 207422,
+      "sha256": "5c6bd76e654120621a263bf180784e19b0c9ee35b5cd6194d5f6ce4293e1555e"
+    },
+    {
+      "path": "VisualReviews/WorldGenerator/M27.3/R1/02-geometry-diagnosis.jpg",
+      "bytes": 67220,
+      "sha256": "652c4d7197758c65c2a3a7381790f3e93c39e3289dda7d7d1d1705bc14b361f5"
+    },
+    {
+      "path": "VisualReviews/WorldGenerator/M27.3/R1/03-presentation.jpg",
+      "bytes": 219943,
+      "sha256": "f8eb1de9c101762c4632bf389c04c97259a20631c7f92157a78739dfcb0b8d5b"
+    },
+    {
+      "path": "VisualReviews/WorldGenerator/M27.3/R1/04-realtime-traversal.jpg",
+      "bytes": 203700,
+      "sha256": "b30e3fa182a56752b9556d371e3ac35e91431057ee3c2b1170828062495a9b13"
+    },
+    {
+      "path": "VisualReviews/WorldGenerator/M27.3/R1/train-realtime.mp4",
+      "bytes": 3267195,
+      "sha256": "64016fb6ceb788f55db3b3882f9cb50ff4cf114a192801bb1d0a963e690b6790"
+    },
+    {
+      "path": "VisualReviews/WorldGenerator/M27.3/R1/README.md",
+      "bytes": 7059,
+      "sha256": "e59c6ceecace563ca992481392491129994226301667a9788094678e72443611"
+    },
+    {
+      "path": "VisualReviews/WorldGenerator/M27.3/R1/measurements.json",
+      "bytes": 18044,
+      "sha256": "56922fc24e04cb261d9ac4f2d23384cd69920e5638d239222f2ecb56e7b6bbcd"
+    },
+    {
+      "path": "VisualReviews/WorldGenerator/M27.3/R1/recording-validation.json",
+      "bytes": 388,
+      "sha256": "22945a21ca049c466a83f97afcb20952d9bfeca3565694790323e5f9cf8f19f1"
+    }
+  ]
+}
