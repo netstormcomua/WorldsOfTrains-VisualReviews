@@ -1,0 +1,112 @@
+{
+  "composition_version": "field-m27.3.2",
+  "single_version": "m23.1",
+  "field_dependency": "m24.1",
+  "nested_composition_dependency": "field-m27.3",
+  "blend_strength": 0.55,
+  "grid_spacing_m": 1,
+  "local_smoothing_passes": 2,
+  "core_extent_m": [
+    1008,
+    1008
+  ],
+  "primary_instances": 22,
+  "secondary_ribbons": 10,
+  "weather": {
+    "schema_version": 1,
+    "version": "wind-m27.3.2",
+    "seed": 273205,
+    "wind_mps": [
+      4.2,
+      -1.5,
+      0
+    ],
+    "strength": 1.0,
+    "capture_phases": [
+      36,
+      66,
+      96
+    ],
+    "ground_density": 0.28,
+    "crest_density": 0.12,
+    "valley_density": 0.42,
+    "particle_density": 0.42,
+    "ground_centers": [
+      [
+        -18,
+        195
+      ],
+      [
+        -45,
+        218
+      ],
+      [
+        64,
+        55
+      ],
+      [
+        -73,
+        -115
+      ],
+      [
+        65,
+        -76
+      ]
+    ],
+    "valley_centers": [
+      [
+        -22,
+        235,
+        54
+      ],
+      [
+        -80,
+        45,
+        64
+      ]
+    ],
+    "crest_search_centers": [
+      [
+        143,
+        140
+      ],
+      [
+        -196,
+        108
+      ]
+    ],
+    "cloud_material_version": "Weather_v3",
+    "valley_height_density": 0.14
+  },
+  "individual_seeds": {
+    "A00_0": 84503,
+    "A01_0": 60644,
+    "A02_0": 74455,
+    "A02_1": 33869,
+    "A03_0": 31626,
+    "A04_0": 89540,
+    "A05_0": 90927,
+    "A05_1": 39317,
+    "A06_0": 23499,
+    "A06_1": 5255,
+    "A06_2": 52458,
+    "A07_0": 86628,
+    "A07_1": 24576,
+    "A08_0": 80399,
+    "A08_1": 32377,
+    "A08_2": 41888,
+    "M27_00": 2700,
+    "M27_01": 2701,
+    "M27_02": 2702,
+    "M27_04": 2704,
+    "M27_05": 2705,
+    "M27_07": 2707
+  },
+  "capture_aa": {
+    "screen_percentage": 110,
+    "current_frame_weight": 0.06,
+    "samples": 16,
+    "filter_size": 1.05
+  },
+  "baseline_aa": "Existing DX11 TAA, screen percentage 100; no project-wide change"
+}

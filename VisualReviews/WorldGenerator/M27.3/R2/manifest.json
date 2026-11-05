@@ -1,0 +1,38 @@
+{
+  "01-geometry.jpg": {
+    "bytes": 199901,
+    "sha256": "d0bf481a8391cae29b5d2ac50efd12347e630dfd8a84b4bef91ae64ec43d0aa7"
+  },
+  "02-final-comparison.jpg": {
+    "bytes": 233542,
+    "sha256": "9a9595ee07d909297117a415fe91f686d0c883d0e7ddd9e69f2cdbcce0e65849"
+  },
+  "03-atmosphere-ablation.jpg": {
+    "bytes": 226469,
+    "sha256": "c7ca3ace8ba2181a23c50cd8e7c7b123c84f37a93567029b73e6a6254e98a06e"
+  },
+  "04-weather-phases.jpg": {
+    "bytes": 115335,
+    "sha256": "575db84e096c338a6bf149603fe85d3df38392c6f2a6a3ebe4b9ee28b7f1d99e"
+  },
+  "05-train-view.jpg": {
+    "bytes": 138741,
+    "sha256": "1c1ce1f76e31c7735dfe9fa49400b83eefa266d2c81ef625fa874ca885477e72"
+  },
+  "train-pass.mp4": {
+    "bytes": 3465986,
+    "sha256": "34278d4fe5b180bac6b5131ee2ad6c61c4b4ba0c123055cd6f5265d006650c31"
+  },
+  "README.md": {
+    "bytes": 9018,
+    "sha256": "176eeb6828828f96459317d107b8bf6a5b8870939a9a9a8b86e07fb6a56ae862"
+  },
+  "measurements.json": {
+    "bytes": 18545,
+    "sha256": "5817c266b08d300972787fed30a5a8c92c2b9b744bd1adfd6616b4e6b4996d5e"
+  },
+  "parameters.json": {
+    "bytes": 2048,
+    "sha256": "e7a9219f8ccee9f07eff633cc218a50b051dfaacf6a544ea5b846b9f357508a4"
+  }
+}
