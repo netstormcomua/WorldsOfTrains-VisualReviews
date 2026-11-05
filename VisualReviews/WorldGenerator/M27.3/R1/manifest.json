@@ -2,18 +2,18 @@
   "files": [
     {
       "path": "VisualReviews/WorldGenerator/M27.3/R1/01-before-after.jpg",
-      "bytes": 207422,
-      "sha256": "5c6bd76e654120621a263bf180784e19b0c9ee35b5cd6194d5f6ce4293e1555e"
+      "bytes": 210249,
+      "sha256": "349ef6e4588c165f9b1e3241c77a82fb04aa84f401d4e2fa7952cb626f406c29"
     },
     {
       "path": "VisualReviews/WorldGenerator/M27.3/R1/02-geometry-diagnosis.jpg",
-      "bytes": 67220,
-      "sha256": "652c4d7197758c65c2a3a7381790f3e93c39e3289dda7d7d1d1705bc14b361f5"
+      "bytes": 68319,
+      "sha256": "952331f6775879f6f65eb825ae60aa1a68505e39d025baebedce2ae90ae52a29"
     },
     {
       "path": "VisualReviews/WorldGenerator/M27.3/R1/03-presentation.jpg",
-      "bytes": 219943,
-      "sha256": "f8eb1de9c101762c4632bf389c04c97259a20631c7f92157a78739dfcb0b8d5b"
+      "bytes": 222529,
+      "sha256": "883e624655e0e6564510946e140cb90440698f4ffd920f45f5fef3101ed332c2"
     },
     {
       "path": "VisualReviews/WorldGenerator/M27.3/R1/04-realtime-traversal.jpg",
@@ -27,8 +27,8 @@
     },
     {
       "path": "VisualReviews/WorldGenerator/M27.3/R1/README.md",
-      "bytes": 7059,
-      "sha256": "e59c6ceecace563ca992481392491129994226301667a9788094678e72443611"
+      "bytes": 7445,
+      "sha256": "1e0f945ed29f076f31770a9f6e14ee378846cf4862e5cf2bb5147294db1afb76"
     },
     {
       "path": "VisualReviews/WorldGenerator/M27.3/R1/measurements.json",

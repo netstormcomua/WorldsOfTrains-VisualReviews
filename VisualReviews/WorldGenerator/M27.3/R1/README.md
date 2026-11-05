@@ -68,6 +68,8 @@ Overview samples and consecutive frame crops were inspected. Terrain moves conti
 
 The corrected B is the recommended replacement for the banded B presentation. The foreground-to-middle-distance transition is substantially quieter, while the large dune composition remains comparable.
 
-The large silhouettes can still look too smooth; some ridge profiles remain conspicuously shaped, and the abrupt crest segment at the right of the Opening view remains visible. The cloud sheet is an inexpensive approximation, and dark train contact areas remain dark. No complete photorealism or production readiness is claimed.
+The large silhouettes can still look too smooth and some ridge profiles remain conspicuously shaped. The cloud sheet is an inexpensive approximation, and dark train contact areas remain dark. Fine aliasing and rare frame-time spikes remain as described above. No complete photorealism or production readiness is claimed.
+
+**Report correction, 5 November:** direct inspection of the original full-resolution Opening screenshot did not show the previously reported abrupt vertical crest segment. That impression came from adjoining comparison panels, not a confirmed terrain defect. The comparison collages now have an explicit 12-pixel separator. Scene geometry, original screenshots and test results are unchanged.
 
 Please evaluate the Across improvement, continuity during the train journey, the remaining crest shapes and the presentation lighting. Stop here for artistic review; no map expansion, new biome or Railway rewrite is included.
