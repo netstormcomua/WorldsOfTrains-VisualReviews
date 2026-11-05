@@ -29,3 +29,5 @@ No game source code, Unreal project files, original asset packages, credentials 
 [M27.1 | Desert surface, daylight and railway look development](VisualReviews/WorldGenerator/M27.1/README.md)
 
 [M27.2 | Desert photographic benchmark](VisualReviews/WorldGenerator/M27.2/README.md)
+
+- [M27.3 — dune composition A/B/C, moving train and DX11 layer tests](VisualReviews/WorldGenerator/M27.3/README.md). Prepared for artistic review.

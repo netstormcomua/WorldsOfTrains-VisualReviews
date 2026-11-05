@@ -39,3 +39,5 @@ Selected visual milestone artifacts for Worlds of Trains. This repository is int
 [M27.1 | Desert surface, daylight and railway look development](WorldGenerator/M27.1/README.md)
 
 [M27.2 | Desert photographic benchmark](WorldGenerator/M27.2/README.md)
+
+- [M27.3 — dune composition A/B/C, moving train and DX11 layer tests](WorldGenerator/M27.3/README.md). Prepared for artistic review.

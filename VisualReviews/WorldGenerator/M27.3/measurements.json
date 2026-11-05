@@ -1,0 +1,1754 @@
+{
+  "A": {
+    "geometry": {
+      "hashes": {
+        "SW": "58ef4a4fd1eb5977cd89a4751e7a0986ae803dd1669877cb7702fe3b7b9735a3",
+        "SE": "ffe3cefe24d1dda6b1075705b16e26c32100f2979405ba8ac6b79a4b81db7f3a",
+        "NW": "ee91d6fa5b012047b350999e2144481cbeaf2d6c8baa3304bd90a9e8119fc699",
+        "NE": "2eeb37f19ad8bcbcc410fa7936ae3c476a29f0d0056435705e90c89078f633dd"
+      },
+      "recipe_sha": "c20c70655178dcfbcc25ae4e037dda05b280d4692cfd38b97d29e79ae1d03b58",
+      "single_stamps": 22,
+      "crest_slots": 10,
+      "ridge_lengths_m": [
+        90.0,
+        175.0
+      ],
+      "delta_min_m": -20.216796875,
+      "delta_max_m": 7.779296875,
+      "pct_changed_over_50cm": 7.007890334855478,
+      "slope_p99_deg": 35.4535111985631,
+      "slope_max_deg": 55.15973833224636,
+      "exact_tiles": true,
+      "repeat_window": true,
+      "exact_corridor_m": 32
+    },
+    "local_edit": {
+      "changed_NW_samples": 12274,
+      "other_three_byte_equal": true,
+      "local_equals_full": true
+    },
+    "camera_clearance_m": {
+      "B2": 3.0999999999999996,
+      "C2": 4.499999999999998,
+      "Across": 4.5,
+      "Overview": 261.94921875,
+      "Wide": 4.499999999999993
+    },
+    "drive": {
+      "travel_m": 513.62046875,
+      "rise_m": 7.7034408348311265,
+      "peak_speed_mps": 17.096506118774414,
+      "max_wheel_z_residual_cm": 0.004528681747615337,
+      "wheel_bindings": true,
+      "junction_crossed": true,
+      "p95_ms_with_capture": 6.539899826049805,
+      "samples": 6404,
+      "peak_ram_mib": 3221.20703125,
+      "motion_frames": 48,
+      "exited": true,
+      "exit_status": "On foot",
+      "exit_speed_mps": 0,
+      "reset": true,
+      "result": "completed",
+      "pass": true
+    }
+  },
+  "B": {
+    "geometry": {
+      "hashes": {
+        "SW": "1f24a8309a06e51a61a546d0e5dad724f57400379866553bde1a074c0342b931",
+        "SE": "c295b63aee035986d18617ab0923bbbec1140dfd82310cc45b9d6543b0fe6615",
+        "NW": "86e95be5a93be064c35118545ee9abbca6f28faa03cb7535c041be9a48126bb2",
+        "NE": "bd51ba23fa52a37270c591bcd289e376ababdc82f841e0f6e92c4234b8d211fa"
+      },
+      "recipe_sha": "e3719dd6c597b18ff9928d9411b3dcb3245a80646538a0c10b5305a4658a42be",
+      "single_stamps": 22,
+      "crest_slots": 10,
+      "ridge_lengths_m": [
+        101.69999999999999,
+        197.74999999999997
+      ],
+      "delta_min_m": -20.7734375,
+      "delta_max_m": 25.07421875,
+      "pct_changed_over_50cm": 33.800061095335245,
+      "slope_p99_deg": 34.912724039336126,
+      "slope_max_deg": 43.53531275154926,
+      "exact_tiles": true,
+      "repeat_window": true,
+      "exact_corridor_m": 32
+    },
+    "local_edit": {
+      "changed_NW_samples": 16879,
+      "other_three_byte_equal": true,
+      "local_equals_full": true
+    },
+    "camera_clearance_m": {
+      "B2": 3.0999999999999996,
+      "C2": 4.499999999999998,
+      "Across": 4.5,
+      "Overview": 261.94921875,
+      "Wide": 5.074935613775324
+    },
+    "drive": {
+      "travel_m": 513.64953125,
+      "rise_m": 7.703876008892646,
+      "peak_speed_mps": 17.024011611938477,
+      "max_wheel_z_residual_cm": 0.004526243079453707,
+      "wheel_bindings": true,
+      "junction_crossed": true,
+      "p95_ms_with_capture": 6.259400367736816,
+      "samples": 6540,
+      "peak_ram_mib": 3224.3828125,
+      "motion_frames": 48,
+      "exited": true,
+      "exit_status": "On foot",
+      "exit_speed_mps": 0,
+      "reset": true,
+      "result": "completed",
+      "pass": true
+    }
+  },
+  "C": {
+    "geometry": {
+      "hashes": {
+        "SW": "3442ff4cd69813c45bec9f24fe9888611eea1fc7aa4cae9f1b19255473d35034",
+        "SE": "dfea9f684f0fd53e05db9d46c4e4580d33cbe9fb0a74f60c11fef34008012da8",
+        "NW": "315d038cb04654d1a3f21535124214fe03c9215fdfa6b90796f28234d06c4593",
+        "NE": "f76d82276b5de7b20d75602b7450e5200386b1fc37de63651f5f45c03335e4c2"
+      },
+      "recipe_sha": "54c802307805582c9e9a652b7013b6d3fae1d62bedb6e0a276f1ac41d86c95cf",
+      "single_stamps": 22,
+      "crest_slots": 10,
+      "ridge_lengths_m": [
+        91.80242324002411,
+        192.90125134443028
+      ],
+      "delta_min_m": -43.744140625,
+      "delta_max_m": 27.427734375,
+      "pct_changed_over_50cm": 36.03416624021075,
+      "slope_p99_deg": 36.85165592173536,
+      "slope_max_deg": 52.22184354374833,
+      "exact_tiles": true,
+      "repeat_window": true,
+      "exact_corridor_m": 32
+    },
+    "local_edit": {
+      "changed_NW_samples": 20631,
+      "other_three_byte_equal": true,
+      "local_equals_full": true
+    },
+    "camera_clearance_m": {
+      "B2": 3.0999999999999996,
+      "C2": 4.499999999999998,
+      "Across": 4.5,
+      "Overview": 261.94921875,
+      "Wide": 15.19894350334421
+    },
+    "drive": {
+      "travel_m": 513.6503125,
+      "rise_m": 7.703888232735799,
+      "peak_speed_mps": 17.031227111816406,
+      "max_wheel_z_residual_cm": 0.00453095743432641,
+      "wheel_bindings": true,
+      "junction_crossed": true,
+      "p95_ms_with_capture": 6.385300159454346,
+      "samples": 6318,
+      "peak_ram_mib": 3201.7890625,
+      "motion_frames": 48,
+      "exited": true,
+      "exit_status": "On foot",
+      "exit_speed_mps": 0,
+      "reset": true,
+      "result": "completed",
+      "pass": true
+    }
+  },
+  "parity": {
+    "Base": {
+      "cameras_equal": true,
+      "daylight_settings_equal": true,
+      "core_material": "Hybrid Sand v2 D2",
+      "rail_probes": 264,
+      "bed_max_delta_cm": 0.0,
+      "min_railhead_above_terrain_cm": 71.57930111143787,
+      "seam_pairs": 162,
+      "seam_max_delta_cm_across_20cm": 12.462163884276379,
+      "min_normal_dot": 0.9874931637162723,
+      "vertex_probes": 28,
+      "max_vertex_err_cm": 0.05729583905485924
+    },
+    "A": {
+      "cameras_equal": true,
+      "daylight_settings_equal": true,
+      "core_material": "Hybrid Sand v2 D2",
+      "rail_probes": 264,
+      "bed_max_delta_cm": 0.017771696382624214,
+      "min_railhead_above_terrain_cm": 71.57930111143787,
+      "seam_pairs": 162,
+      "seam_max_delta_cm_across_20cm": 11.255285522523991,
+      "min_normal_dot": 0.9935168832351444,
+      "vertex_probes": 28,
+      "max_vertex_err_cm": 0.03987611581578676
+    },
+    "B": {
+      "cameras_equal": true,
+      "daylight_settings_equal": true,
+      "core_material": "Hybrid Sand v2 D2",
+      "rail_probes": 264,
+      "bed_max_delta_cm": 0.018686737756070215,
+      "min_railhead_above_terrain_cm": 71.57938107850441,
+      "seam_pairs": 162,
+      "seam_max_delta_cm_across_20cm": 10.857221749351083,
+      "min_normal_dot": 0.9935168832351444,
+      "vertex_probes": 28,
+      "max_vertex_err_cm": 0.03987611581578676
+    },
+    "C": {
+      "cameras_equal": true,
+      "daylight_settings_equal": true,
+      "core_material": "Hybrid Sand v2 D2",
+      "rail_probes": 264,
+      "bed_max_delta_cm": 0.01757211654148705,
+      "min_railhead_above_terrain_cm": 71.57928812819728,
+      "seam_pairs": 162,
+      "seam_max_delta_cm_across_20cm": 11.312972374014862,
+      "min_normal_dot": 0.9935168832351444,
+      "vertex_probes": 28,
+      "max_vertex_err_cm": 0.04588137541031756
+    },
+    "Cloud": {
+      "cameras_equal": true,
+      "daylight_settings_equal": true,
+      "core_material": "Hybrid Sand v2 D2",
+      "rail_probes": 264,
+      "bed_max_delta_cm": 0.018686737756070215,
+      "min_railhead_above_terrain_cm": 71.57938107850441,
+      "seam_pairs": 162,
+      "seam_max_delta_cm_across_20cm": 10.857221749351083,
+      "min_normal_dot": 0.9935168832351444,
+      "vertex_probes": 28,
+      "max_vertex_err_cm": 0.03987611581578676
+    },
+    "Dust": {
+      "cameras_equal": true,
+      "daylight_settings_equal": true,
+      "core_material": "Hybrid Sand v2 D2",
+      "rail_probes": 264,
+      "bed_max_delta_cm": 0.018686737756070215,
+      "min_railhead_above_terrain_cm": 71.57938107850441,
+      "seam_pairs": 162,
+      "seam_max_delta_cm_across_20cm": 10.857221749351083,
+      "min_normal_dot": 0.9935168832351444,
+      "vertex_probes": 28,
+      "max_vertex_err_cm": 0.03987611581578676
+    },
+    "Bounce": {
+      "cameras_equal": true,
+      "daylight_settings_equal": true,
+      "core_material": "Hybrid Sand v2 D2",
+      "rail_probes": 264,
+      "bed_max_delta_cm": 0.018686737756070215,
+      "min_railhead_above_terrain_cm": 71.57938107850441,
+      "seam_pairs": 162,
+      "seam_max_delta_cm_across_20cm": 10.857221749351083,
+      "min_normal_dot": 0.9935168832351444,
+      "vertex_probes": 28,
+      "max_vertex_err_cm": 0.03987611581578676
+    },
+    "old_package_hashes_matched": 10
+  },
+  "performance": {
+    "Base": {
+      "stills": {
+        "gpu_p95_ms": 5.5725998878479,
+        "peak_process_mib": 3042.46484375,
+        "peak_dedicated_mib": 923.8984375,
+        "views": {
+          "Across": {
+            "gpu_median_ms": 4.234499931335449,
+            "gpu_p95_ms": 5.100100040435791,
+            "samples": 579,
+            "clock_median_mhz": 1530.0,
+            "temp_max_c": 69.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "B2": {
+            "gpu_median_ms": 5.328100204467773,
+            "gpu_p95_ms": 5.644999980926514,
+            "samples": 467,
+            "clock_median_mhz": 1410.0,
+            "temp_max_c": 71.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "C2": {
+            "gpu_median_ms": 4.229000091552734,
+            "gpu_p95_ms": 4.841400146484375,
+            "samples": 578,
+            "clock_median_mhz": 1455.0,
+            "temp_max_c": 73.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "Overview": {
+            "gpu_median_ms": 5.300099849700928,
+            "gpu_p95_ms": 6.251399993896484,
+            "samples": 457,
+            "clock_median_mhz": 1365.0,
+            "temp_max_c": 74.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "Wide": {
+            "gpu_median_ms": 4.2494001388549805,
+            "gpu_p95_ms": 4.718699932098389,
+            "samples": 583,
+            "clock_median_mhz": 1425.0,
+            "temp_max_c": 75.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          }
+        }
+      },
+      "repeat": {
+        "gpu_p95_ms": 6.993199825286865,
+        "peak_process_mib": 3049.546875,
+        "peak_dedicated_mib": 924.0390625,
+        "views": {
+          "Across": {
+            "gpu_median_ms": 4.325200080871582,
+            "gpu_p95_ms": 5.144800186157227,
+            "samples": 556,
+            "clock_median_mhz": 1350.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "B2": {
+            "gpu_median_ms": 6.964600086212158,
+            "gpu_p95_ms": 7.019100189208984,
+            "samples": 363,
+            "clock_median_mhz": 975.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 100.0,
+            "power_cap_pct": 0.0
+          },
+          "C2": {
+            "gpu_median_ms": 5.333000183105469,
+            "gpu_p95_ms": 5.388700008392334,
+            "samples": 470,
+            "clock_median_mhz": 975.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 100.0,
+            "power_cap_pct": 0.0
+          },
+          "Overview": {
+            "gpu_median_ms": 6.660600185394287,
+            "gpu_p95_ms": 6.712399959564209,
+            "samples": 375,
+            "clock_median_mhz": 975.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 100.0,
+            "power_cap_pct": 0.0
+          },
+          "Wide": {
+            "gpu_median_ms": 5.318399906158447,
+            "gpu_p95_ms": 5.406199932098389,
+            "samples": 437,
+            "clock_median_mhz": 975.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 100.0,
+            "power_cap_pct": 0.0
+          }
+        }
+      },
+      "review": {
+        "gpu_p95_ms": 16.003000259399414,
+        "peak_process_mib": 3059.765625,
+        "peak_dedicated_mib": 924.046875,
+        "views": {
+          "Across": {
+            "gpu_median_ms": 4.256400108337402,
+            "gpu_p95_ms": 4.841400146484375,
+            "samples": 571,
+            "clock_median_mhz": 1350.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "B2": {
+            "gpu_median_ms": 6.607600212097168,
+            "gpu_p95_ms": 7.010700225830078,
+            "samples": 375,
+            "clock_median_mhz": 1080.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 100.0,
+            "power_cap_pct": 0.0
+          },
+          "C2": {
+            "gpu_median_ms": 5.013199806213379,
+            "gpu_p95_ms": 7.143499851226807,
+            "samples": 454,
+            "clock_median_mhz": 1155.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 100.0,
+            "power_cap_pct": 0.0
+          },
+          "Opening": {
+            "gpu_median_ms": 5.124800205230713,
+            "gpu_p95_ms": 5.815199851989746,
+            "samples": 480,
+            "clock_median_mhz": 975.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 100.0,
+            "power_cap_pct": 0.0
+          },
+          "Overview": {
+            "gpu_median_ms": 6.666600227355957,
+            "gpu_p95_ms": 6.703000068664551,
+            "samples": 375,
+            "clock_median_mhz": 975.0,
+            "temp_max_c": 87.0,
+            "thermal_flag_pct": 100.0,
+            "power_cap_pct": 0.0
+          },
+          "Shoulder": {
+            "gpu_median_ms": 14.833700180053711,
+            "gpu_p95_ms": 14.974900245666504,
+            "samples": 168,
+            "clock_median_mhz": 975.0,
+            "temp_max_c": 85.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 0.0
+          },
+          "Wide": {
+            "gpu_median_ms": 16.060400009155273,
+            "gpu_p95_ms": 16.228200912475586,
+            "samples": 155,
+            "clock_median_mhz": 975.0,
+            "temp_max_c": 84.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 0.0
+          }
+        }
+      }
+    },
+    "A": {
+      "stills": {
+        "gpu_p95_ms": 5.506700038909912,
+        "peak_process_mib": 3060.30078125,
+        "peak_dedicated_mib": 923.63671875,
+        "views": {
+          "Across": {
+            "gpu_median_ms": 4.1041998863220215,
+            "gpu_p95_ms": 4.694799900054932,
+            "samples": 594,
+            "clock_median_mhz": 1455.0,
+            "temp_max_c": 75.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "B2": {
+            "gpu_median_ms": 5.4207000732421875,
+            "gpu_p95_ms": 5.589000225067139,
+            "samples": 459,
+            "clock_median_mhz": 1365.0,
+            "temp_max_c": 77.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "C2": {
+            "gpu_median_ms": 4.325300216674805,
+            "gpu_p95_ms": 4.997099876403809,
+            "samples": 563,
+            "clock_median_mhz": 1395.0,
+            "temp_max_c": 78.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "Overview": {
+            "gpu_median_ms": 5.437399864196777,
+            "gpu_p95_ms": 5.707499980926514,
+            "samples": 456,
+            "clock_median_mhz": 1290.0,
+            "temp_max_c": 79.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "Wide": {
+            "gpu_median_ms": 4.2546000480651855,
+            "gpu_p95_ms": 4.718400001525879,
+            "samples": 579,
+            "clock_median_mhz": 1365.0,
+            "temp_max_c": 80.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          }
+        }
+      },
+      "repeat": {
+        "gpu_p95_ms": 6.842299938201904,
+        "peak_process_mib": 3023.96875,
+        "peak_dedicated_mib": 923.640625,
+        "views": {
+          "Across": {
+            "gpu_median_ms": 4.309199810028076,
+            "gpu_p95_ms": 4.859499931335449,
+            "samples": 568,
+            "clock_median_mhz": 1350.0,
+            "temp_max_c": 85.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "B2": {
+            "gpu_median_ms": 5.800000190734863,
+            "gpu_p95_ms": 7.077499866485596,
+            "samples": 407,
+            "clock_median_mhz": 1260.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 40.0,
+            "power_cap_pct": 60.0
+          },
+          "C2": {
+            "gpu_median_ms": 4.811100006103516,
+            "gpu_p95_ms": 5.2067999839782715,
+            "samples": 514,
+            "clock_median_mhz": 1155.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 100.0,
+            "power_cap_pct": 0.0
+          },
+          "Overview": {
+            "gpu_median_ms": 6.639599800109863,
+            "gpu_p95_ms": 6.742000102996826,
+            "samples": 382,
+            "clock_median_mhz": 1027.5,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 100.0,
+            "power_cap_pct": 0.0
+          },
+          "Wide": {
+            "gpu_median_ms": 5.285200119018555,
+            "gpu_p95_ms": 5.339099884033203,
+            "samples": 473,
+            "clock_median_mhz": 975.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 100.0,
+            "power_cap_pct": 0.0
+          }
+        }
+      },
+      "review": {
+        "gpu_p95_ms": 15.862700462341309,
+        "peak_process_mib": 3039.421875,
+        "peak_dedicated_mib": 923.66015625,
+        "views": {
+          "Across": {
+            "gpu_median_ms": 4.278299808502197,
+            "gpu_p95_ms": 4.90500020980835,
+            "samples": 566,
+            "clock_median_mhz": 1357.5,
+            "temp_max_c": 85.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "B2": {
+            "gpu_median_ms": 6.468400001525879,
+            "gpu_p95_ms": 7.061299800872803,
+            "samples": 389,
+            "clock_median_mhz": 975.0,
+            "temp_max_c": 87.0,
+            "thermal_flag_pct": 60.0,
+            "power_cap_pct": 40.0
+          },
+          "C2": {
+            "gpu_median_ms": 4.8871002197265625,
+            "gpu_p95_ms": 5.480400085449219,
+            "samples": 503,
+            "clock_median_mhz": 1140.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 100.0,
+            "power_cap_pct": 0.0
+          },
+          "Opening": {
+            "gpu_median_ms": 4.712399959564209,
+            "gpu_p95_ms": 5.2428998947143555,
+            "samples": 522,
+            "clock_median_mhz": 1140.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 100.0,
+            "power_cap_pct": 0.0
+          },
+          "Overview": {
+            "gpu_median_ms": 6.662899971008301,
+            "gpu_p95_ms": 6.701300144195557,
+            "samples": 375,
+            "clock_median_mhz": 975.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 100.0,
+            "power_cap_pct": 0.0
+          },
+          "Shoulder": {
+            "gpu_median_ms": 14.618599891662598,
+            "gpu_p95_ms": 14.755900382995605,
+            "samples": 171,
+            "clock_median_mhz": 975.0,
+            "temp_max_c": 85.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 0.0
+          },
+          "Wide": {
+            "gpu_median_ms": 15.94909954071045,
+            "gpu_p95_ms": 16.128000259399414,
+            "samples": 157,
+            "clock_median_mhz": 975.0,
+            "temp_max_c": 84.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 0.0
+          }
+        }
+      }
+    },
+    "B": {
+      "stills": {
+        "gpu_p95_ms": 5.633999824523926,
+        "peak_process_mib": 3047.01953125,
+        "peak_dedicated_mib": 923.63671875,
+        "views": {
+          "Across": {
+            "gpu_median_ms": 4.155600070953369,
+            "gpu_p95_ms": 4.758600234985352,
+            "samples": 585,
+            "clock_median_mhz": 1410.0,
+            "temp_max_c": 80.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "B2": {
+            "gpu_median_ms": 5.540200233459473,
+            "gpu_p95_ms": 5.623799800872803,
+            "samples": 450,
+            "clock_median_mhz": 1350.0,
+            "temp_max_c": 81.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "C2": {
+            "gpu_median_ms": 4.259099960327148,
+            "gpu_p95_ms": 4.849899768829346,
+            "samples": 573,
+            "clock_median_mhz": 1365.0,
+            "temp_max_c": 82.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "Overview": {
+            "gpu_median_ms": 5.587399959564209,
+            "gpu_p95_ms": 5.693699836730957,
+            "samples": 446,
+            "clock_median_mhz": 1252.5,
+            "temp_max_c": 83.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "Wide": {
+            "gpu_median_ms": 4.202499866485596,
+            "gpu_p95_ms": 4.521900177001953,
+            "samples": 588,
+            "clock_median_mhz": 1350.0,
+            "temp_max_c": 84.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          }
+        }
+      },
+      "repeat": {
+        "gpu_p95_ms": 6.550000190734863,
+        "peak_process_mib": 3019.32421875,
+        "peak_dedicated_mib": 923.67578125,
+        "views": {
+          "Across": {
+            "gpu_median_ms": 4.259799957275391,
+            "gpu_p95_ms": 4.857900142669678,
+            "samples": 568,
+            "clock_median_mhz": 1357.5,
+            "temp_max_c": 85.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "B2": {
+            "gpu_median_ms": 5.767000198364258,
+            "gpu_p95_ms": 5.873700141906738,
+            "samples": 433,
+            "clock_median_mhz": 1275.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "C2": {
+            "gpu_median_ms": 4.812099933624268,
+            "gpu_p95_ms": 5.279600143432617,
+            "samples": 511,
+            "clock_median_mhz": 1155.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 100.0,
+            "power_cap_pct": 0.0
+          },
+          "Overview": {
+            "gpu_median_ms": 6.486499786376953,
+            "gpu_p95_ms": 6.602499961853027,
+            "samples": 385,
+            "clock_median_mhz": 1065.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 100.0,
+            "power_cap_pct": 0.0
+          },
+          "Wide": {
+            "gpu_median_ms": 4.791299819946289,
+            "gpu_p95_ms": 4.9532999992370605,
+            "samples": 521,
+            "clock_median_mhz": 1140.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 100.0,
+            "power_cap_pct": 0.0
+          }
+        }
+      },
+      "review": {
+        "gpu_p95_ms": 7.837600231170654,
+        "peak_process_mib": 3059.3515625,
+        "peak_dedicated_mib": 923.94921875,
+        "views": {
+          "Across": {
+            "gpu_median_ms": 4.129899978637695,
+            "gpu_p95_ms": 4.791200160980225,
+            "samples": 592,
+            "clock_median_mhz": 1500.0,
+            "temp_max_c": 70.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "B2": {
+            "gpu_median_ms": 5.344299793243408,
+            "gpu_p95_ms": 5.591300010681152,
+            "samples": 466,
+            "clock_median_mhz": 1395.0,
+            "temp_max_c": 72.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "C2": {
+            "gpu_median_ms": 4.149499893188477,
+            "gpu_p95_ms": 4.742599964141846,
+            "samples": 586,
+            "clock_median_mhz": 1455.0,
+            "temp_max_c": 74.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "Opening": {
+            "gpu_median_ms": 5.765699863433838,
+            "gpu_p95_ms": 8.078300476074219,
+            "samples": 428,
+            "clock_median_mhz": 1612.5,
+            "temp_max_c": 76.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "Overview": {
+            "gpu_median_ms": 7.2778000831604,
+            "gpu_p95_ms": 9.300000190734863,
+            "samples": 340,
+            "clock_median_mhz": 1440.0,
+            "temp_max_c": 78.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "Shoulder": {
+            "gpu_median_ms": 5.951499938964844,
+            "gpu_p95_ms": 8.013899803161621,
+            "samples": 413,
+            "clock_median_mhz": 1605.0,
+            "temp_max_c": 79.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "Wide": {
+            "gpu_median_ms": 5.26800012588501,
+            "gpu_p95_ms": 6.527299880981445,
+            "samples": 468,
+            "clock_median_mhz": 1477.5,
+            "temp_max_c": 80.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          }
+        }
+      },
+      "layer-repeat": {
+        "gpu_p95_ms": 15.7878999710083,
+        "peak_process_mib": 3058.05859375,
+        "peak_dedicated_mib": 923.6640625,
+        "views": {
+          "Across": {
+            "gpu_median_ms": 4.334000110626221,
+            "gpu_p95_ms": 4.943299770355225,
+            "samples": 564,
+            "clock_median_mhz": 1365.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "B2": {
+            "gpu_median_ms": 6.610899925231934,
+            "gpu_p95_ms": 8.833200454711914,
+            "samples": 366,
+            "clock_median_mhz": 1155.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 100.0,
+            "power_cap_pct": 0.0
+          },
+          "C2": {
+            "gpu_median_ms": 5.019599914550781,
+            "gpu_p95_ms": 6.221799850463867,
+            "samples": 481,
+            "clock_median_mhz": 1170.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 100.0,
+            "power_cap_pct": 0.0
+          },
+          "Opening": {
+            "gpu_median_ms": 5.1859002113342285,
+            "gpu_p95_ms": 5.568600177764893,
+            "samples": 478,
+            "clock_median_mhz": 975.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 100.0,
+            "power_cap_pct": 0.0
+          },
+          "Overview": {
+            "gpu_median_ms": 6.667200088500977,
+            "gpu_p95_ms": 6.72730016708374,
+            "samples": 374,
+            "clock_median_mhz": 975.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 100.0,
+            "power_cap_pct": 0.0
+          },
+          "Shoulder": {
+            "gpu_median_ms": 14.267999649047852,
+            "gpu_p95_ms": 14.383099555969238,
+            "samples": 175,
+            "clock_median_mhz": 975.0,
+            "temp_max_c": 85.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 0.0
+          },
+          "Wide": {
+            "gpu_median_ms": 15.862899780273438,
+            "gpu_p95_ms": 15.996600151062012,
+            "samples": 158,
+            "clock_median_mhz": 975.0,
+            "temp_max_c": 84.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 0.0
+          }
+        }
+      }
+    },
+    "C": {
+      "stills": {
+        "gpu_p95_ms": 5.808199882507324,
+        "peak_process_mib": 3038.19140625,
+        "peak_dedicated_mib": 923.61328125,
+        "views": {
+          "Across": {
+            "gpu_median_ms": 4.25,
+            "gpu_p95_ms": 5.0278000831604,
+            "samples": 566,
+            "clock_median_mhz": 1395.0,
+            "temp_max_c": 82.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "B2": {
+            "gpu_median_ms": 5.64169979095459,
+            "gpu_p95_ms": 5.7221999168396,
+            "samples": 442,
+            "clock_median_mhz": 1320.0,
+            "temp_max_c": 83.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "C2": {
+            "gpu_median_ms": 4.406499862670898,
+            "gpu_p95_ms": 5.009399890899658,
+            "samples": 558,
+            "clock_median_mhz": 1350.0,
+            "temp_max_c": 84.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "Overview": {
+            "gpu_median_ms": 5.747900009155273,
+            "gpu_p95_ms": 7.438399791717529,
+            "samples": 417,
+            "clock_median_mhz": 1245.0,
+            "temp_max_c": 85.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "Wide": {
+            "gpu_median_ms": 4.297100067138672,
+            "gpu_p95_ms": 4.906400203704834,
+            "samples": 570,
+            "clock_median_mhz": 1335.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          }
+        }
+      },
+      "repeat": {
+        "gpu_p95_ms": 5.8429999351501465,
+        "peak_process_mib": 3024.66015625,
+        "peak_dedicated_mib": 924.1640625,
+        "views": {
+          "Across": {
+            "gpu_median_ms": 4.240099906921387,
+            "gpu_p95_ms": 4.810500144958496,
+            "samples": 576,
+            "clock_median_mhz": 1365.0,
+            "temp_max_c": 84.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "B2": {
+            "gpu_median_ms": 5.693299770355225,
+            "gpu_p95_ms": 6.426599979400635,
+            "samples": 429,
+            "clock_median_mhz": 1305.0,
+            "temp_max_c": 85.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "C2": {
+            "gpu_median_ms": 4.401700019836426,
+            "gpu_p95_ms": 5.034999847412109,
+            "samples": 553,
+            "clock_median_mhz": 1335.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "Overview": {
+            "gpu_median_ms": 5.76039981842041,
+            "gpu_p95_ms": 5.914999961853027,
+            "samples": 432,
+            "clock_median_mhz": 1215.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "Wide": {
+            "gpu_median_ms": 4.54040002822876,
+            "gpu_p95_ms": 4.902599811553955,
+            "samples": 545,
+            "clock_median_mhz": 1185.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 100.0,
+            "power_cap_pct": 0.0
+          }
+        }
+      },
+      "review": {
+        "gpu_p95_ms": 15.278499603271484,
+        "peak_process_mib": 3058.328125,
+        "peak_dedicated_mib": 923.64453125,
+        "views": {
+          "Across": {
+            "gpu_median_ms": 4.329699993133545,
+            "gpu_p95_ms": 4.898799896240234,
+            "samples": 566,
+            "clock_median_mhz": 1335.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "B2": {
+            "gpu_median_ms": 6.341800212860107,
+            "gpu_p95_ms": 6.424600124359131,
+            "samples": 395,
+            "clock_median_mhz": 1140.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 100.0,
+            "power_cap_pct": 0.0
+          },
+          "C2": {
+            "gpu_median_ms": 5.289999961853027,
+            "gpu_p95_ms": 5.357600212097168,
+            "samples": 471,
+            "clock_median_mhz": 975.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 100.0,
+            "power_cap_pct": 0.0
+          },
+          "Opening": {
+            "gpu_median_ms": 5.208000183105469,
+            "gpu_p95_ms": 5.443600177764893,
+            "samples": 477,
+            "clock_median_mhz": 975.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 100.0,
+            "power_cap_pct": 0.0
+          },
+          "Overview": {
+            "gpu_median_ms": 21.456899642944336,
+            "gpu_p95_ms": 21.641799926757812,
+            "samples": 116,
+            "clock_median_mhz": 975.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 60.0,
+            "power_cap_pct": 20.0
+          },
+          "Shoulder": {
+            "gpu_median_ms": 14.618599891662598,
+            "gpu_p95_ms": 14.737700462341309,
+            "samples": 171,
+            "clock_median_mhz": 975.0,
+            "temp_max_c": 85.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 0.0
+          },
+          "Wide": {
+            "gpu_median_ms": 15.028200149536133,
+            "gpu_p95_ms": 15.199799537658691,
+            "samples": 166,
+            "clock_median_mhz": 975.0,
+            "temp_max_c": 84.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 0.0
+          }
+        }
+      }
+    },
+    "Cloud": {
+      "review": {
+        "gpu_p95_ms": 5.808700084686279,
+        "peak_process_mib": 3065.7265625,
+        "peak_dedicated_mib": 857.43359375,
+        "views": {
+          "Across": {
+            "gpu_median_ms": 4.481100082397461,
+            "gpu_p95_ms": 5.007400035858154,
+            "samples": 548,
+            "clock_median_mhz": 1395.0,
+            "temp_max_c": 79.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "B2": {
+            "gpu_median_ms": 5.736700057983398,
+            "gpu_p95_ms": 5.814199924468994,
+            "samples": 435,
+            "clock_median_mhz": 1350.0,
+            "temp_max_c": 81.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "C2": {
+            "gpu_median_ms": 4.630499839782715,
+            "gpu_p95_ms": 5.645400047302246,
+            "samples": 517,
+            "clock_median_mhz": 1395.0,
+            "temp_max_c": 82.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "Opening": {
+            "gpu_median_ms": 4.647200107574463,
+            "gpu_p95_ms": 5.737800121307373,
+            "samples": 513,
+            "clock_median_mhz": 1365.0,
+            "temp_max_c": 83.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "Overview": {
+            "gpu_median_ms": 5.775700092315674,
+            "gpu_p95_ms": 5.892399787902832,
+            "samples": 432,
+            "clock_median_mhz": 1245.0,
+            "temp_max_c": 84.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "Shoulder": {
+            "gpu_median_ms": 4.509399890899658,
+            "gpu_p95_ms": 5.07420015335083,
+            "samples": 543,
+            "clock_median_mhz": 1350.0,
+            "temp_max_c": 84.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "Wide": {
+            "gpu_median_ms": 4.623899936676025,
+            "gpu_p95_ms": 4.946300029754639,
+            "samples": 535,
+            "clock_median_mhz": 1335.0,
+            "temp_max_c": 85.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          }
+        }
+      },
+      "layer-repeat": {
+        "gpu_p95_ms": 16.992399215698242,
+        "peak_process_mib": 3039.765625,
+        "peak_dedicated_mib": 925.14453125,
+        "views": {
+          "Across": {
+            "gpu_median_ms": 4.621600151062012,
+            "gpu_p95_ms": 5.210599899291992,
+            "samples": 530,
+            "clock_median_mhz": 1350.0,
+            "temp_max_c": 85.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "B2": {
+            "gpu_median_ms": 5.9781999588012695,
+            "gpu_p95_ms": 6.0609002113342285,
+            "samples": 418,
+            "clock_median_mhz": 1275.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "C2": {
+            "gpu_median_ms": 5.092800140380859,
+            "gpu_p95_ms": 5.34119987487793,
+            "samples": 489,
+            "clock_median_mhz": 1185.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 100.0,
+            "power_cap_pct": 0.0
+          },
+          "Opening": {
+            "gpu_median_ms": 5.063000202178955,
+            "gpu_p95_ms": 5.40310001373291,
+            "samples": 489,
+            "clock_median_mhz": 1185.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 100.0,
+            "power_cap_pct": 0.0
+          },
+          "Overview": {
+            "gpu_median_ms": 6.805600166320801,
+            "gpu_p95_ms": 6.858799934387207,
+            "samples": 366,
+            "clock_median_mhz": 975.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 100.0,
+            "power_cap_pct": 0.0
+          },
+          "Shoulder": {
+            "gpu_median_ms": 5.433300018310547,
+            "gpu_p95_ms": 5.50600004196167,
+            "samples": 458,
+            "clock_median_mhz": 975.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 100.0,
+            "power_cap_pct": 0.0
+          },
+          "Wide": {
+            "gpu_median_ms": 17.111099243164062,
+            "gpu_p95_ms": 17.27440071105957,
+            "samples": 146,
+            "clock_median_mhz": 975.0,
+            "temp_max_c": 84.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 0.0
+          }
+        }
+      }
+    },
+    "Dust": {
+      "review": {
+        "gpu_p95_ms": 5.97189998626709,
+        "peak_process_mib": 3046.58203125,
+        "peak_dedicated_mib": 925.0,
+        "views": {
+          "Across": {
+            "gpu_median_ms": 4.683599948883057,
+            "gpu_p95_ms": 5.172999858856201,
+            "samples": 525,
+            "clock_median_mhz": 1357.5,
+            "temp_max_c": 83.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "B2": {
+            "gpu_median_ms": 5.930099964141846,
+            "gpu_p95_ms": 5.998499870300293,
+            "samples": 422,
+            "clock_median_mhz": 1290.0,
+            "temp_max_c": 84.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "C2": {
+            "gpu_median_ms": 4.800300121307373,
+            "gpu_p95_ms": 5.3317999839782715,
+            "samples": 513,
+            "clock_median_mhz": 1335.0,
+            "temp_max_c": 85.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "Opening": {
+            "gpu_median_ms": 4.810699939727783,
+            "gpu_p95_ms": 5.327400207519531,
+            "samples": 515,
+            "clock_median_mhz": 1335.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "Overview": {
+            "gpu_median_ms": 5.931000232696533,
+            "gpu_p95_ms": 6.047599792480469,
+            "samples": 419,
+            "clock_median_mhz": 1215.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "Shoulder": {
+            "gpu_median_ms": 5.241700172424316,
+            "gpu_p95_ms": 5.422299861907959,
+            "samples": 476,
+            "clock_median_mhz": 1095.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 100.0,
+            "power_cap_pct": 0.0
+          },
+          "Wide": {
+            "gpu_median_ms": 4.947299957275391,
+            "gpu_p95_ms": 5.1585001945495605,
+            "samples": 503,
+            "clock_median_mhz": 1230.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 100.0,
+            "power_cap_pct": 0.0
+          }
+        }
+      },
+      "layer-repeat": {
+        "gpu_p95_ms": 5.9542999267578125,
+        "peak_process_mib": 3047.62890625,
+        "peak_dedicated_mib": 925.234375,
+        "views": {
+          "Across": {
+            "gpu_median_ms": 4.665200233459473,
+            "gpu_p95_ms": 5.068900108337402,
+            "samples": 530,
+            "clock_median_mhz": 1365.0,
+            "temp_max_c": 83.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "B2": {
+            "gpu_median_ms": 5.897500038146973,
+            "gpu_p95_ms": 5.970699787139893,
+            "samples": 424,
+            "clock_median_mhz": 1305.0,
+            "temp_max_c": 84.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "C2": {
+            "gpu_median_ms": 4.753200054168701,
+            "gpu_p95_ms": 5.224400043487549,
+            "samples": 519,
+            "clock_median_mhz": 1320.0,
+            "temp_max_c": 85.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "Opening": {
+            "gpu_median_ms": 4.872399806976318,
+            "gpu_p95_ms": 6.198400020599365,
+            "samples": 490,
+            "clock_median_mhz": 1365.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "Overview": {
+            "gpu_median_ms": 5.923900127410889,
+            "gpu_p95_ms": 6.173500061035156,
+            "samples": 419,
+            "clock_median_mhz": 1230.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "Shoulder": {
+            "gpu_median_ms": 5.058800220489502,
+            "gpu_p95_ms": 5.299600124359131,
+            "samples": 492,
+            "clock_median_mhz": 1155.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 100.0,
+            "power_cap_pct": 0.0
+          },
+          "Wide": {
+            "gpu_median_ms": 5.178999900817871,
+            "gpu_p95_ms": 5.269499778747559,
+            "samples": 481,
+            "clock_median_mhz": 1155.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 100.0,
+            "power_cap_pct": 0.0
+          }
+        }
+      }
+    },
+    "Bounce": {
+      "review": {
+        "gpu_p95_ms": 7.9664998054504395,
+        "peak_process_mib": 3074.734375,
+        "peak_dedicated_mib": 924.06640625,
+        "views": {
+          "Across": {
+            "gpu_median_ms": 5.826600074768066,
+            "gpu_p95_ms": 7.297299861907959,
+            "samples": 425,
+            "clock_median_mhz": 1492.5,
+            "temp_max_c": 85.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "B2": {
+            "gpu_median_ms": 6.549499988555908,
+            "gpu_p95_ms": 8.175399780273438,
+            "samples": 375,
+            "clock_median_mhz": 1365.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "C2": {
+            "gpu_median_ms": 5.886000156402588,
+            "gpu_p95_ms": 7.3343000411987305,
+            "samples": 418,
+            "clock_median_mhz": 1350.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 100.0,
+            "power_cap_pct": 0.0
+          },
+          "Opening": {
+            "gpu_median_ms": 5.7179999351501465,
+            "gpu_p95_ms": 7.164599895477295,
+            "samples": 423,
+            "clock_median_mhz": 975.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 100.0,
+            "power_cap_pct": 0.0
+          },
+          "Overview": {
+            "gpu_median_ms": 7.159999847412109,
+            "gpu_p95_ms": 8.662400245666504,
+            "samples": 343,
+            "clock_median_mhz": 975.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 100.0,
+            "power_cap_pct": 0.0
+          },
+          "Shoulder": {
+            "gpu_median_ms": 4.985199928283691,
+            "gpu_p95_ms": 5.2866997718811035,
+            "samples": 498,
+            "clock_median_mhz": 975.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 100.0,
+            "power_cap_pct": 0.0
+          },
+          "Wide": {
+            "gpu_median_ms": 5.2606000900268555,
+            "gpu_p95_ms": 15.603699684143066,
+            "samples": 391,
+            "clock_median_mhz": 975.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 100.0,
+            "power_cap_pct": 0.0
+          }
+        }
+      },
+      "layer-repeat": {
+        "gpu_p95_ms": 5.6707000732421875,
+        "peak_process_mib": 3044.703125,
+        "peak_dedicated_mib": 923.64453125,
+        "views": {
+          "Across": {
+            "gpu_median_ms": 4.139599800109863,
+            "gpu_p95_ms": 4.8109002113342285,
+            "samples": 591,
+            "clock_median_mhz": 1462.5,
+            "temp_max_c": 76.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "B2": {
+            "gpu_median_ms": 5.4745001792907715,
+            "gpu_p95_ms": 6.195099830627441,
+            "samples": 448,
+            "clock_median_mhz": 1365.0,
+            "temp_max_c": 78.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "C2": {
+            "gpu_median_ms": 4.194699764251709,
+            "gpu_p95_ms": 4.7718000411987305,
+            "samples": 578,
+            "clock_median_mhz": 1395.0,
+            "temp_max_c": 80.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "Opening": {
+            "gpu_median_ms": 4.262499809265137,
+            "gpu_p95_ms": 5.508999824523926,
+            "samples": 542,
+            "clock_median_mhz": 1410.0,
+            "temp_max_c": 81.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "Overview": {
+            "gpu_median_ms": 5.548099994659424,
+            "gpu_p95_ms": 6.268400192260742,
+            "samples": 440,
+            "clock_median_mhz": 1290.0,
+            "temp_max_c": 82.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "Shoulder": {
+            "gpu_median_ms": 4.15369987487793,
+            "gpu_p95_ms": 4.738399982452393,
+            "samples": 587,
+            "clock_median_mhz": 1380.0,
+            "temp_max_c": 84.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "Wide": {
+            "gpu_median_ms": 4.263299942016602,
+            "gpu_p95_ms": 4.726900100708008,
+            "samples": 577,
+            "clock_median_mhz": 1350.0,
+            "temp_max_c": 84.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          }
+        }
+      }
+    },
+    "Presentation": {
+      "review": {
+        "gpu_p95_ms": 17.287099838256836,
+        "peak_process_mib": 3057.42578125,
+        "peak_dedicated_mib": 925.3671875,
+        "views": {
+          "Across": {
+            "gpu_median_ms": 4.735000133514404,
+            "gpu_p95_ms": 8.143500328063965,
+            "samples": 475,
+            "clock_median_mhz": 1365.0,
+            "temp_max_c": 87.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "B2": {
+            "gpu_median_ms": 7.23360013961792,
+            "gpu_p95_ms": 7.264999866485596,
+            "samples": 345,
+            "clock_median_mhz": 975.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 100.0,
+            "power_cap_pct": 0.0
+          },
+          "C2": {
+            "gpu_median_ms": 5.244999885559082,
+            "gpu_p95_ms": 5.531599998474121,
+            "samples": 474,
+            "clock_median_mhz": 1140.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 100.0,
+            "power_cap_pct": 0.0
+          },
+          "Opening": {
+            "gpu_median_ms": 5.684700012207031,
+            "gpu_p95_ms": 5.799900054931641,
+            "samples": 438,
+            "clock_median_mhz": 975.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 100.0,
+            "power_cap_pct": 0.0
+          },
+          "Overview": {
+            "gpu_median_ms": 6.8003997802734375,
+            "gpu_p95_ms": 6.853300094604492,
+            "samples": 360,
+            "clock_median_mhz": 975.0,
+            "temp_max_c": 87.0,
+            "thermal_flag_pct": 80.0,
+            "power_cap_pct": 20.0
+          },
+          "Shoulder": {
+            "gpu_median_ms": 16.07469940185547,
+            "gpu_p95_ms": 16.265899658203125,
+            "samples": 155,
+            "clock_median_mhz": 975.0,
+            "temp_max_c": 85.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 0.0
+          },
+          "Wide": {
+            "gpu_median_ms": 17.34040069580078,
+            "gpu_p95_ms": 17.482200622558594,
+            "samples": 145,
+            "clock_median_mhz": 975.0,
+            "temp_max_c": 84.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 0.0
+          }
+        }
+      },
+      "layer-repeat": {
+        "gpu_p95_ms": 5.898200035095215,
+        "peak_process_mib": 3028.87890625,
+        "peak_dedicated_mib": 925.3828125,
+        "views": {
+          "Across": {
+            "gpu_median_ms": 4.51170015335083,
+            "gpu_p95_ms": 4.987299919128418,
+            "samples": 547,
+            "clock_median_mhz": 1380.0,
+            "temp_max_c": 81.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "B2": {
+            "gpu_median_ms": 5.818399906158447,
+            "gpu_p95_ms": 5.928299903869629,
+            "samples": 429,
+            "clock_median_mhz": 1320.0,
+            "temp_max_c": 83.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "C2": {
+            "gpu_median_ms": 4.651199817657471,
+            "gpu_p95_ms": 5.687300205230713,
+            "samples": 516,
+            "clock_median_mhz": 1350.0,
+            "temp_max_c": 84.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "Opening": {
+            "gpu_median_ms": 4.645699977874756,
+            "gpu_p95_ms": 5.133399963378906,
+            "samples": 530,
+            "clock_median_mhz": 1320.0,
+            "temp_max_c": 85.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "Overview": {
+            "gpu_median_ms": 5.873700141906738,
+            "gpu_p95_ms": 5.973999977111816,
+            "samples": 424,
+            "clock_median_mhz": 1230.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 0.0,
+            "power_cap_pct": 100.0
+          },
+          "Shoulder": {
+            "gpu_median_ms": 5.4618000984191895,
+            "gpu_p95_ms": 5.536099910736084,
+            "samples": 457,
+            "clock_median_mhz": 975.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 100.0,
+            "power_cap_pct": 0.0
+          },
+          "Wide": {
+            "gpu_median_ms": 5.211400032043457,
+            "gpu_p95_ms": 5.304100036621094,
+            "samples": 480,
+            "clock_median_mhz": 1155.0,
+            "temp_max_c": 86.0,
+            "thermal_flag_pct": 100.0,
+            "power_cap_pct": 0.0
+          }
+        }
+      }
+    }
+  },
+  "rig": {
+    "B2": {
+      "eye": [
+        -68,
+        -309,
+        9.8109375
+      ],
+      "target": [
+        18,
+        -249,
+        10.7
+      ],
+      "fov": 43,
+      "height": 3.1
+    },
+    "C2": {
+      "eye": [
+        -8.165831186606255,
+        142.14545277811214,
+        18.21450571293025
+      ],
+      "target": [
+        -15.113212670512276,
+        171.329933080442,
+        17.690853765083723
+      ],
+      "fov": 60,
+      "height": 4.5
+    },
+    "Across": {
+      "eye": [
+        19,
+        65,
+        14.548828125
+      ],
+      "target": [
+        -225,
+        135,
+        26
+      ],
+      "fov": 67
+    },
+    "Overview": {
+      "eye": [
+        325,
+        -419,
+        278
+      ],
+      "target": [
+        -12,
+        30,
+        19
+      ],
+      "fov": 72
+    },
+    "Wide": {
+      "eye": [
+        -249.5516820484035,
+        -195.3496415503722,
+        47.11937706132482
+      ],
+      "target": [
+        -293.1502178239433,
+        -154.12867991397934,
+        41.11937706132482
+      ],
+      "fov": 63,
+      "height": 4.5
+    }
+  },
+  "scenic_rig": {
+    "Shoulder": {
+      "eye": [
+        -20.808061658785732,
+        144.14871820509416,
+        18.861924933554466
+      ],
+      "target": [
+        -48.01645132885724,
+        240.37607154894096,
+        16.861924933554466
+      ],
+      "fov": 65.90313317837688
+    },
+    "Opening": {
+      "eye": [
+        -334.46120304980434,
+        86.29523402799953,
+        20.13840326391571
+      ],
+      "target": [
+        -286.12346337831025,
+        173.83644103047848,
+        18.13840326391571
+      ],
+      "fov": 65.26929123025229
+    }
+  },
+  "layers": {
+    "candidate": "B",
+    "wind_mps": [
+      3.1,
+      1.3
+    ],
+    "cloud_altitude_m": 760,
+    "max_sun_attenuation": 0.22,
+    "local_volumes": 2,
+    "sky_ground_rgb": [
+      720,
+      495,
+      290
+    ]
+  },
+  "source_pins": {
+    "single": "ffee2cc1212543b1a0ffdcbbd12bd204539bcb350fb1c45158037c92c3f3bb01",
+    "field_dependency": "873baa0dfbf0a4daee1d6ffe30fed619b22b814b334b28cfc44e01531229ad84",
+    "base_terrain": "47a04951cbb8f9682acc0704b93ae95cc12513f01d598d788aa4c2551eaba59c",
+    "composition": "0be5a47490d2ec45bc2a7ede890fa69e118aa781e43de25f64d973b4bf507432",
+    "export": "1cfcd26d477cec925e5740ff6a840df9465225ae9e20d1e09d976e7c2fd4d80b",
+    "A": "c20c70655178dcfbcc25ae4e037dda05b280d4692cfd38b97d29e79ae1d03b58",
+    "B": "e3719dd6c597b18ff9928d9411b3dcb3245a80646538a0c10b5305a4658a42be",
+    "C": "54c802307805582c9e9a652b7013b6d3fae1d62bedb6e0a276f1ac41d86c95cf",
+    "source_SW": "85786f0580790ff67829b09b6b9af17b5262011bab274d46d8858875b1f1c684",
+    "source_SE": "d3cc8ce4b364ef2182e1b0a3237653402659656171ed7628ab08e5ab58ec9f17",
+    "source_NW": "6212b71e751092d92f299762dfeb2bea8ef338dcd34d463b9baebf3e0ea48ca9",
+    "source_NE": "c574e5648cd9dbb268e731445d5e657d0bfe3155c9068f27c3a8eb3351e5a6d8"
+  },
+  "map_counts": {
+    "Base": {
+      "landscapes": 24,
+      "preview_actors": 0,
+      "screenshots": 7
+    },
+    "A": {
+      "landscapes": 24,
+      "preview_actors": 0,
+      "screenshots": 7
+    },
+    "B": {
+      "landscapes": 24,
+      "preview_actors": 0,
+      "screenshots": 7
+    },
+    "C": {
+      "landscapes": 24,
+      "preview_actors": 0,
+      "screenshots": 7
+    }
+  }
+}
