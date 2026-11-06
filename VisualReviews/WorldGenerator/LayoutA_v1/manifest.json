@@ -1,0 +1,45 @@
+{
+  "milestone": "LayoutA_v1",
+  "files": [
+    {
+      "path": "columns-drive.mp4",
+      "sha256": "f56c04429e1fbc34dc9f44828019baf9f49caf3dcb8b22bb56d7eaf87dad683a"
+    },
+    {
+      "path": "images/columns.jpg",
+      "sha256": "8466fb58dccd1658fbf1c82d9998581460c14e58de5d52306ce5a0dd643a13ba"
+    },
+    {
+      "path": "images/hand.jpg",
+      "sha256": "d1a94e7bf87f75c4017c28510cbeb580627851e746a35c5b6fd7fd4c9ca4ac3c"
+    },
+    {
+      "path": "images/overview.jpg",
+      "sha256": "d686cacdbfcd446c7625257892d3b29a666444ce5060066fe25ec0c81e95e09d"
+    },
+    {
+      "path": "images/route-plan.jpg",
+      "sha256": "16395c7066d165bfec84a2d873161bbe9195f6321290952c6ecfc86b49a7e70d"
+    },
+    {
+      "path": "images/salt-entry.jpg",
+      "sha256": "75da8972b0e6763211bb0ded48c5535510ac17bc6627c5303d90016b90a9d421"
+    },
+    {
+      "path": "images/station.jpg",
+      "sha256": "40840d24839f6dd7329fced465321526d80b82efb7c9fbf869bfbab353ee8130"
+    },
+    {
+      "path": "parameters.json",
+      "sha256": "369eb9b46460e93bd2644d421fedd06e47866e29e196f614715b27dc32258cfe"
+    },
+    {
+      "path": "README.md",
+      "sha256": "acf2bd73100e38ec6d378d6b312e746742da978dba4543a416c190d063aa967e"
+    },
+    {
+      "path": "technical-summary.json",
+      "sha256": "8a8d96d726693c1ff9d1127989b67db919058af1635be62d810e522fff55ce98"
+    }
+  ]
+}

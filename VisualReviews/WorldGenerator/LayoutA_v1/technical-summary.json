@@ -1,0 +1,242 @@
+{
+  "unique_21_tracks": true,
+  "hand_hidden_station": true,
+  "hand_hidden_salt_entry": true,
+  "hand_hidden_salt_center": true,
+  "hand_revealed": true,
+  "hand_reverse_view": true,
+  "occupied_berth_rejected": true,
+  "switch_under_train_rejected": true,
+  "occupied_approach_stops_before_signal": true,
+  "resume_after_clear": true,
+  "pass": true,
+  "journeys": [
+    {
+      "train": "Mammoth",
+      "route": 0,
+      "travel_m": 21079.73722838721,
+      "simulation_seconds": 437.9333333332637,
+      "stop_error_m": -0.13828125596046448,
+      "own_berth": true,
+      "selected_route_visited": true,
+      "exit": true,
+      "repeat_departure": true,
+      "reset": true
+    },
+    {
+      "train": "Voyager",
+      "route": 0,
+      "travel_m": 21079.693404921214,
+      "simulation_seconds": 437.84999999993045,
+      "stop_error_m": -0.14421874284744263,
+      "own_berth": true,
+      "selected_route_visited": true,
+      "exit": true,
+      "repeat_departure": true,
+      "reset": true
+    },
+    {
+      "train": "Bulker",
+      "route": 0,
+      "travel_m": 21079.444311681087,
+      "simulation_seconds": 437.71666666659723,
+      "stop_error_m": -0.13890625536441803,
+      "own_berth": true,
+      "selected_route_visited": true,
+      "exit": true,
+      "repeat_departure": true,
+      "reset": true
+    },
+    {
+      "train": "Panzer",
+      "route": 0,
+      "travel_m": 21079.695093337912,
+      "simulation_seconds": 437.5999999999307,
+      "stop_error_m": -0.14085938036441803,
+      "own_berth": true,
+      "selected_route_visited": true,
+      "exit": true,
+      "repeat_departure": true,
+      "reset": true
+    },
+    {
+      "train": "Behemoth",
+      "route": 0,
+      "travel_m": 21073.502051315503,
+      "simulation_seconds": 437.3499999999309,
+      "stop_error_m": -0.1432812511920929,
+      "own_berth": true,
+      "selected_route_visited": true,
+      "exit": true,
+      "repeat_departure": true,
+      "reset": true
+    },
+    {
+      "train": "Mammoth",
+      "route": 1,
+      "travel_m": 52344.96951237711,
+      "simulation_seconds": 828.6333333329084,
+      "stop_error_m": -0.13671875,
+      "own_berth": true,
+      "selected_route_visited": true,
+      "exit": true,
+      "repeat_departure": true,
+      "reset": true
+    },
+    {
+      "train": "Voyager",
+      "route": 1,
+      "travel_m": 52344.93079424731,
+      "simulation_seconds": 828.5333333329085,
+      "stop_error_m": -0.13781249523162842,
+      "own_berth": true,
+      "selected_route_visited": true,
+      "exit": true,
+      "repeat_departure": true,
+      "reset": true
+    },
+    {
+      "train": "Bulker",
+      "route": 1,
+      "travel_m": 52344.63187203335,
+      "simulation_seconds": 828.3999999995752,
+      "stop_error_m": -0.13828125596046448,
+      "own_berth": true,
+      "selected_route_visited": true,
+      "exit": true,
+      "repeat_departure": true,
+      "reset": true
+    },
+    {
+      "train": "Panzer",
+      "route": 1,
+      "travel_m": 52344.92988256761,
+      "simulation_seconds": 828.2999999995753,
+      "stop_error_m": -0.13679687678813934,
+      "own_berth": true,
+      "selected_route_visited": true,
+      "exit": true,
+      "repeat_departure": true,
+      "reset": true
+    },
+    {
+      "train": "Behemoth",
+      "route": 1,
+      "travel_m": 52338.49307724554,
+      "simulation_seconds": 828.0333333329089,
+      "stop_error_m": -0.13679687678813934,
+      "own_berth": true,
+      "selected_route_visited": true,
+      "exit": true,
+      "repeat_departure": true,
+      "reset": true
+    },
+    {
+      "train": "Mammoth",
+      "route": 2,
+      "travel_m": 48519.665231869265,
+      "simulation_seconds": 780.8333333329518,
+      "stop_error_m": -0.1443749964237213,
+      "own_berth": true,
+      "selected_route_visited": true,
+      "exit": true,
+      "repeat_departure": true,
+      "reset": true
+    },
+    {
+      "train": "Voyager",
+      "route": 2,
+      "travel_m": 48519.63498729409,
+      "simulation_seconds": 780.7333333329519,
+      "stop_error_m": -0.13718749582767487,
+      "own_berth": true,
+      "selected_route_visited": true,
+      "exit": true,
+      "repeat_departure": true,
+      "reset": true
+    },
+    {
+      "train": "Bulker",
+      "route": 2,
+      "travel_m": 48519.325670387014,
+      "simulation_seconds": 780.5999999996187,
+      "stop_error_m": -0.14000000059604645,
+      "own_berth": true,
+      "selected_route_visited": true,
+      "exit": true,
+      "repeat_departure": true,
+      "reset": true
+    },
+    {
+      "train": "Panzer",
+      "route": 2,
+      "travel_m": 48519.625695577124,
+      "simulation_seconds": 780.4999999996188,
+      "stop_error_m": -0.1443749964237213,
+      "own_berth": true,
+      "selected_route_visited": true,
+      "exit": true,
+      "repeat_departure": true,
+      "reset": true
+    },
+    {
+      "train": "Behemoth",
+      "route": 2,
+      "travel_m": 48513.14439233136,
+      "simulation_seconds": 780.2333333329524,
+      "stop_error_m": -0.14445312321186066,
+      "own_berth": true,
+      "selected_route_visited": true,
+      "exit": true,
+      "repeat_departure": true,
+      "reset": true
+    }
+  ],
+  "final_map_sight_lines": [
+    {
+      "view": "station",
+      "blocked": true,
+      "expected": true
+    },
+    {
+      "view": "salt_entry",
+      "blocked": true,
+      "expected": true
+    },
+    {
+      "view": "salt_center",
+      "blocked": true,
+      "expected": true
+    },
+    {
+      "view": "reveal",
+      "blocked": false,
+      "expected": false
+    },
+    {
+      "view": "reverse",
+      "blocked": false,
+      "expected": false
+    }
+  ],
+  "capture": {
+    "source_frames": 1040,
+    "encoded_frames": 1050,
+    "held_frames": 10,
+    "elapsed": 34.9775775000453,
+    "effective_fps": 29.704744418010492,
+    "source": "Windows Graphics Capture, explicit CaptainLab window"
+  },
+  "realtime": {
+    "pass": true,
+    "reset": true,
+    "exit": true,
+    "travel_m": 3492.966193497614,
+    "duration_s": 55.00568290054798,
+    "p95_ms": 17.826899886131287,
+    "p99_ms": 18.402300775051117,
+    "max_ms": 114.35430124402046,
+    "scope": "Realtime DX11. Start repositioned for column shot; no reposition during measured drive. Sound not captured."
+  },
+  "guids_equal_across_independent_loads": true
+}
