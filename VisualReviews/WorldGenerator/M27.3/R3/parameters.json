@@ -1,0 +1,35 @@
+{
+  "preset": "LightDust1",
+  "revision": "M27.3-R3",
+  "seed": 27334,
+  "wind_mps": [
+    4.2,
+    -1.5
+  ],
+  "patches": 36,
+  "saved_particles": 747,
+  "height_samples_per_path": 25,
+  "rail_exclusion_m": 16,
+  "representation": "translucent terrain-following particles; not volumetric scattering",
+  "reset": "reload resets native world clock",
+  "cloud_type_before": [
+    1.5,
+    0,
+    0,
+    0
+  ],
+  "cloud_type_after": [
+    1,
+    1,
+    1,
+    2
+  ],
+  "renderer": "DX11",
+  "nanite": false,
+  "screen_percentage": 100,
+  "game_resolution": [
+    1440,
+    810
+  ],
+  "fps_cap": 60
+}

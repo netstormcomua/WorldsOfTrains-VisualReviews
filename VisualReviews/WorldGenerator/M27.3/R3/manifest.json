@@ -1,0 +1,50 @@
+{
+  "milestone": "M27.3 R3",
+  "files": [
+    {
+      "path": "01-light-dust-off-on.jpg",
+      "bytes": 117790,
+      "sha256": "b22fb8c7e0c8556eb9bcb508860829adc76b0fd215306a8ca99647398b54a024"
+    },
+    {
+      "path": "02-cloud-profile-before-after.jpg",
+      "bytes": 138960,
+      "sha256": "66e99df06c55b28a1e6f4b9afa7d1e32b8fd57f32693c5df0c385d5c73000eac"
+    },
+    {
+      "path": "03-train-view.jpg",
+      "bytes": 147855,
+      "sha256": "351f8176f9af3ae98de7b5f4896ac51d1b4a181bdc7b65d57f05db97db4d156d"
+    },
+    {
+      "path": "04-rail-known-limitation.jpg",
+      "bytes": 79814,
+      "sha256": "0c71cf7d8f4efbf0c44024ada3f4e0e0bba44b6d0a48c4cfc61179422b9571f5"
+    },
+    {
+      "path": "05-dust-contact.jpg",
+      "bytes": 180905,
+      "sha256": "c35ffd6d9cf5c8fa070b050ef8f4960633847e4658c818a84c0ac43b186cb35e"
+    },
+    {
+      "path": "train-pass.mp4",
+      "bytes": 7676957,
+      "sha256": "816baa79d4830f0d3e25eb0f50fd1b02b3c3ae4cab09b72e191aec29668533a9"
+    },
+    {
+      "path": "README.md",
+      "bytes": 6031,
+      "sha256": "36954dfc41154a488722877e3489cc0a7fcaad2a1bc9ae4a791aaad8aab5a57b"
+    },
+    {
+      "path": "parameters.json",
+      "bytes": 596,
+      "sha256": "7f94ce7bc9d885aa915abd4c306f3c212660e0064eb7bcef2c6cf82ea4ca4bf7"
+    },
+    {
+      "path": "measurements.json",
+      "bytes": 1735,
+      "sha256": "d3fe87b8251898fb634d38b10cf74b8d88ba48d4608e455adf1e2bd69c9b29ce"
+    }
+  ]
+}

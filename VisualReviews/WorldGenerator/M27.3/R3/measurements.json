@@ -1,0 +1,61 @@
+{
+  "validation": {
+    "deterministic_preset": true,
+    "saved_reopened": true,
+    "particle_count": 747,
+    "cloud_count": 1,
+    "nonwind_actor_transforms_unchanged": 38,
+    "protected_files_unchanged": 57,
+    "railway_points_exact": true,
+    "own_track_guids_stable": true,
+    "particle_collision_disabled": true,
+    "materials_resolved": true
+  },
+  "runtime": {
+    "travel_m": 511.0908203125,
+    "rise_m": 7.665500348983731,
+    "peak_speed_mps": 9.520415306091309,
+    "max_wheel_z_residual_cm": 0.004513173829764128,
+    "wheel_bindings": true,
+    "junction_crossed": true,
+    "frame_p95_ms": 16.667001724243164,
+    "samples": 3083,
+    "peak_ram_mib": 3309.34375,
+    "frame_p50_ms": 16.666799545288086,
+    "frame_p99_ms": 17.06589698791504,
+    "frame_max_ms": 39.319400787353516,
+    "realtime_duration_s": 51.44237430021167,
+    "fixed_timestep": false,
+    "gpu_samples": 3083,
+    "gpu_p50_ms": 16.642099380493164,
+    "gpu_p95_ms": 20.394100189208984,
+    "gpu_p99_ms": 22.052499771118164,
+    "motion_frames": 0,
+    "exited": true,
+    "exit_status": "On foot",
+    "exit_speed_mps": 0,
+    "reset": true,
+    "result": "completed",
+    "pass": true
+  },
+  "scope": "Editor-game, not packaged build; silent capture; audio not revalidated",
+  "collision": {
+    "sample_count": 96,
+    "max_height_error_m": 0.006903,
+    "min_sampled_rail_distance_m": 16.065557
+  },
+  "capture": {
+    "source_duration_s": 50,
+    "source_updates": 1444,
+    "encoded_frames": 1500,
+    "held_frames": 56,
+    "selected_first_frame": 420,
+    "selected_last_frame": 1499,
+    "selected_duration_s": 36,
+    "selected_frames": 1080,
+    "fps": 30,
+    "retimed": false,
+    "interpolated": false,
+    "audio": false
+  }
+}
