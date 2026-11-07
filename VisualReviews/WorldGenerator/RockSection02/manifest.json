@@ -1,0 +1,45 @@
+{
+  "milestone": "RockSection02",
+  "files": [
+    {
+      "path": "images/wall.jpg",
+      "sha256": "08ec40035f735f57a4ade4d9d7597d4345614259dc7fd58ab19eed34a78aee06"
+    },
+    {
+      "path": "images/ridge.jpg",
+      "sha256": "bb2f349816a28761a1b0e4f787d4bc3f786802d34e6f33a142d16533b3e8c2a2"
+    },
+    {
+      "path": "images/same-camera.jpg",
+      "sha256": "8d1c4e9bc78eb135d039f1df6f55322d77a62200feb2fed796ac0b2b130cddd1"
+    },
+    {
+      "path": "images/neighbor-detail.jpg",
+      "sha256": "27ba784ededf722c17782c1c0fb62d67892ff6ec3cdc8b279622a844d6ad1e89"
+    },
+    {
+      "path": "images/constructor.jpg",
+      "sha256": "341be7657e9d94980ddb3b954f0a4ca70908c807e21b66ab6479e0b3e8a26f05"
+    },
+    {
+      "path": "outer-drive.mp4",
+      "sha256": "8fba484584b5170a764fcb6a467f8a64219683c2f590fef0d2aaae03acfc1fa9"
+    },
+    {
+      "path": "constructor.mp4",
+      "sha256": "f0f12b0e400be366c88a3fdcfdcba3eb560353670120393e96da17beda9ed019"
+    },
+    {
+      "path": "README.md",
+      "sha256": "9a6473d5b93fba37570d0a5bf4618253f46ac4bb05ce9de7d11703f0626ef063"
+    },
+    {
+      "path": "parameters.json",
+      "sha256": "132669fca920d9b2da4762b736f00c46997ec76f3db08855541c6b022aed0a60"
+    },
+    {
+      "path": "technical-summary.json",
+      "sha256": "7e6c8bdb1ec97cfdd609a4ea7011d7ca7bd636ad9fc8fdb07ee682012758dcc8"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "section": {
+    "version": "rock-section-1.1",
+    "base": "rock-section-1.0",
+    "seed": 710413,
+    "reference_point": 2,
+    "placements": [
+      {
+        "preset": "wall02",
+        "chainage": -80,
+        "offset": 105,
+        "version": "rock-outcrop-1.1",
+        "seed": 710414,
+        "preset_digest": "ebfb9fc90aac511e00782f43ed53e3999ad8bbac0495393f63b411e072e6ad37"
+      },
+      {
+        "preset": "ridge02",
+        "chainage": 505,
+        "offset": -76,
+        "version": "rock-outcrop-1.1",
+        "seed": 710415,
+        "preset_digest": "339e60100b83f7d0e0a65764c5f0048ec259cd71bc7e25915938d20048e53118"
+      }
+    ],
+    "preserve_groups": [
+      5,
+      6
+    ],
+    "salt": {
+      "preset": "A",
+      "version": "salt-live-1.1",
+      "level_m": -13
+    },
+    "terrain_samples": 505,
+    "terrain_spacing_m": 7,
+    "schema": 1
+  },
+  "wall": {
+    "version": "rock-outcrop-1.1",
+    "style": "wall",
+    "seed": 710414,
+    "width": 675,
+    "depth": 88,
+    "height": 88
+  },
+  "ridge": {
+    "version": "rock-outcrop-1.1",
+    "style": "ridge",
+    "seed": 710415,
+    "width": 560,
+    "depth": 45,
+    "height": 21
+  }
+}

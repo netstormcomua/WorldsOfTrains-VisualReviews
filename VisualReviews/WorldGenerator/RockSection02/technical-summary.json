@@ -1,0 +1,50 @@
+{
+  "runtime": {
+    "contact_tested": 200,
+    "contact_intersecting": 200,
+    "contact_unavailable": 0,
+    "rock_actors": 262,
+    "native_meshes": 6,
+    "first_utc": "2026-11-07T18:27:01.725Z",
+    "camera_cm": "X=347847.249 Y=487334.135 Z=1365.154",
+    "ridge_utc": "2026-11-07T18:27:04.230Z",
+    "drive_m": 1020.38375,
+    "seconds": 30.006002098321915,
+    "swept_positions": 119,
+    "p95_ms": 18.215499818325043,
+    "max_ms": 46.05359956622124,
+    "pass": true
+  },
+  "baseline": {
+    "rock_actors": 217,
+    "native_meshes": 6,
+    "first_utc": "2026-11-07T18:15:36.201Z",
+    "camera_cm": "X=347847.249 Y=487334.135 Z=1365.154",
+    "drive_m": 1020.181875,
+    "seconds": 30.000101998448372,
+    "swept_positions": 119,
+    "p95_ms": 17.971400171518326,
+    "max_ms": 25.150299072265625,
+    "pass": true
+  },
+  "proof": {
+    "groups": {
+      "wall02": "fa5913b8e48846d9b10da93bbaf057949cb088dfcc2d0276ba781c34565dcbba",
+      "ridge02": "45e6b8ccdeeb2e036b8bdb2f34822e9942c5bef132ea20139ca73a0fc60a67d8"
+    },
+    "neighbor_hash": "43e176c29e64d8f83f7320c2a2d37e404094449fddd450fab53dae94f599b5e3",
+    "neighbor_pieces": 62,
+    "rock_hash": "b7f57f5b6ff980eba358b8988d258d4ec6c9d9a80276a1f12da7b174aea6c344",
+    "terrain": "20cc012f8f474b6e45a6a82f68defe1136d4db0380a176f57321a7c4075c1cfa",
+    "changed_samples": 35216,
+    "min_clearance_m": 34.01784438997011,
+    "salt_floor_min_m": -32.7109375
+  },
+  "capture": {
+    "source_frames": 736,
+    "encoded_frames": 750,
+    "held_frames": 14,
+    "elapsed": 24.969234699965455
+  },
+  "gameplay_loads": 1
+}
