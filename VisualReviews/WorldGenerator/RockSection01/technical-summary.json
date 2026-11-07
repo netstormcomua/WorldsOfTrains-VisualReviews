@@ -1,0 +1,24 @@
+{
+  "runtime": {
+    "rock_actors": 217,
+    "native_meshes": 6,
+    "first_utc": "2026-11-07T18:15:36.201Z",
+    "camera_cm": "X=347847.249 Y=487334.135 Z=1365.154",
+    "drive_m": 1020.181875,
+    "seconds": 30.000101998448372,
+    "swept_positions": 119,
+    "p95_ms": 17.971400171518326,
+    "max_ms": 25.150299072265625,
+    "pass": true
+  },
+  "capture": {
+    "elapsed": 24.970125199994072,
+    "source_frames": 736,
+    "encoded_frames": 750,
+    "held_frames": 14
+  },
+  "track_length_m": 15497.44875,
+  "minimum_sampled_rail_clearance_m": 51.693,
+  "first_view_elapsed_seconds": 446.5,
+  "target_game_map_loads": 1
+}
