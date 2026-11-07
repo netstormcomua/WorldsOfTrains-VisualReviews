@@ -1,0 +1,33 @@
+{
+  "milestone": "ShoreSaltLive11",
+  "files": [
+    {
+      "path": "images/A.png",
+      "sha256": "01f4f52a15ee38c9b4e9dd9c4b949f77c16686c887b6d01f9a7320dbeeec41e5"
+    },
+    {
+      "path": "images/B.png",
+      "sha256": "28ea27e192e72fa8df39acaf5458ad5a0aa2a0b0a482988fafec3ff52af8066e"
+    },
+    {
+      "path": "images/paired.jpg",
+      "sha256": "5254c6d4c1968ef9e97102a6a0c377e71387d2eef0feb2dbcb53373c01b309ae"
+    },
+    {
+      "path": "B-drive.mp4",
+      "sha256": "1fbc6c9a6d401dc2ab7569025d14811d16fa883c615180d2adc26081a574edfd"
+    },
+    {
+      "path": "README.md",
+      "sha256": "89ca3b63e108dbbf49f08dbd2c285805689dbc296229a3451ffd805792437d66"
+    },
+    {
+      "path": "presets.json",
+      "sha256": "9c0e7d1dad710714cbd1ef845dcff45f592b8c6eaf64bd888fe2e7ce0cd3099e"
+    },
+    {
+      "path": "measurements.json",
+      "sha256": "f099e1786c7aaea7cfd5978329803e954a144ac78f1bc9e550ce40e2b45113ea"
+    }
+  ]
+}

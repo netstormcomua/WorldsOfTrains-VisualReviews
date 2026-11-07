@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "version": "salt-live-1.1",
+  "parent": "salt-shore-1.0",
+  "seed": 710261,
+  "A": {
+    "strength": 0.91,
+    "roughness": 0.085
+  },
+  "B": {
+    "strength": 0.47,
+    "roughness": 0.36
+  }
+}

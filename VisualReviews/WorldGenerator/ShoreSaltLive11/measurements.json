@@ -1,0 +1,120 @@
+{
+  "setup_to_A_seconds": 412.601302,
+  "setup_to_first_pair_seconds": 415.515302,
+  "A_to_B_seconds": 2.914621401578188,
+  "target_map_loads": 1,
+  "reloads_A_to_B": 0,
+  "previous_setup_time": null,
+  "pinned_files": 22,
+  "capture": {
+    "source_frames": 647,
+    "encoded_frames": 749,
+    "held_frames": 102,
+    "effective_fps": 25.90595791600065
+  },
+  "drive": {
+    "drive_m": 1121.05615234375,
+    "drive_seconds": 32.009858299046755,
+    "p95_ms": 37.99320012331009,
+    "max_ms": 42.39800199866295,
+    "ground_probes": 48
+  },
+  "prior_p95_ms": 37.89520263671875,
+  "clip": {
+    "frames": 749,
+    "clip_s": 24.966666666666665,
+    "late_salt_roi_pairs": 324,
+    "residual_mean_p95": 1.7183286818376973,
+    "worst_frame": 626,
+    "worst_mean": 2.660261914984972,
+    "roi": "320x180 luma, x165:302 y100:168 after 14s; current-to-previous optical flow; excludes near-duplicate frames"
+  },
+  "scalar_checks": {
+    "A": {
+      "strength": 0.9100000262260437,
+      "roughness": 0.08500000089406967,
+      "world_seconds": 11.184208079183009,
+      "camera_cm": "X=-335524.133 Y=231455.965 Z=1245.154",
+      "rotation": "P=-3.853925 Y=-29.988130 R=-0.000000",
+      "fov": 64
+    },
+    "strength_only": {
+      "strength": 0.4699999988079071,
+      "roughness": 0.08500000089406967,
+      "world_seconds": 11.184208079183009,
+      "camera_cm": "X=-335524.133 Y=231455.965 Z=1245.154",
+      "rotation": "P=-3.853925 Y=-29.988130 R=-0.000000",
+      "fov": 64
+    },
+    "B": {
+      "strength": 0.4699999988079071,
+      "roughness": 0.36000001430511475,
+      "world_seconds": 11.184208079183009,
+      "camera_cm": "X=-335524.133 Y=231455.965 Z=1245.154",
+      "rotation": "P=-3.853925 Y=-29.988130 R=-0.000000",
+      "fov": 64
+    }
+  },
+  "pixel_checks": {
+    "strength": {
+      "wet": {
+        "mean": 2.032666666666667,
+        "p99": 14.0,
+        "maximum": 15.333333333333334,
+        "pixels_over_2": 11270
+      },
+      "sky": {
+        "mean": 0.005742721330956624,
+        "p99": 0.3333333333333333,
+        "maximum": 1.0,
+        "pixels_over_2": 0
+      },
+      "dune": {
+        "mean": 0.006974153297682708,
+        "p99": 0.3333333333333333,
+        "maximum": 0.6666666666666666,
+        "pixels_over_2": 0
+      }
+    },
+    "roughness": {
+      "wet": {
+        "mean": 3.8804388888888894,
+        "p99": 36.0,
+        "maximum": 40.0,
+        "pixels_over_2": 9566
+      },
+      "sky": {
+        "mean": 0.007513368983957219,
+        "p99": 0.3333333333333333,
+        "maximum": 1.0,
+        "pixels_over_2": 0
+      },
+      "dune": {
+        "mean": 0.008556149732620321,
+        "p99": 0.3333333333333333,
+        "maximum": 1.0,
+        "pixels_over_2": 0
+      }
+    },
+    "combined": {
+      "wet": {
+        "mean": 5.900927777777778,
+        "p99": 48.333333333333336,
+        "maximum": 53.666666666666664,
+        "pixels_over_2": 11556
+      },
+      "sky": {
+        "mean": 0.013024361259655377,
+        "p99": 0.3333333333333333,
+        "maximum": 1.0,
+        "pixels_over_2": 0
+      },
+      "dune": {
+        "mean": 0.015209447415329766,
+        "p99": 0.3333333333333333,
+        "maximum": 1.0,
+        "pixels_over_2": 0
+      }
+    }
+  }
+}
