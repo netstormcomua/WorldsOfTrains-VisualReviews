@@ -1,0 +1,68 @@
+{
+  "runtime": {
+    "contact_tested": 666,
+    "contact_intersecting": 596,
+    "contact_unavailable": 0,
+    "rock_actors": 666,
+    "native_meshes": 6,
+    "first_utc": "2026-11-07T19:08:19.817Z",
+    "camera_cm": "X=347847.249 Y=487334.135 Z=1365.154",
+    "ridge_utc": "2026-11-07T19:08:22.330Z",
+    "drive_m": 1020.44625,
+    "seconds": 30.007675401866436,
+    "swept_positions": 119,
+    "p95_ms": 18.2390995323658,
+    "max_ms": 51.550399512052536,
+    "pass": true
+  },
+  "baseline_runtime": {
+    "contact_tested": 200,
+    "contact_intersecting": 200,
+    "contact_unavailable": 0,
+    "rock_actors": 262,
+    "native_meshes": 6,
+    "first_utc": "2026-11-07T18:27:01.725Z",
+    "camera_cm": "X=347847.249 Y=487334.135 Z=1365.154",
+    "ridge_utc": "2026-11-07T18:27:04.230Z",
+    "drive_m": 1020.38375,
+    "seconds": 30.006002098321915,
+    "swept_positions": 119,
+    "p95_ms": 18.215499818325043,
+    "max_ms": 46.05359956622124,
+    "pass": true
+  },
+  "terrain": {
+    "peak_m": 476.55234375000003,
+    "water_cells": 6398,
+    "shore_crossings": 1158,
+    "max_shore_step_m": 0.9445312500000007,
+    "shore_steps_above_5m": 0,
+    "min_wet_tile_outer_margin_m": 1995.5,
+    "min_rail_clearance_m": 46.36802595393457,
+    "height_sha": "afa4c51df80ef1d70b62d39dc68a0e958c058c75ef8887ede4353db38de5e11f",
+    "atlas_sha": "20143e616286857fa9045ce7b387291614826b987b3df7bd9fd0eab134c97277",
+    "rocks_sha": "350eb10e8075a65d31b0effbaa42c64a85a526eda38c8b6433cc3b81708c5d0a"
+  },
+  "contacts": {
+    "checked": 666,
+    "straddling": 666,
+    "above": 0,
+    "below": 0,
+    "max_bottom_gap_m": 0,
+    "min_exposure_m": 0.0898593297548359,
+    "samples_per_mesh": {
+      "SM_RockSide_A1": 10047,
+      "SM_Rock_Side-A2": 6382,
+      "SM_Small_Rock_3": 1267,
+      "SM_Small_Rock_2": 1512,
+      "SM_Small_Rock_1": 1415,
+      "SM_Small_Rock_B2": 72
+    }
+  },
+  "capture": {
+    "elapsed": 24.968890800024383,
+    "source_frames": 732,
+    "encoded_frames": 750,
+    "held_frames": 18
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "outer03b": {
+    "schema": 1,
+    "version": "rock-section-1.3",
+    "seed": 710537,
+    "base": "rock-section-1.1",
+    "ridge": "sandstone-ridge-1.1",
+    "ridge_seed": 710538,
+    "outcrop": "rock-outcrop-1.2",
+    "outcrop_seed": 710532,
+    "shore": "basin-shore-1.0",
+    "salt_source": "salt-live-1.1",
+    "salt_preset": "A",
+    "samples_per_tile": 505,
+    "spacing_m": 6.5,
+    "vertical_scale": 310,
+    "water_m": -13,
+    "origin": [
+      1950,
+      2580
+    ],
+    "sand": "sand-v2-hybrid-D2",
+    "light": "M272-photo"
+  },
+  "fold03b": {
+    "schema": 1,
+    "version": "sandstone-ridge-1.1",
+    "seed": 710538,
+    "peaks": [
+      [
+        -2150,
+        205
+      ],
+      [
+        -1470,
+        270
+      ],
+      [
+        -820,
+        330
+      ],
+      [
+        -135,
+        218
+      ],
+      [
+        510,
+        355
+      ],
+      [
+        1060,
+        270
+      ],
+      [
+        1650,
+        385
+      ],
+      [
+        2250,
+        285
+      ]
+    ],
+    "half_width_m": 360
+  },
+  "ledge03": {
+    "schema": 1,
+    "version": "rock-outcrop-1.2",
+    "seed": 710532,
+    "ledge_count": 8,
+    "talus_count": 10,
+    "run_m": 140
+  }
+}

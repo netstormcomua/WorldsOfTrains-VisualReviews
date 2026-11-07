@@ -1,0 +1,49 @@
+{
+  "milestone": "RockSection03",
+  "files": [
+    {
+      "path": "images/track-02-03.jpg",
+      "sha256": "aaac7803e8c635ef372c40824c9516c678d7a582942a3d8308d38f7d484c1a4c"
+    },
+    {
+      "path": "images/ridge-02-03.jpg",
+      "sha256": "10425d75c789ba9c692da150e72a528a4e306701e9e9df827e1007c26777f136"
+    },
+    {
+      "path": "images/shore-crop-02-03.jpg",
+      "sha256": "dd6a31d24fe0894dab7a8a50468d3ccd72c6a9443c7b3be420dacdd5271a41c2"
+    },
+    {
+      "path": "images/track.jpg",
+      "sha256": "0fd80d437256223c80617b1893c032fe14036d39fd4a966179808817b2fd6f88"
+    },
+    {
+      "path": "images/ridge.jpg",
+      "sha256": "b93df175b9170226b16cd8e4918e420eca59c456263dfd0e3ff41dde94c795fa"
+    },
+    {
+      "path": "images/shore.jpg",
+      "sha256": "35e381ddc590d81a0056c4caedb8f64d0fcd9ecdbf02c86a5587e42bc82ea590"
+    },
+    {
+      "path": "images/dry-D2.jpg",
+      "sha256": "67ba5fe8e837b904e486777ef0e9d55c8e2d30d36b13cb3870f4bb073ee2a061"
+    },
+    {
+      "path": "outer-drive.mp4",
+      "sha256": "b9aa465ff93507c77f22e7bb28f1eb4de6e64ae15692b826eb917100d25e381e"
+    },
+    {
+      "path": "parameters.json",
+      "sha256": "5f8c5f6e8c82abdffb8e5392b292ae65b2887bbe5967a99719f52f76822b38b9"
+    },
+    {
+      "path": "measurements.json",
+      "sha256": "a959acb42a6124abcca7330a4b4f986f5b1fb2cb1ea5a705c47b5b7f9e5b5e1c"
+    },
+    {
+      "path": "README.md",
+      "sha256": "ffd94acef44c4a62914dbbcd591415f53e132fd8f69c255433caea65eff2b2d2"
+    }
+  ]
+}
