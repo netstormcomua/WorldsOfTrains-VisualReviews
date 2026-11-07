@@ -1,0 +1,189 @@
+{
+  "before": {
+    "small": {
+      "samples": 1343,
+      "p95": {
+        "frame_ms": 18.34,
+        "game_ms": 4.86,
+        "render_ms": 10.66,
+        "gpu_ms": 19.88
+      },
+      "rail_start_m": 2158.469,
+      "rail_end_m": 3585.172
+    },
+    "station": {
+      "samples": 1666,
+      "p95": {
+        "frame_ms": 17.66,
+        "game_ms": 4.91,
+        "render_ms": 12.32,
+        "gpu_ms": 22.07
+      },
+      "rail_start_m": 1844.325,
+      "rail_end_m": 91.155
+    },
+    "heaviest_station_4s": {
+      "samples": 234,
+      "p95": {
+        "frame_ms": 17.94,
+        "game_ms": 5.03,
+        "render_ms": 13.15,
+        "gpu_ms": 22.0
+      },
+      "rail_start_m": 2731.202,
+      "rail_end_m": 72.183
+    },
+    "camera": {
+      "total": 1343,
+      "terrain_hits": 1343,
+      "underground": 461,
+      "min_gap_m": -51.76,
+      "frames": {
+        "4": {
+          "time_s": "4.004",
+          "ground_actor": "Landscape",
+          "eye_z_m": 20.152,
+          "ground_m": 48.436,
+          "gap_m": -28.28,
+          "rail_m": 2324.545
+        },
+        "12": {
+          "time_s": "12.006",
+          "ground_actor": "Landscape",
+          "eye_z_m": 53.679,
+          "ground_m": 6.31,
+          "gap_m": 47.37,
+          "rail_m": 2762.398
+        },
+        "19": {
+          "time_s": "18.995",
+          "ground_actor": "Landscape",
+          "eye_z_m": 25.64,
+          "ground_m": 0.048,
+          "gap_m": 25.59,
+          "rail_m": 3255.278
+        }
+      }
+    }
+  },
+  "after": {
+    "small": {
+      "samples": 1351,
+      "p95": {
+        "frame_ms": 18.05,
+        "game_ms": 4.96,
+        "render_ms": 11.9,
+        "gpu_ms": 21.04
+      },
+      "rail_start_m": 2158.469,
+      "rail_end_m": 3589.297
+    },
+    "station": {
+      "samples": 1680,
+      "p95": {
+        "frame_ms": 17.57,
+        "game_ms": 4.36,
+        "render_ms": 11.38,
+        "gpu_ms": 21.63
+      },
+      "rail_start_m": 1844.032,
+      "rail_end_m": 91.074
+    },
+    "heaviest_station_4s": {
+      "samples": 240,
+      "p95": {
+        "frame_ms": 17.83,
+        "game_ms": 4.58,
+        "render_ms": 11.12,
+        "gpu_ms": 21.52
+      },
+      "rail_start_m": 1844.032,
+      "rail_end_m": 1942.092
+    },
+    "camera": {
+      "total": 1351,
+      "terrain_hits": 1351,
+      "underground": 0,
+      "min_gap_m": 17.85,
+      "frames": {
+        "4": {
+          "time_s": "3.994",
+          "ground_actor": "Landscape",
+          "eye_z_m": 20.152,
+          "ground_m": 2.258,
+          "gap_m": 17.89,
+          "rail_m": 2326.593
+        },
+        "12": {
+          "time_s": "12.005",
+          "ground_actor": "Landscape",
+          "eye_z_m": 53.679,
+          "ground_m": 2.179,
+          "gap_m": 51.5,
+          "rail_m": 2765.86
+        },
+        "19": {
+          "time_s": "19.008",
+          "ground_actor": "Landscape",
+          "eye_z_m": 25.64,
+          "ground_m": 0.048,
+          "gap_m": 25.59,
+          "rail_m": 3260.602
+        }
+      }
+    }
+  },
+  "normal_2_2": {
+    "ordinary_departure": {
+      "seconds": [
+        6,
+        26
+      ],
+      "samples": 1200,
+      "x_range_m": [
+        "-5536.639",
+        "-5135.821"
+      ],
+      "p95": {
+        "frame_ms": 17.48,
+        "game_ms": 4.49,
+        "render_ms": 11.69,
+        "gpu_ms": 21.8
+      }
+    },
+    "warm_station": {
+      "seconds": [
+        5,
+        33
+      ],
+      "samples": 1678,
+      "x_range_m": [
+        "-5556.004",
+        "-4995.637"
+      ],
+      "p95": {
+        "frame_ms": 17.56,
+        "game_ms": 4.56,
+        "render_ms": 11.74,
+        "gpu_ms": 21.85
+      }
+    },
+    "heaviest_4s": {
+      "seconds": [
+        5,
+        9
+      ],
+      "samples": 238,
+      "x_range_m": [
+        "-5556.004",
+        "-5476.954"
+      ],
+      "p95": {
+        "frame_ms": 17.84,
+        "game_ms": 5.18,
+        "render_ms": 12.65,
+        "gpu_ms": 22.52
+      }
+    }
+  }
+}

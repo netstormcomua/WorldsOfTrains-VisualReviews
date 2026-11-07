@@ -1,0 +1,11 @@
+{
+  "parent": "layout-a-2.1",
+  "arc_window_m": [
+    1250,
+    4350
+  ],
+  "source_sha256": "37a4a868e6a864cec3975f71cd8a33574fd92b0d1ee4435c79dbe4e5771ac8cb",
+  "version": "small-shoulder-1.0",
+  "blend_end_m": 330,
+  "slope_denominator_m": 450
+}

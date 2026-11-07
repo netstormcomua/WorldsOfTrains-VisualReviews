@@ -1,0 +1,36 @@
+{
+  "files": [
+    {
+      "path": "small-front.jpg",
+      "sha256": "7fe89d9a6fc3a675c2fa598227e823c6189bd11748e2d672abbc2058d48c595e"
+    },
+    {
+      "path": "small-turn.jpg",
+      "sha256": "a10e885c9d133b980a8c424220e11847018c42f132a43b31622c2ee788279a68"
+    },
+    {
+      "path": "camera-probe.jpg",
+      "sha256": "02f4985f1cf085620f5c52d176dd43ecba7dcc6e53170ce2ff9a3566d18d9b9e"
+    },
+    {
+      "path": "small-before.mp4",
+      "sha256": "457c1ab9c34122a67a345bb1640f1ceb18edea5b800b8898b1230d32ec41e559"
+    },
+    {
+      "path": "small-after.mp4",
+      "sha256": "e5141a30796a2063c5598c8fe0365586c6746cf2622cc50f56f953b7fe5846d9"
+    },
+    {
+      "path": "timings.json",
+      "sha256": "0867e0691acf60ce7eef2582cec3ced8c6140f94ba8eea4123661ed7538e8989"
+    },
+    {
+      "path": "preset.json",
+      "sha256": "9c8a4e1630e91d3740d0420490f35f81236fabcb524a27f6d3326eb1a3b11d6d"
+    },
+    {
+      "path": "README.md",
+      "sha256": "c7d4c487dec529eb1ce8c637e2a13e7e870a1200d3361f0175d0811e2c2ab803"
+    }
+  ]
+}
