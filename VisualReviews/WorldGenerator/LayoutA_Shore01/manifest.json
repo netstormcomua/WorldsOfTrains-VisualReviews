@@ -1,0 +1,37 @@
+{
+  "milestone": "LayoutA_Shore01",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "cec39dbcefec852ba7075e1936f0db50c5fce2e7dfa0e83e12958e8acf216aa9"
+    },
+    {
+      "path": "shore-drive.mp4",
+      "sha256": "b58434b936610901dc8a16e358662b93b3fc39ae69ae2cc2eac4cbbefb9f9dfa"
+    },
+    {
+      "path": "images/matched.jpg",
+      "sha256": "b7465f29df60b546777c476f677fdd39965bcd3770bda1283287f391f12b2077"
+    },
+    {
+      "path": "images/shore.jpg",
+      "sha256": "964ee54e483f4c47650c2dd5dd5e005bf54eb0ec663a4c78b7f8c5ef104c2834"
+    },
+    {
+      "path": "images/dune-cut.jpg",
+      "sha256": "a5df87d1f501d56d3633020b570d8119f3fa97c520bc858107ef1bf8621cd391"
+    },
+    {
+      "path": "images/salt-flat.jpg",
+      "sha256": "46aa64af5c03e531f60edd03581971e1ebe2e414b83331c9be980f66ab4b65c1"
+    },
+    {
+      "path": "parameters.json",
+      "sha256": "c9270b4291562125f6adc4bdf9ba82971c890f79c1efe6a991c6fcf765b4b144"
+    },
+    {
+      "path": "technical-summary.json",
+      "sha256": "ae5dce2fb962c1598ef347665075abf58c2d71a812f32c9544fa7696a1be6e02"
+    }
+  ]
+}

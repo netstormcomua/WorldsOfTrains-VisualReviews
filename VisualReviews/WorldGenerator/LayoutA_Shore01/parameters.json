@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "implementation": "salt-shore-1.0",
+  "seed": 710261,
+  "field_version": "field-m27.3.2",
+  "field_recipe_sha256": "438f345099910f32c2e68e4f8a8e7893aad58690b2a5b40aee7ebad81c3a85d6",
+  "field_center_m": [
+    -3610,
+    2380
+  ],
+  "sample_spacing_m": 1.6,
+  "relief_scale": 1.27,
+  "shore_x_m": -3260,
+  "shore_reference_y_m": 2230,
+  "shore_angle": 0.28,
+  "shore_meanders_m": [
+    37,
+    16
+  ],
+  "mask_period_m": 860,
+  "wet_threshold": 0.465,
+  "water_height_m": 0.14,
+  "source_track": "Columns",
+  "camera_distance_m": 735,
+  "material": "Hybrid Sand v2 / D2",
+  "sun_lux": 50500,
+  "daylight_pitch_yaw_deg": [
+    -28,
+    -16
+  ],
+  "fov_deg": 64,
+  "rail_station_m": 735,
+  "reflection_resolution": [
+    640,
+    360
+  ],
+  "reflection_hz": 15
+}

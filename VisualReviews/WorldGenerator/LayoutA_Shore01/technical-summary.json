@@ -1,0 +1,19 @@
+{
+  "matched_pose_and_lens": true,
+  "changed_section_m": 1121.90625,
+  "realtime_seconds": 32.01789329946041,
+  "ground_checks": 49,
+  "ground_checks_pass": true,
+  "retained_source_track_length_m": 11672.13875,
+  "p95_ms": 37.89520263671875,
+  "max_ms": 47.59080335497856,
+  "protected_files_verified": 296,
+  "terrain_seams_verified": 4,
+  "preset_and_alternate_seed_tests_pass": true,
+  "seed": 710261,
+  "clip_seconds": 25.0,
+  "encoded_frames": 750,
+  "source_frames": 629,
+  "held_frames": 121,
+  "effective_capture_fps": 25.15064948697178
+}
