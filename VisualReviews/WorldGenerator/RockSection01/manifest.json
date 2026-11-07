@@ -19,15 +19,15 @@
     },
     {
       "path": "parameters.json",
-      "sha256": "8b8aeb4866f0f68616e27624ad8d490463c7f84330c7ea0b9f01288378b0bede"
+      "sha256": "6b99914ccde527b50ae0149b3ae637deaa18da810885a51020c8510b545b0bfc"
     },
     {
       "path": "technical-summary.json",
-      "sha256": "68876690f11b6001fd2385527ee3ab4093c38c88ac233b8a3bd2df65c6eae9a4"
+      "sha256": "c9c48e357f5b03ea8eb946b894751af52d5df545f4464150ad663d8752238ad3"
     },
     {
       "path": "README.md",
-      "sha256": "68c1e128b53d75dca4aff7c3b3ce794e32e912ad390b69c14307d2075c6a0833"
+      "sha256": "e7b20e62d50849e3409afc5c106a626ae245da449be2459cb427c2a30e5115b9"
     }
   ]
 }
