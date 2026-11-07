@@ -1,0 +1,46 @@
+{
+  "plan": {
+    "A": {
+      "digest": "4758e72c5f89134b277f6dc502def597e8d1da5232e6996964c1e51b74b464b7",
+      "members": 123,
+      "pier_footings": 8,
+      "min_burial_at_center_m": 3.4265625
+    },
+    "B": {
+      "digest": "d152484f762da621f68c274cde169ae5b35714033a7d4fe10a29b2597878fabc",
+      "members": 197,
+      "pier_footings": 9,
+      "min_burial_at_center_m": 5.16484375
+    }
+  },
+  "A": {
+    "key_1": true,
+    "key_2": true,
+    "key_3": true,
+    "occupied_refused_preserved": true,
+    "approach": true,
+    "under": true,
+    "meters": 1707.6162109375,
+    "clearance_samples": 155,
+    "overhead_hits": 109,
+    "minimum_overhead_from_anchor_m": 137.84846068058573,
+    "clean_hud": true,
+    "pass": true,
+    "result": "Columns segment finished"
+  },
+  "B": {
+    "key_1": true,
+    "key_2": true,
+    "key_3": true,
+    "occupied_refused_preserved": true,
+    "approach": true,
+    "under": true,
+    "meters": 1708.41943359375,
+    "clearance_samples": 156,
+    "overhead_hits": 35,
+    "minimum_overhead_from_anchor_m": 136.34846068146064,
+    "clean_hud": true,
+    "pass": true,
+    "result": "Columns segment finished"
+  }
+}

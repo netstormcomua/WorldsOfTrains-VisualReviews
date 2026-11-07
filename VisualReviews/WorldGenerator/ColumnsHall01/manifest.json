@@ -1,0 +1,41 @@
+{
+  "milestone": "ColumnsHall01",
+  "files": [
+    {
+      "path": "columns-distant.jpg",
+      "sha256": "270d18479ecfd9b1c107ebc14a66721b89a95482e9d26ac1d27a764114ce9138"
+    },
+    {
+      "path": "columns-underside.jpg",
+      "sha256": "ecd60519d4721c9668a6c1fa2c62bab892f5455b21a98a3f12c13412200b6e8c"
+    },
+    {
+      "path": "drive-under.jpg",
+      "sha256": "451c7aa3b45035ab10f8a9efe28a9ab863a80d15d8ce9d6057e7702f04eee799"
+    },
+    {
+      "path": "route-hud.jpg",
+      "sha256": "713afecb5df2ad18717e0266e061e714c40c7c30fe71e3f84537ac57fd807ddb"
+    },
+    {
+      "path": "plans.jpg",
+      "sha256": "7eac154d3475d0e8104efa25b6a8f72af540775264157312dd0d4c91b64098a7"
+    },
+    {
+      "path": "columns-a.mp4",
+      "sha256": "4030f7495dff8f7b516fe360f2bcdcd5ffee6efee455656b79426337d9af3367"
+    },
+    {
+      "path": "columns-b.mp4",
+      "sha256": "cdbd106e6bd9bb064d03a37e39b1d39270cc7b0d14e8eb967174e1ca364300bc"
+    },
+    {
+      "path": "checks.json",
+      "sha256": "20c410295bba3c93c4646f90579dcd8086bb942a63130956adbd140851059a1b"
+    },
+    {
+      "path": "README.md",
+      "sha256": "4e84317e670b00bfaf3f0f778cde1b0991630c8086d898d73f642517c568c945"
+    }
+  ]
+}
