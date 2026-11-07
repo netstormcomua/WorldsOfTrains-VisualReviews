@@ -1,0 +1,252 @@
+{
+  "layout": {
+    "schema": 1,
+    "version": "layout-a-basin-2.0",
+    "seed": 710650,
+    "base": "layout-a-v1",
+    "origin": [
+      -11850,
+      -7200
+    ],
+    "spacing_m": 11,
+    "tiles": [
+      4,
+      3
+    ],
+    "vertical_scale": 610,
+    "water_m": -1.25,
+    "basin_center": [
+      1850,
+      480
+    ],
+    "basin_axes": [
+      5480,
+      4280
+    ],
+    "massifs": [
+      "north",
+      "east",
+      "south"
+    ],
+    "massif_version": "sandstone-massif-1.0",
+    "outcrop_version": "rock-outcrop-1.2",
+    "dune_field": "field-m27.3.2",
+    "sand": "sand-v2-hybrid-D2",
+    "dust": "LightDust1"
+  },
+  "foothill": {
+    "schema": 1,
+    "version": "outer-foothill-1.0",
+    "base": "layout-a-basin-2.0",
+    "seed": 710655,
+    "tile": [
+      2,
+      2
+    ],
+    "outcrop": "rock-outcrop-1.2",
+    "window_x": [
+      1500,
+      4740
+    ],
+    "north_transition_m": 480,
+    "south_transition_m": 330,
+    "groups": [
+      [
+        2250,
+        58
+      ],
+      [
+        2410,
+        92
+      ],
+      [
+        2650,
+        52
+      ],
+      [
+        2770,
+        70
+      ],
+      [
+        2930,
+        -82
+      ],
+      [
+        3120,
+        48
+      ],
+      [
+        3300,
+        72
+      ],
+      [
+        3430,
+        54
+      ],
+      [
+        3605,
+        -92
+      ],
+      [
+        3770,
+        78
+      ],
+      [
+        3940,
+        58
+      ],
+      [
+        4180,
+        99
+      ],
+      [
+        4430,
+        68
+      ]
+    ]
+  },
+  "massifs": [
+    {
+      "schema": 1,
+      "version": "sandstone-massif-1.0",
+      "style": "mesa",
+      "seed": 710620,
+      "center": [
+        2950,
+        6290
+      ],
+      "heading_deg": -9,
+      "length_m": 7800,
+      "half_width_m": 1230,
+      "height_m": 1060,
+      "ridge": {
+        "schema": 1,
+        "version": "sandstone-ridge-1.1",
+        "seed": 710621,
+        "peaks": [
+          [
+            -2400,
+            270
+          ],
+          [
+            -1200,
+            175
+          ],
+          [
+            -580,
+            360
+          ],
+          [
+            120,
+            190
+          ],
+          [
+            740,
+            335
+          ],
+          [
+            1900,
+            260
+          ]
+        ],
+        "half_width_m": 425
+      }
+    },
+    {
+      "schema": 1,
+      "version": "sandstone-massif-1.0",
+      "style": "dissected",
+      "seed": 710630,
+      "center": [
+        8330,
+        2660
+      ],
+      "heading_deg": 74,
+      "length_m": 6250,
+      "half_width_m": 1170,
+      "height_m": 810,
+      "ridge": {
+        "schema": 1,
+        "version": "sandstone-ridge-1.1",
+        "seed": 710631,
+        "peaks": [
+          [
+            -2300,
+            235
+          ],
+          [
+            -1740,
+            370
+          ],
+          [
+            -620,
+            185
+          ],
+          [
+            210,
+            250
+          ],
+          [
+            1060,
+            380
+          ],
+          [
+            2150,
+            140
+          ]
+        ],
+        "half_width_m": 325
+      }
+    },
+    {
+      "schema": 1,
+      "version": "sandstone-massif-1.0",
+      "style": "dissected",
+      "seed": 710640,
+      "center": [
+        2250,
+        -5840
+      ],
+      "heading_deg": 3,
+      "length_m": 9300,
+      "half_width_m": 1120,
+      "height_m": 690,
+      "ridge": {
+        "schema": 1,
+        "version": "sandstone-ridge-1.1",
+        "seed": 710641,
+        "peaks": [
+          [
+            -2400,
+            150
+          ],
+          [
+            -1730,
+            345
+          ],
+          [
+            -1000,
+            170
+          ],
+          [
+            -400,
+            320
+          ],
+          [
+            130,
+            180
+          ],
+          [
+            760,
+            248
+          ],
+          [
+            1850,
+            360
+          ]
+        ],
+        "half_width_m": 374
+      }
+    }
+  ]
+}

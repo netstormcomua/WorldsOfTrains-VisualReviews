@@ -1,0 +1,284 @@
+{
+  "rock_contacts": {
+    "checked": 1167,
+    "straddling": 1167,
+    "above": 0,
+    "below": 0,
+    "max_bottom_gap_m": 0,
+    "min_exposure_m": 0.07912602424621573,
+    "samples_per_mesh": {
+      "SM_RockSide_A1": 10047,
+      "SM_Rock_Side-A2": 6382,
+      "SM_Small_Rock_1": 1415,
+      "SM_Small_Rock_2": 1512,
+      "SM_Small_Rock_3": 1267,
+      "SM_Small_Rock_B2": 72
+    }
+  },
+  "terrain": {
+    "massifs": {
+      "north": {
+        "peak_above_salt_m": 1112.9785405327789,
+        "extent_above_130m_m": 8532.939453125,
+        "style": "mesa"
+      },
+      "east": {
+        "peak_above_salt_m": 940.832727739723,
+        "extent_above_130m_m": 6437.8330078125,
+        "style": "dissected"
+      },
+      "south": {
+        "peak_above_salt_m": 764.0267041971838,
+        "extent_above_130m_m": 9903.9833984375,
+        "style": "dissected"
+      }
+    },
+    "water_cells": 193284,
+    "max_shore_step_m": 3.7171874999999996,
+    "steps_over_5m": 0,
+    "trackbed_max_error_m": 0.007656249999999996,
+    "min_clearance_m": 29.253971546395462,
+    "wet_outer_margin_m": 3476.0,
+    "height_hash": "58cdd85fc10fa69b94da8e4cb2e4d060e7e9ccc6f7aeb38f4e9c8a30185164dd",
+    "atlas_hash": "567a96f61a731f3628b38fad3bbffd243b7d74f3a6fdd25e801c57480eb54d66",
+    "rocks_hash": "85599baca559dc79a095553717f38633be5aea9469bd074588f2304673332deb",
+    "dune_fields": 9,
+    "dust_parcels": 43
+  },
+  "foothill": {
+    "added": 373,
+    "moved_existing": 66,
+    "min_clearance_m": 17.046891815501592,
+    "high_ground_delta_m": 0.0,
+    "profiles_m": [
+      [
+        2500,
+        43.31512794587352,
+        1.4305590571518962,
+        2.9873995407027394
+      ],
+      [
+        2700,
+        59.42424393136724,
+        2.2039655738664976,
+        2.403741726565194
+      ],
+      [
+        3000,
+        55.650971303328646,
+        1.3081889965174582,
+        2.183422916659179
+      ],
+      [
+        3200,
+        40.566008179231616,
+        1.902109064433347,
+        1.9511148370653046
+      ],
+      [
+        3500,
+        22.132115484987303,
+        0.7934077890404474,
+        2.582209789053721
+      ],
+      [
+        4000,
+        39.16280346074374,
+        1.296180889586232,
+        2.136119442870431
+      ]
+    ]
+  },
+  "clips": {
+    "outer_front": true,
+    "segments": [
+      {
+        "view": "outer",
+        "seconds": 23.003669302910566,
+        "meters": 1445.532470703125,
+        "p95_ms": 18.202699720859528,
+        "max_ms": 204.13409918546677,
+        "probes": 68
+      },
+      {
+        "view": "columns-shore",
+        "seconds": 23.01283009722829,
+        "meters": 1524.6756591796875,
+        "p95_ms": 18.3538980782032,
+        "max_ms": 273.4000012278557,
+        "probes": 68
+      },
+      {
+        "view": "small",
+        "seconds": 23.007901299744844,
+        "meters": 1524.1700439453125,
+        "p95_ms": 18.23059841990471,
+        "max_ms": 229.61340099573135,
+        "probes": 68
+      },
+      {
+        "view": "platform",
+        "seconds": 23.009993001818657,
+        "meters": 1524.380615234375,
+        "p95_ms": 17.65960082411766,
+        "max_ms": 220.7190990447998,
+        "probes": 68
+      }
+    ],
+    "outer_turn": true,
+    "outer_side": true,
+    "outer_orbit_wide": true,
+    "outer_wide": true,
+    "columns-shore_front": true,
+    "columns-shore_turn": true,
+    "columns-shore_side": true,
+    "columns-shore_orbit_wide": true,
+    "columns-shore_wide": true,
+    "small_front": true,
+    "small_turn": true,
+    "small_side": true,
+    "small_orbit_wide": true,
+    "small_wide": true,
+    "platform_front": true,
+    "platform_turn": true,
+    "platform_side": true,
+    "platform_orbit_wide": true,
+    "platform_wide": true,
+    "volumetric_off_p95_ms": 17.702799290418625,
+    "volumetric_on_p95_ms": 17.188798636198044,
+    "pass": true
+  },
+  "fleet": {
+    "pass_check": true,
+    "journeys": 15,
+    "returning_to_own_berth": 15,
+    "completed_exit_repeat_departure_and_reset": 15,
+    "station_and_visibility_checks": {
+      "unique_21_tracks": true,
+      "hand_hidden_station": true,
+      "hand_hidden_salt_entry": true,
+      "hand_hidden_salt_center": true,
+      "hand_revealed": true,
+      "hand_reverse_view": true,
+      "occupied_berth_rejected": true,
+      "switch_under_train_rejected": true,
+      "occupied_approach_stops_before_signal": true,
+      "resume_after_clear": true,
+      "pass": true
+    }
+  },
+  "continuous_laps": {
+    "current_route": "Columns",
+    "journeys": [
+      {
+        "route": "Small",
+        "seconds": 437.9235552996397,
+        "meters": 21079.695933770105,
+        "stop_error_m": -0.17671875655651093,
+        "own_berth": true,
+        "exit": true,
+        "tracks": [
+          "Berth0",
+          "Exit0",
+          "Exit1",
+          "Exit2",
+          "Exit3",
+          "Exit4",
+          "Outbound",
+          "Small",
+          "Approach",
+          "Entry0",
+          "Berth0"
+        ],
+        "p95_ms": 45.34799978137016,
+        "max_ms": 65.20910188555717
+      },
+      {
+        "route": "Outer",
+        "seconds": 828.436566002667,
+        "meters": 52345.10127128264,
+        "stop_error_m": -0.17906250059604645,
+        "own_berth": true,
+        "exit": true,
+        "tracks": [
+          "Berth0",
+          "Exit0",
+          "Exit1",
+          "Exit2",
+          "Exit3",
+          "Exit4",
+          "Outbound",
+          "Choice",
+          "Outer",
+          "Return",
+          "Approach",
+          "Entry0",
+          "Berth0"
+        ],
+        "p95_ms": 42.563002556562424,
+        "max_ms": 92.31429919600487
+      },
+      {
+        "route": "Columns",
+        "seconds": 780.549833599478,
+        "meters": 48519.819226005,
+        "stop_error_m": -0.16640624403953552,
+        "own_berth": true,
+        "exit": true,
+        "tracks": [
+          "Berth0",
+          "Exit0",
+          "Exit1",
+          "Exit2",
+          "Exit3",
+          "Exit4",
+          "Outbound",
+          "Choice",
+          "Columns",
+          "Return",
+          "Approach",
+          "Entry0",
+          "Berth0"
+        ],
+        "p95_ms": 46.120498329401016,
+        "max_ms": 60.04980206489563
+      }
+    ],
+    "pass": true,
+    "result": "three continuous real-time DX11 journeys"
+  },
+  "prior_revision_short_segments": [
+    {
+      "view": "outer",
+      "seconds": 23.00948679819703,
+      "meters": 1519.5224609375,
+      "p95_ms": 17.996501177549362,
+      "max_ms": 180.73289841413498,
+      "probes": 69
+    },
+    {
+      "view": "columns-shore",
+      "seconds": 23.008689902722836,
+      "meters": 1524.2706298828125,
+      "p95_ms": 17.70929992198944,
+      "max_ms": 193.18529963493347,
+      "probes": 69
+    },
+    {
+      "view": "small",
+      "seconds": 23.011786200106144,
+      "meters": 1524.467529296875,
+      "p95_ms": 18.017299473285675,
+      "max_ms": 205.6351974606514,
+      "probes": 69
+    },
+    {
+      "view": "platform",
+      "seconds": 23.00390389934182,
+      "meters": 1523.81494140625,
+      "p95_ms": 17.86099746823311,
+      "max_ms": 208.0107033252716,
+      "probes": 68
+    }
+  ]
+}

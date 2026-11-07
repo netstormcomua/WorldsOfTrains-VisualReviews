@@ -1,0 +1,61 @@
+{
+  "milestone": "LayoutA_Basin02",
+  "files": [
+    {
+      "path": "images/outer-front-matched.jpg",
+      "sha256": "346df48a58beacd16e404f56efb45806c060d76cd11a4bbff737b80acf4d5899"
+    },
+    {
+      "path": "images/outer-turn-matched.jpg",
+      "sha256": "416dcdd99a7adc916a5fa86f80fb1a83e4124f27101efdfb50e16f01fa6c9dc3"
+    },
+    {
+      "path": "images/outer.jpg",
+      "sha256": "4be464160cba59f860715d1bb880eeedcf62e3d49d8c8d835b877f1d684e76e8"
+    },
+    {
+      "path": "images/columns.jpg",
+      "sha256": "b8ca44f8b34385d0b479042376d7822f08865fcbae8eb27d1f1712b6c7552179"
+    },
+    {
+      "path": "images/small.jpg",
+      "sha256": "1951dcffc919228d84457fb13fe07d5e3909800ffd8239dee7793f4fa4fc2c76"
+    },
+    {
+      "path": "images/station-platform.jpg",
+      "sha256": "27943b1224ef9c4be636a02f83d8003a26924246b42f71a86f76ec57eda2e7d7"
+    },
+    {
+      "path": "images/volumetric-light.jpg",
+      "sha256": "39c00cb49a41899fe6f42ff46689692dd5b1a3587e6be09b65e1f168c997b951"
+    },
+    {
+      "path": "outer.mp4",
+      "sha256": "be7112a60f7d25a64c51e7443518cb5c9143b637bb49ba6bc91be755aa4074e7"
+    },
+    {
+      "path": "columns-shore.mp4",
+      "sha256": "4d334bb08112bd1828ac170ea7ef12222b06feb3860bead6238a0fb4b7ac07a0"
+    },
+    {
+      "path": "small.mp4",
+      "sha256": "c62507800831dc204551888432dbdd55aff6c05170f31b8122c1e2202351c20a"
+    },
+    {
+      "path": "platform.mp4",
+      "sha256": "3626e23e96f143a770324fe49cdcd7c077fa2be714403ac84c4621b2f1a839c9"
+    },
+    {
+      "path": "README.md",
+      "sha256": "e88bfbe6dc179d2a665ced167a6ec63e4c09bcc131dbee370eca5841351b2cf6"
+    },
+    {
+      "path": "presets.json",
+      "sha256": "1f736d9a174600caa99e914f32c4f76cc159e93771d2d959e00370cdeb8402d5"
+    },
+    {
+      "path": "technical-summary.json",
+      "sha256": "ba7c286a73bde69159ed1e2b8aeb0a00a6c74f9239db2d662a9d7e838842cbb9"
+    }
+  ]
+}
