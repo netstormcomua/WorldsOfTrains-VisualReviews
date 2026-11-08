@@ -1,0 +1,81 @@
+{
+  "baseline": {
+    "travel_m": 511.0908203125,
+    "rise_m": 7.665500348983731,
+    "peak_speed_mps": 9.520415306091309,
+    "max_wheel_z_residual_cm": 0.004513173829764128,
+    "wheel_bindings": true,
+    "junction_crossed": true,
+    "frame_p95_ms": 16.667001724243164,
+    "samples": 3083,
+    "peak_ram_mib": 3309.34375,
+    "frame_p50_ms": 16.666799545288086,
+    "frame_p99_ms": 17.06589698791504,
+    "frame_max_ms": 39.319400787353516,
+    "realtime_duration_s": 51.44237430021167,
+    "fixed_timestep": false,
+    "gpu_samples": 3083,
+    "gpu_p50_ms": 16.642099380493164,
+    "gpu_p95_ms": 20.394100189208984,
+    "gpu_p99_ms": 22.052499771118164,
+    "motion_frames": 0,
+    "exited": true,
+    "exit_status": "On foot",
+    "exit_speed_mps": 0,
+    "reset": true,
+    "result": "completed",
+    "pass": true
+  },
+  "candidate": {
+    "travel_m": 511.10109375,
+    "rise_m": 7.665654235317682,
+    "peak_speed_mps": 9.520413398742676,
+    "max_wheel_z_residual_cm": 0.004517669323831797,
+    "wheel_bindings": true,
+    "junction_crossed": true,
+    "frame_p95_ms": 16.667097091674805,
+    "samples": 3087,
+    "peak_ram_mib": 3375.8125,
+    "frame_p50_ms": 16.666799545288086,
+    "frame_p99_ms": 16.688398361206055,
+    "frame_max_ms": 32.49270248413086,
+    "realtime_duration_s": 51.4529316984117,
+    "fixed_timestep": false,
+    "gpu_samples": 3087,
+    "gpu_p50_ms": 16.668500900268555,
+    "gpu_p95_ms": 19.988399505615234,
+    "gpu_p99_ms": 21.103099822998047,
+    "motion_frames": 0,
+    "exited": true,
+    "exit_status": "On foot",
+    "exit_speed_mps": 0,
+    "reset": true,
+    "result": "completed",
+    "pass": true
+  },
+  "wheel_profile_clearance_cm": 49.328,
+  "max_relief_cm": 27.349,
+  "end_band_samples": 45,
+  "motion": [
+    {
+      "scene": "LightDust1",
+      "temporal_residual": {
+        "65": 3.59,
+        "85": 3.53,
+        "110": 3.69,
+        "132": 3.67,
+        "200": 3.58
+      }
+    },
+    {
+      "scene": "SleeperSand51",
+      "temporal_residual": {
+        "65": 3.17,
+        "85": 3.14,
+        "110": 3.23,
+        "132": 3.6,
+        "200": 3.22
+      }
+    }
+  ]
+}
