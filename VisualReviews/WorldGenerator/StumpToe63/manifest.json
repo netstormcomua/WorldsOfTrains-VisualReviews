@@ -1,0 +1,40 @@
+{
+  "files": [
+    {
+      "path": "images/side.jpg",
+      "sha256": "65020c3ea86c9fb471004f2dd360c608525ae3d08da3d8bea626397daf0867de"
+    },
+    {
+      "path": "images/foot.jpg",
+      "sha256": "ee4a538e6effff26f8db130071e078f07f9df1deeea12c34809ce2252d962a9b"
+    },
+    {
+      "path": "images/lit.jpg",
+      "sha256": "d05f7949fd43a51e1ff8107d178c72570a9d61af6a57523238642b1173ae8253"
+    },
+    {
+      "path": "images/near.jpg",
+      "sha256": "e19455b16b4ced90939711d0b9e43fd6f15653de60c694e7a69c6f37483a8041"
+    },
+    {
+      "path": "images/bend.jpg",
+      "sha256": "c8c22774b67839c83610e78d4fdcdd23e9f3970b0785ff79924a7f63968509de"
+    },
+    {
+      "path": "images/drive.jpg",
+      "sha256": "b6fb4dbfe6f863272d9058d06bcb7877f44f9bac42f7e579bcbe7722c47172d5"
+    },
+    {
+      "path": "drive.mp4",
+      "sha256": "aaad9250cfc99a9875a7c659c41f17404d4f9f4976d74ea4f01e2798c1400274"
+    },
+    {
+      "path": "parameters.json",
+      "sha256": "ea776aaebaf3538df0de910eda181daecb9dff148191c338c0236a13f61426c7"
+    },
+    {
+      "path": "README.md",
+      "sha256": "a02e5ac65b54563c59760cac2d4a71574ae458f5bc3d46ef220156e5073f456b"
+    }
+  ]
+}
