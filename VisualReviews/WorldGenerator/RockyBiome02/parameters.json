@@ -1,0 +1,133 @@
+{
+  "implementation": "rocky-desert-biome-1.1",
+  "scatter": "rocky-desert-biome-1.0",
+  "density": [
+    0,
+    0.43,
+    1
+  ],
+  "checks": {
+    "dune": {
+      "seed": 84152,
+      "dense": 246,
+      "sparse": 103,
+      "alternate_seed_count": 249,
+      "local_digest": "b612d696f16ac6913aad6288716dd31caf9aeb5c74572fdfa44072a7f11a99f7",
+      "full_digest": "b612d696f16ac6913aad6288716dd31caf9aeb5c74572fdfa44072a7f11a99f7",
+      "min_rail_gap_m": 2.31,
+      "min_wet_gap_m": 1975.47,
+      "closest_m": 19.89,
+      "zone_bounds": [
+        -8100,
+        1280,
+        -6970,
+        2220
+      ]
+    },
+    "salt": {
+      "seed": 84152,
+      "dense": 730,
+      "sparse": 329,
+      "alternate_seed_count": 745,
+      "local_digest": "10736ac4d5efdff4791a393ae158120d34b4399c6b7b43e12bfd5e9a84b481c4",
+      "full_digest": "10736ac4d5efdff4791a393ae158120d34b4399c6b7b43e12bfd5e9a84b481c4",
+      "min_rail_gap_m": 2.74,
+      "min_wet_gap_m": 2.98,
+      "closest_m": 21.08,
+      "zone_bounds": [
+        -4710,
+        1120,
+        -2010,
+        3110
+      ]
+    },
+    "mountain": {
+      "seed": 84152,
+      "dense": 6930,
+      "sparse": 2900,
+      "alternate_seed_count": 6925,
+      "local_digest": "83aded1090ee887936921801e6beced8d6e77a176037761495e341049bcc2604",
+      "full_digest": "83aded1090ee887936921801e6beced8d6e77a176037761495e341049bcc2604",
+      "min_rail_gap_m": 11.18,
+      "min_wet_gap_m": 10000.0,
+      "closest_m": 55.04,
+      "zone_bounds": [
+        3660,
+        4550,
+        4740,
+        5500
+      ]
+    }
+  },
+  "runtime": {
+    "dune": {
+      "dune_anchored": 246,
+      "dune_rejected": 0,
+      "dune_max_ground_correction_m": 2.7606468495484116,
+      "dune-off_visible": 0,
+      "dune-off-rail": "2026-11-08T16:09:48.698Z",
+      "dune-off-patch": "2026-11-08T16:09:50.865Z",
+      "dune-off_m": 129.9403076171875,
+      "dune-off_frame_p95": 17.745699733495712,
+      "dune-off_gpu_p95": 21.68869972229004,
+      "dune-sparse_visible": 103,
+      "dune-sparse-rail": "2026-11-08T16:10:05.899Z",
+      "dune-sparse-patch": "2026-11-08T16:10:07.758Z",
+      "dune-sparse_m": 129.9268798828125,
+      "dune-sparse_frame_p95": 17.585400491952896,
+      "dune-sparse_gpu_p95": 21.65060043334961,
+      "dune-dense_visible": 246,
+      "dune-dense-rail": "2026-11-08T16:10:22.777Z",
+      "dune-dense-patch": "2026-11-08T16:10:24.654Z",
+      "dune-dense_m": 130.00155639648438,
+      "dune-dense_frame_p95": 18.574200570583344,
+      "dune-dense_gpu_p95": 22.99449920654297
+    },
+    "salt": {
+      "salt_anchored": 730,
+      "salt_rejected": 0,
+      "salt_max_ground_correction_m": 0.24469894706816575,
+      "salt-off_visible": 0,
+      "salt-off-rail": "2026-11-08T16:10:39.723Z",
+      "salt-off-patch": "2026-11-08T16:10:41.586Z",
+      "salt-off_m": 130.04344177246094,
+      "salt-off_frame_p95": 17.619598656892776,
+      "salt-off_gpu_p95": 21.501699447631836,
+      "salt-sparse_visible": 329,
+      "salt-sparse-rail": "2026-11-08T16:10:56.636Z",
+      "salt-sparse-patch": "2026-11-08T16:10:58.515Z",
+      "salt-sparse_m": 130.02093505859375,
+      "salt-sparse_frame_p95": 17.905298620462418,
+      "salt-sparse_gpu_p95": 23.476200103759766,
+      "salt-dense_visible": 730,
+      "salt-dense-rail": "2026-11-08T16:11:13.554Z",
+      "salt-dense-patch": "2026-11-08T16:11:15.426Z",
+      "salt-dense_m": 130.09335327148438,
+      "salt-dense_frame_p95": 18.367599695920944,
+      "salt-dense_gpu_p95": 22.816499710083008
+    },
+    "mountain": {
+      "mountain_anchored": 6930,
+      "mountain_rejected": 0,
+      "mountain_max_ground_correction_m": 0.607081622702303,
+      "mountain-off_visible": 0,
+      "mountain-off-rail": "2026-11-08T16:12:11.351Z",
+      "mountain-off-patch": "2026-11-08T16:12:13.481Z",
+      "mountain-off_m": 130.20375061035156,
+      "mountain-off_frame_p95": 17.41980016231537,
+      "mountain-off_gpu_p95": 17.257699966430664,
+      "mountain-sparse_visible": 2900,
+      "mountain-sparse-rail": "2026-11-08T16:12:28.516Z",
+      "mountain-sparse-patch": "2026-11-08T16:12:30.379Z",
+      "mountain-sparse_m": 130.17625427246094,
+      "mountain-sparse_frame_p95": 18.022898584604263,
+      "mountain-sparse_gpu_p95": 17.96660041809082,
+      "mountain-dense_visible": 6930,
+      "mountain-dense-rail": "2026-11-08T16:12:45.421Z",
+      "mountain-dense-patch": "2026-11-08T16:12:47.275Z",
+      "mountain-dense_m": 130.16749572753906,
+      "mountain-dense_frame_p95": 17.71390065550804,
+      "mountain-dense_gpu_p95": 17.572500228881836
+    }
+  }
+}

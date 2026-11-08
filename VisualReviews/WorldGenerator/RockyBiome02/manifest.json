@@ -1,0 +1,40 @@
+{
+  "files": [
+    {
+      "path": "images/dune-rail.jpg",
+      "sha256": "fc804419e2509dbd9ea23c5d8a76e335d21103b65a8a17d5dcc27e5dadf06592"
+    },
+    {
+      "path": "images/dune-patch.jpg",
+      "sha256": "a29dd02b6526de0b8b0d0e3628e3e4c51b55498cfadebf95a545820ee0a3433b"
+    },
+    {
+      "path": "images/salt-rail.jpg",
+      "sha256": "dc3a453f4d90c73236daed999208540afb49dd3ffed383cd186a9a9a93e32ebb"
+    },
+    {
+      "path": "images/salt-patch.jpg",
+      "sha256": "2925899e65e80246370a190fd0c7dc51edd264ec5b9f3928a95744b27888712b"
+    },
+    {
+      "path": "images/mountain-rail.jpg",
+      "sha256": "473bc9c391981db1d7496f87bf060426f94dde4a624ff2d84425507341d81063"
+    },
+    {
+      "path": "images/mountain-patch.jpg",
+      "sha256": "c944dfa8818f0e5fb8fae3b81077f3ec03191a0abb2ba674924463c0bb6dfa98"
+    },
+    {
+      "path": "drive.mp4",
+      "sha256": "d91f70a8a6e5d59dfaaf5fc126036d32f1846e4364b39b17333e66d2f9a5a66f"
+    },
+    {
+      "path": "parameters.json",
+      "sha256": "e4d96fa04f3349511d717d5513e29de54ea3381ce6bc194eabf836d165a35935"
+    },
+    {
+      "path": "README.md",
+      "sha256": "ed55356048c02e38eae28b159c4d3118f946213eaa40f2bcdc6537375b0ed480"
+    }
+  ]
+}
