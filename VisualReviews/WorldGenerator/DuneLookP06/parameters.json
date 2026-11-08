@@ -1,0 +1,120 @@
+{
+  "weather": [
+    "dune-storm-1.0",
+    4
+  ],
+  "metrics": [
+    {
+      "id": 0,
+      "base": 2,
+      "tile_m": 2.14,
+      "contrast": 1,
+      "anti": 0,
+      "factor": "control",
+      "sample_difference": 0.0,
+      "travel_m": 187.07594299316406,
+      "moving_sample_m": 65.07875061035156,
+      "frame_p95_ms": 18.40909942984581,
+      "gpu_p95_ms": 21.362600326538086,
+      "capture_fps": 26.563448090441995
+    },
+    {
+      "id": 1,
+      "base": 2,
+      "tile_m": 5.35,
+      "contrast": 1,
+      "anti": 0,
+      "factor": "tile",
+      "sample_difference": 8.449,
+      "travel_m": 187.2256317138672,
+      "moving_sample_m": 65.07749938964844,
+      "frame_p95_ms": 18.304001539945602,
+      "gpu_p95_ms": 21.612300872802734,
+      "capture_fps": 28.806568178185106
+    },
+    {
+      "id": 2,
+      "base": 2,
+      "tile_m": 2.14,
+      "contrast": 1.65,
+      "anti": 0,
+      "factor": "contrast",
+      "sample_difference": 3.613,
+      "travel_m": 187.19593811035156,
+      "moving_sample_m": 65.14593505859375,
+      "frame_p95_ms": 18.09380203485489,
+      "gpu_p95_ms": 22.306800842285156,
+      "capture_fps": 28.55475898544415
+    },
+    {
+      "id": 3,
+      "base": 2,
+      "tile_m": 2.14,
+      "contrast": 1,
+      "anti": 1,
+      "factor": "anti",
+      "sample_difference": 7.945,
+      "travel_m": 187.07749938964844,
+      "moving_sample_m": 65.15437316894531,
+      "frame_p95_ms": 18.142100423574448,
+      "gpu_p95_ms": 22.821399688720703,
+      "capture_fps": 28.89255753851524
+    },
+    {
+      "id": 4,
+      "base": 12,
+      "tile_m": 12.0,
+      "contrast": 1,
+      "anti": 0,
+      "factor": "control",
+      "sample_difference": 0.0,
+      "travel_m": 187.13125610351562,
+      "moving_sample_m": 65.0875015258789,
+      "frame_p95_ms": 18.447700887918472,
+      "gpu_p95_ms": 22.870100021362305,
+      "capture_fps": 28.641112242551998
+    },
+    {
+      "id": 5,
+      "base": 12,
+      "tile_m": 18.0,
+      "contrast": 1,
+      "anti": 0,
+      "factor": "tile",
+      "sample_difference": 22.576,
+      "travel_m": 187.1475067138672,
+      "moving_sample_m": 65.12687683105469,
+      "frame_p95_ms": 18.051300197839737,
+      "gpu_p95_ms": 22.354700088500977,
+      "capture_fps": 27.68430110505635
+    },
+    {
+      "id": 6,
+      "base": 12,
+      "tile_m": 12.0,
+      "contrast": 1.65,
+      "anti": 0,
+      "factor": "contrast",
+      "sample_difference": 1.372,
+      "travel_m": 187.19969177246094,
+      "moving_sample_m": 65.0453109741211,
+      "frame_p95_ms": 18.79889890551567,
+      "gpu_p95_ms": 23.982099533081055,
+      "capture_fps": 28.724431738104087
+    },
+    {
+      "id": 7,
+      "base": 12,
+      "tile_m": 12.0,
+      "contrast": 1,
+      "anti": 1,
+      "factor": "anti",
+      "sample_difference": 27.205,
+      "travel_m": 187.1309356689453,
+      "moving_sample_m": 65.078125,
+      "frame_p95_ms": 18.437501043081284,
+      "gpu_p95_ms": 23.547100067138672,
+      "capture_fps": 28.517936594054802
+    }
+  ]
+}
