@@ -1,0 +1,68 @@
+{
+  "files": [
+    {
+      "path": "images/factor-01.jpg",
+      "sha256": "d46988df3ed0974dab237870bb641970ab214b2b8aa8b2911fa15d47b0d977ee"
+    },
+    {
+      "path": "images/factor-02.jpg",
+      "sha256": "ba27c1fb7033a01c193e731949df96dd76c6ef5528d317c1f98f4429ce6c1b85"
+    },
+    {
+      "path": "images/factor-03.jpg",
+      "sha256": "0000e29cd30483bf32f785a2d72542c01eb78c869c1b663f9e6bffecd4f0d99f"
+    },
+    {
+      "path": "images/factor-04.jpg",
+      "sha256": "7f3ce226fdacaa7dcce63323cade4447a95cd313cfe5fe3ff45dfbe09be3837f"
+    },
+    {
+      "path": "images/factor-05.jpg",
+      "sha256": "1de8abbd17fd3c574e2e119eeea904a39420f3c91b863764379d7f0be6e07061"
+    },
+    {
+      "path": "images/factor-06.jpg",
+      "sha256": "35145f5f28fe23045192181be64b00f48671885ae61d453514e920ec774725e9"
+    },
+    {
+      "path": "images/factor-07.jpg",
+      "sha256": "6873d99e54abe75a215b191640da16ad389c36ca88097a100c4858bf7348602b"
+    },
+    {
+      "path": "images/factor-08.jpg",
+      "sha256": "8d6cf63f68b10da7737f0d2d6a5fbd3326d92394cd769c4377ef366dc0471010"
+    },
+    {
+      "path": "images/factor-09.jpg",
+      "sha256": "36e8dfe16e9ce39a81737889f3a5a0ffdc0c9dc18f60ce1884b038629dee6f7d"
+    },
+    {
+      "path": "images/combined.jpg",
+      "sha256": "315b114e077bba22b22b915bd312c3e9385f11969ab4f3f60940e6912692a149"
+    },
+    {
+      "path": "images/lod.jpg",
+      "sha256": "ebfb99e073ac7199b5e20ce5e17f6c7b03c32f8cee5d438f670525a13190c6ba"
+    },
+    {
+      "path": "images/final-near.jpg",
+      "sha256": "4a310151472ae6ada98d9aa02b354dfbe54fe479b255b86c9c94cab5efa0e3c7"
+    },
+    {
+      "path": "images/reference.jpg",
+      "sha256": "d4ce05cbd04f6176e5e347072b73de343d44acd4df20a75d477b6e834174831b"
+    },
+    {
+      "path": "drive.mp4",
+      "sha256": "c1fcdb8668d3e5f2330c7ce649f694138d9430898d30b090755b8f4d3c42dc51"
+    },
+    {
+      "path": "parameters.json",
+      "sha256": "c1051042e4f750fefb6431fc72621fd4153acdd1c6605cf5c49138f5fed8d868"
+    },
+    {
+      "path": "README.md",
+      "sha256": "d02dfef8652cbe0cad79d35947479e587771c8ca4f41a3a1ed7e926009b2c613"
+    }
+  ]
+}
