@@ -1,0 +1,54 @@
+{
+  "preset": {
+    "schema": 1,
+    "version": "field-small-shelf-window-1.0",
+    "parent": "b85c52ec5e7e664d88dc4bfbbf2b45270b5d4f0920c721d0d5b0fa9d8832a96d",
+    "station_m": 3680,
+    "angle_from_across_deg": 9,
+    "center_xy_m": [
+      -8147.19,
+      849.29
+    ],
+    "axis_xy": [
+      -0.45,
+      -0.893
+    ],
+    "radii_m": [
+      133,
+      64
+    ],
+    "maximum_drop_m": 25,
+    "target_xy_m": [
+      -8102.32,
+      764.43
+    ],
+    "first_obstruction_xy_m": [
+      -8155.6,
+      865.21
+    ]
+  },
+  "parent": "b85c52ec5e7e664d88dc4bfbbf2b45270b5d4f0920c721d0d5b0fa9d8832a96d",
+  "sha256": "8278e1f15dfb649bfda922931b8f50cf4ed068f1b1f19c03bef8cef9a80c2100",
+  "changed_vertices": 215,
+  "closest_rail_m": 298.7,
+  "rays": 27,
+  "revealed": 17,
+  "intervals_m": [
+    [
+      3500.1,
+      3570.3
+    ],
+    [
+      3600.1,
+      3640.1
+    ],
+    [
+      3680.2,
+      3710.0
+    ]
+  ],
+  "p95_ms": [
+    18.252801150083542,
+    18.234901130199432
+  ]
+}
