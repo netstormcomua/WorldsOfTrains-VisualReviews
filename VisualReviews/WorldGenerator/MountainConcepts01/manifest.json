@@ -1,0 +1,57 @@
+{
+  "kind": "AI-generated visual concepts",
+  "files": [
+    {
+      "path": "01-mesas.jpg",
+      "sha256": "403f85577330f5f9574ed8915832db4074c9ef0c8786ab60e14c3efeeb0cf093"
+    },
+    {
+      "path": "02-cuestas.jpg",
+      "sha256": "b1c4fe32bb979a142836889933bcf7f96c9c252b90fc86853790847eb1138178"
+    },
+    {
+      "path": "03-canyon.jpg",
+      "sha256": "d5cdece3f830fb03351f4e22d8e2f46ed268bbe15ec8cba60be1ea95266e71bb"
+    },
+    {
+      "path": "04-radiating_spurs.jpg",
+      "sha256": "f3181ad50ecbb20346c2cbf275c0c5ab40879cc45fd9001164a7a0ef0cae1d9d"
+    },
+    {
+      "path": "05-pinnacles.jpg",
+      "sha256": "682be337ad0d72879bb2f3c8d59949e774d88c233526faf878aeb8680a42efe3"
+    },
+    {
+      "path": "06-folds.jpg",
+      "sha256": "836ff6f04176b089432e73d178478facb7774558c4c5c8430752d49552cdb4ce"
+    },
+    {
+      "path": "07-fault.jpg",
+      "sha256": "0253ce8c9f8b3e4f7a606a4dfa179d2eec1af9b3aceb497573cb96d4db52b80b"
+    },
+    {
+      "path": "08-badlands.jpg",
+      "sha256": "72e33441d662b9289bea00ef65358b623ab30e8af1d4144308a50f2c1b7a597a"
+    },
+    {
+      "path": "09-inselbergs.jpg",
+      "sha256": "150bd5b72ee1e5bfe2233983b7ef4cc9c295fad5d9358a835fc30a4eb2209d61"
+    },
+    {
+      "path": "10-arches.jpg",
+      "sha256": "f3f59122d71be8d5589cfe768815b8a5d5a9588e7d2275eb7f31d41cfde29716"
+    },
+    {
+      "path": "options-01-05.jpg",
+      "sha256": "299ce987d48d5a5806de5757e4c21e2965eac1d1ecdc38988d55ec3bdaed69b0"
+    },
+    {
+      "path": "options-06-10.jpg",
+      "sha256": "a296928aebd8b0cab63284c2be7982a641bf7d24481c54e150d60ce7bd743cf4"
+    },
+    {
+      "path": "README.md",
+      "sha256": "ebb8c56fa46aecda535e658193c875233fde27dc9b8a0ebbd33d7accb0e759ac"
+    }
+  ]
+}
