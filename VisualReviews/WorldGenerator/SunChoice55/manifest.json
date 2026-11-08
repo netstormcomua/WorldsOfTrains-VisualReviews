@@ -1,0 +1,60 @@
+{
+  "files": [
+    {
+      "path": "images/red-control.jpg",
+      "sha256": "e2bb137f7b3c71a25aaf27cf421e141241024b930439ea029718a74830ea4aa2"
+    },
+    {
+      "path": "images/sun-01.jpg",
+      "sha256": "b86af6aa8735930a961bf5bc6b979d9e9c40cf9b1c127ee69ecda2d8f12f5b6d"
+    },
+    {
+      "path": "images/sun-02.jpg",
+      "sha256": "630ec1b9eda6cfdf80ba7c2819815e36c55f267179c9e0b2faff918582f52216"
+    },
+    {
+      "path": "images/sun-03.jpg",
+      "sha256": "d366aaf6e6a2bb2e382e1cf8467235258189f0ca9e7ac73a3a1105486c77f942"
+    },
+    {
+      "path": "images/sun-04.jpg",
+      "sha256": "c2224caba38857a2eb405d22f4102f8792029895f7004d6adba2e1d50c5e4a2b"
+    },
+    {
+      "path": "images/sun-05.jpg",
+      "sha256": "7744dfddd66117a661f2b377cd2adf70ad6905197a7b53756d323ea2154c69a5"
+    },
+    {
+      "path": "images/sun-06.jpg",
+      "sha256": "ac3dd977da942054b0581e0e30a0ded29c203ac9e09d2553c3a09830dd8da301"
+    },
+    {
+      "path": "images/sun-07.jpg",
+      "sha256": "fbac7176cb73ef1ec8b29164908eef94d136ebe2b7bfc0f044f62d393da62c50"
+    },
+    {
+      "path": "images/sun-08.jpg",
+      "sha256": "0c503b6f8891c5a2e71cd4c6dba075b3b4b307d6fe7b4720acabc4966a16e238"
+    },
+    {
+      "path": "images/sun-09.jpg",
+      "sha256": "ac411aee7ad2b217ec441b1a84e23f05f7fe048ee9acd382b6439686b1b62c50"
+    },
+    {
+      "path": "images/sun-10.jpg",
+      "sha256": "f2f543f9782dbc8e6482419204b5ebe62a66295ea3416b9f31b7489085144c71"
+    },
+    {
+      "path": "images/choices.jpg",
+      "sha256": "4fe739cb0c3f24e36f33b5f7b92a170457323a6544e85ec6b191e20ddc83d70c"
+    },
+    {
+      "path": "README.md",
+      "sha256": "bb162512a394b8ef6a6e2fa63f70556999452b30beeafe249a045eba49d5feee"
+    },
+    {
+      "path": "parameters.json",
+      "sha256": "643f02423ec9ece61bf7d93ab65e8aaaec73662df2483081d3fc9dad6f41e57c"
+    }
+  ]
+}
