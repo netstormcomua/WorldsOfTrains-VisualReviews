@@ -1,0 +1,763 @@
+{
+  "preset": {
+    "schema": 1,
+    "version": "field-small-wind-ridges-1.2",
+    "seed": 53042,
+    "single_version": "m23.1",
+    "station_m": 2720,
+    "input": "fe6eaffd1c037bab65fa043f3d47eeda7e5e684867ec7ec5a11a7e15febb47c6",
+    "ridges": [
+      {
+        "width_scale": 1.2,
+        "controls": [
+          [
+            -180,
+            200,
+            0
+          ],
+          [
+            -45,
+            147,
+            34
+          ],
+          [
+            0,
+            112,
+            43
+          ],
+          [
+            180,
+            173,
+            59
+          ],
+          [
+            360,
+            260,
+            47
+          ],
+          [
+            470,
+            248,
+            23
+          ],
+          [
+            630,
+            174,
+            48
+          ],
+          [
+            900,
+            390,
+            61
+          ],
+          [
+            1100,
+            430,
+            0
+          ]
+        ]
+      },
+      {
+        "width_scale": 1.55,
+        "controls": [
+          [
+            -850,
+            910,
+            0
+          ],
+          [
+            -540,
+            740,
+            66
+          ],
+          [
+            -170,
+            670,
+            52
+          ],
+          [
+            0,
+            580,
+            55
+          ],
+          [
+            260,
+            400,
+            72
+          ],
+          [
+            470,
+            264,
+            25
+          ],
+          [
+            640,
+            380,
+            53
+          ],
+          [
+            890,
+            630,
+            77
+          ],
+          [
+            1140,
+            690,
+            0
+          ]
+        ]
+      },
+      {
+        "width_scale": 1.35,
+        "controls": [
+          [
+            -1100,
+            -630,
+            0
+          ],
+          [
+            -720,
+            -430,
+            53
+          ],
+          [
+            -370,
+            -390,
+            64
+          ],
+          [
+            -100,
+            -245,
+            40
+          ],
+          [
+            160,
+            -280,
+            56
+          ],
+          [
+            550,
+            -470,
+            60
+          ],
+          [
+            860,
+            -395,
+            0
+          ]
+        ]
+      }
+    ],
+    "single_output_sha256": "8f753ba164870d5f984fbfec34b4689f443568284d5388fba1dcfda9980b1a04"
+  },
+  "sun": {
+    "schema": 1,
+    "version": "desert-sun-02-1.0",
+    "source_review": "027ade3c4f6fd87a9179a395507ddff0d322e8a5",
+    "option": 2,
+    "sun_elevation_deg": 18,
+    "sun_component_yaw_deg": -80.849853515625,
+    "temperature_k": 4400,
+    "sun_lux": 50500,
+    "sky_intensity": 1.3,
+    "fill_lux": 0,
+    "exposure_mode": "manual",
+    "physical_camera_exposure": false,
+    "exposure_bias": -12.7,
+    "sky_rayleigh": 0.0331000015,
+    "sky_mie": 0.00399600016,
+    "mie_anisotropy": 0.8,
+    "cast_cloud_shadows": false
+  },
+  "checks": {
+    "single_dune": {
+      "generator_id": "single_dune",
+      "implementation_version": "m23.1",
+      "schema_version": 1,
+      "input_sha256": "acdc8bd5b1c6908f6844935417037b949f4ebbe015eb984b7b1c4fe6e4a75cd5",
+      "output_sha256": "8f753ba164870d5f984fbfec34b4689f443568284d5388fba1dcfda9980b1a04",
+      "bounds_m": [
+        -320.0,
+        -3.0,
+        320.0,
+        3.0
+      ],
+      "spacing_m": 1.0,
+      "samples": [
+        7,
+        641
+      ],
+      "max_height_m": 38.25460255051966
+    },
+    "crop_exact": true,
+    "hash": "a72b424b4992b55bae5c458de27165e73860977184ef40663f6a907c1a906736",
+    "source_hash": "fe6eaffd1c037bab65fa043f3d47eeda7e5e684867ec7ec5a11a7e15febb47c6",
+    "changed_points": 11226,
+    "area_km2": 1.3583,
+    "strongest_xy": [
+      -8121,
+      742
+    ],
+    "strongest_change_m": 76.0277894625483,
+    "min_changed_distance_rail_m": 50.77350616455078,
+    "protected_rail_salt_edge_equal": true,
+    "cross_sections": [
+      {
+        "station_m": 2570,
+        "before": {
+          "distance_m": 630,
+          "height_above_track_m": 30.29,
+          "xy_m": [
+            -7193.99,
+            1104.35
+          ]
+        },
+        "after": {
+          "distance_m": 636,
+          "height_above_track_m": 35.65,
+          "xy_m": [
+            -7192.22,
+            1098.62
+          ]
+        }
+      },
+      {
+        "station_m": 2580,
+        "before": {
+          "distance_m": 638,
+          "height_above_track_m": 29.43,
+          "xy_m": [
+            -7198.03,
+            1094.72
+          ]
+        },
+        "after": {
+          "distance_m": 638,
+          "height_above_track_m": 40.07,
+          "xy_m": [
+            -7198.03,
+            1094.72
+          ]
+        }
+      },
+      {
+        "station_m": 2590,
+        "before": {
+          "distance_m": 740,
+          "height_above_track_m": 30.32,
+          "xy_m": [
+            -7174.73,
+            995.12
+          ]
+        },
+        "after": {
+          "distance_m": 636,
+          "height_above_track_m": 46.77,
+          "xy_m": [
+            -7206.15,
+            1094.26
+          ]
+        }
+      },
+      {
+        "station_m": 2600,
+        "before": null,
+        "after": {
+          "distance_m": 634,
+          "height_above_track_m": 52.95,
+          "xy_m": [
+            -7213.54,
+            1093.99
+          ]
+        }
+      },
+      {
+        "station_m": 2610,
+        "before": null,
+        "after": {
+          "distance_m": 632,
+          "height_above_track_m": 57.93,
+          "xy_m": [
+            -7219.67,
+            1094.09
+          ]
+        }
+      },
+      {
+        "station_m": 2620,
+        "before": null,
+        "after": {
+          "distance_m": 164,
+          "height_above_track_m": 26.01,
+          "xy_m": [
+            -7375.04,
+            1535.62
+          ]
+        }
+      },
+      {
+        "station_m": 2630,
+        "before": null,
+        "after": {
+          "distance_m": 163,
+          "height_above_track_m": 29.48,
+          "xy_m": [
+            -7383.11,
+            1533.95
+          ]
+        }
+      },
+      {
+        "station_m": 2640,
+        "before": null,
+        "after": {
+          "distance_m": 159,
+          "height_above_track_m": 34.93,
+          "xy_m": [
+            -7393.76,
+            1534.51
+          ]
+        }
+      },
+      {
+        "station_m": 2650,
+        "before": null,
+        "after": {
+          "distance_m": 156,
+          "height_above_track_m": 41.0,
+          "xy_m": [
+            -7404.15,
+            1534.05
+          ]
+        }
+      },
+      {
+        "station_m": 2660,
+        "before": null,
+        "after": {
+          "distance_m": 142,
+          "height_above_track_m": 44.93,
+          "xy_m": [
+            -7416.73,
+            1544.43
+          ]
+        }
+      },
+      {
+        "station_m": 2670,
+        "before": null,
+        "after": {
+          "distance_m": 138,
+          "height_above_track_m": 49.29,
+          "xy_m": [
+            -7427.63,
+            1544.74
+          ]
+        }
+      },
+      {
+        "station_m": 2680,
+        "before": null,
+        "after": {
+          "distance_m": 135,
+          "height_above_track_m": 51.4,
+          "xy_m": [
+            -7436.65,
+            1544.62
+          ]
+        }
+      },
+      {
+        "station_m": 2690,
+        "before": {
+          "distance_m": 108,
+          "height_above_track_m": 24.03,
+          "xy_m": [
+            -7454.13,
+            1566.91
+          ]
+        },
+        "after": {
+          "distance_m": 118,
+          "height_above_track_m": 52.23,
+          "xy_m": [
+            -7450.62,
+            1557.55
+          ]
+        }
+      },
+      {
+        "station_m": 2700,
+        "before": {
+          "distance_m": 109,
+          "height_above_track_m": 27.48,
+          "xy_m": [
+            -7463.54,
+            1562.28
+          ]
+        },
+        "after": {
+          "distance_m": 116,
+          "height_above_track_m": 63.43,
+          "xy_m": [
+            -7461.05,
+            1555.74
+          ]
+        }
+      },
+      {
+        "station_m": 2710,
+        "before": {
+          "distance_m": 112,
+          "height_above_track_m": 32.81,
+          "xy_m": [
+            -7470.61,
+            1556.35
+          ]
+        },
+        "after": {
+          "distance_m": 113,
+          "height_above_track_m": 69.68,
+          "xy_m": [
+            -7470.25,
+            1555.42
+          ]
+        }
+      },
+      {
+        "station_m": 2720,
+        "before": {
+          "distance_m": 109,
+          "height_above_track_m": 35.94,
+          "xy_m": [
+            -7481.49,
+            1555.33
+          ]
+        },
+        "after": {
+          "distance_m": 111,
+          "height_above_track_m": 70.04,
+          "xy_m": [
+            -7480.76,
+            1553.47
+          ]
+        }
+      },
+      {
+        "station_m": 2730,
+        "before": {
+          "distance_m": 115,
+          "height_above_track_m": 35.53,
+          "xy_m": [
+            -7487.46,
+            1546.52
+          ]
+        },
+        "after": {
+          "distance_m": 116,
+          "height_above_track_m": 73.27,
+          "xy_m": [
+            -7487.09,
+            1545.59
+          ]
+        }
+      },
+      {
+        "station_m": 2740,
+        "before": {
+          "distance_m": 113,
+          "height_above_track_m": 35.78,
+          "xy_m": [
+            -7498.02,
+            1544.45
+          ]
+        },
+        "after": {
+          "distance_m": 113,
+          "height_above_track_m": 73.91,
+          "xy_m": [
+            -7498.02,
+            1544.45
+          ]
+        }
+      },
+      {
+        "station_m": 2750,
+        "before": {
+          "distance_m": 115,
+          "height_above_track_m": 31.01,
+          "xy_m": [
+            -7505.47,
+            1539.27
+          ]
+        },
+        "after": {
+          "distance_m": 113,
+          "height_above_track_m": 67.82,
+          "xy_m": [
+            -7506.22,
+            1541.12
+          ]
+        }
+      },
+      {
+        "station_m": 2760,
+        "before": {
+          "distance_m": 117,
+          "height_above_track_m": 27.45,
+          "xy_m": [
+            -7512.91,
+            1534.05
+          ]
+        },
+        "after": {
+          "distance_m": 117,
+          "height_above_track_m": 65.71,
+          "xy_m": [
+            -7512.91,
+            1534.05
+          ]
+        }
+      }
+    ],
+    "slope_profiles": [
+      {
+        "station_m": 2570,
+        "before": {
+          "start_m": 66,
+          "up_22m": 5.19,
+          "degrees_22m": 13.26
+        },
+        "after": {
+          "start_m": 66,
+          "up_22m": 5.19,
+          "degrees_22m": 13.26
+        }
+      },
+      {
+        "station_m": 2660,
+        "before": {
+          "start_m": 77,
+          "up_22m": 6.43,
+          "degrees_22m": 16.28
+        },
+        "after": {
+          "start_m": 77,
+          "up_22m": 12.15,
+          "degrees_22m": 28.92
+        }
+      },
+      {
+        "station_m": 2690,
+        "before": {
+          "start_m": 77,
+          "up_22m": 13.01,
+          "degrees_22m": 30.6
+        },
+        "after": {
+          "start_m": 77,
+          "up_22m": 26.14,
+          "degrees_22m": 49.92
+        }
+      },
+      {
+        "station_m": 2720,
+        "before": {
+          "start_m": 77,
+          "up_22m": 16.47,
+          "degrees_22m": 36.82
+        },
+        "after": {
+          "start_m": 77,
+          "up_22m": 31.27,
+          "degrees_22m": 54.87
+        }
+      },
+      {
+        "station_m": 2750,
+        "before": {
+          "start_m": 77,
+          "up_22m": 13.11,
+          "degrees_22m": 30.79
+        },
+        "after": {
+          "start_m": 77,
+          "up_22m": 32.83,
+          "degrees_22m": 56.17
+        }
+      },
+      {
+        "station_m": 2790,
+        "before": {
+          "start_m": 77,
+          "up_22m": 6.9,
+          "degrees_22m": 17.41
+        },
+        "after": {
+          "start_m": 77,
+          "up_22m": 22.91,
+          "degrees_22m": 46.16
+        }
+      }
+    ]
+  },
+  "clearance": {
+    "start_m": 2660,
+    "end_m": 2825,
+    "step_m": 5,
+    "axis_to_landscape_before_cm": [
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388
+    ],
+    "axis_to_landscape_after_cm": [
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388
+    ]
+  },
+  "runtime": {
+    "control68": {
+      "active_cloud_components": 1,
+      "loaded_cloud_material": "MI_CloudTypeControl",
+      "loaded_cloud_visible": true,
+      "loaded_casts_cloud_shadow": false,
+      "loaded_surface_strength": 1,
+      "loaded_shadow_strength": 1,
+      "loaded_shadow_extent_km": 150,
+      "loaded_shadow_resolution_scale": 1,
+      "loaded_sun_lux": 50500,
+      "loaded_sun_rotation": "P=-28.000000 Y=-16.000000 R=-0.000000",
+      "loaded_layer_bottom_km": 1.2000000476837158,
+      "loaded_r.VolumetricCloud": 1,
+      "loaded_r.VolumetricCloud.ShadowMap": 1,
+      "loaded_r.Test.OverrideTimeMaterialExpressions": -1,
+      "loaded_skylight": 1.0800000429153442,
+      "tested_cloud_material": "MI_CloudTypeControl",
+      "tested_cloud_visible": true,
+      "tested_casts_cloud_shadow": false,
+      "tested_surface_strength": 1,
+      "tested_shadow_strength": 1,
+      "tested_shadow_extent_km": 150,
+      "tested_shadow_resolution_scale": 1,
+      "tested_sun_lux": 50500,
+      "tested_sun_rotation": "P=-18.000000 Y=-80.849854 R=0.000000",
+      "tested_layer_bottom_km": 1.2000000476837158,
+      "tested_r.VolumetricCloud": 1,
+      "tested_r.VolumetricCloud.ShadowMap": 1,
+      "tested_r.Test.OverrideTimeMaterialExpressions": -1,
+      "tested_skylight": 1.2999999523162842,
+      "probe_height_m": 67.95574801394294,
+      "overview": "2026-11-08T20:26:10.097Z",
+      "rail": "2026-11-08T20:26:12.856Z",
+      "moving": "2026-11-08T20:26:19.217Z",
+      "travel_m": 165.1309375,
+      "frame_p95": 18.29870045185089,
+      "gpu_p95": 21.194299697875977,
+      "pass": true,
+      "result": "field/lighting comparison on Small"
+    },
+    "ridges68": {
+      "active_cloud_components": 1,
+      "loaded_cloud_material": "MI_CloudTypeControl",
+      "loaded_cloud_visible": true,
+      "loaded_casts_cloud_shadow": false,
+      "loaded_surface_strength": 1,
+      "loaded_shadow_strength": 1,
+      "loaded_shadow_extent_km": 150,
+      "loaded_shadow_resolution_scale": 1,
+      "loaded_sun_lux": 50500,
+      "loaded_sun_rotation": "P=-28.000000 Y=-16.000000 R=-0.000000",
+      "loaded_layer_bottom_km": 1.2000000476837158,
+      "loaded_r.VolumetricCloud": 1,
+      "loaded_r.VolumetricCloud.ShadowMap": 1,
+      "loaded_r.Test.OverrideTimeMaterialExpressions": -1,
+      "loaded_skylight": 1.0800000429153442,
+      "tested_cloud_material": "MI_CloudTypeControl",
+      "tested_cloud_visible": true,
+      "tested_casts_cloud_shadow": false,
+      "tested_surface_strength": 1,
+      "tested_shadow_strength": 1,
+      "tested_shadow_extent_km": 150,
+      "tested_shadow_resolution_scale": 1,
+      "tested_sun_lux": 50500,
+      "tested_sun_rotation": "P=-18.000000 Y=-80.849854 R=0.000000",
+      "tested_layer_bottom_km": 1.2000000476837158,
+      "tested_r.VolumetricCloud": 1,
+      "tested_r.VolumetricCloud.ShadowMap": 1,
+      "tested_r.Test.OverrideTimeMaterialExpressions": -1,
+      "tested_skylight": 1.2999999523162842,
+      "probe_height_m": 143.96700063658733,
+      "overview": "2026-11-08T20:27:21.273Z",
+      "rail": "2026-11-08T20:27:23.679Z",
+      "moving": "2026-11-08T20:27:30.067Z",
+      "travel_m": 165.146875,
+      "frame_p95": 18.217600882053375,
+      "gpu_p95": 21.677900314331055,
+      "pass": true,
+      "result": "field/lighting comparison on Small"
+    }
+  }
+}
