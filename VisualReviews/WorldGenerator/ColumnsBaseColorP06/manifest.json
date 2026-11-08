@@ -1,0 +1,14 @@
+[
+  {
+    "path": "VisualReviews/WorldGenerator/ColumnsBaseColorP06/matched.jpg",
+    "sha256": "4c9c45a1f425e0441d6930a2674cdf5a2c5f6dc3f2986997af337e642d758dc2"
+  },
+  {
+    "path": "VisualReviews/WorldGenerator/ColumnsBaseColorP06/segments.json",
+    "sha256": "f90f50a9c2e696badbb09a86156aace05ee4640bc975f6c269e6d8090483bffc"
+  },
+  {
+    "path": "VisualReviews/WorldGenerator/ColumnsBaseColorP06/README.md",
+    "sha256": "023764a694225428f0ca029a6cce95b7ee86248a898d3de97e970336cb8b337d"
+  }
+]
