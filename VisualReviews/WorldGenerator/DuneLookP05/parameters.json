@@ -1,0 +1,220 @@
+{
+  "episode": {
+    "track": "Small",
+    "start_m": 2570,
+    "side": 1,
+    "episode_m": 140,
+    "still_distance_m": 2635,
+    "source_seed": 710650,
+    "field": "field-m27.3.2",
+    "field_center_m": [
+      -7600,
+      2000
+    ],
+    "source_height_hash": "58cdd85fc10fa69b94da8e4cb2e4d060e7e9ccc6f7aeb38f4e9c8a30185164dd",
+    "sun": "saved Layout A 2.2 directional light and sky",
+    "point_m": [
+      -7441.941656399999,
+      1686.0911013
+    ],
+    "dir": [
+      -0.9451546619292847,
+      -0.3266231238497052
+    ],
+    "side_dir": [
+      0.3266231238497052,
+      -0.9451546619292847
+    ],
+    "profile_m": [
+      0.04765625,
+      0.04765625,
+      0.2376745682162105,
+      1.5036522380467998,
+      7.188910684190435,
+      20.009684739999877,
+      19.739867242838738,
+      18.483957800085605
+    ],
+    "physical_probe_distances_m": [
+      6,
+      14,
+      25,
+      35,
+      50,
+      80,
+      110,
+      150
+    ]
+  },
+  "variants": [
+    {
+      "id": 0,
+      "slug": "Hybrid",
+      "tile_m": 2.14,
+      "scale_source": "pinned Hybrid",
+      "source": "M272 Hybrid D2",
+      "license": "existing project assets",
+      "seed": null,
+      "yaw_deg": 6,
+      "macro_m": 68,
+      "normal_gain": 0.85,
+      "macro_gain": 0.62
+    },
+    {
+      "id": 1,
+      "slug": "RockyA",
+      "tile_m": 2.14,
+      "scale_source": "project calibration; vendor extent unverified",
+      "source": "RockyDesert, Sand A; roughness from Hybrid Sand02",
+      "license": "installed project asset; private use in project, no source redistribution",
+      "seed": null,
+      "yaw_deg": 6,
+      "macro_m": 68,
+      "normal_gain": 0.85,
+      "macro_gain": 0.62
+    },
+    {
+      "id": 2,
+      "slug": "RockyB",
+      "tile_m": 2.14,
+      "scale_source": "project calibration; vendor extent unverified",
+      "source": "RockyDesert, Sand B; roughness from Hybrid Sand02",
+      "license": "installed project asset; private use in project, no source redistribution",
+      "seed": null,
+      "yaw_deg": 6,
+      "macro_m": 68,
+      "normal_gain": 0.85,
+      "macro_gain": 0.62
+    },
+    {
+      "id": 3,
+      "slug": "sand_03",
+      "tile_m": 2.0,
+      "scale_source": "Poly Haven API dimensions in mm",
+      "source": "https://polyhaven.com/a/sand_03",
+      "license": "CC0 https://polyhaven.com/license",
+      "seed": null,
+      "yaw_deg": 5,
+      "macro_m": 52,
+      "normal_gain": 0.85,
+      "macro_gain": 0.62
+    },
+    {
+      "id": 4,
+      "slug": "Ground055L",
+      "tile_m": 3.0,
+      "scale_source": "ambientCG 300 cm",
+      "source": "https://ambientcg.com/a/Ground055L",
+      "license": "CC0 https://docs.ambientcg.com/license/",
+      "seed": null,
+      "yaw_deg": 6,
+      "macro_m": 68,
+      "normal_gain": 0.85,
+      "macro_gain": 0.62
+    },
+    {
+      "id": 5,
+      "slug": "WindScours",
+      "tile_m": 5.6,
+      "scale_source": "analytic periodic cell, metres",
+      "source": "generate_sets.py; dune-ripples-1.0",
+      "license": "original project-generated maps",
+      "seed": 70505,
+      "yaw_deg": 5,
+      "macro_m": 50,
+      "normal_gain": 1.05,
+      "macro_gain": 0.9
+    },
+    {
+      "id": 6,
+      "slug": "Capillary",
+      "tile_m": 2.4,
+      "scale_source": "analytic periodic cell, metres",
+      "source": "generate_sets.py; dune-ripples-1.0",
+      "license": "original project-generated maps",
+      "seed": 70506,
+      "yaw_deg": 3,
+      "macro_m": 56,
+      "normal_gain": 1.05,
+      "macro_gain": 0.9
+    },
+    {
+      "id": 7,
+      "slug": "LeeCrests",
+      "tile_m": 3.6,
+      "scale_source": "analytic periodic cell, metres",
+      "source": "generate_sets.py; dune-ripples-1.0",
+      "license": "original project-generated maps",
+      "seed": 70507,
+      "yaw_deg": 5,
+      "macro_m": 62,
+      "normal_gain": 1.05,
+      "macro_gain": 0.9
+    },
+    {
+      "id": 8,
+      "slug": "Sinuous",
+      "tile_m": 4.8,
+      "scale_source": "analytic periodic cell, metres",
+      "source": "generate_sets.py; dune-ripples-1.0",
+      "license": "original project-generated maps",
+      "seed": 70508,
+      "yaw_deg": 5,
+      "macro_m": 68,
+      "normal_gain": 1.05,
+      "macro_gain": 0.9
+    },
+    {
+      "id": 9,
+      "slug": "Forks",
+      "tile_m": 6.0,
+      "scale_source": "analytic periodic cell, metres",
+      "source": "generate_sets.py; dune-ripples-1.0",
+      "license": "original project-generated maps",
+      "seed": 70509,
+      "yaw_deg": 5,
+      "macro_m": 74,
+      "normal_gain": 1.05,
+      "macro_gain": 0.9
+    },
+    {
+      "id": 10,
+      "slug": "Interference",
+      "tile_m": 6.0,
+      "scale_source": "analytic periodic cell, metres",
+      "source": "generate_sets.py; dune-ripples-1.0",
+      "license": "original project-generated maps",
+      "seed": 70510,
+      "yaw_deg": 5,
+      "macro_m": 80,
+      "normal_gain": 1.05,
+      "macro_gain": 0.9
+    },
+    {
+      "id": 11,
+      "slug": "SlipTongues",
+      "tile_m": 7.2,
+      "scale_source": "analytic periodic cell, metres",
+      "source": "generate_sets.py; dune-ripples-1.0",
+      "license": "original project-generated maps",
+      "seed": 70511,
+      "yaw_deg": 5,
+      "macro_m": 86,
+      "normal_gain": 1.05,
+      "macro_gain": 0.9
+    },
+    {
+      "id": 12,
+      "slug": "MegaRipples",
+      "tile_m": 12.0,
+      "scale_source": "analytic periodic cell, metres",
+      "source": "generate_sets.py; dune-ripples-1.0",
+      "license": "original project-generated maps",
+      "seed": 70512,
+      "yaw_deg": 3,
+      "macro_m": 92,
+      "normal_gain": 1.05,
+      "macro_gain": 0.9
+    }
+  ]
+}
