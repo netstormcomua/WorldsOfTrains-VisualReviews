@@ -1,0 +1,28 @@
+{
+  "files": [
+    {
+      "path": "images/overview.jpg",
+      "sha256": "b9dff50f53876616fbdfb1132dce4984228383ca162de657ca87dce3b4ea3eb0"
+    },
+    {
+      "path": "images/rail.jpg",
+      "sha256": "2616422868ad7b3b66eb9d8852e8d7577a2e3cd1d8b3212560cc4ec66d56bac8"
+    },
+    {
+      "path": "images/moving.jpg",
+      "sha256": "ea09113a17d9454a0cc3f50d0ae63ce687613f31d26d5e0f3944f7f3a56ef931"
+    },
+    {
+      "path": "drive.mp4",
+      "sha256": "60fb2d3803efcdfd98c12138ddacf19b487ace325d4f56e48084188ea34f251e"
+    },
+    {
+      "path": "parameters.json",
+      "sha256": "584fab274fbeea5e6faf7d76a7e5998dbbdf68bedd41bb0c0e820b5e701007d4"
+    },
+    {
+      "path": "README.md",
+      "sha256": "27222c636529d262ad65f2e20dd453813a67731297658af7c1438da66d2c1de6"
+    }
+  ]
+}

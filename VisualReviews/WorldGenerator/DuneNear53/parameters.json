@@ -1,0 +1,442 @@
+{
+  "preset": {
+    "schema": 1,
+    "version": "field-small-shoulders-1.1",
+    "dependency": "field-small-groups-1.0",
+    "input": "4e0717ffc77497f5a89cf7b68a02fdee803ae519f73a4caacc0d289d33b34353",
+    "seed": 53042,
+    "rail_clear_m": 50,
+    "rail_transition_m": 31,
+    "wet_clear_m": 105,
+    "shoulders": [
+      [
+        2450,
+        -111,
+        1.05,
+        0.63,
+        0.82
+      ],
+      [
+        2720,
+        100,
+        0.88,
+        0.63,
+        1.42
+      ],
+      [
+        3030,
+        119,
+        1.17,
+        0.8,
+        1.36
+      ]
+    ]
+  },
+  "checks": {
+    "hash": "fe6eaffd1c037bab65fa043f3d47eeda7e5e684867ec7ec5a11a7e15febb47c6",
+    "source_hash": "4e0717ffc77497f5a89cf7b68a02fdee803ae519f73a4caacc0d289d33b34353",
+    "changed_points": 736,
+    "area_km2": 0.0891,
+    "strongest_xy": [
+      -7296,
+      1853
+    ],
+    "strongest_change_m": 29.829632874147038,
+    "min_changed_distance_rail_m": 50.77350616455078,
+    "protected_rail_salt_edge_equal": true,
+    "cross_sections": [
+      {
+        "station_m": 2570,
+        "before": {
+          "distance_m": 630,
+          "height_above_track_m": 30.29,
+          "xy_m": [
+            -7193.99,
+            1104.35
+          ]
+        },
+        "after": {
+          "distance_m": 630,
+          "height_above_track_m": 30.29,
+          "xy_m": [
+            -7193.99,
+            1104.35
+          ]
+        }
+      },
+      {
+        "station_m": 2580,
+        "before": {
+          "distance_m": 638,
+          "height_above_track_m": 29.43,
+          "xy_m": [
+            -7198.03,
+            1094.72
+          ]
+        },
+        "after": {
+          "distance_m": 638,
+          "height_above_track_m": 29.43,
+          "xy_m": [
+            -7198.03,
+            1094.72
+          ]
+        }
+      },
+      {
+        "station_m": 2590,
+        "before": {
+          "distance_m": 740,
+          "height_above_track_m": 30.32,
+          "xy_m": [
+            -7174.73,
+            995.12
+          ]
+        },
+        "after": {
+          "distance_m": 740,
+          "height_above_track_m": 30.32,
+          "xy_m": [
+            -7174.73,
+            995.12
+          ]
+        }
+      },
+      {
+        "station_m": 2600,
+        "before": null,
+        "after": null
+      },
+      {
+        "station_m": 2610,
+        "before": null,
+        "after": null
+      },
+      {
+        "station_m": 2620,
+        "before": null,
+        "after": null
+      },
+      {
+        "station_m": 2630,
+        "before": null,
+        "after": null
+      },
+      {
+        "station_m": 2640,
+        "before": null,
+        "after": null
+      },
+      {
+        "station_m": 2650,
+        "before": null,
+        "after": null
+      },
+      {
+        "station_m": 2660,
+        "before": null,
+        "after": null
+      },
+      {
+        "station_m": 2670,
+        "before": null,
+        "after": null
+      },
+      {
+        "station_m": 2680,
+        "before": null,
+        "after": null
+      },
+      {
+        "station_m": 2690,
+        "before": null,
+        "after": {
+          "distance_m": 108,
+          "height_above_track_m": 24.03,
+          "xy_m": [
+            -7454.13,
+            1566.91
+          ]
+        }
+      },
+      {
+        "station_m": 2700,
+        "before": null,
+        "after": {
+          "distance_m": 109,
+          "height_above_track_m": 27.48,
+          "xy_m": [
+            -7463.54,
+            1562.28
+          ]
+        }
+      },
+      {
+        "station_m": 2710,
+        "before": null,
+        "after": {
+          "distance_m": 112,
+          "height_above_track_m": 32.81,
+          "xy_m": [
+            -7470.61,
+            1556.35
+          ]
+        }
+      },
+      {
+        "station_m": 2720,
+        "before": {
+          "distance_m": 331,
+          "height_above_track_m": 24.19,
+          "xy_m": [
+            -7400.46,
+            1348.65
+          ]
+        },
+        "after": {
+          "distance_m": 109,
+          "height_above_track_m": 35.94,
+          "xy_m": [
+            -7481.49,
+            1555.33
+          ]
+        }
+      },
+      {
+        "station_m": 2730,
+        "before": {
+          "distance_m": 336,
+          "height_above_track_m": 26.27,
+          "xy_m": [
+            -7405.91,
+            1341.12
+          ]
+        },
+        "after": {
+          "distance_m": 115,
+          "height_above_track_m": 35.53,
+          "xy_m": [
+            -7487.46,
+            1546.52
+          ]
+        }
+      },
+      {
+        "station_m": 2740,
+        "before": {
+          "distance_m": 342,
+          "height_above_track_m": 29.15,
+          "xy_m": [
+            -7412.43,
+            1332.05
+          ]
+        },
+        "after": {
+          "distance_m": 113,
+          "height_above_track_m": 35.78,
+          "xy_m": [
+            -7498.02,
+            1544.45
+          ]
+        }
+      },
+      {
+        "station_m": 2750,
+        "before": {
+          "distance_m": 349,
+          "height_above_track_m": 32.63,
+          "xy_m": [
+            -7417.09,
+            1322.6
+          ]
+        },
+        "after": {
+          "distance_m": 115,
+          "height_above_track_m": 31.01,
+          "xy_m": [
+            -7505.47,
+            1539.27
+          ]
+        }
+      },
+      {
+        "station_m": 2760,
+        "before": {
+          "distance_m": 361,
+          "height_above_track_m": 35.67,
+          "xy_m": [
+            -7419.81,
+            1308.51
+          ]
+        },
+        "after": {
+          "distance_m": 117,
+          "height_above_track_m": 27.45,
+          "xy_m": [
+            -7512.91,
+            1534.05
+          ]
+        }
+      }
+    ]
+  },
+  "clearance": {
+    "start_m": 2660,
+    "end_m": 2825,
+    "step_m": 5,
+    "axis_to_landscape_before_cm": [
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388
+    ],
+    "axis_to_landscape_after_cm": [
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388,
+      70.388
+    ]
+  },
+  "runtime": {
+    "control53": {
+      "active_cloud_components": 1,
+      "loaded_cloud_material": "MI_CloudTypeControl",
+      "loaded_cloud_visible": true,
+      "loaded_casts_cloud_shadow": false,
+      "loaded_surface_strength": 1,
+      "loaded_shadow_strength": 1,
+      "loaded_shadow_extent_km": 150,
+      "loaded_shadow_resolution_scale": 1,
+      "loaded_sun_lux": 50500,
+      "loaded_sun_rotation": "P=-28.000000 Y=-16.000000 R=-0.000000",
+      "loaded_layer_bottom_km": 1.2000000476837158,
+      "loaded_r.VolumetricCloud": 1,
+      "loaded_r.VolumetricCloud.ShadowMap": 1,
+      "loaded_r.Test.OverrideTimeMaterialExpressions": -1,
+      "loaded_skylight": 1.0800000429153442,
+      "tested_cloud_material": "MI_CloudTypeControl",
+      "tested_cloud_visible": true,
+      "tested_casts_cloud_shadow": false,
+      "tested_surface_strength": 1,
+      "tested_shadow_strength": 1,
+      "tested_shadow_extent_km": 150,
+      "tested_shadow_resolution_scale": 1,
+      "tested_sun_lux": 50500,
+      "tested_sun_rotation": "P=-28.000000 Y=-16.000000 R=-0.000000",
+      "tested_layer_bottom_km": 1.2000000476837158,
+      "tested_r.VolumetricCloud": 1,
+      "tested_r.VolumetricCloud.ShadowMap": 1,
+      "tested_r.Test.OverrideTimeMaterialExpressions": -1,
+      "tested_skylight": 1.0800000429153442,
+      "probe_height_m": 19.872360284580935,
+      "overview": "2026-11-08T18:47:43.206Z",
+      "rail": "2026-11-08T18:47:45.591Z",
+      "moving": "2026-11-08T18:47:51.967Z",
+      "travel_m": 165.1646875,
+      "frame_p95": 18.029198050498962,
+      "gpu_p95": 22.53420066833496,
+      "pass": true,
+      "result": "field/lighting comparison on Small"
+    },
+    "near53": {
+      "active_cloud_components": 1,
+      "loaded_cloud_material": "MI_CloudTypeControl",
+      "loaded_cloud_visible": true,
+      "loaded_casts_cloud_shadow": false,
+      "loaded_surface_strength": 1,
+      "loaded_shadow_strength": 1,
+      "loaded_shadow_extent_km": 150,
+      "loaded_shadow_resolution_scale": 1,
+      "loaded_sun_lux": 50500,
+      "loaded_sun_rotation": "P=-28.000000 Y=-16.000000 R=-0.000000",
+      "loaded_layer_bottom_km": 1.2000000476837158,
+      "loaded_r.VolumetricCloud": 1,
+      "loaded_r.VolumetricCloud.ShadowMap": 1,
+      "loaded_r.Test.OverrideTimeMaterialExpressions": -1,
+      "loaded_skylight": 1.0800000429153442,
+      "tested_cloud_material": "MI_CloudTypeControl",
+      "tested_cloud_visible": true,
+      "tested_casts_cloud_shadow": false,
+      "tested_surface_strength": 1,
+      "tested_shadow_strength": 1,
+      "tested_shadow_extent_km": 150,
+      "tested_shadow_resolution_scale": 1,
+      "tested_sun_lux": 50500,
+      "tested_sun_rotation": "P=-28.000000 Y=-16.000000 R=-0.000000",
+      "tested_layer_bottom_km": 1.2000000476837158,
+      "tested_r.VolumetricCloud": 1,
+      "tested_r.VolumetricCloud.ShadowMap": 1,
+      "tested_r.Test.OverrideTimeMaterialExpressions": -1,
+      "tested_skylight": 1.0800000429153442,
+      "probe_height_m": 49.704464503700294,
+      "overview": "2026-11-08T18:54:09.857Z",
+      "rail": "2026-11-08T18:54:12.157Z",
+      "moving": "2026-11-08T18:54:18.522Z",
+      "travel_m": 165.0971875,
+      "frame_p95": 17.964601516723633,
+      "gpu_p95": 21.458999633789062,
+      "pass": true,
+      "result": "field/lighting comparison on Small"
+    }
+  }
+}
