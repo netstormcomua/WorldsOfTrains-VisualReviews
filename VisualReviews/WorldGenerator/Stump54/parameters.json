@@ -1,0 +1,59 @@
+{
+  "preset": {
+    "schema": 1,
+    "version": "stump-weathered-1.4",
+    "input_generator": "single-mountain-stump-talus-1.1",
+    "input_sha256": "ccb8f35b68c1da863115f2410436bf8d7de2e5af3ad0d2fb20b1fef926a36ac7",
+    "seed": 54047,
+    "foot_extension_m": 45,
+    "secondary_fans_per_mouth": 3,
+    "wall_cuts": 79,
+    "native_repeat_m": 3.6
+  },
+  "geometry": {
+    "max_foot_extension_m": 49.21,
+    "max_chip_m": 8.81,
+    "max_local_deposit_m": 15.34,
+    "fans": 39,
+    "shell_count": 1,
+    "triangles": 119232,
+    "sha256": "de5e52d40763e756ab9e7d84fe4c29667683be46dd18b5cf333e69a2c0fa94f6"
+  },
+  "native_maps": [
+    "T_Cliff_Surface_alb",
+    "T_Cliff_Surface_nm"
+  ],
+  "runtime": {
+    "triangles": 119232,
+    "shells": 1,
+    "original-sketch": "2026-11-08T19:10:31.376Z",
+    "original-near": "2026-11-08T19:10:33.336Z",
+    "original-edge": "2026-11-08T19:10:35.070Z",
+    "original-shade": "2026-11-08T19:10:36.771Z",
+    "sun_patch_cm": "X=419156.978 Y=523710.233 Z=9900.000",
+    "original-sun-detail": "2026-11-08T19:10:38.623Z",
+    "shade_patch_cm": "X=436725.132 Y=519548.428 Z=9900.000",
+    "original-shade-detail": "2026-11-08T19:10:40.541Z",
+    "original-foot": "2026-11-08T19:10:42.613Z",
+    "original-drive": "2026-11-08T19:10:50.754Z",
+    "original_m": 587.97,
+    "original_frame_p95": 17.60309934616089,
+    "original_gpu_p95": 17.343599319458008,
+    "matched-sketch": "2026-11-08T19:11:01.665Z",
+    "matched-near": "2026-11-08T19:11:03.533Z",
+    "matched-edge": "2026-11-08T19:11:05.242Z",
+    "matched-shade": "2026-11-08T19:11:06.974Z",
+    "matched-sun-detail": "2026-11-08T19:11:08.830Z",
+    "matched-shade-detail": "2026-11-08T19:11:10.757Z",
+    "matched-foot": "2026-11-08T19:11:12.835Z",
+    "matched-drive": "2026-11-08T19:11:20.972Z",
+    "matched_m": 587.500625,
+    "matched_frame_p95": 17.57359877228737,
+    "matched_gpu_p95": 17.42099952697754,
+    "matched-empty": "2026-11-08T19:11:31.275Z",
+    "demo_mesh_width_m": 16.035992126464844,
+    "matched-specimen": "2026-11-08T19:11:33.290Z",
+    "pass": true,
+    "result": "same rail/light; pinned original and weathered shell"
+  }
+}
