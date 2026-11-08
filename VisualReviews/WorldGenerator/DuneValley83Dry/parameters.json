@@ -1,0 +1,30 @@
+{
+  "mask": {
+    "rect_m": [
+      -9078,
+      -567,
+      -6856,
+      1270
+    ],
+    "all_submerged_changed_vertices": 13289,
+    "wet_mask_inside": 0,
+    "minimum_terrain_over_water_in_boundary_band_m": 1.2976562499999573
+  },
+  "meshes": [
+    {
+      "surface": "Brine at surveyed water level",
+      "triangles": 108,
+      "material": "M_PoolsA02"
+    },
+    {
+      "surface": "A1_Ground",
+      "triangles": 108,
+      "material": "M_sand"
+    }
+  ],
+  "dry_screen_rays": 63,
+  "blocked": 0,
+  "salt_hit": true,
+  "approach_m": 450.18125000000003,
+  "frame_p95_ms": 17.688501626253128
+}
