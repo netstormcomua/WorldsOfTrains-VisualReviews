@@ -1,0 +1,40 @@
+{
+  "files": [
+    {
+      "path": "images/far.jpg",
+      "sha256": "2500467df31f494c5157a80d93e32113fff167a3d82b54422ffbb39163ab16e3"
+    },
+    {
+      "path": "images/near.jpg",
+      "sha256": "68a9768a3f9617ee9259ebe3e38e25b04db843300f6c53ff1f16ce61ccf4c0e4"
+    },
+    {
+      "path": "images/control.jpg",
+      "sha256": "7afc4f5a9b09c13bb7d9a119333c939d831645d90de607b950071ca87029fb52"
+    },
+    {
+      "path": "images/drive.jpg",
+      "sha256": "1c6e77f52cd84eb3a4a2175eaed48f46b3d438be358d7943cab7bea78119d136"
+    },
+    {
+      "path": "images/east.jpg",
+      "sha256": "bc132cf86e0804f7f3ad03cf0116da02ae3443ac451e1bd6d58bcfc345d55fc0"
+    },
+    {
+      "path": "images/first-and-revised.jpg",
+      "sha256": "4efdbae175a68104ac0f02bb8eafe4863553c1657c77b732488fcef3a55f2570"
+    },
+    {
+      "path": "outer-drive.mp4",
+      "sha256": "7854c72ff67e6812ffa7cad0fcb13417b13de24588a129a29565629e61df6ff4"
+    },
+    {
+      "path": "parameters.json",
+      "sha256": "c69299c16be6768aa9c2121f50eae045ee80f13f703805a10c34fd2f578b3f08"
+    },
+    {
+      "path": "README.md",
+      "sha256": "e13d95f79028ae4582dd3b0f3c4fc6b938264f5beac8addf7cc7ece0d6ff0641"
+    }
+  ]
+}

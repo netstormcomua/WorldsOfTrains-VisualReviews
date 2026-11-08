@@ -1,0 +1,102 @@
+{
+  "zone": {
+    "single_mountain": "1.2.1",
+    "schema": 1,
+    "members": [
+      {
+        "x": 4310,
+        "yaw": -12,
+        "preset": "mesa",
+        "y": 5275
+      },
+      {
+        "x": 3950,
+        "yaw": 23,
+        "preset": "butte",
+        "y": 5130
+      },
+      {
+        "x": 4940,
+        "yaw": 12,
+        "preset": "plateau",
+        "y": 5505
+      }
+    ],
+    "generator": "1.0.1"
+  },
+  "presets": {
+    "mesa": {
+      "schema": 1,
+      "generator": "1.2.1",
+      "seed": 84152,
+      "radius_x_m": 210,
+      "radius_y_m": 110,
+      "height_m": 172,
+      "apron_m": 140,
+      "detail_count": 210
+    },
+    "butte": {
+      "schema": 1,
+      "generator": "1.2.1",
+      "seed": 35071,
+      "radius_x_m": 60,
+      "radius_y_m": 37,
+      "height_m": 127,
+      "apron_m": 89,
+      "detail_count": 112
+    },
+    "plateau": {
+      "schema": 1,
+      "generator": "1.2.1",
+      "seed": 69245,
+      "radius_x_m": 248,
+      "radius_y_m": 84,
+      "height_m": 192,
+      "apron_m": 145,
+      "detail_count": 180
+    }
+  },
+  "shells": [
+    {
+      "preset": "mesa",
+      "triangles": 11928,
+      "rocks": 210,
+      "sha256": "c2a6cb10ea0473f15e63b7debadcc518516a20c1dc9434f0eed591bdb53f1a35"
+    },
+    {
+      "preset": "butte",
+      "triangles": 11928,
+      "rocks": 112,
+      "sha256": "f30020214081d2348e1ff469b72305a256cae38aafc9eadabd0fd0aecd3195af"
+    },
+    {
+      "preset": "plateau",
+      "triangles": 11928,
+      "rocks": 180,
+      "sha256": "5ac326238cf92b0c85481bcbcf1e27c7957d00c27856d976e37443ea252479e8"
+    }
+  ],
+  "runtime": {
+    "monument-far": "2026-11-08T15:22:08.097Z",
+    "monument-near": "2026-11-08T15:22:11.768Z",
+    "monument-control": "2026-11-08T15:22:13.687Z",
+    "pass0_gpu_p95_ms": 17.21969985961914,
+    "pass0_m": 319.3843688964844,
+    "pass0_frames": 481,
+    "pass0_p50_ms": 16.658198088407516,
+    "pass0_p95_ms": 17.30639860033989,
+    "pass1_gpu_p95_ms": 17.14929962158203,
+    "pass1_m": 319.38311767578125,
+    "pass1_frames": 480,
+    "pass1_p50_ms": 16.652800142765045,
+    "pass1_p95_ms": 17.386898398399353,
+    "monument-drive": "2026-11-08T15:22:45.841Z",
+    "pass2_gpu_p95_ms": 17.48550033569336,
+    "pass2_m": 636.5718994140625,
+    "pass2_frames": 890,
+    "pass2_p50_ms": 16.669701784849167,
+    "pass2_p95_ms": 17.687499523162842,
+    "pass": true,
+    "result": "Outer native drive and matched hidden/visible runs"
+  }
+}
