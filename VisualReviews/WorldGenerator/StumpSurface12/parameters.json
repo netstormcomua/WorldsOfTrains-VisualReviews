@@ -1,0 +1,98 @@
+{
+  "preset": {
+    "schema": 1,
+    "version": "rockydesert-stump-sandstone-1.2",
+    "mesh": "SM_StumpTalus11",
+    "mesh_recipe_sha256": "ccb8f35b68c1da863115f2410436bf8d7de2e5af3ad0d2fb20b1fef926a36ac7",
+    "base_surface": "rockydesert-stump-sandstone-1.0",
+    "native_demo_actor": "SM_RockSide_A24",
+    "native_material": "MI_Side_Rock_A1",
+    "albedo": "T_Cliff_Surface_alb",
+    "normal": "T_Cliff_Surface_nm",
+    "both_repeat_m": 3.6,
+    "normal_strength": 1.05,
+    "projection": "signed triplanar shared stochastic offsets",
+    "color_tint_linear": [
+      1.04,
+      0.57,
+      0.285
+    ]
+  },
+  "native_demo": {
+    "demo": "SM_RockSide_A24",
+    "mesh": "SM_RockSide_A1",
+    "material": "MI_Side_Rock_A1",
+    "parent": "M_Side_RockMaster",
+    "base_color": [
+      {
+        "texture": "T_Sand_B_alb",
+        "parameter": null,
+        "node": "MaterialExpressionTextureSample_15"
+      },
+      {
+        "texture": "T_RockSide_A1_mask",
+        "parameter": "MaskMap",
+        "node": "MaterialExpressionTextureSampleParameter2D_4"
+      },
+      {
+        "texture": "T_RockSide_A1_mask",
+        "parameter": "MaskMap",
+        "node": "MaterialExpressionTextureSampleParameter2D_5"
+      },
+      {
+        "texture": "T_Cliff_Surface_alb",
+        "parameter": null,
+        "node": "MaterialExpressionTextureSample_13"
+      }
+    ],
+    "normal": [
+      {
+        "texture": "T_Sand_B_nm",
+        "parameter": null,
+        "node": "MaterialExpressionTextureSample_16"
+      },
+      {
+        "texture": "T_Cliff_Surface_nm",
+        "parameter": null,
+        "node": "MaterialExpressionTextureSample_14"
+      },
+      {
+        "texture": "T_RockSide_A1_n",
+        "parameter": "NormalMap",
+        "node": "MaterialExpressionTextureSampleParameter2D_1"
+      }
+    ]
+  },
+  "mesh_asset_sha256": "6e590d947e466fd65dd2797dc7110143a6dcb774564614885e417f4c84cd4cc2",
+  "runtime": {
+    "triangles": 119232,
+    "shells": 1,
+    "original-sketch": "2026-11-08T17:47:51.958Z",
+    "original-near": "2026-11-08T17:47:53.996Z",
+    "original-edge": "2026-11-08T17:47:55.714Z",
+    "original-shade": "2026-11-08T17:47:57.418Z",
+    "sun_patch_cm": "X=419156.978 Y=523710.233 Z=9900.000",
+    "original-sun-detail": "2026-11-08T17:47:59.291Z",
+    "shade_patch_cm": "X=436725.132 Y=519548.428 Z=9900.000",
+    "original-shade-detail": "2026-11-08T17:48:01.210Z",
+    "original-drive": "2026-11-08T17:48:09.299Z",
+    "original_m": 587.66875,
+    "original_frame_p95": 17.657402902841568,
+    "original_gpu_p95": 17.528799057006836,
+    "matched-sketch": "2026-11-08T17:48:20.206Z",
+    "matched-near": "2026-11-08T17:48:22.065Z",
+    "matched-edge": "2026-11-08T17:48:23.790Z",
+    "matched-shade": "2026-11-08T17:48:25.492Z",
+    "matched-sun-detail": "2026-11-08T17:48:27.346Z",
+    "matched-shade-detail": "2026-11-08T17:48:29.247Z",
+    "matched-drive": "2026-11-08T17:48:37.324Z",
+    "matched_m": 587.554375,
+    "matched_frame_p95": 17.354700714349747,
+    "matched_gpu_p95": 17.294200897216797,
+    "matched-empty": "2026-11-08T17:48:47.615Z",
+    "demo_mesh_width_m": 16.035992126464844,
+    "matched-specimen": "2026-11-08T17:48:49.626Z",
+    "pass": true,
+    "result": "same stump mesh in both passes; diagnostic specimen at separate location"
+  }
+}
