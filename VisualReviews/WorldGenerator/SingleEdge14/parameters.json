@@ -1,0 +1,29 @@
+{
+  "single": {
+    "triangles": 57470,
+    "shared_rocks": 2450,
+    "seed": 84152,
+    "sha256": "37f5e15c3e44abcbf36f5372ac3a738a444cab0002fd0a3a79acc3ba13dbd22c"
+  },
+  "old_seed": 84152,
+  "control_triangles": 57280,
+  "material": "weathered-sandstone-1.1",
+  "runtime": {
+    "sun": "P=-28.000000 Y=-16.000000 R=-0.000000",
+    "old-near": "2026-11-08T16:15:24.479Z",
+    "old-foot": "2026-11-08T16:15:26.984Z",
+    "old-drive": "2026-11-08T16:15:36.310Z",
+    "old_m": 686.782470703125,
+    "old_frame_p95": 17.690401524305344,
+    "old_gpu_p95": 17.51650047302246,
+    "new-near": "2026-11-08T16:15:49.101Z",
+    "new-foot": "2026-11-08T16:15:51.430Z",
+    "new-drive": "2026-11-08T16:16:00.751Z",
+    "new_m": 687.1812744140625,
+    "new_frame_p95": 17.777297645807266,
+    "new_gpu_p95": 17.61319923400879,
+    "pass": true,
+    "result": "matched one-rib before and after"
+  },
+  "video_seconds": 8.0
+}
