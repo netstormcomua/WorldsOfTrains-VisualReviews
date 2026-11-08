@@ -1,0 +1,32 @@
+{
+  "files": [
+    {
+      "path": "images/sky.jpg",
+      "sha256": "bc5c2b42acce4b6c1337cbc23a03858954eee99acc060f0bcaef6f4238d490b3"
+    },
+    {
+      "path": "images/drive.jpg",
+      "sha256": "f9d81e58c64ad586c2a3833d844f58c321b776a75f4a7d7d694591257e615aef"
+    },
+    {
+      "path": "images/phase.jpg",
+      "sha256": "d21866950c3dfced99c0e7eaf6dd60535bab8066efb50e5086d4d181ea2df122"
+    },
+    {
+      "path": "images/shadow.jpg",
+      "sha256": "faf352d1cc6055cbe714e9fa9f8302ceb96cf990dc2ddf696f677160c5a4a070"
+    },
+    {
+      "path": "drive.mp4",
+      "sha256": "64e90f2406ce232b2d2abfc5ae8e855e5004770da1cbb6e5c3c788402ffa0170"
+    },
+    {
+      "path": "parameters.json",
+      "sha256": "ef0c83ce46c3ac6d3531d3ab23aee8d296d81b3b2c871f88f5419fbd9fbe75b7"
+    },
+    {
+      "path": "README.md",
+      "sha256": "fe44420a12112cd74a3b09ad622cb840cf3a080085096beef272897e711dc2cf"
+    }
+  ]
+}
