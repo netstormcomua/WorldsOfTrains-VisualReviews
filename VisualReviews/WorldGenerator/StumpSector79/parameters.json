@@ -1,0 +1,207 @@
+{
+  "geometry": {
+    "original_vertices": 59905,
+    "wall_vertices_changed": 1599,
+    "maximum_cut_m": 12.98,
+    "boundary_equal": true,
+    "blocks": [
+      {
+        "fan": 1,
+        "center_xy_m": [
+          -100.41,
+          -104.22
+        ],
+        "emergent_center_m": 7.2
+      },
+      {
+        "fan": 1,
+        "center_xy_m": [
+          -106.52,
+          -129.5
+        ],
+        "emergent_center_m": 4
+      },
+      {
+        "fan": 1,
+        "center_xy_m": [
+          -124.47,
+          -133.7
+        ],
+        "emergent_center_m": 2.8
+      },
+      {
+        "fan": 1,
+        "center_xy_m": [
+          -127.46,
+          -169.94
+        ],
+        "emergent_center_m": 2
+      },
+      {
+        "fan": 3,
+        "center_xy_m": [
+          -0.44,
+          -138.29
+        ],
+        "emergent_center_m": 6.4
+      },
+      {
+        "fan": 3,
+        "center_xy_m": [
+          2.83,
+          -163.37
+        ],
+        "emergent_center_m": 3.8
+      },
+      {
+        "fan": 3,
+        "center_xy_m": [
+          -13.12,
+          -187.78
+        ],
+        "emergent_center_m": 2.7
+      }
+    ],
+    "sha256": "271bc3f40a820876c89e8581c380f5244f0799eb719275cb56d366fe7ea80bb1"
+  },
+  "preset": {
+    "schema": 1,
+    "version": "stump-wide-sector-1.6",
+    "base": "stump-weathered-1.4",
+    "input_sha256": "de5e52d40763e756ab9e7d84fe4c29667683be46dd18b5cf333e69a2c0fa94f6",
+    "segments": 576,
+    "levels": 98,
+    "seed": 79012,
+    "joints": [
+      {
+        "fan": 1,
+        "lean": 0.21,
+        "kink": -0.52,
+        "bottom_m": 57,
+        "top_m": 169,
+        "break_m": 101,
+        "depth_m": 13,
+        "face_width_m": 21,
+        "blocks": [
+          [
+            48,
+            -8,
+            12,
+            7,
+            7.2
+          ],
+          [
+            72,
+            2,
+            7,
+            4,
+            4
+          ],
+          [
+            86,
+            -10,
+            4,
+            3,
+            2.8
+          ],
+          [
+            117,
+            9,
+            3,
+            2,
+            2
+          ]
+        ]
+      },
+      {
+        "fan": 3,
+        "lean": -0.32,
+        "kink": 0.17,
+        "bottom_m": 63,
+        "top_m": 151,
+        "break_m": 119,
+        "depth_m": 10,
+        "face_width_m": 15,
+        "blocks": [
+          [
+            53,
+            0,
+            10,
+            7,
+            6.4
+          ],
+          [
+            77,
+            8,
+            6,
+            5,
+            3.8
+          ],
+          [
+            104,
+            -3,
+            4,
+            2.8,
+            2.7
+          ]
+        ]
+      }
+    ]
+  },
+  "sun": {
+    "schema": 1,
+    "version": "desert-sun-02-1.0",
+    "source_review": "027ade3c4f6fd87a9179a395507ddff0d322e8a5",
+    "option": 2,
+    "sun_elevation_deg": 18,
+    "sun_component_yaw_deg": -80.849853515625,
+    "temperature_k": 4400,
+    "sun_lux": 50500,
+    "sky_intensity": 1.3,
+    "fill_lux": 0,
+    "exposure_mode": "manual",
+    "physical_camera_exposure": false,
+    "exposure_bias": -12.7,
+    "sky_rayleigh": 0.0331000015,
+    "sky_mie": 0.00399600016,
+    "mie_anisotropy": 0.8,
+    "cast_cloud_shadows": false
+  },
+  "runtime": {
+    "triangles": 119372,
+    "shells": 1,
+    "sun02_lux": 50500,
+    "sun02_kelvin": 4400,
+    "sun02_elevation": 18,
+    "sun02_yaw": -80.84985351562499,
+    "bend_degrees_per_100m": 1.8823377273470112,
+    "bend_station_m": 8850,
+    "base-bend": "2026-11-08T21:41:29.731Z",
+    "nodust-bend": "2026-11-08T21:41:31.991Z",
+    "novein-bend": "2026-11-08T21:41:34.173Z",
+    "isolated_source": "deposit",
+    "original-bend": "2026-11-08T21:41:36.374Z",
+    "original-sector": "2026-11-08T21:41:38.357Z",
+    "original-blocks": "2026-11-08T21:41:40.172Z",
+    "original-drive": "2026-11-08T21:41:48.267Z",
+    "original_m": 587.755,
+    "original_frame_p95": 18.21710169315338,
+    "original_gpu_p95": 21.637100219726562,
+    "clean-bend": "2026-11-08T21:41:59.166Z",
+    "clean-sector": "2026-11-08T21:42:01.136Z",
+    "clean-blocks": "2026-11-08T21:42:02.959Z",
+    "clean-drive": "2026-11-08T21:42:11.049Z",
+    "clean_m": 587.845,
+    "clean_frame_p95": 18.063899129629135,
+    "clean_gpu_p95": 21.15959930419922,
+    "matched-bend": "2026-11-08T21:42:21.955Z",
+    "matched-sector": "2026-11-08T21:42:23.939Z",
+    "matched-blocks": "2026-11-08T21:42:25.750Z",
+    "matched-drive": "2026-11-08T21:42:33.840Z",
+    "matched_m": 587.9475,
+    "matched_frame_p95": 17.808400094509125,
+    "matched_gpu_p95": 17.51449966430664,
+    "pass": true,
+    "result": "wide geometry; isolated surface; one joint sector"
+  }
+}
