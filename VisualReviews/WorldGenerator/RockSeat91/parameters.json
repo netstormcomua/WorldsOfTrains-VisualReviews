@@ -1,0 +1,269 @@
+{
+  "main": "2.5",
+  "displacements": [
+    {
+      "mesh": "SM_Rock_Side-A2",
+      "index": 0,
+      "drop_cm": 36.026663744575444
+    },
+    {
+      "mesh": "SM_Rock_Side-A2",
+      "index": 1,
+      "drop_cm": 16.45967456066046
+    },
+    {
+      "mesh": "SM_Rock_Side-A2",
+      "index": 2,
+      "drop_cm": 7.785764971417638
+    },
+    {
+      "mesh": "SM_Rock_Side-A2",
+      "index": 3,
+      "drop_cm": 17.79055704006214
+    },
+    {
+      "mesh": "SM_Rock_Side-A2",
+      "index": 4,
+      "drop_cm": 16.237898386154484
+    },
+    {
+      "mesh": "SM_Rock_Side-A2",
+      "index": 5,
+      "drop_cm": 39.236969783907625
+    },
+    {
+      "mesh": "SM_Rock_Side-A2",
+      "index": 6,
+      "drop_cm": 26.80516784516536
+    },
+    {
+      "mesh": "SM_Rock_Side-A2",
+      "index": 7,
+      "drop_cm": 9.965680926825707
+    },
+    {
+      "mesh": "SM_Rock_Side-A2",
+      "index": 8,
+      "drop_cm": 57.92448123175291
+    },
+    {
+      "mesh": "SM_Rock_Side-A2",
+      "index": 9,
+      "drop_cm": 9.218774400225746
+    },
+    {
+      "mesh": "SM_Rock_Side-A2",
+      "index": 10,
+      "drop_cm": 11.09326390645856
+    },
+    {
+      "mesh": "SM_Rock_Side-A2",
+      "index": 11,
+      "drop_cm": 15.665158614569918
+    },
+    {
+      "mesh": "SM_Rock_Side-A2",
+      "index": 12,
+      "drop_cm": 74.26906435227556
+    },
+    {
+      "mesh": "SM_Small_Rock_B1",
+      "index": 0,
+      "drop_cm": 29.37499881404824
+    },
+    {
+      "mesh": "SM_Small_Rock_B1",
+      "index": 1,
+      "drop_cm": 8.666048145662744
+    },
+    {
+      "mesh": "SM_Small_Rock_B1",
+      "index": 2,
+      "drop_cm": 14.682025674474744
+    },
+    {
+      "mesh": "SM_Small_Rock_B1",
+      "index": 3,
+      "drop_cm": 17.160934723312266
+    },
+    {
+      "mesh": "SM_Small_Rock_B1",
+      "index": 4,
+      "drop_cm": 14.668893097741496
+    },
+    {
+      "mesh": "SM_Small_Rock_B1",
+      "index": 5,
+      "drop_cm": 34.862742803298914
+    },
+    {
+      "mesh": "SM_Small_Rock_B1",
+      "index": 6,
+      "drop_cm": 7.552172767116546
+    },
+    {
+      "mesh": "SM_Small_Rock_B1",
+      "index": 7,
+      "drop_cm": 15.710471661612246
+    },
+    {
+      "mesh": "SM_Small_Rock_B1",
+      "index": 8,
+      "drop_cm": 9.284943751438416
+    },
+    {
+      "mesh": "SM_Small_Rock_B1",
+      "index": 9,
+      "drop_cm": 10.499215485943072
+    },
+    {
+      "mesh": "SM_Small_Rock_B1",
+      "index": 10,
+      "drop_cm": 20.053543650971278
+    },
+    {
+      "mesh": "SM_Small_Rock_B1",
+      "index": 11,
+      "drop_cm": 13.821088681973745
+    },
+    {
+      "mesh": "SM_Small_Rock_B1",
+      "index": 12,
+      "drop_cm": 16.04274707636157
+    },
+    {
+      "mesh": "SM_Small_Rock_B1",
+      "index": 13,
+      "drop_cm": 17.387937515504746
+    },
+    {
+      "mesh": "SM_Small_Rock_B1",
+      "index": 14,
+      "drop_cm": 12.739329317075319
+    },
+    {
+      "mesh": "SM_Small_Rock_1",
+      "index": 0,
+      "drop_cm": 29.207674296836142
+    },
+    {
+      "mesh": "SM_Small_Rock_1",
+      "index": 1,
+      "drop_cm": 33.75360570441839
+    },
+    {
+      "mesh": "SM_Small_Rock_1",
+      "index": 2,
+      "drop_cm": 24.6321735951829
+    },
+    {
+      "mesh": "SM_Small_Rock_1",
+      "index": 3,
+      "drop_cm": 25.723274551999566
+    },
+    {
+      "mesh": "SM_Small_Rock_1",
+      "index": 4,
+      "drop_cm": 21.54794510223047
+    },
+    {
+      "mesh": "SM_Small_Rock_1",
+      "index": 5,
+      "drop_cm": 14.603185081324128
+    },
+    {
+      "mesh": "SM_Small_Rock_1",
+      "index": 6,
+      "drop_cm": 10.888313213418769
+    },
+    {
+      "mesh": "SM_RockSide_A1",
+      "index": 0,
+      "drop_cm": 134.44151158238788
+    },
+    {
+      "mesh": "SM_RockSide_A1",
+      "index": 1,
+      "drop_cm": 124.81959902598676
+    },
+    {
+      "mesh": "SM_RockSide_A1",
+      "index": 2,
+      "drop_cm": 123.41051877106835
+    },
+    {
+      "mesh": "SM_RockSide_A1",
+      "index": 3,
+      "drop_cm": 107.70004543293817
+    },
+    {
+      "mesh": "SM_RockSide_A1",
+      "index": 4,
+      "drop_cm": 145.85746844852565
+    },
+    {
+      "mesh": "SM_Small_Rock_4",
+      "index": 0,
+      "drop_cm": 121.26116106061272
+    },
+    {
+      "mesh": "SM_Small_Rock_4",
+      "index": 1,
+      "drop_cm": 136.05532256798938
+    },
+    {
+      "mesh": "SM_Small_Rock_4",
+      "index": 2,
+      "drop_cm": 145.70110775173453
+    },
+    {
+      "mesh": "SM_Small_Rock_3",
+      "index": 0,
+      "drop_cm": 38.08888721459607
+    },
+    {
+      "mesh": "SM_Small_Rock_3",
+      "index": 1,
+      "drop_cm": 36.27228750648055
+    },
+    {
+      "mesh": "SM_Small_Rock_3",
+      "index": 2,
+      "drop_cm": 33.68193247022295
+    },
+    {
+      "mesh": "SM_Small_Rock_3",
+      "index": 3,
+      "drop_cm": 16.720795060662567
+    },
+    {
+      "mesh": "SM_Small_Rock_3",
+      "index": 4,
+      "drop_cm": 57.69418368177503
+    },
+    {
+      "mesh": "SM_Small_Rock_3",
+      "index": 5,
+      "drop_cm": 39.72987785546684
+    },
+    {
+      "mesh": "SM_Small_Rock_3",
+      "index": 6,
+      "drop_cm": 42.52688403960565
+    },
+    {
+      "mesh": "SM_Small_Rock_3",
+      "index": 7,
+      "drop_cm": 21.716738925646496
+    },
+    {
+      "mesh": "SM_Small_Rock_3",
+      "index": 8,
+      "drop_cm": 26.4348672232245
+    }
+  ],
+  "recipe_sha256": "a1f612e89d5116456950013b5592f44f1632e86473821254f63ffe3758e84a54",
+  "approved_positions_digest": "5ab12280a7bc7c30b04cdd0f2e6dbd0304b4bd290a382f650d05411072a092c3",
+  "travel_m": 135.09375,
+  "p95_ms": 17.933398485183716
+}

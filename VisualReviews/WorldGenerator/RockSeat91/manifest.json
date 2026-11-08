@@ -1,0 +1,28 @@
+{
+  "files": [
+    {
+      "path": "images/approach.jpg",
+      "sha256": "0c44036614fb54ebc63f63d28df81ad0b604a7a494ae84d7c26f6e286f8d4e80"
+    },
+    {
+      "path": "images/moving.jpg",
+      "sha256": "7f1da9d5aba7c6b8587d2946d2324dc358810a3c3e06e5d9a8f3060e975d55f0"
+    },
+    {
+      "path": "images/detail.jpg",
+      "sha256": "a79e607aa5fa649f7c45fffbe2f80a855f9ab65879a52fdb95246a79bd5bdefe"
+    },
+    {
+      "path": "drive.mp4",
+      "sha256": "2e95fe2cf68a70d9fbad3c2b272e1868b37f07cbfe527eb20a6734cd96d0c304"
+    },
+    {
+      "path": "parameters.json",
+      "sha256": "4d5f93f00020e17c1cd24579de611118af71a2adc64023314272f75656f41b22"
+    },
+    {
+      "path": "README.md",
+      "sha256": "97d665ecbb478923ec132418055391bcd8a7308dfccdb0dd7a44f4cd23a2cba9"
+    }
+  ]
+}
