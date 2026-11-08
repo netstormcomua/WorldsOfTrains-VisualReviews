@@ -1,0 +1,32 @@
+{
+  "files": [
+    {
+      "path": "images/bend.jpg",
+      "sha256": "9e3bae4ce3b6dfd8d4c13d0e5ca46abef5851067ef49ebc658834b38fc490594"
+    },
+    {
+      "path": "images/sector.jpg",
+      "sha256": "2d65a0a366968e7695ff674c832180d81df7bec0662a4168f21feddc58f70904"
+    },
+    {
+      "path": "images/blocks.jpg",
+      "sha256": "428483c3c08118409074678b666b2cc64c898bdda4ec4ff47ff75f46fc140b20"
+    },
+    {
+      "path": "images/drive.jpg",
+      "sha256": "dd8fe88e2d28418b78ae10ddb6d855091c413d18fa1a3b06f7ac28e10dfff1f9"
+    },
+    {
+      "path": "drive.mp4",
+      "sha256": "1ff112b05ee0b92f02496f96ffd634bf13a90af60a03c57777a33682968162b6"
+    },
+    {
+      "path": "parameters.json",
+      "sha256": "cc37cd13cef6fe9e7cb1d556adfea62b89833bad56f0275ef0be3358bd0ab04f"
+    },
+    {
+      "path": "README.md",
+      "sha256": "614b05a1508e320fbb9fe027c41f1a31ae27c16fc99c5762d426e828ab2289c0"
+    }
+  ]
+}

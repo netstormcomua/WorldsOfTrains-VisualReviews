@@ -1,0 +1,157 @@
+{
+  "pieces": [
+    {
+      "mesh": "SM_Small_Rock_B1",
+      "local_xyz_m": [
+        -94.41,
+        -80.27,
+        66.821
+      ],
+      "span_m": 17,
+      "yaw_deg": 99,
+      "burial_fraction": 0.225
+    },
+    {
+      "mesh": "SM_Small_Rock_3",
+      "local_xyz_m": [
+        -95.94,
+        -119.03,
+        43.946
+      ],
+      "span_m": 12,
+      "yaw_deg": 13,
+      "burial_fraction": 0.192
+    },
+    {
+      "mesh": "SM_Small_Rock_B3",
+      "local_xyz_m": [
+        -131.19,
+        -118.28,
+        17.488
+      ],
+      "span_m": 10,
+      "yaw_deg": 69,
+      "burial_fraction": 0.259
+    },
+    {
+      "mesh": "SM_Small_Rock_1",
+      "local_xyz_m": [
+        -128.88,
+        -142.31,
+        28.009
+      ],
+      "span_m": 6.8,
+      "yaw_deg": 237,
+      "burial_fraction": 0.253
+    },
+    {
+      "mesh": "SM_Small_Rock_4",
+      "local_xyz_m": [
+        -91.32,
+        -100.79,
+        55.862
+      ],
+      "span_m": 5.3,
+      "yaw_deg": 65,
+      "burial_fraction": 0.322
+    },
+    {
+      "mesh": "SM_Small_Rock_B2",
+      "local_xyz_m": [
+        -111.39,
+        -115.88,
+        34.867
+      ],
+      "span_m": 4.8,
+      "yaw_deg": 302,
+      "burial_fraction": 0.31
+    },
+    {
+      "mesh": "SM_Small_Rock_2",
+      "local_xyz_m": [
+        -118.83,
+        -134.06,
+        31.876
+      ],
+      "span_m": 3.6,
+      "yaw_deg": 271,
+      "burial_fraction": 0.275
+    },
+    {
+      "mesh": "SM_Small_Rock_B1",
+      "local_xyz_m": [
+        -112.95,
+        -89.75,
+        53.693
+      ],
+      "span_m": 3,
+      "yaw_deg": 244,
+      "burial_fraction": 0.328
+    },
+    {
+      "mesh": "SM_Small_Rock_3",
+      "local_xyz_m": [
+        -79.47,
+        -107.39,
+        49.297
+      ],
+      "span_m": 2.5,
+      "yaw_deg": 37,
+      "burial_fraction": 0.292
+    },
+    {
+      "mesh": "SM_Small_Rock_B3",
+      "local_xyz_m": [
+        -140.67,
+        -132.89,
+        10.274
+      ],
+      "span_m": 2.1,
+      "yaw_deg": 292,
+      "burial_fraction": 0.309
+    },
+    {
+      "mesh": "SM_Small_Rock_1",
+      "local_xyz_m": [
+        -130.26,
+        -107.72,
+        25.593
+      ],
+      "span_m": 1.9,
+      "yaw_deg": 2,
+      "burial_fraction": 0.26
+    },
+    {
+      "mesh": "SM_Small_Rock_4",
+      "local_xyz_m": [
+        -101.52,
+        -116.09,
+        42.942
+      ],
+      "span_m": 1.5,
+      "yaw_deg": 161,
+      "burial_fraction": 0.192
+    },
+    {
+      "mesh": "SM_Small_Rock_B2",
+      "local_xyz_m": [
+        -144.39,
+        -141.98,
+        12.267
+      ],
+      "span_m": 1.3,
+      "yaw_deg": 34,
+      "burial_fraction": 0.273
+    }
+  ],
+  "seed": 87001,
+  "normal_repeat_cm": 90,
+  "travel_m": [
+    587.8925,
+    587.31625
+  ],
+  "frame_p95_ms": [
+    17.522796988487244,
+    17.523400485515594
+  ]
+}
