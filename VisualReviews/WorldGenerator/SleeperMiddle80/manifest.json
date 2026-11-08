@@ -1,0 +1,22 @@
+[
+  {
+    "path": "VisualReviews/WorldGenerator/SleeperMiddle80/moving.jpg",
+    "sha256": "aeeff376f4cbd958f8728f3414ea769e9186fbcd7de87cf7da1331381b650c9d"
+  },
+  {
+    "path": "VisualReviews/WorldGenerator/SleeperMiddle80/close.jpg",
+    "sha256": "9e512b81051e47753688adb4c75ac8804fd19620bc9ff0e2dfe88ee2b82ca8bc"
+  },
+  {
+    "path": "VisualReviews/WorldGenerator/SleeperMiddle80/drive.mp4",
+    "sha256": "9ea4db1998d41693c3fb8765b4a613974d259b1655d0e4fe3626a93babf29263"
+  },
+  {
+    "path": "VisualReviews/WorldGenerator/SleeperMiddle80/measurements.json",
+    "sha256": "39d12a800559896c708caa26f97fc14114e5b0473c42ff400a8896cbc99d976c"
+  },
+  {
+    "path": "VisualReviews/WorldGenerator/SleeperMiddle80/README.md",
+    "sha256": "d0d00813e3aa5685590f9c288b9c7fe48474471da2bbc45cb317ad835d3e7bf8"
+  }
+]
