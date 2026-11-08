@@ -1,0 +1,81 @@
+{
+  "preset": {
+    "schema": 1,
+    "version": "rocky-sandstone-groups-1.3",
+    "source_hash": "4858e5b0a684acd113cd7abe8518a9fe067ef84ad5a5e67da1dbdd235c89da30",
+    "seed": 4103,
+    "main_shapes": [
+      "SM_RockSide_A1",
+      "SM_Rock_Side-A2",
+      "SM_Small_Rock_4"
+    ],
+    "small_shapes": [
+      "SM_Small_Rock_3",
+      "SM_Small_Rock_B1",
+      "SM_Rock_Side-A2",
+      "SM_Small_Rock_1"
+    ],
+    "main_vertical_scale": [
+      0.76,
+      1.05
+    ],
+    "small_vertical_scale": [
+      0.68,
+      1.02
+    ]
+  },
+  "counts": {
+    "main": 13,
+    "satellite": 39,
+    "plant": 5
+  },
+  "recipe_hash": "b5c0e5e9ca33fea226c9f019a3e107425fe84cf038a93aa698235c44238a6935",
+  "hero": {
+    "id": "12019/18/-87/0/0",
+    "group": "12019/18/-87/0",
+    "role": "main",
+    "mesh": "SM_RockSide_A1",
+    "x": -7497.076982641125,
+    "y": 1625.7561017645342,
+    "z": 2.1389391498889245,
+    "diameter_m": 6.1148,
+    "yaw": -129.68794271149096,
+    "burial": 0.3162069017160931,
+    "wind_deg": -7.365816670148973,
+    "rise_m": 1.0264369964194304,
+    "reach_m": 6.221227619717865,
+    "height_scale": 0.97
+  },
+  "runtime": {
+    "dune_anchored": 246,
+    "dune_rejected": 0,
+    "dune_max_ground_correction_m": 2.7606468495484116,
+    "new_count": 57,
+    "sand_deposits": 52,
+    "sand_triangles": 16224,
+    "hero_width_m": 6.1148,
+    "exact_same_sand_geometry": true,
+    "before_hero_width_m": 6.432145868889879,
+    "after_hero_width_m": 6.1148,
+    "old-rail": "2026-11-08T19:28:45.869Z",
+    "old-contact": "2026-11-08T19:28:48.001Z",
+    "old-moving": "2026-11-08T19:28:51.535Z",
+    "old_frame_p95": 17.875999212265015,
+    "old_gpu_p95": 22.098800659179688,
+    "old_m": 130.0303192138672,
+    "old-native": "2026-11-08T19:29:04.546Z",
+    "old-plant": "2026-11-08T19:29:15.349Z",
+    "groups-rail": "2026-11-08T19:29:18.331Z",
+    "groups-contact": "2026-11-08T19:29:20.238Z",
+    "groups-bare": "2026-11-08T19:29:22.069Z",
+    "groups-moving": "2026-11-08T19:29:25.497Z",
+    "groups_frame_p95": 18.107198178768158,
+    "groups_gpu_p95": 22.51580047607422,
+    "groups_m": 130.06593322753906,
+    "groups-native": "2026-11-08T19:29:38.497Z",
+    "groups-plant": "2026-11-08T19:29:49.324Z",
+    "pass": true,
+    "result": "same group and drifts, sandstone selection"
+  },
+  "clip_s": 7
+}
