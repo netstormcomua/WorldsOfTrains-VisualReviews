@@ -1,0 +1,18 @@
+[
+  {
+    "path": "VisualReviews/WorldGenerator/ColumnsSunShadowP06/edges.jpg",
+    "sha256": "fc304491264f08e622dea6b16483d90b6309667660886f7ab022ae303cf3e2ec"
+  },
+  {
+    "path": "VisualReviews/WorldGenerator/ColumnsSunShadowP06/witness.jpg",
+    "sha256": "ad64987916e2fc06fda7edd200c85ffe575f385211b368b40b376e68bcf4ce07"
+  },
+  {
+    "path": "VisualReviews/WorldGenerator/ColumnsSunShadowP06/measured.json",
+    "sha256": "36c21ac8354e2f6d5c07ed498c310e9bd512d29db777e7051d240d130aacf4dd"
+  },
+  {
+    "path": "VisualReviews/WorldGenerator/ColumnsSunShadowP06/README.md",
+    "sha256": "06d4b7f68946ab3f22109a676d7127e6f2f1e801ee6e0270e3400ba53772358e"
+  }
+]
