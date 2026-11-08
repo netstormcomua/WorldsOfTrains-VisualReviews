@@ -1,0 +1,28 @@
+{
+  "files": [
+    {
+      "path": "images/moving.jpg",
+      "sha256": "3ed28ce1cf0e6e57ec77fbae7fbb07721398c41bba84756cd5aad78328e0ce36"
+    },
+    {
+      "path": "images/sample.jpg",
+      "sha256": "e9f410cd2a8ab95a25d93051973b17ae9719d1a9ecb807932e83b70996ffed47"
+    },
+    {
+      "path": "images/game.jpg",
+      "sha256": "525f6ac90f56aade79035c81af26771fabf0d20eb1bfcf2194b0f0614b4347e0"
+    },
+    {
+      "path": "drive.mp4",
+      "sha256": "c2e7f01b197b1f3e0b60eadb95f77cf17c908db13e3ba4e0381ace787eca891d"
+    },
+    {
+      "path": "parameters.json",
+      "sha256": "3973b367680dbb738804a0404a4ee08e457927374315337ee5854b71fafed377"
+    },
+    {
+      "path": "README.md",
+      "sha256": "4d1fa1f099d22f13bb58bdbb22d53b31aad8136b859bb34e385a61e4018d7ab4"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "selection": {
+    "schema": 1,
+    "version": "rockyb-game-1.0",
+    "source_version": "sand-study-1.0",
+    "source_variant": 2,
+    "tile_m": 5.35,
+    "contrast": 1.65,
+    "anti": 1,
+    "weather": [
+      "dune-storm-1.0",
+      4
+    ],
+    "target": "L_LayoutA_v2_3",
+    "source_map": "L_LayoutA_v2_2",
+    "selection": "Anton Telegram 27"
+  },
+  "run": {
+    "live_landscape_components": 1152,
+    "tracks": 21,
+    "trains": 5,
+    "banks": 12,
+    "sun": "P=-49.000000 Y=128.000000 R=0.000000",
+    "sample_cm": "X=-742057.202 Y=163527.833 Z=221.141",
+    "sample_travel_m": 65.0903091430664,
+    "travel_m": 187.21343994140625,
+    "frame_p95": 17.810899764299393,
+    "gpu_p95": 21.84819984436035,
+    "pass": true,
+    "result": "saved combination on Small"
+  }
+}
