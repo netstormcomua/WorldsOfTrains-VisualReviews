@@ -1,0 +1,32 @@
+{
+  "single": {
+    "seed": 84152,
+    "triangles": 57280,
+    "rocks": 2450,
+    "sha256": "e820ba42aeff59cf78b0bd4726a2380223a5399fdea82951e893a0c4a373a91b",
+    "surface": "weathered-sandstone-1.1",
+    "material_groups": 6
+  },
+  "old_seed": 84152,
+  "source_scan": "cliff_side",
+  "scan_width_m": 1.8,
+  "runtime": {
+    "sun": "P=-28.000000 Y=-16.000000 R=-0.000000",
+    "old-near": "2026-11-08T15:58:00.535Z",
+    "old-foot": "2026-11-08T15:58:03.034Z",
+    "old-drive": "2026-11-08T15:58:12.364Z",
+    "old_m": 686.900634765625,
+    "old_frame_p95": 18.117301166057587,
+    "old_gpu_p95": 18.366600036621094,
+    "new-near": "2026-11-08T15:58:25.135Z",
+    "new-foot": "2026-11-08T15:58:27.437Z",
+    "new-drive": "2026-11-08T15:58:36.760Z",
+    "new_m": 686.954345703125,
+    "new_frame_p95": 17.94309914112091,
+    "new_gpu_p95": 17.66390037536621,
+    "new-specimen": "2026-11-08T15:58:49.032Z",
+    "pass": true,
+    "result": "isolated single before and after; matched native side drive"
+  },
+  "video_seconds": 8.0
+}
