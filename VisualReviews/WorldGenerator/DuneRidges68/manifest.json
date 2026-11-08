@@ -17,6 +17,10 @@
       "sha256": "afbfb7fec8cfad035967d676a473dd65d09d9da6507c0789213568bbc4318b9d"
     },
     {
+      "path": "images/sequence.jpg",
+      "sha256": "3ced8569b2308ff6c36a33223c85ab4aef65677086774f476cc270d83ca756ab"
+    },
+    {
       "path": "drive.mp4",
       "sha256": "25c14bb0fc293a541e75a0f6d333e73e4e07f44a02ae259eba803fefed9079ce"
     },
@@ -26,7 +30,7 @@
     },
     {
       "path": "README.md",
-      "sha256": "e254f8756dedcc2f11f4cd4938472d78d39d9ae8284d44dab0d7735e1a07a4d8"
+      "sha256": "4e344230e96fc1f9164c403436ebb83da90881f145e9ad04ff6de289f231b5b4"
     }
   ]
 }
