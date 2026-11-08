@@ -1,0 +1,36 @@
+{
+  "files": [
+    {
+      "path": "images/overview.jpg",
+      "sha256": "a32a382ba180294137e9aef6997c73fc335e3faa64cc662cb671d7f1734a1ecb"
+    },
+    {
+      "path": "images/rail.jpg",
+      "sha256": "14d6a049a855122f91cc0cfb80b7d4773a5f2bc828cd0c1fee5f71c63e5a8945"
+    },
+    {
+      "path": "images/moving.jpg",
+      "sha256": "7e4b7633c22a19ac4e9ea906e5e1fa06033367c2313481f46b6822d0782f1c9d"
+    },
+    {
+      "path": "images/deck-reference.jpg",
+      "sha256": "257f74e1ebcaca1384d54c2a429a2c84404acc84fc11fa47e2157cd20d4321f8"
+    },
+    {
+      "path": "images/sequence.jpg",
+      "sha256": "dfdfa6f4c5aa9ca6a9f90828081c7ad461bb6e1f69250a54011bde94e38fc319"
+    },
+    {
+      "path": "drive.mp4",
+      "sha256": "b7b3af2d3e1861d203c90acf96726c7867799d58c6fb0599d7037432e888c5fa"
+    },
+    {
+      "path": "parameters.json",
+      "sha256": "d7ffc6396b24466416129fe9ebb53c3d07e75e7faac8545cf567b555ee318dea"
+    },
+    {
+      "path": "README.md",
+      "sha256": "440544d4bc34457cb7742c0c86a44727783a5dbc9c38b21f397ba60f1afc60b3"
+    }
+  ]
+}
