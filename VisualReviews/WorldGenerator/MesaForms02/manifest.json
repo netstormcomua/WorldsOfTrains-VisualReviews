@@ -1,0 +1,61 @@
+{
+  "milestone": "MesaForms02",
+  "media_type": "AI-generated concept art",
+  "files": [
+    {
+      "path": "01-stump.jpg",
+      "sha256": "1d3f2da6521f2cc530159421b4c6051861a01fa1707e3d4c30adc69daefde0e3",
+      "bytes": 382828
+    },
+    {
+      "path": "02-split.jpg",
+      "sha256": "9d04d404027b63e00566a1306109d696967017a43cb0325b628db4110d6fa8ac",
+      "bytes": 428117
+    },
+    {
+      "path": "03-prow.jpg",
+      "sha256": "a28d3555a88be8c62064a2ce91375d4075888fe495261ac643dc172c9b19fe72",
+      "bytes": 365960
+    },
+    {
+      "path": "04-terraces.jpg",
+      "sha256": "ae9a2d69bcacc4e7d4a342fedf196ab62763e4fc5c7981a6271d5c9ed5933efe",
+      "bytes": 400874
+    },
+    {
+      "path": "05-satellite.jpg",
+      "sha256": "69791286e0ff1032e4c5cef71251621c0bb02c0b226756442f22cab5531b4dbe",
+      "bytes": 409638
+    },
+    {
+      "path": "06-amphitheatre.jpg",
+      "sha256": "72c308a6e86bb0e3b13764c8cba7dd0a9abad599bb80c46c68f5e0d4188bf0ba",
+      "bytes": 392533
+    },
+    {
+      "path": "07-gates.jpg",
+      "sha256": "7904537e869d3837f9f8bcc153927b3df7d31488d770a47a281aac4ab24d9a26",
+      "bytes": 406951
+    },
+    {
+      "path": "08-island.jpg",
+      "sha256": "57ed4fe12c93ea4c47a43739d81e3bf67a66cb750e575875af58f005fe9a7093",
+      "bytes": 337721
+    },
+    {
+      "path": "09-cap.jpg",
+      "sha256": "5f744265da919bc568f87b04f650fdfeb06f1dce1faba44520cbd23a83b15720",
+      "bytes": 367569
+    },
+    {
+      "path": "10-archipelago.jpg",
+      "sha256": "949e207127b3392ac5691620c6aa471eca94558cb4a6550db61f9b4aad1107b6",
+      "bytes": 373714
+    },
+    {
+      "path": "README.md",
+      "sha256": "0e38c1fbd0bca218d065a2caed73c7fd2fcc37969c605319688e1af94e6fb998",
+      "bytes": 1447
+    }
+  ]
+}
