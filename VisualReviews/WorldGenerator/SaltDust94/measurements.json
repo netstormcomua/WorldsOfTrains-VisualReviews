@@ -1,0 +1,81 @@
+{
+  "areas": {
+    "wet": {
+      "pixels": 2646,
+      "no-banks": {
+        "rgb_mae_255": 0.0,
+        "luma_sd": 19.212
+      },
+      "no-height": {
+        "rgb_mae_255": 15.861,
+        "luma_sd": 27.02
+      },
+      "repeat": {
+        "rgb_mae_255": 0.075,
+        "luma_sd": 19.21
+      },
+      "quarter": {
+        "rgb_mae_255": 3.911,
+        "luma_sd": 21.14
+      },
+      "original_luma_sd": 19.212
+    },
+    "bank": {
+      "pixels": 0
+    },
+    "sand": {
+      "pixels": 222852,
+      "no-banks": {
+        "rgb_mae_255": 0.0,
+        "luma_sd": 11.988
+      },
+      "no-height": {
+        "rgb_mae_255": 3.941,
+        "luma_sd": 12.549
+      },
+      "repeat": {
+        "rgb_mae_255": 0.271,
+        "luma_sd": 11.988
+      },
+      "quarter": {
+        "rgb_mae_255": 0.278,
+        "luma_sd": 11.987
+      },
+      "original_luma_sd": 11.988
+    },
+    "sky_top": {
+      "pixels": 144000,
+      "no-banks": {
+        "rgb_mae_255": 0.0,
+        "luma_sd": 23.794
+      },
+      "no-height": {
+        "rgb_mae_255": 10.289,
+        "luma_sd": 33.962
+      },
+      "repeat": {
+        "rgb_mae_255": 0.098,
+        "luma_sd": 23.802
+      },
+      "quarter": {
+        "rgb_mae_255": 0.589,
+        "luma_sd": 24.264
+      },
+      "original_luma_sd": 23.794
+    }
+  },
+  "run": {
+    "eye_cm": "X=63373.307 Y=491714.208 Z=1525.154",
+    "density": 0.0325700007379055,
+    "salt-original": "2026-11-08T23:44:22.371Z",
+    "salt-no-banks": "2026-11-08T23:44:24.649Z",
+    "salt-no-height": "2026-11-08T23:44:26.764Z",
+    "salt-repeat": "2026-11-08T23:44:29.376Z",
+    "salt-quarter": "2026-11-08T23:45:23.941Z",
+    "travel_m": 140.2225,
+    "frame_p95_ms": 18.767502158880234,
+    "live_reflection": true,
+    "pass": true,
+    "result": "Outer salt and shore"
+  }
+}
