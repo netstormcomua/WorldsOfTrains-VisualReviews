@@ -1,0 +1,12 @@
+{
+  "files": [
+    {
+      "path": "images/reference.jpg",
+      "sha256": "87d2f86d94a3ff31f33b194db2e9367a30c5ef84176df7e6923f64724c5046e6"
+    },
+    {
+      "path": "README.md",
+      "sha256": "35292f442ccb7a062e0c1c8768a22bc3bd92457df05ab904317656b1ccb78f78"
+    }
+  ]
+}
