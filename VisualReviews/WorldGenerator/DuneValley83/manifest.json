@@ -1,0 +1,44 @@
+{
+  "files": [
+    {
+      "path": "images/overview.jpg",
+      "sha256": "7a4b2b9af4695243a9f3321376287caacc9266fb7d512f7882ae9b7f4974a0d2"
+    },
+    {
+      "path": "images/rail.jpg",
+      "sha256": "0b3469646fdec3689b454d68d3c0c508816ea6251d59d1a48535e2bf36e2b511"
+    },
+    {
+      "path": "images/moving.jpg",
+      "sha256": "33826571cd425a6f54ce598d173926f53f9ddddf730ee90e575f9944267f2049"
+    },
+    {
+      "path": "images/reveal.jpg",
+      "sha256": "d1091bb42522ca3c06238edbf06a0b83cf97534dc380440bbd220916ac27a532"
+    },
+    {
+      "path": "images/floor.jpg",
+      "sha256": "fa3755979cc817644c17606c8f2dce986809b0dc9b54acdc429d3f565e246f78"
+    },
+    {
+      "path": "images/shadow.jpg",
+      "sha256": "10db358a4b73e6ed85649e09ccbde89915b02a03b84762ae5e2252b5f250a8ef"
+    },
+    {
+      "path": "drive.mp4",
+      "sha256": "a126f653b1cefbf7d93a9d56b5b026ffc409e4767b6e919d41912941649dde4d"
+    },
+    {
+      "path": "valley-drive.mp4",
+      "sha256": "e8f8acd03b74b5202be4e4c29cd3da8ac2b305ebaf543555cfacb8241c250afd"
+    },
+    {
+      "path": "parameters.json",
+      "sha256": "e2a84e46242f2f282ec50ba52900f1e61fb64596981caadd6077f54fa3b2b462"
+    },
+    {
+      "path": "README.md",
+      "sha256": "8d2886fa2ac8399fb16fc50563ebd2d500e0d046e7658383234907ec5a472dff"
+    }
+  ]
+}
