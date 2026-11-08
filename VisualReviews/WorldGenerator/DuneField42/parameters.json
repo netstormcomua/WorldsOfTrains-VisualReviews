@@ -1,0 +1,462 @@
+{
+  "preset": {
+    "schema": 1,
+    "version": "field-small-groups-1.0",
+    "base_version": "field-m27.3.2",
+    "source_hashes": {
+      "SW": "12c251b12537d5f3ce69463a8bf0e64369ddce3a9b00a774cb31ca2090765337",
+      "SE": "efe1bd1ee8103f02ee615394dc782cf1454206fc1d94795846fae210d968af3c",
+      "NW": "1dc761dcd6d44030b82527184cb7c09a64621f0718afac748d16b72ccd0c37aa",
+      "NE": "dadc077da91f7a4416cab659796410e6d680bcbc339c1e0b736801d28f1afd58"
+    },
+    "source_tile_sha256": "28890de3289e7abd29b3bbeaa4abaf292167d80d6f7fbae05253ef774e4bea2e",
+    "seed": 42044,
+    "rail_clear_m": 50,
+    "rail_blend_m": 94,
+    "wet_clear_m": 105,
+    "groups": [
+      [
+        -7680,
+        1290,
+        5
+      ],
+      [
+        -8020,
+        1470,
+        4
+      ],
+      [
+        -7770,
+        1830,
+        3
+      ],
+      [
+        -7180,
+        2005,
+        4
+      ],
+      [
+        -7040,
+        1130,
+        3
+      ],
+      [
+        -8460,
+        1860,
+        5
+      ],
+      [
+        -8170,
+        720,
+        4
+      ]
+    ],
+    "source_peaks": [
+      [
+        301,
+        591
+      ],
+      [
+        712,
+        685
+      ],
+      [
+        628,
+        393
+      ],
+      [
+        696,
+        292
+      ],
+      [
+        796,
+        474
+      ],
+      [
+        368,
+        765
+      ]
+    ]
+  },
+  "checks": {
+    "hash": "4e0717ffc77497f5a89cf7b68a02fdee803ae519f73a4caacc0d289d33b34353",
+    "source_hash": "28890de3289e7abd29b3bbeaa4abaf292167d80d6f7fbae05253ef774e4bea2e",
+    "groups": 7,
+    "stamps": [
+      {
+        "group": 0,
+        "x": -7911.21,
+        "y": 1226.37,
+        "crop": [
+          696,
+          292
+        ],
+        "peak_m": 29.92
+      },
+      {
+        "group": 0,
+        "x": -7792.26,
+        "y": 1253.63,
+        "crop": [
+          696,
+          292
+        ],
+        "peak_m": 38.29
+      },
+      {
+        "group": 0,
+        "x": -7632.74,
+        "y": 1225.59,
+        "crop": [
+          712,
+          685
+        ],
+        "peak_m": 46.27
+      },
+      {
+        "group": 0,
+        "x": -7540.71,
+        "y": 1289.53,
+        "crop": [
+          628,
+          393
+        ],
+        "peak_m": 25.0
+      },
+      {
+        "group": 0,
+        "x": -7516.68,
+        "y": 1446.15,
+        "crop": [
+          796,
+          474
+        ],
+        "peak_m": 18.01
+      },
+      {
+        "group": 1,
+        "x": -8182.33,
+        "y": 1529.01,
+        "crop": [
+          301,
+          591
+        ],
+        "peak_m": 43.08
+      },
+      {
+        "group": 1,
+        "x": -8098.49,
+        "y": 1441.2,
+        "crop": [
+          368,
+          765
+        ],
+        "peak_m": 16.84
+      },
+      {
+        "group": 1,
+        "x": -7974.71,
+        "y": 1432.8,
+        "crop": [
+          628,
+          393
+        ],
+        "peak_m": 26.06
+      },
+      {
+        "group": 1,
+        "x": -7836.11,
+        "y": 1453.84,
+        "crop": [
+          368,
+          765
+        ],
+        "peak_m": 21.34
+      },
+      {
+        "group": 2,
+        "x": -7923.03,
+        "y": 1780.4,
+        "crop": [
+          796,
+          474
+        ],
+        "peak_m": 14.33
+      },
+      {
+        "group": 2,
+        "x": -7754.66,
+        "y": 1909.91,
+        "crop": [
+          628,
+          393
+        ],
+        "peak_m": 41.86
+      },
+      {
+        "group": 2,
+        "x": -7633.33,
+        "y": 1794.33,
+        "crop": [
+          628,
+          393
+        ],
+        "peak_m": 42.51
+      },
+      {
+        "group": 3,
+        "x": -7294.1,
+        "y": 1951.26,
+        "crop": [
+          368,
+          765
+        ],
+        "peak_m": 12.62
+      },
+      {
+        "group": 3,
+        "x": -7233.38,
+        "y": 2020.84,
+        "crop": [
+          368,
+          765
+        ],
+        "peak_m": 19.76
+      },
+      {
+        "group": 3,
+        "x": -7175.89,
+        "y": 2097.53,
+        "crop": [
+          796,
+          474
+        ],
+        "peak_m": 23.51
+      },
+      {
+        "group": 3,
+        "x": -7087.03,
+        "y": 2105.21,
+        "crop": [
+          368,
+          765
+        ],
+        "peak_m": 10.11
+      },
+      {
+        "group": 4,
+        "x": -7171.85,
+        "y": 1114.6,
+        "crop": [
+          368,
+          765
+        ],
+        "peak_m": 12.18
+      },
+      {
+        "group": 4,
+        "x": -7038.19,
+        "y": 1126.26,
+        "crop": [
+          796,
+          474
+        ],
+        "peak_m": 15.31
+      },
+      {
+        "group": 4,
+        "x": -6914.18,
+        "y": 1157.82,
+        "crop": [
+          301,
+          591
+        ],
+        "peak_m": 50.1
+      },
+      {
+        "group": 5,
+        "x": -8624.42,
+        "y": 1941.56,
+        "crop": [
+          368,
+          765
+        ],
+        "peak_m": 12.02
+      },
+      {
+        "group": 5,
+        "x": -8540.87,
+        "y": 1924.29,
+        "crop": [
+          796,
+          474
+        ],
+        "peak_m": 16.2
+      },
+      {
+        "group": 5,
+        "x": -8460.6,
+        "y": 1849.5,
+        "crop": [
+          301,
+          591
+        ],
+        "peak_m": 49.06
+      },
+      {
+        "group": 5,
+        "x": -8380.5,
+        "y": 1771.55,
+        "crop": [
+          712,
+          685
+        ],
+        "peak_m": 58.9
+      },
+      {
+        "group": 5,
+        "x": -8287.36,
+        "y": 1922.94,
+        "crop": [
+          301,
+          591
+        ],
+        "peak_m": 22.76
+      },
+      {
+        "group": 6,
+        "x": -8267.07,
+        "y": 806.21,
+        "crop": [
+          628,
+          393
+        ],
+        "peak_m": 22.07
+      },
+      {
+        "group": 6,
+        "x": -8206.36,
+        "y": 743.37,
+        "crop": [
+          796,
+          474
+        ],
+        "peak_m": 16.94
+      },
+      {
+        "group": 6,
+        "x": -8149.32,
+        "y": 675.61,
+        "crop": [
+          301,
+          591
+        ],
+        "peak_m": 37.95
+      },
+      {
+        "group": 6,
+        "x": -8063.55,
+        "y": 646.36,
+        "crop": [
+          368,
+          765
+        ],
+        "peak_m": 18.81
+      }
+    ],
+    "changed_points": 8420,
+    "changed_area_km2": 1.019,
+    "max_add_m": 58.9,
+    "wet_and_rail_unchanged": true
+  },
+  "runtime": {
+    "old": {
+      "active_cloud_components": 1,
+      "loaded_cloud_material": "MI_CloudTypeControl",
+      "loaded_cloud_visible": true,
+      "loaded_casts_cloud_shadow": false,
+      "loaded_surface_strength": 1,
+      "loaded_shadow_strength": 1,
+      "loaded_shadow_extent_km": 150,
+      "loaded_shadow_resolution_scale": 1,
+      "loaded_sun_lux": 50500,
+      "loaded_sun_rotation": "P=-28.000000 Y=-16.000000 R=-0.000000",
+      "loaded_layer_bottom_km": 1.2000000476837158,
+      "loaded_r.VolumetricCloud": 1,
+      "loaded_r.VolumetricCloud.ShadowMap": 1,
+      "loaded_r.Test.OverrideTimeMaterialExpressions": -1,
+      "loaded_skylight": 1.0800000429153442,
+      "tested_cloud_material": "MI_CloudTypeControl",
+      "tested_cloud_visible": true,
+      "tested_casts_cloud_shadow": false,
+      "tested_surface_strength": 1,
+      "tested_shadow_strength": 1,
+      "tested_shadow_extent_km": 150,
+      "tested_shadow_resolution_scale": 1,
+      "tested_sun_lux": 50500,
+      "tested_sun_rotation": "P=-28.000000 Y=-16.000000 R=-0.000000",
+      "tested_layer_bottom_km": 1.2000000476837158,
+      "tested_r.VolumetricCloud": 1,
+      "tested_r.VolumetricCloud.ShadowMap": 1,
+      "tested_r.Test.OverrideTimeMaterialExpressions": -1,
+      "tested_skylight": 1.0800000429153442,
+      "probe_height_m": 15.387933305286278,
+      "overview": "2026-11-08T18:22:11.641Z",
+      "rail": "2026-11-08T18:22:14.015Z",
+      "fixed0": "2026-11-08T18:22:16.069Z",
+      "fixed1": "2026-11-08T18:22:18.133Z",
+      "fixed2": "2026-11-08T18:22:20.194Z",
+      "fixed3": "2026-11-08T18:22:22.247Z",
+      "moving": "2026-11-08T18:22:28.629Z",
+      "travel_m": 165.144375,
+      "frame_p95": 17.919201403856277,
+      "gpu_p95": 22.148799896240234,
+      "pass": true,
+      "result": "field/lighting comparison on Small"
+    },
+    "field": {
+      "active_cloud_components": 1,
+      "loaded_cloud_material": "MI_CloudTypeControl",
+      "loaded_cloud_visible": true,
+      "loaded_casts_cloud_shadow": false,
+      "loaded_surface_strength": 1,
+      "loaded_shadow_strength": 1,
+      "loaded_shadow_extent_km": 150,
+      "loaded_shadow_resolution_scale": 1,
+      "loaded_sun_lux": 50500,
+      "loaded_sun_rotation": "P=-28.000000 Y=-16.000000 R=-0.000000",
+      "loaded_layer_bottom_km": 1.2000000476837158,
+      "loaded_r.VolumetricCloud": 1,
+      "loaded_r.VolumetricCloud.ShadowMap": 1,
+      "loaded_r.Test.OverrideTimeMaterialExpressions": -1,
+      "loaded_skylight": 1.0800000429153442,
+      "tested_cloud_material": "MI_CloudTypeControl",
+      "tested_cloud_visible": true,
+      "tested_casts_cloud_shadow": false,
+      "tested_surface_strength": 1,
+      "tested_shadow_strength": 1,
+      "tested_shadow_extent_km": 150,
+      "tested_shadow_resolution_scale": 1,
+      "tested_sun_lux": 50500,
+      "tested_sun_rotation": "P=-28.000000 Y=-16.000000 R=-0.000000",
+      "tested_layer_bottom_km": 1.2000000476837158,
+      "tested_r.VolumetricCloud": 1,
+      "tested_r.VolumetricCloud.ShadowMap": 1,
+      "tested_r.Test.OverrideTimeMaterialExpressions": -1,
+      "tested_skylight": 1.0800000429153442,
+      "probe_height_m": 50.74865463219685,
+      "overview": "2026-11-08T18:23:32.813Z",
+      "rail": "2026-11-08T18:23:35.201Z",
+      "fixed0": "2026-11-08T18:23:37.268Z",
+      "fixed1": "2026-11-08T18:23:39.326Z",
+      "fixed2": "2026-11-08T18:23:41.380Z",
+      "fixed3": "2026-11-08T18:23:43.444Z",
+      "moving": "2026-11-08T18:23:49.830Z",
+      "travel_m": 165.195,
+      "frame_p95": 17.942801117897034,
+      "gpu_p95": 22.730499267578125,
+      "pass": true,
+      "result": "field/lighting comparison on Small"
+    }
+  }
+}
