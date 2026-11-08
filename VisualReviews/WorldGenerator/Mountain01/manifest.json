@@ -1,0 +1,48 @@
+{
+  "files": [
+    {
+      "path": "clay.jpg",
+      "sha256": "d057dc407601a7f3e4ccc5eabf7561c9b6f342d4caf14a5e615066d35dca6116"
+    },
+    {
+      "path": "native.jpg",
+      "sha256": "e305a2c38a19fdf473d4c562989b96649583d23416ccf204561556e973d8cbd7"
+    },
+    {
+      "path": "foot.jpg",
+      "sha256": "003a3c609f8add1c51941702725b581b1522aae9a61285f17802cc8cc1c46fb4"
+    },
+    {
+      "path": "reverse.jpg",
+      "sha256": "2b1ab7f3fe660cc77c7908c4f82775be635f8de1213c9933e0700766c1ff2638"
+    },
+    {
+      "path": "blocks-off-on.jpg",
+      "sha256": "71ed5acb9c7f2b5156edd22e0954c5ec927f5c02a55ae2803160df892f31ade7"
+    },
+    {
+      "path": "mesa.mp4",
+      "sha256": "425113010678f4fe4396de12f596f39305bdc91ff0318a62d93ba31e58eb2e15"
+    },
+    {
+      "path": "needles.mp4",
+      "sha256": "63c6f16e0f8cc1fc3ca8d41f484afb092ae5bb996bec97ea9eacd5c60413bb38"
+    },
+    {
+      "path": "reverse-motion.mp4",
+      "sha256": "af218e963e86dbcb7e844bfe0031e273fc901c04f2ab5eacc79188a9c3fedca5"
+    },
+    {
+      "path": "checks.json",
+      "sha256": "8356552edec1799e7c927e5dc678820328eeff7b9f5ae5abed25d5bdeee26f2f"
+    },
+    {
+      "path": "presets.json",
+      "sha256": "8e044b7fd4346b4f695e3b7379bd747f8544d4890e9f61d2e8a0542335a4bb34"
+    },
+    {
+      "path": "README.md",
+      "sha256": "faa09ed1ece428966452d7535702a8431476a62a432bfdd9e53d1afad9f5e10a"
+    }
+  ]
+}

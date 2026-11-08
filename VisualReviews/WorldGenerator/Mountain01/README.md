@@ -1,0 +1,4 @@
+# Mountain 1.0 — mesa and split towers
+Both mountains use native rock blocks under the same Unreal lighting. Compare the exposed faces in native.jpg, their silhouette in clay.jpg, and the ground with and without the blocks in blocks-off-on.jpg. The reverse view and moving clips show the far side. The rocks repeat visibly in horizontal courses, particularly on the mesa. This version remains the reference for subsequent experiments.
+
+The two real train runs each cover about 687 m and include 84 clearance probes. The 95th-percentile frame interval was about 18 ms in both runs, with individual intervals up to 190 ms. This is the isolated scene and capture machine. The ground contacts at the foot were checked using mesh vertices. Higher courses have intersecting bounds; this does not measure exact surface contact for every pair. Artistic acceptance remains open.

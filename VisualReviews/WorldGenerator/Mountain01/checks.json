@@ -1,0 +1,70 @@
+{
+  "game": {
+    "mesa-base": "2026-11-08T12:45:45.881Z",
+    "mesa-clay": "2026-11-08T12:45:47.872Z",
+    "mesa-native": "2026-11-08T12:45:49.540Z",
+    "mesa-foot": "2026-11-08T12:45:51.012Z",
+    "mesa-reverse": "2026-11-08T12:45:52.415Z",
+    "mesa-drive": "2026-11-08T12:45:58.932Z",
+    "mesa_drive_p95_ms": 17.97499880194664,
+    "mesa_drive_max_ms": 190.25329872965813,
+    "mesa_drive_m": 686.9525146484375,
+    "mesa_rail_probes": 84,
+    "needles-base": "2026-11-08T12:46:11.852Z",
+    "needles-clay": "2026-11-08T12:46:13.569Z",
+    "needles-native": "2026-11-08T12:46:15.225Z",
+    "needles-foot": "2026-11-08T12:46:16.679Z",
+    "needles-reverse": "2026-11-08T12:46:18.079Z",
+    "needles-drive": "2026-11-08T12:46:24.596Z",
+    "needles_drive_p95_ms": 17.862197011709213,
+    "needles_drive_max_ms": 185.98850071430206,
+    "needles_drive_m": 687.0237426757812,
+    "needles_rail_probes": 84,
+    "pass": true,
+    "result": "both mountains reviewed in one game session"
+  },
+  "reverse_motion": {
+    "mesa-reverse-motion": "2026-11-08T12:50:27.115Z",
+    "mesa_p95_ms": 17.948199063539505,
+    "needles-reverse-motion": "2026-11-08T12:50:45.656Z",
+    "needles_p95_ms": 17.448697239160538,
+    "pass": true,
+    "result": "two reverse moving viewpoints"
+  },
+  "geometry": {
+    "mesa": {
+      "preset_hash": "8470351742e51c364d52e5fe01f163f7431c3d00b6f839764f0aa8b8595a3911",
+      "actual_peak_m": 236.07,
+      "base_peak_m": 82.46,
+      "native_footings": {
+        "count": 559,
+        "straddling": 559,
+        "max_bottom_gap_m": 0
+      },
+      "talus": {
+        "count": 96,
+        "straddling": 96,
+        "max_bottom_gap_m": 0
+      },
+      "stack_vertical_bounds_overlaps": 3463,
+      "minimum_vertical_overlap_m": 3.52
+    },
+    "needles": {
+      "preset_hash": "61a4a89208bdf30d064c7598f45021c90eef60cd1361de2653d12b1f32fbf1e1",
+      "actual_peak_m": 286.47,
+      "base_peak_m": 92.57,
+      "native_footings": {
+        "count": 382,
+        "straddling": 382,
+        "max_bottom_gap_m": 0
+      },
+      "talus": {
+        "count": 64,
+        "straddling": 64,
+        "max_bottom_gap_m": 0
+      },
+      "stack_vertical_bounds_overlaps": 2000,
+      "minimum_vertical_overlap_m": 3.02
+    }
+  }
+}
