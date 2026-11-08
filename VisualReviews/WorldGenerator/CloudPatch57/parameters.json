@@ -1,0 +1,325 @@
+{
+  "measures": {
+    "diagnostic": {
+      "metres_per_pixel_at_track": 0.32290779022460475,
+      "phases": [
+        {
+          "phase_s": 0,
+          "linear_darkening_p10": 0.005,
+          "p90": 0.011,
+          "p99_change_per_20m": 0.03
+        },
+        {
+          "phase_s": 7,
+          "linear_darkening_p10": 0.005,
+          "p90": 0.011,
+          "p99_change_per_20m": 0.02
+        },
+        {
+          "phase_s": 14,
+          "linear_darkening_p10": 0.004,
+          "p90": 0.009,
+          "p99_change_per_20m": 0.011
+        },
+        {
+          "phase_s": 21,
+          "linear_darkening_p10": 0.004,
+          "p90": 0.009,
+          "p99_change_per_20m": 0.009
+        }
+      ]
+    },
+    "projection": {
+      "metres_per_pixel_at_track": 0.32290779022460475,
+      "phases": [
+        {
+          "phase_s": 0,
+          "linear_darkening_p10": -0.0,
+          "p90": 0.289,
+          "p99_change_per_20m": 0.53
+        },
+        {
+          "phase_s": 7,
+          "linear_darkening_p10": 0.0,
+          "p90": 0.521,
+          "p99_change_per_20m": 0.567
+        },
+        {
+          "phase_s": 14,
+          "linear_darkening_p10": 0.0,
+          "p90": 0.606,
+          "p99_change_per_20m": 0.582
+        },
+        {
+          "phase_s": 21,
+          "linear_darkening_p10": 0.0,
+          "p90": 0.615,
+          "p99_change_per_20m": 0.575
+        }
+      ]
+    },
+    "local-size": [
+      null,
+      {
+        "phase_s": 7,
+        "width_m": 100.4,
+        "height_m": 116.2,
+        "centroid_px": [
+          730.3,
+          394.9
+        ],
+        "threshold": 0.2
+      },
+      null,
+      null
+    ],
+    "shared": {
+      "sha256": "a22394fce8a0f3c9a89cbc3e53acf78c8ca2ded5374ba194398e16f4f71d80a2",
+      "period_m": 1250.0,
+      "layer_m": 330,
+      "wind_mps": [
+        11.4,
+        -3.8
+      ],
+      "sample_at_train_0_7_14": [
+        0,
+        199,
+        0
+      ],
+      "coverage": 0.2807396782769097
+    },
+    "phase-check": {
+      "scale": "Rec.709 luma on 8-bit display captures; fixed camera, 0, 7, 14, 0 s",
+      "roi_xyxy_normalized": {
+        "sand_near": [
+          0.055,
+          0.64,
+          0.25,
+          0.9
+        ],
+        "sand_right": [
+          0.83,
+          0.5,
+          0.99,
+          0.66
+        ],
+        "mammoth_lit_body": [
+          0.531,
+          0.435,
+          0.604,
+          0.597
+        ],
+        "sky": [
+          0.14,
+          0.035,
+          0.64,
+          0.16
+        ]
+      },
+      "modes": {
+        "planeoff57": {
+          "sand_near": {
+            "mean": [
+              161.1,
+              161.08,
+              161.08,
+              161.08
+            ],
+            "absolute_difference_from_0": [
+              0.51,
+              0.45,
+              0.02
+            ]
+          },
+          "sand_right": {
+            "mean": [
+              152.61,
+              152.59,
+              152.61,
+              152.6
+            ],
+            "absolute_difference_from_0": [
+              0.47,
+              0.42,
+              0.01
+            ]
+          },
+          "mammoth_lit_body": {
+            "mean": [
+              155.47,
+              155.56,
+              155.5,
+              155.45
+            ],
+            "absolute_difference_from_0": [
+              0.61,
+              0.56,
+              0.16
+            ]
+          },
+          "sky": {
+            "mean": [
+              154.7,
+              155.23,
+              156.01,
+              154.69
+            ],
+            "absolute_difference_from_0": [
+              6.87,
+              9.1,
+              0.01
+            ]
+          }
+        },
+        "planeon57": {
+          "sand_near": {
+            "mean": [
+              155.66,
+              93.16,
+              160.68,
+              155.32
+            ],
+            "absolute_difference_from_0": [
+              62.51,
+              5.6,
+              0.56
+            ]
+          },
+          "sand_right": {
+            "mean": [
+              152.61,
+              114.96,
+              148.91,
+              151.94
+            ],
+            "absolute_difference_from_0": [
+              37.65,
+              3.7,
+              0.72
+            ]
+          },
+          "mammoth_lit_body": {
+            "mean": [
+              155.5,
+              104.58,
+              134.14,
+              155.01
+            ],
+            "absolute_difference_from_0": [
+              50.92,
+              21.36,
+              0.79
+            ]
+          },
+          "sky": {
+            "mean": [
+              154.71,
+              151.04,
+              152.58,
+              154.21
+            ],
+            "absolute_difference_from_0": [
+              9.57,
+              10.91,
+              0.52
+            ]
+          }
+        }
+      }
+    }
+  },
+  "runtime": {
+    "planeoff57": {
+      "active_cloud_components": 1,
+      "loaded_cloud_material": "MI_CloudTypeControl",
+      "loaded_cloud_visible": true,
+      "loaded_casts_cloud_shadow": false,
+      "loaded_surface_strength": 1,
+      "loaded_shadow_strength": 1,
+      "loaded_shadow_extent_km": 150,
+      "loaded_shadow_resolution_scale": 1,
+      "loaded_sun_lux": 50500,
+      "loaded_sun_rotation": "P=-28.000000 Y=-16.000000 R=-0.000000",
+      "loaded_layer_bottom_km": 1.2000000476837158,
+      "loaded_r.VolumetricCloud": 1,
+      "loaded_r.VolumetricCloud.ShadowMap": 1,
+      "loaded_r.Test.OverrideTimeMaterialExpressions": -1,
+      "loaded_skylight": 1.0800000429153442,
+      "shared_xy_m": "X=-8033.640 Y=1857.990 Z=330.000",
+      "slope_to_sun": "X=-1.808 Y=0.518 Z=1.000",
+      "tested_cloud_material": "MI_CloudTypeControl",
+      "tested_cloud_visible": false,
+      "tested_casts_cloud_shadow": false,
+      "tested_surface_strength": 1,
+      "tested_shadow_strength": 1,
+      "tested_shadow_extent_km": 150,
+      "tested_shadow_resolution_scale": 1,
+      "tested_sun_lux": 50500,
+      "tested_sun_rotation": "P=-28.000000 Y=-16.000000 R=-0.000000",
+      "tested_layer_bottom_km": 1.2000000476837158,
+      "tested_r.VolumetricCloud": 1,
+      "tested_r.VolumetricCloud.ShadowMap": 1,
+      "tested_r.Test.OverrideTimeMaterialExpressions": -1,
+      "tested_skylight": 1.0800000429153442,
+      "probe_height_m": 50.74865463219685,
+      "overview": "2026-11-08T19:21:42.110Z",
+      "rail": "2026-11-08T19:21:44.464Z",
+      "fixed0": "2026-11-08T19:21:46.541Z",
+      "fixed1": "2026-11-08T19:21:48.616Z",
+      "fixed2": "2026-11-08T19:21:50.688Z",
+      "fixed3": "2026-11-08T19:21:52.743Z",
+      "moving": "2026-11-08T19:21:59.117Z",
+      "travel_m": 165.1834375,
+      "frame_p95": 17.832301557064056,
+      "gpu_p95": 18.013099670410156,
+      "pass": true,
+      "result": "field/lighting comparison on Small"
+    },
+    "planeon57": {
+      "active_cloud_components": 1,
+      "loaded_cloud_material": "MI_CloudTypeControl",
+      "loaded_cloud_visible": true,
+      "loaded_casts_cloud_shadow": false,
+      "loaded_surface_strength": 1,
+      "loaded_shadow_strength": 1,
+      "loaded_shadow_extent_km": 150,
+      "loaded_shadow_resolution_scale": 1,
+      "loaded_sun_lux": 50500,
+      "loaded_sun_rotation": "P=-28.000000 Y=-16.000000 R=-0.000000",
+      "loaded_layer_bottom_km": 1.2000000476837158,
+      "loaded_r.VolumetricCloud": 1,
+      "loaded_r.VolumetricCloud.ShadowMap": 1,
+      "loaded_r.Test.OverrideTimeMaterialExpressions": -1,
+      "loaded_skylight": 1.0800000429153442,
+      "shared_xy_m": "X=-8033.640 Y=1857.990 Z=330.000",
+      "slope_to_sun": "X=-1.808 Y=0.518 Z=1.000",
+      "tested_cloud_material": "MI_CloudTypeControl",
+      "tested_cloud_visible": false,
+      "tested_casts_cloud_shadow": false,
+      "tested_surface_strength": 1,
+      "tested_shadow_strength": 1,
+      "tested_shadow_extent_km": 150,
+      "tested_shadow_resolution_scale": 1,
+      "tested_sun_lux": 50500,
+      "tested_sun_rotation": "P=-28.000000 Y=-16.000000 R=-0.000000",
+      "tested_layer_bottom_km": 1.2000000476837158,
+      "tested_r.VolumetricCloud": 1,
+      "tested_r.VolumetricCloud.ShadowMap": 1,
+      "tested_r.Test.OverrideTimeMaterialExpressions": -1,
+      "tested_skylight": 1.0800000429153442,
+      "probe_height_m": 50.74865463219685,
+      "overview": "2026-11-08T19:22:59.255Z",
+      "rail": "2026-11-08T19:23:01.746Z",
+      "fixed0": "2026-11-08T19:23:03.817Z",
+      "fixed1": "2026-11-08T19:23:05.882Z",
+      "fixed2": "2026-11-08T19:23:07.953Z",
+      "fixed3": "2026-11-08T19:23:10.014Z",
+      "moving": "2026-11-08T19:23:16.386Z",
+      "travel_m": 165.1271875,
+      "frame_p95": 18.237300217151642,
+      "gpu_p95": 21.12929916381836,
+      "pass": true,
+      "result": "field/lighting comparison on Small"
+    }
+  }
+}

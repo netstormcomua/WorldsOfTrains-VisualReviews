@@ -1,0 +1,36 @@
+{
+  "files": [
+    {
+      "path": "images/switch.jpg",
+      "sha256": "e8a81d5f1f9fcfea5ddb9ff053b4c4a3b7778b2a880f9f8d79722572e85c860e"
+    },
+    {
+      "path": "images/phase.jpg",
+      "sha256": "0b592a2c3ee493c1128b10a38982f7f64723b9d62caf2bd8a6aa25a37b47fd74"
+    },
+    {
+      "path": "images/mask.jpg",
+      "sha256": "8eaec42db1e33c45a1df4ca3e62bc78d0b36e3043e7f68574f2033a6954c2aa2"
+    },
+    {
+      "path": "images/ride.jpg",
+      "sha256": "e2afc2b41373b31487ad8134359a410e7e3d83ef3bb689870239142c1a54bbc3"
+    },
+    {
+      "path": "images/native.jpg",
+      "sha256": "7aeb6f86a54771738faa31625ce1d3c6820c862e91c4629ed7c722e9b7a3b8d7"
+    },
+    {
+      "path": "drive.mp4",
+      "sha256": "a6404a78818d9c1f33ac67585745361729888cf2104c41539b6a5da6f5c14d34"
+    },
+    {
+      "path": "parameters.json",
+      "sha256": "5cdd4683171a8374a63b1c79a5edee0f6e059dda476db5c04fa9813d89d02a4d"
+    },
+    {
+      "path": "README.md",
+      "sha256": "69ca420185a5ce09f29bcf24ca3f109e1b043cb11daa2b859c33959cee169658"
+    }
+  ]
+}
