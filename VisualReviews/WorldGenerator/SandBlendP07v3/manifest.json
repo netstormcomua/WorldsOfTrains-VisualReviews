@@ -1,0 +1,38 @@
+[
+  {
+    "path": "VisualReviews/WorldGenerator/SandBlendP07v3/moving.jpg",
+    "sha256": "3e0d7d6bc6f01ce35591072688e95618c082a9595ba50d809a456fd1dd395e4f"
+  },
+  {
+    "path": "VisualReviews/WorldGenerator/SandBlendP07v3/sample.jpg",
+    "sha256": "c4154f61c4c241c3f503848975af0cd234fc22f6703fe629a9ded9977e4c1340"
+  },
+  {
+    "path": "VisualReviews/WorldGenerator/SandBlendP07v3/02-close.jpg",
+    "sha256": "9109d7e3cce8dc27066401b85bab942a06dfcdcbbd20b9da50fc76f5eea2fcba"
+  },
+  {
+    "path": "VisualReviews/WorldGenerator/SandBlendP07v3/02-ride.jpg",
+    "sha256": "9d514c1c3763649af0d7c8224fc4880a7fb5102b22c47f17c88bf25001a61f29"
+  },
+  {
+    "path": "VisualReviews/WorldGenerator/SandBlendP07v3/drive.mp4",
+    "sha256": "beb4a079aa747694d87171c8af1a21f95fc4b3278649e8cd0a82d5b2ac551537"
+  },
+  {
+    "path": "VisualReviews/WorldGenerator/SandBlendP07v3/measurements.json",
+    "sha256": "7ca0397f1d07b772ae4ba18448051c61f815e31731d9ab9b338021e0509bcd0c"
+  },
+  {
+    "path": "VisualReviews/WorldGenerator/SandBlendP07v3/mask.json",
+    "sha256": "3024e5fac3793d9de8d846a5ecd7a8ac82af160325da73fbef9826308bd61515"
+  },
+  {
+    "path": "VisualReviews/WorldGenerator/SandBlendP07v3/motif.json",
+    "sha256": "b06575eb0963c2a0a863c48ef9206a49d6eac8341ba6f7b2fd72c840c66a2c50"
+  },
+  {
+    "path": "VisualReviews/WorldGenerator/SandBlendP07v3/README.md",
+    "sha256": "489f8c789db645444e26782c05f892af6d466b0a79e7e9b9db365bdad64294d3"
+  }
+]

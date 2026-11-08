@@ -1,0 +1,34 @@
+{
+  "area_m": [
+    1200,
+    960
+  ],
+  "grid_step_m": 0.75,
+  "mask": {
+    "v1": {
+      "patches_in_400_cells": 215,
+      "covered_pct": 14.758935546875,
+      "mean_inside": 0.45233828786158714,
+      "mean_field": 0.06676031635932955,
+      "peak": 0.76,
+      "sample_center": 0.76
+    },
+    "v2": {
+      "patches_in_400_cells": 336,
+      "covered_pct": 23.08955078125,
+      "mean_inside": 0.25014437569339537,
+      "mean_field": 0.0577572126521673,
+      "peak": 0.42,
+      "sample_center": 0.42
+    },
+    "v3": {
+      "patches_in_400_cells": 380,
+      "covered_pct": 26.198583984375002,
+      "mean_inside": 0.10728359604537442,
+      "mean_field": 0.028106783011405036,
+      "peak": 0.18,
+      "sample_center": 0.18
+    }
+  },
+  "profile": "FXC ps_5_0"
+}
