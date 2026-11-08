@@ -1,0 +1,36 @@
+{
+  "files": [
+    {
+      "path": "dry-detail.jpg",
+      "sha256": "a2ed139ecee64c4bdede5d3b75915e99197d952a7fb436813a9ecff4470bdbca"
+    },
+    {
+      "path": "dry-mid.jpg",
+      "sha256": "c87b3b6d7fc236774f9edc4c56945c8495b04c8fb26a18ad919cd2c817bf20f7"
+    },
+    {
+      "path": "shore.jpg",
+      "sha256": "2b9644b4731440e0fe660b9305d645728be45525d29e7a80db26cfc98c9f6824"
+    },
+    {
+      "path": "biome.jpg",
+      "sha256": "4bc718920ad39e52208c792091a772fb0cb79acdf61bcc88bc36fd3fd01efcff"
+    },
+    {
+      "path": "wet.jpg",
+      "sha256": "50b5a100a9ae1fea3d3692dea1a0aa6ed0feaa69c3baa961bf393a38114b1fd9"
+    },
+    {
+      "path": "drive.mp4",
+      "sha256": "2d76f77aff0a7f6719a8f7ef6e6cd7fff11ad0759c05ff8c3435b6024c45726e"
+    },
+    {
+      "path": "checks.json",
+      "sha256": "f93f08fa0c917100e2036003aecf1c77c05dcaa9ff3c94ef30f1392a80144fb6"
+    },
+    {
+      "path": "README.md",
+      "sha256": "151a80b02c0dc0e852c0c6258ebfe3bdd4f92cc9a8703f9ab0b08c792e774d62"
+    }
+  ]
+}

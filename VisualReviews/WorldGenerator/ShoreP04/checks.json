@@ -1,0 +1,49 @@
+{
+  "runtime": {
+    "dry_control_cm": "X=-442500.000 Y=107200.000 Z=866.993",
+    "native_camera_cm": "X=-338637.526 Y=225006.880 Z=2015.154",
+    "A_drive_m": 1019.1243896484375,
+    "A_frame_p95_ms": 18.95669847726822,
+    "A_gpu_p95_ms": 25.69420051574707,
+    "TD_drive_m": 1018.658447265625,
+    "TD_frame_p95_ms": 18.51930096745491,
+    "TD_gpu_p95_ms": 23.465700149536133,
+    "pass": true,
+    "result": "six comparisons plus two normal drives"
+  },
+  "readback": {
+    "pass_control": true,
+    "comparisons": {
+      "texture": {
+        "mean": 2.6640563202024996,
+        "p90": 6.0,
+        "changed_4": 0.2512126245847176
+      },
+      "deposits": {
+        "mean": 8.511762379370353,
+        "p90": 17.0,
+        "changed_4": 0.8507451352634077
+      },
+      "wet": {
+        "mean": 0.4364032589780098,
+        "p90": 1.0,
+        "changed_4": 0.0
+      },
+      "normal_texture": {
+        "mean": 0.40980541053630754,
+        "p90": 1.0,
+        "changed_4": 0.006324157570004746
+      },
+      "normal_deposits": {
+        "mean": 0.06309444708115805,
+        "p90": 0.0,
+        "changed_4": 0.00029425723777883246
+      },
+      "normal_biome": {
+        "mean": 0.44354928017718714,
+        "p90": 1.0,
+        "changed_4": 0.005697674418604651
+      }
+    }
+  }
+}
