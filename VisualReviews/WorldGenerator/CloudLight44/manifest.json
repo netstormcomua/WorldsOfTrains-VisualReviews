@@ -1,0 +1,40 @@
+{
+  "files": [
+    {
+      "path": "images/cloud.jpg",
+      "sha256": "b27d1090a55be794ad262d7312c9ab313f4ac2c441054dcbecb7159e3027028c"
+    },
+    {
+      "path": "images/phase.jpg",
+      "sha256": "24c557e0e15dab00b67f83076556c767e2d2591b20133759dbe4994b89e4ccf8"
+    },
+    {
+      "path": "images/moving.jpg",
+      "sha256": "3edf00a51d0329a8862477febd4d2fc32d72404262428f91ca66ca0564add9f8"
+    },
+    {
+      "path": "images/demo.jpg",
+      "sha256": "7b36c34d9b399c42b7117940a91cfb283cd85f5d8ff8e5c370f0b37873082c35"
+    },
+    {
+      "path": "drive.mp4",
+      "sha256": "8c251d4d7f1ffe9fb8272b6c14715ad9d4d7895e194cd9720c68b1190524d923"
+    },
+    {
+      "path": "images/original-switch.jpg",
+      "sha256": "751dd50cbf39b8080de06c725b2dff59052383e71ce39df79a2d692b8ea43efc"
+    },
+    {
+      "path": "images/boundary-switch.jpg",
+      "sha256": "cc023a6432d8149a065a36ede7a7642130ae264d078c4579b37148abbd97e072"
+    },
+    {
+      "path": "parameters.json",
+      "sha256": "9f8c4ede57824b3e843550a8d583040b0c3f4688140d7a46820e30b735b337e6"
+    },
+    {
+      "path": "README.md",
+      "sha256": "860561bac4bbfa8f7b6ee5531bfa51dd407d9056093b89a3bb4e071887d44919"
+    }
+  ]
+}
