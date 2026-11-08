@@ -1,0 +1,44 @@
+{
+  "files": [
+    {
+      "path": "images/contour.jpg",
+      "sha256": "51d817c68ad32f562b29302d421eab85f64f37ca6442c549c67ad8d33424a21b"
+    },
+    {
+      "path": "images/form.jpg",
+      "sha256": "77b336c2b0acb8b774dfb1079b715ef2571e3acd4054d5de08eb468fff1022d3"
+    },
+    {
+      "path": "images/drive.jpg",
+      "sha256": "958e1c6b246f8f3ac967d473980b336038494664d725d6be20e151a475ff47b9"
+    },
+    {
+      "path": "images/edge.jpg",
+      "sha256": "d7c29e42f32682914db69f095fff6d401733850ba8322dba43002acf859b5d83"
+    },
+    {
+      "path": "images/shade.jpg",
+      "sha256": "93c9665ad3d7a2a8a66ee436a87340b954cdbe2e00f86e83bf43c748584c5fe2"
+    },
+    {
+      "path": "images/warm.jpg",
+      "sha256": "65b20b98c226562d308cb37651be1992a64b8e372b675562bc90130634769e42"
+    },
+    {
+      "path": "images/demo.jpg",
+      "sha256": "5b546b4088c583a5efc63c94e965fd47f267d65fafe3b78b09d32f779fcb5b83"
+    },
+    {
+      "path": "drive.mp4",
+      "sha256": "3d5e4e81f6801c6cca8869185bd46a31aea0e77aa55b007bda2e189d00fba619"
+    },
+    {
+      "path": "parameters.json",
+      "sha256": "3bca04c08350b96c3bf93aaf55dff7d799fd4d23872e0a35fc40a6af405af2d8"
+    },
+    {
+      "path": "README.md",
+      "sha256": "8243edfdd0659aba5c9dae9e7e29fc07dc85952791736681ec3c22c811e12bde"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "recipe": {
+    "seed": 84152,
+    "vertices": 59905,
+    "triangles": 119232,
+    "sha256": "05e52e0ff8644a402bf3c1e8e9b44e0cbcb7f6a6be6f4feee1cd0be61bdda5f4"
+  },
+  "preset": {
+    "schema": 1,
+    "implementation": "single-mountain-stump-1.0",
+    "seed": 84152,
+    "reference_sha256": "181e006166fd939950fdbe574c053f4b3824be49bab8f9bb6299cade467e2576",
+    "profile": "mesa-forms-02/stump-01",
+    "surface": "rockydesert-stump-sandstone-1.0",
+    "height_m": 184,
+    "cap_halfwidth_m": 119,
+    "cap_halfdepth_m": 91,
+    "segments": 576,
+    "levels": 98,
+    "world_center_m": [
+      4310,
+      5275,
+      0
+    ]
+  },
+  "runtime": {
+    "triangles": 119232,
+    "shells": 1,
+    "clay-sketch": "2026-11-08T17:30:06.923Z",
+    "clay-near": "2026-11-08T17:30:08.971Z",
+    "clay-edge": "2026-11-08T17:30:10.702Z",
+    "clay-shade": "2026-11-08T17:30:12.405Z",
+    "clay-drive": "2026-11-08T17:30:20.434Z",
+    "clay_m": 587.594375,
+    "clay_frame_p95": 17.816200852394104,
+    "clay_gpu_p95": 17.508399963378906,
+    "warm-sketch": "2026-11-08T17:30:31.321Z",
+    "warm-near": "2026-11-08T17:30:33.202Z",
+    "warm-edge": "2026-11-08T17:30:34.924Z",
+    "warm-shade": "2026-11-08T17:30:36.641Z",
+    "warm-drive": "2026-11-08T17:30:44.671Z",
+    "warm_m": 587.659375,
+    "warm_frame_p95": 17.691802233457565,
+    "warm_gpu_p95": 17.425399780273438,
+    "warm-empty": "2026-11-08T17:30:54.959Z",
+    "demo_mesh_width_m": 16.035992126464844,
+    "warm-specimen": "2026-11-08T17:30:56.976Z",
+    "pass": true,
+    "result": "same stump mesh in both passes; diagnostic specimen at separate location"
+  },
+  "projection": {
+    "sketch_size_px": [
+      675,
+      450
+    ],
+    "unreal_size_px": [
+      1440,
+      960
+    ],
+    "trace_frame_size_px": [
+      675,
+      450
+    ],
+    "unreal_bounds_in_trace_frame_px": [
+      118,
+      46,
+      645,
+      260
+    ],
+    "registration": "uniform height scale plus horizontal alignment at upper wall center; no anisotropic stretch",
+    "height_ratio": 0.8925233644859814,
+    "measurements": {
+      "upper_20pct": {
+        "reference_width_over_height": 1.34,
+        "unreal_width_over_height": 1.166
+      },
+      "mid_55pct": {
+        "reference_width_over_height": 1.496,
+        "unreal_width_over_height": 1.213
+      },
+      "base_90pct": {
+        "reference_width_over_height": 2.529,
+        "unreal_width_over_height": 2.105
+      }
+    }
+  }
+}
