@@ -1,0 +1,40 @@
+{
+  "files": [
+    {
+      "path": "images/moving.jpg",
+      "sha256": "e2f77476e69b670181f6be59fdb80c6a2d7b0a6957ff873aa05791aeae09caaa"
+    },
+    {
+      "path": "images/contact.jpg",
+      "sha256": "05eac7c4326ce8facf235ee4ab7641898ee52372bdcb62674d458f2af2631a8f"
+    },
+    {
+      "path": "images/plant.jpg",
+      "sha256": "c0af51f21e9c0dd1b5f5cf48bf7c829c73367530cd51aac0a2794155b5c64e31"
+    },
+    {
+      "path": "images/native.jpg",
+      "sha256": "4627c3c8161bde0ed92ea970b821e3dc66757db0c86af2dcd2b67349049561ff"
+    },
+    {
+      "path": "images/deposit.jpg",
+      "sha256": "f2aaa64d8a4cacc4ae230d9745ae3dd4a350b09fa1b2fb2fb727bdf1183a9909"
+    },
+    {
+      "path": "drive.mp4",
+      "sha256": "3ea2602c983fc296a3176f21082d2ea68541578088fc23dc66ce5899fbc4444a"
+    },
+    {
+      "path": "native.mp4",
+      "sha256": "dd4777709e1d6c4444fa3cd6a2429c697ca465e329cbd5eebf097b973e299962"
+    },
+    {
+      "path": "parameters.json",
+      "sha256": "a1a8ebfc4321be071f6ca6a4e2e4a8a961471ee14acbfc8b70499bb5f4e6c4ac"
+    },
+    {
+      "path": "README.md",
+      "sha256": "c485961e3d31993007fc8a645506311c1b5895f73e2a7aa763a1c36eeb7ad754"
+    }
+  ]
+}
