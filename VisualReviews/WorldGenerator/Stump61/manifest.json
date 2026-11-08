@@ -1,0 +1,40 @@
+{
+  "files": [
+    {
+      "path": "images/side.jpg",
+      "sha256": "5f0a65aa5c8eb64fc306fc9e3dd13e69d6b5ba9c02e6dfcd1253869e71e45bc7"
+    },
+    {
+      "path": "images/foot.jpg",
+      "sha256": "e703d08c498339228ebf6bc803aef81d9765c79e6455877456c88976b9928b4b"
+    },
+    {
+      "path": "images/bend.jpg",
+      "sha256": "16c003275c26341a86c4a1ccca62332f881bfb19c3df6047b38b78a776cfb017"
+    },
+    {
+      "path": "images/geometry.jpg",
+      "sha256": "46adbe8ff956375ab36f8fbd1c43e654594769f1e1cad9995319273aeacdb020"
+    },
+    {
+      "path": "images/surface.jpg",
+      "sha256": "4bd3eb1133e83199c710ddb4744de338dfd00c479e917365ceec2befeb81a234"
+    },
+    {
+      "path": "images/specimen.jpg",
+      "sha256": "7b81bff9683a9e5c94afe6eb3c48742c54cdbec38bd4c4ff8a21bd9198ec76d2"
+    },
+    {
+      "path": "drive.mp4",
+      "sha256": "e2200df27c217952606ab20763ff221938d711b89d52000d31b9ff2b1c85a7d3"
+    },
+    {
+      "path": "parameters.json",
+      "sha256": "92d80c9946dd85a4da3b6aada4ac529108fc1c96b4d72fbcae2922a17ad7d6f8"
+    },
+    {
+      "path": "README.md",
+      "sha256": "7b37f5b1a50b8b279145ea2d9309c462255f1d4131f2eca9f1f13fc741bce050"
+    }
+  ]
+}
