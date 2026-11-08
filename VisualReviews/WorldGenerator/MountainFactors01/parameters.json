@@ -1,0 +1,138 @@
+{
+  "seed": 81150,
+  "control": "8470351742e51c364d52e5fe01f163f7431c3d00b6f839764f0aa8b8595a3911",
+  "modes": [
+    {
+      "number": 0,
+      "factor": "control",
+      "instances": 4118
+    },
+    {
+      "number": 1,
+      "factor": "scale hierarchy",
+      "instances": 4118
+    },
+    {
+      "number": 2,
+      "factor": "joint offsets",
+      "instances": 4118
+    },
+    {
+      "number": 3,
+      "factor": "native faces",
+      "instances": 4118
+    },
+    {
+      "number": 4,
+      "factor": "connected benches",
+      "instances": 4118
+    },
+    {
+      "number": 5,
+      "factor": "embedded shell",
+      "instances": 4118
+    },
+    {
+      "number": 6,
+      "factor": "cross-cut ravines",
+      "instances": 3760
+    },
+    {
+      "number": 7,
+      "factor": "group dip and displacement",
+      "instances": 4118
+    },
+    {
+      "number": 8,
+      "factor": "spur and saddle",
+      "instances": 4852
+    },
+    {
+      "number": 9,
+      "factor": "differential weathering",
+      "instances": 4118
+    },
+    {
+      "number": 10,
+      "factor": "gully talus",
+      "instances": 4818
+    }
+  ],
+  "camera": {
+    "eye_m": [
+      3710,
+      4430,
+      24
+    ],
+    "aim_m": [
+      4020,
+      5160,
+      92
+    ],
+    "field_degrees": 53
+  },
+  "native_specimen": {
+    "name": "SM_RockSide_A24",
+    "scale": [
+      1.75,
+      1.75,
+      1.75
+    ],
+    "slots": [
+      "/Game/RockyDesert/Materials/MI_Side_Rock_A1.MI_Side_Rock_A1"
+    ],
+    "original": [
+      "/Game/RockyDesert/Materials/MI_Side_Rock_A1.MI_Side_Rock_A1"
+    ],
+    "override": [
+      "/Game/RockyDesert/Materials/MI_Side_Rock_A1.MI_Side_Rock_A1"
+    ],
+    "effective_parameters": {
+      "/Game/RockyDesert/Materials/MI_Side_Rock_A1.MI_Side_Rock_A1": {
+        "scalar": {
+          "DetailNormalScale": 20.0,
+          "RoughnessHigh": 1.0,
+          "RoughnessLOW": 0.4000000059604645,
+          "DetailNormalIntensity": 1.0,
+          "AOPower": 0.30000001192092896,
+          "maskContrast": 10.0,
+          "maskBrightness": 4.139092922210693,
+          "SandScale": 10.0,
+          "RoughnessSand": 1.0,
+          "NormalCapSand": 0.5,
+          "Color_Edges": 1.5,
+          "Color_Cavities": 0.800000011920929,
+          "Desaturation": 0.5,
+          "Brightness": 1.0,
+          "Sand_Brightnes": 1.2000000476837158,
+          "Global_Desaturation": 0.0,
+          "Global": 2.200000047683716
+        },
+        "vector": {
+          "Color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color2": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "SandColor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        "texture": {
+          "NormalMap": "/Game/RockyDesert/Textures/T_RockSide_A1_n.T_RockSide_A1_n",
+          "MaskMap": "/Game/RockyDesert/Textures/T_RockSide_A1_mask.T_RockSide_A1_mask"
+        }
+      }
+    }
+  }
+}

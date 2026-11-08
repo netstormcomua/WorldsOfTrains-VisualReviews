@@ -1,0 +1,97 @@
+{
+  "wide": {
+    "00_instances": 4118,
+    "00_p95_ms": 17.45159924030304,
+    "01_instances": 4118,
+    "01_p95_ms": 18.16989853978157,
+    "02_instances": 4118,
+    "02_p95_ms": 18.013499677181244,
+    "03_instances": 4118,
+    "03_p95_ms": 18.088001757860184,
+    "04_instances": 4118,
+    "04_p95_ms": 17.989501357078552,
+    "05_instances": 4118,
+    "05_p95_ms": 17.903700470924377,
+    "06_instances": 3760,
+    "06_p95_ms": 17.946898937225342,
+    "07_instances": 4118,
+    "07_p95_ms": 17.888102680444717,
+    "08_instances": 4852,
+    "08_p95_ms": 18.278200179338455,
+    "09_instances": 4118,
+    "09_p95_ms": 17.911799252033234,
+    "10_instances": 4818,
+    "10_p95_ms": 17.682000994682312,
+    "11m_instances": 224,
+    "11m_p95_ms": 17.695199698209763,
+    "11n_instances": 135,
+    "11n_p95_ms": 17.809700220823288,
+    "pass": true,
+    "result": "all requested alternatives sampled"
+  },
+  "reverse": {
+    "08_instances": 4852,
+    "08_p95_ms": 18.147200345993042,
+    "11m_instances": 224,
+    "11m_p95_ms": 18.557798117399216,
+    "11n_instances": 135,
+    "11n_p95_ms": 18.59010010957718,
+    "pass": true,
+    "result": "reverse movement, shell controls and isolated color pair",
+    "06_instances": 3760,
+    "06_p95_ms": 18.19700002670288
+  },
+  "hybrid": {
+    "mesa": {
+      "recipe_sha256": "117a1c1ece6430f49bcc9d8d648111bcf7b1eeefbd8bd8007d3cd0a030614043",
+      "shell_peak_m": 147.76,
+      "peak_m": 156.18,
+      "contacts": {
+        "bed": {
+          "total": 59,
+          "crossing": 59,
+          "buried": 0,
+          "floating": 0,
+          "largest_bottom_gap_m": 0
+        },
+        "talus": {
+          "total": 165,
+          "crossing": 165,
+          "buried": 0,
+          "floating": 0,
+          "largest_bottom_gap_m": 0
+        }
+      }
+    },
+    "needles": {
+      "recipe_sha256": "019286155c59387e7d5a9371ca50cf294b18e0538ab89dc7e325176e191f36bb",
+      "shell_peak_m": 235.08,
+      "peak_m": 245.53,
+      "contacts": {
+        "bed": {
+          "total": 25,
+          "crossing": 25,
+          "buried": 0,
+          "floating": 0,
+          "largest_bottom_gap_m": 0
+        },
+        "talus": {
+          "total": 110,
+          "crossing": 110,
+          "buried": 0,
+          "floating": 0,
+          "largest_bottom_gap_m": 0
+        }
+      }
+    }
+  },
+  "color": {
+    "pass": true,
+    "result": "source object and current versus demo slots sampled"
+  },
+  "color_pixels": {
+    "mask_pixels": 59630,
+    "mean_channel_difference_after_hiding": 63.0114148359327,
+    "mean_channel_difference_default_slot": 0.6912516071328749
+  }
+}

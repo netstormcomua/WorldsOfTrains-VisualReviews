@@ -1,0 +1,44 @@
+{
+  "files": [
+    {
+      "path": "factors-01-05.jpg",
+      "sha256": "84bab4d82760d320b2d73dfc530454062f7094d9de810a9899804479eb73e337"
+    },
+    {
+      "path": "factors-06-10.jpg",
+      "sha256": "d7c331fcc8e2dbc16133fd2e339c4790c8a1295f3f23a23db8eefe72bd58941a"
+    },
+    {
+      "path": "hybrid.jpg",
+      "sha256": "caf01dedecb4d9b99bf80811dcd9553edbd3ff470f6b8716bb1c39a966f4bd3d"
+    },
+    {
+      "path": "native-contribution.jpg",
+      "sha256": "7519eeffa22b0208baf6c5b812ce4b130b05e4770a95deaa35feb3f60df6ca6a"
+    },
+    {
+      "path": "color.jpg",
+      "sha256": "a543036006192da761e17cebd223f29c44e403ba3e3e891e96cfcda9812d905a"
+    },
+    {
+      "path": "reverse-06-08.mp4",
+      "sha256": "658a68999edd8d9c0d80a80c124f6aefd9525351cdd7e43592f135c895833429"
+    },
+    {
+      "path": "reverse-hybrids.mp4",
+      "sha256": "92d1de105035bef851c24ab19caf5e4d9e33bb8d3cccc4e51da64bbe73bc25fd"
+    },
+    {
+      "path": "parameters.json",
+      "sha256": "488b0993a85050b0a54523859398c6b8e4a853d55695e096004a2bb166d23262"
+    },
+    {
+      "path": "checks.json",
+      "sha256": "a03c5f2fbfe4cb40d3d135c24d3960344f4d1cabac2739ac77bb5909f3f2e688"
+    },
+    {
+      "path": "README.md",
+      "sha256": "9ac5a5c9086e8a731efe48b2c7ad8be859fe1033db42668d5cd12dd4b7e702c6"
+    }
+  ]
+}
