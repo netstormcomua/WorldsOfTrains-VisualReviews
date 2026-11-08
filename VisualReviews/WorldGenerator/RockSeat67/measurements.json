@@ -1,0 +1,17 @@
+{
+  "exact_same_sand_geometry": true,
+  "sand_deposits": 52,
+  "sand_triangles": 16224,
+  "min_rail_axis_to_bounds_m": 29.013411787016132,
+  "max_drop_cm": 145.85746844852565,
+  "groups_m": 130.05375,
+  "groups_frame_p95": 17.57889986038208,
+  "groups_gpu_p95": 21.879100799560547,
+  "baseline": {
+    "groups_m": 130.06593322753906,
+    "groups_frame_p95": 18.107198178768158,
+    "groups_gpu_p95": 22.51580047607422
+  },
+  "min_drop_cm": 7.552172767116546,
+  "shifted_rocks": 52
+}
