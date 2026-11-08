@@ -1,0 +1,132 @@
+{
+  "geometry": {
+    "before": {
+      "visible_span_z2_m": [
+        513.92,
+        433.69
+      ],
+      "mouth_runouts_m": [
+        218.007,
+        215.7,
+        210.917,
+        208.66,
+        214.763,
+        219.955,
+        206.748,
+        211.135,
+        221.326,
+        215.262,
+        209.984,
+        208.263,
+        210.305
+      ]
+    },
+    "after": {
+      "visible_span_z2_m": [
+        447.53,
+        371.13
+      ],
+      "mouth_runouts_m": [
+        163.505,
+        161.775,
+        158.188,
+        156.495,
+        161.072,
+        164.967,
+        155.061,
+        158.351,
+        165.995,
+        161.446,
+        157.488,
+        156.197,
+        157.729
+      ]
+    },
+    "height_equal": true,
+    "fixed_join_vertices": 576,
+    "unchanged_vertices": 32956,
+    "mouths": 13,
+    "sha256": "a2fdcadfc86fe4a18e1f2120378b20e4b828481ee89e09cff118626e17a28fad"
+  },
+  "ground": {
+    "samples": 96,
+    "min_burial_m": 1.1,
+    "max_burial_m": 1.552
+  },
+  "preset": {
+    "schema": 1,
+    "version": "stump-wide-toe-1.4.4",
+    "parent_version": "stump-weathered-1.4",
+    "wide_sha256": "de5e52d40763e756ab9e7d84fe4c29667683be46dd18b5cf333e69a2c0fa94f6",
+    "original_sha256": "05e52e0ff8644a402bf3c1e8e9b44e0cbcb7f6a6be6f4feee1cd0be61bdda5f4",
+    "segments": 576,
+    "levels": 98,
+    "join_height_m": 88,
+    "runout_factor": 0.75
+  },
+  "sun": {
+    "schema": 1,
+    "version": "desert-sun-02-1.0",
+    "source_review": "027ade3c4f6fd87a9179a395507ddff0d322e8a5",
+    "option": 2,
+    "sun_elevation_deg": 18,
+    "sun_component_yaw_deg": -80.849853515625,
+    "temperature_k": 4400,
+    "sun_lux": 50500,
+    "sky_intensity": 1.3,
+    "fill_lux": 0,
+    "exposure_mode": "manual",
+    "physical_camera_exposure": false,
+    "exposure_bias": -12.7,
+    "sky_rayleigh": 0.0331000015,
+    "sky_mie": 0.00399600016,
+    "mie_anisotropy": 0.8,
+    "cast_cloud_shadows": false
+  },
+  "runtime": {
+    "triangles": 119232,
+    "shells": 1,
+    "sun02_lux": 50500,
+    "sun02_kelvin": 4400,
+    "sun02_elevation": 18,
+    "sun02_yaw": -80.84985351562499,
+    "bend_degrees_per_100m": 1.8823377273470112,
+    "bend_station_m": 8850,
+    "original-side": "2026-11-08T20:48:23.448Z",
+    "shape-side": "2026-11-08T20:48:25.866Z",
+    "matched-side": "2026-11-08T20:48:28.069Z",
+    "original-sketch": "2026-11-08T20:48:30.291Z",
+    "original-near": "2026-11-08T20:48:32.156Z",
+    "original-edge": "2026-11-08T20:48:33.888Z",
+    "original-shade": "2026-11-08T20:48:35.593Z",
+    "sun_patch_cm": "X=419156.978 Y=523710.233 Z=9900.000",
+    "original-sun-detail": "2026-11-08T20:48:37.460Z",
+    "shade_patch_cm": "X=436725.132 Y=519548.428 Z=9900.000",
+    "original-shade-detail": "2026-11-08T20:48:39.378Z",
+    "original-foot": "2026-11-08T20:48:41.451Z",
+    "original-foot-lit": "2026-11-08T20:48:43.471Z",
+    "original-bend": "2026-11-08T20:48:45.636Z",
+    "original-drive": "2026-11-08T20:48:53.758Z",
+    "original_m": 587.71625,
+    "original_frame_p95": 17.684202641248703,
+    "original_gpu_p95": 17.723400115966797,
+    "matched-sketch": "2026-11-08T20:49:04.651Z",
+    "matched-near": "2026-11-08T20:49:06.527Z",
+    "matched-edge": "2026-11-08T20:49:08.258Z",
+    "matched-shade": "2026-11-08T20:49:09.987Z",
+    "matched-sun-detail": "2026-11-08T20:49:11.849Z",
+    "matched-shade-detail": "2026-11-08T20:49:13.778Z",
+    "matched-foot": "2026-11-08T20:49:15.841Z",
+    "matched-foot-lit": "2026-11-08T20:49:17.865Z",
+    "matched-bend": "2026-11-08T20:49:20.044Z",
+    "matched-drive": "2026-11-08T20:49:28.180Z",
+    "matched_m": 587.376875,
+    "matched_frame_p95": 17.4809992313385,
+    "matched_gpu_p95": 17.34600067138672,
+    "matched-empty": "2026-11-08T20:49:38.466Z",
+    "demo_mesh_width_m": 16.035992126464844,
+    "matched-specimen": "2026-11-08T20:49:40.480Z",
+    "pass": true,
+    "result": "same rail/light; pinned original and weathered shell"
+  }
+}
