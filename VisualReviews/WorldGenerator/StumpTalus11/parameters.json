@@ -1,0 +1,211 @@
+{
+  "checks": {
+    "sha256": "ccb8f35b68c1da863115f2410436bf8d7de2e5af3ad0d2fb20b1fef926a36ac7",
+    "upper_vertices_unchanged": 32642,
+    "moved_vertices": 27253,
+    "cones": [
+      {
+        "mouth_index": 21,
+        "axis_xy": [
+          -0.84005,
+          -0.54251
+        ],
+        "length_m": 71.43,
+        "half_width_m": 18.23,
+        "head_m": 56.21
+      },
+      {
+        "mouth_index": 72,
+        "axis_xy": [
+          -0.59071,
+          -0.80689
+        ],
+        "length_m": 135.11,
+        "half_width_m": 42.35,
+        "head_m": 70.93
+      },
+      {
+        "mouth_index": 91,
+        "axis_xy": [
+          -0.06498,
+          -0.99789
+        ],
+        "length_m": 72.04,
+        "half_width_m": 21.48,
+        "head_m": 73.58
+      },
+      {
+        "mouth_index": 141,
+        "axis_xy": [
+          -0.19087,
+          -0.98162
+        ],
+        "length_m": 90.19,
+        "half_width_m": 42.42,
+        "head_m": 65.63
+      },
+      {
+        "mouth_index": 196,
+        "axis_xy": [
+          0.84437,
+          -0.53575
+        ],
+        "length_m": 120.06,
+        "half_width_m": 23.03,
+        "head_m": 74.68
+      },
+      {
+        "mouth_index": 235,
+        "axis_xy": [
+          0.99956,
+          0.02952
+        ],
+        "length_m": 120.47,
+        "half_width_m": 34.31,
+        "head_m": 57.08
+      },
+      {
+        "mouth_index": 279,
+        "axis_xy": [
+          0.98235,
+          0.18704
+        ],
+        "length_m": 119.44,
+        "half_width_m": 34.38,
+        "head_m": 68.16
+      },
+      {
+        "mouth_index": 330,
+        "axis_xy": [
+          0.43728,
+          0.89932
+        ],
+        "length_m": 143.01,
+        "half_width_m": 44.35,
+        "head_m": 53.9
+      },
+      {
+        "mouth_index": 391,
+        "axis_xy": [
+          0.67056,
+          0.74185
+        ],
+        "length_m": 88.97,
+        "half_width_m": 45.28,
+        "head_m": 52.74
+      },
+      {
+        "mouth_index": 440,
+        "axis_xy": [
+          -0.49337,
+          0.86982
+        ],
+        "length_m": 117.18,
+        "half_width_m": 25.27,
+        "head_m": 53.97
+      },
+      {
+        "mouth_index": 474,
+        "axis_xy": [
+          -0.66101,
+          0.75037
+        ],
+        "length_m": 76.26,
+        "half_width_m": 44.58,
+        "head_m": 72.18
+      },
+      {
+        "mouth_index": 507,
+        "axis_xy": [
+          -0.8093,
+          0.5874
+        ],
+        "length_m": 110.26,
+        "half_width_m": 39.19,
+        "head_m": 59.55
+      },
+      {
+        "mouth_index": 543,
+        "axis_xy": [
+          -0.7914,
+          0.6113
+        ],
+        "length_m": 82.49,
+        "half_width_m": 32.91,
+        "head_m": 75.0
+      }
+    ]
+  },
+  "preset": {
+    "schema": 1,
+    "implementation": "single-mountain-stump-talus-1.1",
+    "base": "single-mountain-stump-1.0",
+    "source_preset": "stump-1.0.json",
+    "seed": 84152,
+    "surface": "rockydesert-stump-sandstone-1.0",
+    "mouth_count": 13,
+    "runout_m": [
+      62,
+      147
+    ],
+    "half_width_m": [
+      18,
+      48
+    ],
+    "axis_angle_deg": [
+      -30,
+      33
+    ],
+    "join_height_m": 88
+  },
+  "runtime": {
+    "triangles": 119232,
+    "shells": 1,
+    "clay-sketch": "2026-11-08T17:39:01.173Z",
+    "clay-near": "2026-11-08T17:39:03.213Z",
+    "clay-edge": "2026-11-08T17:39:04.944Z",
+    "clay-shade": "2026-11-08T17:39:06.647Z",
+    "clay-drive": "2026-11-08T17:39:14.694Z",
+    "clay_m": 587.34,
+    "clay_frame_p95": 17.943300306797028,
+    "clay_gpu_p95": 17.679000854492188,
+    "warm-sketch": "2026-11-08T17:39:25.595Z",
+    "warm-near": "2026-11-08T17:39:27.460Z",
+    "warm-edge": "2026-11-08T17:39:29.172Z",
+    "warm-shade": "2026-11-08T17:39:30.904Z",
+    "warm-drive": "2026-11-08T17:39:38.929Z",
+    "warm_m": 587.87875,
+    "warm_frame_p95": 17.95569807291031,
+    "warm_gpu_p95": 18.56999969482422,
+    "warm-empty": "2026-11-08T17:39:49.225Z",
+    "demo_mesh_width_m": 16.035992126464844,
+    "warm-specimen": "2026-11-08T17:39:51.246Z",
+    "pass": true,
+    "result": "same stump mesh in both passes; diagnostic specimen at separate location"
+  },
+  "control_runtime": {
+    "triangles": 119232,
+    "shells": 1,
+    "clay-sketch": "2026-11-08T17:30:06.923Z",
+    "clay-near": "2026-11-08T17:30:08.971Z",
+    "clay-edge": "2026-11-08T17:30:10.702Z",
+    "clay-shade": "2026-11-08T17:30:12.405Z",
+    "clay-drive": "2026-11-08T17:30:20.434Z",
+    "clay_m": 587.594375,
+    "clay_frame_p95": 17.816200852394104,
+    "clay_gpu_p95": 17.508399963378906,
+    "warm-sketch": "2026-11-08T17:30:31.321Z",
+    "warm-near": "2026-11-08T17:30:33.202Z",
+    "warm-edge": "2026-11-08T17:30:34.924Z",
+    "warm-shade": "2026-11-08T17:30:36.641Z",
+    "warm-drive": "2026-11-08T17:30:44.671Z",
+    "warm_m": 587.659375,
+    "warm_frame_p95": 17.691802233457565,
+    "warm_gpu_p95": 17.425399780273438,
+    "warm-empty": "2026-11-08T17:30:54.959Z",
+    "demo_mesh_width_m": 16.035992126464844,
+    "warm-specimen": "2026-11-08T17:30:56.976Z",
+    "pass": true,
+    "result": "same stump mesh in both passes; diagnostic specimen at separate location"
+  }
+}
