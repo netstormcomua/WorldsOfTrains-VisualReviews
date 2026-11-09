@@ -1,0 +1,90 @@
+{
+  "motion": [
+    {
+      "group": 4,
+      "state": "control",
+      "travel_start_m": 93,
+      "min_pixels": 179,
+      "median_luma": 79.90140845070422,
+      "mean_abs_second_difference_half": 0.982219929727736
+    },
+    {
+      "group": 4,
+      "state": "candidate",
+      "travel_start_m": 93,
+      "min_pixels": 179,
+      "median_luma": 113.72685185185185,
+      "mean_abs_second_difference_half": 0.9733532045249537
+    },
+    {
+      "group": 5,
+      "state": "control",
+      "travel_start_m": 105,
+      "min_pixels": 126,
+      "median_luma": 53.09815950920245,
+      "mean_abs_second_difference_half": 0.5697117694491238
+    },
+    {
+      "group": 5,
+      "state": "candidate",
+      "travel_start_m": 105,
+      "min_pixels": 126,
+      "median_luma": 53.194736842105264,
+      "mean_abs_second_difference_half": 0.3578183347555248
+    }
+  ],
+  "baseline": {
+    "travel_m": 511.08511718750003,
+    "rise_m": 7.665414748804405,
+    "peak_speed_mps": 9.520488739013672,
+    "max_wheel_z_residual_cm": 0.004522667266428471,
+    "wheel_bindings": true,
+    "junction_crossed": true,
+    "frame_p95_ms": 16.66710090637207,
+    "samples": 3086,
+    "peak_ram_mib": 3345.1328125,
+    "frame_p50_ms": 16.666799545288086,
+    "frame_p99_ms": 16.857498168945312,
+    "frame_max_ms": 33.54030227661133,
+    "realtime_duration_s": 51.45124509930611,
+    "fixed_timestep": false,
+    "gpu_samples": 3086,
+    "gpu_p50_ms": 16.66659927368164,
+    "gpu_p95_ms": 20.484899520874023,
+    "gpu_p99_ms": 21.596900939941406,
+    "motion_frames": 0,
+    "exited": true,
+    "exit_status": "On foot",
+    "exit_speed_mps": 0,
+    "reset": true,
+    "result": "completed",
+    "pass": true
+  },
+  "candidate": {
+    "travel_m": 511.12371093750005,
+    "rise_m": 7.665993452187358,
+    "peak_speed_mps": 9.520456314086914,
+    "max_wheel_z_residual_cm": 0.0045197587460279465,
+    "wheel_bindings": true,
+    "junction_crossed": true,
+    "frame_p95_ms": 16.667001724243164,
+    "samples": 3086,
+    "peak_ram_mib": 3385.88671875,
+    "frame_p50_ms": 16.666799545288086,
+    "frame_p99_ms": 16.686302185058594,
+    "frame_max_ms": 42.047401428222656,
+    "realtime_duration_s": 51.45130790024996,
+    "fixed_timestep": false,
+    "gpu_samples": 3086,
+    "gpu_p50_ms": 16.670700073242188,
+    "gpu_p95_ms": 20.438400268554688,
+    "gpu_p99_ms": 21.684600830078125,
+    "motion_frames": 0,
+    "exited": true,
+    "exit_status": "On foot",
+    "exit_speed_mps": 0,
+    "reset": true,
+    "result": "completed",
+    "pass": true
+  }
+}
