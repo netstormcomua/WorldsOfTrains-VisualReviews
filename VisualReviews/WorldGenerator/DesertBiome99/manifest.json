@@ -1,0 +1,44 @@
+{
+  "files": [
+    {
+      "path": "images/moving.jpg",
+      "sha256": "e8f92f43873f086babab1a9fbaddbb84c4439474a8f4a7bec2ceda39c78da99d"
+    },
+    {
+      "path": "images/edge.jpg",
+      "sha256": "722e91559a262184cec7ae74ca8963dea52d691db84f737a52d503c604ae7648"
+    },
+    {
+      "path": "images/reverse.jpg",
+      "sha256": "410f9e2edbc77223f874a0f27bdf62af7931d183ba9b2027792bb769e91a7ff8"
+    },
+    {
+      "path": "images/routes.jpg",
+      "sha256": "a8f835e9601649336d6ebcd0a8d5c35e01b4fbf6108b0287f62466498745bde6"
+    },
+    {
+      "path": "images/transitions.jpg",
+      "sha256": "5fc609ae43814069dc740e1bf66599d99bb9d371d545507ff808e3e338d26f8d"
+    },
+    {
+      "path": "drive.mp4",
+      "sha256": "36a7c739418c823fb9422cc7122fbdc35f1ba57eacbfb27319fee60e8b86be12"
+    },
+    {
+      "path": "parameters.json",
+      "sha256": "911867446bea81c43c48a55e83b5dfbf55a6986942470440fe877d6aa221e069"
+    },
+    {
+      "path": "images/camera.jpg",
+      "sha256": "5303d272c132910a94eb6498a5b85779579f8a37b4b91f3526eacf2b2dc176ac"
+    },
+    {
+      "path": "reveal.mp4",
+      "sha256": "a07a8f0211c4a631fd5f3367770965da1ff5bd47bfba200df3b1697461fea860"
+    },
+    {
+      "path": "README.md",
+      "sha256": "f5c07ec9f59a4277bedd71fa4a6d916fc1d201cda36ed97f90ebb38eb8b7b34e"
+    }
+  ]
+}

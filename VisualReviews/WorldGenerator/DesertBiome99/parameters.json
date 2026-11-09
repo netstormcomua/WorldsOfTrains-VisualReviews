@@ -1,0 +1,157 @@
+{
+  "seed": 99042,
+  "world_sha256": "7d06b0caf32081c703d2d505da7d68f1078d5e6cb87d33e199521822154159b6",
+  "sections": [
+    {
+      "station_m": 3310,
+      "edge_from_outer_head_m": 5.143749952316284,
+      "drop_30cm_from_outer_head_m": 5.893749952316284,
+      "rail_to_support_cm": 70.40423107147217
+    },
+    {
+      "station_m": 3400,
+      "edge_from_outer_head_m": 5.143749952316284,
+      "drop_30cm_from_outer_head_m": 5.893749952316284,
+      "rail_to_support_cm": 70.39201562335984
+    },
+    {
+      "station_m": 3500,
+      "edge_from_outer_head_m": 4.893749952316284,
+      "drop_30cm_from_outer_head_m": 5.893749952316284,
+      "rail_to_support_cm": 70.3883056640625
+    },
+    {
+      "station_m": 3600,
+      "edge_from_outer_head_m": 5.143749952316284,
+      "drop_30cm_from_outer_head_m": 5.643749952316284,
+      "rail_to_support_cm": 70.40743064880371
+    },
+    {
+      "station_m": 3680,
+      "edge_from_outer_head_m": 5.143749952316284,
+      "drop_30cm_from_outer_head_m": 5.643749952316284,
+      "rail_to_support_cm": 70.42691946029663
+    },
+    {
+      "station_m": 3750,
+      "edge_from_outer_head_m": 5.143749952316284,
+      "drop_30cm_from_outer_head_m": 5.643749952316284,
+      "rail_to_support_cm": 70.407066822052
+    },
+    {
+      "station_m": 3830,
+      "edge_from_outer_head_m": 5.143749952316284,
+      "drop_30cm_from_outer_head_m": 5.643749952316284,
+      "rail_to_support_cm": 70.45629563468901
+    }
+  ],
+  "inland_tiles": [
+    {
+      "patch": "small-4-4-1",
+      "sha256": "f0f877feee9df849b85f1f3172d633c44b2bcdbeb0dd3bde710246b00790ac70"
+    },
+    {
+      "patch": "small-5-4-1",
+      "sha256": "a22012e6817c801e1703f132459b91d230fe28f23b5cc8516c7833be292f7e61"
+    }
+  ],
+  "routes": {
+    "Small": {
+      "affected_samples": 111,
+      "range_st_m": [
+        850,
+        6400
+      ],
+      "representative": {
+        "st": 3650,
+        "delta": [
+          24.72,
+          20.46,
+          -41.5,
+          -137.89
+        ]
+      }
+    },
+    "Outer": {
+      "affected_samples": 29,
+      "range_st_m": [
+        50,
+        1450
+      ],
+      "representative": {
+        "st": 750,
+        "delta": [
+          0.03,
+          7.6,
+          6.1,
+          5.18
+        ]
+      }
+    },
+    "Columns": {
+      "affected_samples": 11,
+      "range_st_m": [
+        50,
+        550
+      ],
+      "representative": {
+        "st": 300,
+        "delta": [
+          10.28,
+          2.0,
+          0.08,
+          0.0
+        ]
+      }
+    }
+  },
+  "side_camera_pitch_deg": 25,
+  "visible_depth_m": [
+    66.31094999842057,
+    106.46017886541708
+  ],
+  "side_frame_p95_ms": [
+    18.200498074293137,
+    20.013201981782913
+  ],
+  "side_gpu_p95_ms": [
+    18.409299850463867,
+    26.601999282836914
+  ],
+  "regional_runs": [
+    {
+      "small_travel_m": 510.371875,
+      "small_frame_p95_ms": 17.68380030989647,
+      "small_gpu_p95_ms": 21.075899124145508,
+      "outer_travel_m": 150.12109375,
+      "outer_frame_p95_ms": 17.602700740098953,
+      "outer_gpu_p95_ms": 17.619600296020508,
+      "columns_travel_m": 140.1131640625,
+      "columns_frame_p95_ms": 17.500098794698715,
+      "columns_gpu_p95_ms": 17.635299682617188,
+      "shore_travel_m": 100.18015625,
+      "shore_frame_p95_ms": 17.46699959039688,
+      "shore_gpu_p95_ms": 20.146299362182617,
+      "foothill_travel_m": 100.33500000000001,
+      "foothill_frame_p95_ms": 17.53559708595276,
+      "foothill_gpu_p95_ms": 20.582000732421875
+    },
+    {
+      "small_travel_m": 510.0109375,
+      "small_frame_p95_ms": 17.9906003177166,
+      "small_gpu_p95_ms": 21.523099899291992,
+      "outer_travel_m": 150.276328125,
+      "outer_frame_p95_ms": 17.500001937150955,
+      "outer_gpu_p95_ms": 17.594499588012695,
+      "columns_travel_m": 140.1203515625,
+      "columns_frame_p95_ms": 17.565999180078506,
+      "columns_gpu_p95_ms": 17.602100372314453,
+      "shore_travel_m": 100.2505859375,
+      "shore_frame_p95_ms": 17.53460243344307,
+      "shore_gpu_p95_ms": 17.480100631713867,
+      "foothill_travel_m": 100.251875,
+      "foothill_frame_p95_ms": 17.76140183210373,
+      "foothill_gpu_p95_ms": 19.68720054626465
+    }
+  ]
+}
