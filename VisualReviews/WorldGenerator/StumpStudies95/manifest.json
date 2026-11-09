@@ -1,0 +1,36 @@
+{
+  "files": [
+    {
+      "path": "images/first.jpg",
+      "sha256": "ea4e8badddb66aa61bf50d1507db7ea5f1fb9094ff1a2ceb6850057bf753f949"
+    },
+    {
+      "path": "images/shape.jpg",
+      "sha256": "e29f9d1baf8debd37e0141db569905f391e9fb10f293816fe084eefb1dcd8577"
+    },
+    {
+      "path": "images/stone.jpg",
+      "sha256": "289f08b29dfa4686b28e7e04097048f4306ba98ae1c9b7f9838fc42ab4ab40e5"
+    },
+    {
+      "path": "images/fill.jpg",
+      "sha256": "ff746d6213e8f4eaa1cd99145db3df1f372148f1ab21008a33262345b658cf41"
+    },
+    {
+      "path": "images/combination.jpg",
+      "sha256": "ade60080ff52a568cee76ca353fde477d8b4d44cd9d7f1b18369b354e536f6c8"
+    },
+    {
+      "path": "drive.mp4",
+      "sha256": "5f6b8b245b1154afdea64d0f8f9f16ed9ea9c81715a886489d9fd727b8d110a8"
+    },
+    {
+      "path": "parameters.json",
+      "sha256": "503675f30ef5b13ea8b727c52a62230390e6ac2436e19fcaa80dedfd6fe30442"
+    },
+    {
+      "path": "README.md",
+      "sha256": "126d71c034ef8fcefce49ad5fda3104b05b220049f6d8843a262879a0f76c67e"
+    }
+  ]
+}

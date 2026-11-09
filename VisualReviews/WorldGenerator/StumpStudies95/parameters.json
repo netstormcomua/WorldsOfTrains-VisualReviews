@@ -1,0 +1,168 @@
+{
+  "studies": [
+    {
+      "variant": 0,
+      "description": "Контроль №79",
+      "travel_m": 240.18562500000002,
+      "frame_p95_ms": 17.405498772859573,
+      "gpu_p95_ms": 17.276899337768555,
+      "shell_triangles": 119372,
+      "median_scene_primitives": 1800536
+    },
+    {
+      "variant": 1,
+      "description": "Косая грань",
+      "travel_m": 240.023125,
+      "frame_p95_ms": 17.9142989218235,
+      "gpu_p95_ms": 17.637300491333008,
+      "shell_triangles": 119372,
+      "median_scene_primitives": 1800536
+    },
+    {
+      "variant": 2,
+      "description": "Свежий язык осыпи",
+      "travel_m": 240.04125,
+      "frame_p95_ms": 17.545100301504135,
+      "gpu_p95_ms": 17.434999465942383,
+      "shell_triangles": 119372,
+      "median_scene_primitives": 1800536
+    },
+    {
+      "variant": 3,
+      "description": "Сухой сток",
+      "travel_m": 240.298125,
+      "frame_p95_ms": 17.83140003681183,
+      "gpu_p95_ms": 17.52680015563965,
+      "shell_triangles": 119372,
+      "median_scene_primitives": 1800536
+    },
+    {
+      "variant": 4,
+      "description": "Косая слоистость",
+      "travel_m": 240.1525,
+      "frame_p95_ms": 17.78380200266838,
+      "gpu_p95_ms": 17.521400451660156,
+      "shell_triangles": 119372,
+      "median_scene_primitives": 1800536
+    },
+    {
+      "variant": 5,
+      "description": "Пустынный лак",
+      "travel_m": 240.185,
+      "frame_p95_ms": 17.503999173641205,
+      "gpu_p95_ms": 17.401899337768555,
+      "shell_triangles": 119372,
+      "median_scene_primitives": 1800536
+    },
+    {
+      "variant": 6,
+      "description": "Стенка отрыва и осыпь",
+      "travel_m": 240.174375,
+      "frame_p95_ms": 17.827801406383514,
+      "gpu_p95_ms": 17.510299682617188,
+      "shell_triangles": 119372,
+      "median_scene_primitives": 1800536
+    },
+    {
+      "variant": 7,
+      "description": "Песчаный клин",
+      "travel_m": 240.351875,
+      "frame_p95_ms": 17.688598483800888,
+      "gpu_p95_ms": 17.437299728393555,
+      "shell_triangles": 119372,
+      "median_scene_primitives": 1800536
+    },
+    {
+      "variant": 8,
+      "description": "Запечённая осыпь",
+      "travel_m": 240.0375,
+      "frame_p95_ms": 17.90190115571022,
+      "gpu_p95_ms": 17.666200637817383,
+      "shell_triangles": 119372,
+      "median_scene_primitives": 1800536
+    },
+    {
+      "variant": 9,
+      "description": "Тафони",
+      "travel_m": 240.1325,
+      "frame_p95_ms": 17.768099904060364,
+      "gpu_p95_ms": 17.76740074157715,
+      "shell_triangles": 119372,
+      "median_scene_primitives": 1800536
+    },
+    {
+      "variant": 10,
+      "description": "Заполняющий свет",
+      "travel_m": 240.13125,
+      "frame_p95_ms": 17.36840233206749,
+      "gpu_p95_ms": 17.29210090637207,
+      "shell_triangles": 119372,
+      "median_scene_primitives": 1801660
+    },
+    {
+      "variant": 11,
+      "description": "Сочетание",
+      "travel_m": 240.26,
+      "frame_p95_ms": 18.053598701953888,
+      "gpu_p95_ms": 17.77079963684082,
+      "shell_triangles": 119372,
+      "median_scene_primitives": 1800536
+    }
+  ],
+  "bake": {
+    "donor_triangles": [
+      2826,
+      2530,
+      140
+    ],
+    "coverage": 0.22724056243896484,
+    "bake_px": 1024,
+    "donors": [
+      "SM_Small_Rock_1",
+      "SM_Small_Rock_3",
+      "SM_Small_Rock_B2"
+    ],
+    "height_max_pixels": 58.745391845703125
+  },
+  "geometry": {
+    "1": {
+      "vertices": 4456,
+      "max_move_m": 28.128,
+      "triangles": 119372,
+      "sha256": "10b7c7f315b1f9c0b346dcaec991b270c66ebb868e81db2f73d08d527a5a71d8"
+    },
+    "2": {
+      "vertices": 548,
+      "max_move_m": 9.2,
+      "triangles": 119372,
+      "sha256": "feadc7664d7ac97c2b5c343746c373e2e44b381dbc70bc95c9f11a11fc2c6086"
+    },
+    "3": {
+      "vertices": 682,
+      "max_move_m": 6.099,
+      "triangles": 119372,
+      "sha256": "1bc8438563c92e0ce3f23a742735e46e953e6593cd0e348ac42bea44aba81ada"
+    },
+    "7": {
+      "vertices": 3031,
+      "max_move_m": 9.0,
+      "triangles": 119372,
+      "sha256": "d05caf3ce0d8dc4b13ebed61131d83912fd779a06934353b8b987a906582bbf0"
+    }
+  },
+  "combination": {
+    "mesh": [
+      1,
+      2
+    ],
+    "material": [
+      6,
+      8
+    ],
+    "gravel_normal_z_fade": [
+      0.3,
+      0.64
+    ],
+    "triangle_topology_unchanged": true
+  }
+}
