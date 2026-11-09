@@ -1,0 +1,270 @@
+{
+  "run": {
+    "eye_cm": "X=63373.307 Y=491714.208 Z=1525.154",
+    "density": 0.0325700007379055,
+    "exposure_bias": -12.699999809265137,
+    "fog_rgb_before": "(R=1636.349976,G=1699.500000,B=1799.750000,A=1.000000)",
+    "volume_before": "(R=255,G=255,B=255,A=255)",
+    "bank_before": "(R=0.660000,G=0.460000,B=0.270000,A=0.000000)",
+    "local_bank_count": 12,
+    "dunes_eye_cm": "X=-737923.964 Y=168432.559 Z=1325.154",
+    "salt-dunes-original": "2026-11-09T00:44:05.431Z",
+    "fog_rgb_after": "(R=2064.108154,G=1618.967651,B=1337.911987,A=1.000000)",
+    "volume_after": "(R=255,G=227,B=205,A=255)",
+    "bank_after": "(R=0.708423,G=0.448988,B=0.236494,A=0.000000)",
+    "salt-dunes-warm": "2026-11-09T00:44:07.880Z",
+    "mountain_eye_cm": "X=335000.000 Y=465000.000 Z=5778.262",
+    "salt-mountain-original": "2026-11-09T00:44:11.616Z",
+    "salt-mountain-warm": "2026-11-09T00:44:13.780Z",
+    "salt_eye_cm": "X=63373.307 Y=491714.208 Z=1525.154",
+    "salt-salt-original": "2026-11-09T00:44:17.555Z",
+    "salt-salt-warm": "2026-11-09T00:44:19.730Z",
+    "gpu_p95_ms": 22.70800018310547,
+    "travel_m": 140.2575,
+    "frame_p95_ms": 18.564101308584213,
+    "live_reflection": true,
+    "pass": true,
+    "result": "Outer salt and shore"
+  },
+  "baseline_94": {
+    "travel_m": 140.2225,
+    "frame_p95_ms": 18.767502158880234
+  },
+  "areas": {
+    "dunes": {
+      "far_haze": {
+        "pixels": 5670,
+        "base_mean_rgb": [
+          158.14,
+          158.64,
+          162.87
+        ],
+        "warm_mean_rgb": [
+          166.48,
+          156.15,
+          150.27
+        ],
+        "difference_rgb": [
+          8.34,
+          -2.49,
+          -12.59
+        ],
+        "rgb_mae": 7.807
+      },
+      "bank_corridor": {
+        "pixels": 4620,
+        "base_mean_rgb": [
+          128.16,
+          114.02,
+          107.43
+        ],
+        "warm_mean_rgb": [
+          133.97,
+          111.04,
+          96.1
+        ],
+        "difference_rgb": [
+          5.81,
+          -2.98,
+          -11.33
+        ],
+        "rgb_mae": 6.708
+      },
+      "train_metal": {
+        "pixels": 22940,
+        "base_mean_rgb": [
+          37.4,
+          28.61,
+          21.38
+        ],
+        "warm_mean_rgb": [
+          38.43,
+          26.71,
+          18.71
+        ],
+        "difference_rgb": [
+          1.03,
+          -1.9,
+          -2.67
+        ],
+        "rgb_mae": 1.889
+      },
+      "sunlit_sand": {
+        "pixels": 10010,
+        "base_mean_rgb": [
+          192.79,
+          128.57,
+          73.74
+        ],
+        "warm_mean_rgb": [
+          193.54,
+          127.53,
+          70.32
+        ],
+        "difference_rgb": [
+          0.75,
+          -1.05,
+          -3.42
+        ],
+        "rgb_mae": 1.738
+      },
+      "sky": {
+        "pixels": 5040,
+        "base_mean_rgb": [
+          99.91,
+          107.96,
+          113.94
+        ],
+        "warm_mean_rgb": [
+          103.67,
+          105.54,
+          107.72
+        ],
+        "difference_rgb": [
+          3.76,
+          -2.42,
+          -6.22
+        ],
+        "rgb_mae": 4.133
+      }
+    },
+    "mountain": {
+      "front_wall": {
+        "pixels": 64800,
+        "base_mean_rgb": [
+          72.54,
+          57.19,
+          46.32
+        ],
+        "warm_mean_rgb": [
+          74.91,
+          56.51,
+          42.8
+        ],
+        "difference_rgb": [
+          2.37,
+          -0.68,
+          -3.52
+        ],
+        "rgb_mae": 2.193
+      },
+      "distant_gap": {
+        "pixels": 17340,
+        "base_mean_rgb": [
+          115.46,
+          103.26,
+          93.43
+        ],
+        "warm_mean_rgb": [
+          117.95,
+          102.53,
+          89.46
+        ],
+        "difference_rgb": [
+          2.48,
+          -0.73,
+          -3.97
+        ],
+        "rgb_mae": 2.397
+      },
+      "clear_sky": {
+        "pixels": 9100,
+        "base_mean_rgb": [
+          54.36,
+          63.72,
+          73.08
+        ],
+        "warm_mean_rgb": [
+          55.17,
+          63.4,
+          72.16
+        ],
+        "difference_rgb": [
+          0.81,
+          -0.31,
+          -0.92
+        ],
+        "rgb_mae": 0.683
+      }
+    },
+    "salt": {
+      "supports_and_haze": {
+        "pixels": 33745,
+        "base_mean_rgb": [
+          157.89,
+          158.53,
+          161.48
+        ],
+        "warm_mean_rgb": [
+          166.32,
+          156.38,
+          149.73
+        ],
+        "difference_rgb": [
+          8.43,
+          -2.15,
+          -11.76
+        ],
+        "rgb_mae": 7.444
+      },
+      "dry_foreground": {
+        "pixels": 66000,
+        "base_mean_rgb": [
+          91.69,
+          57.92,
+          34.6
+        ],
+        "warm_mean_rgb": [
+          92.93,
+          56.65,
+          32.24
+        ],
+        "difference_rgb": [
+          1.24,
+          -1.27,
+          -2.36
+        ],
+        "rgb_mae": 1.624
+      },
+      "sky": {
+        "pixels": 6498,
+        "base_mean_rgb": [
+          139.41,
+          142.08,
+          140.73
+        ],
+        "warm_mean_rgb": [
+          142.62,
+          141.09,
+          136.44
+        ],
+        "difference_rgb": [
+          3.21,
+          -0.99,
+          -4.29
+        ],
+        "rgb_mae": 2.829
+      },
+      "brine_rays": {
+        "pixels": 2646,
+        "base_mean_rgb": [
+          153.33,
+          154.76,
+          157.94
+        ],
+        "warm_mean_rgb": [
+          158.77,
+          153.68,
+          151.78
+        ],
+        "difference_rgb": [
+          5.44,
+          -1.08,
+          -6.16
+        ],
+        "rgb_mae": 4.227
+      }
+    }
+  },
+  "aligned_start_s": 2.1875554084777833
+}
