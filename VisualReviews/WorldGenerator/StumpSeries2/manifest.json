@@ -1,0 +1,40 @@
+{
+  "files": [
+    {
+      "path": "images/profile.jpg",
+      "sha256": "3674fccd8d1d845bccb5a900f17e3e6060b18dda41122edc3ecc31fb01e85b29"
+    },
+    {
+      "path": "images/shape.jpg",
+      "sha256": "eaa14b79554b69a818f8903f6d9463f11ad2f199d40ab5f4aeb654b86f5a2f39"
+    },
+    {
+      "path": "images/debris.jpg",
+      "sha256": "c0c346fc932924177fc9190451bb338be9f67b8afd7a0499ea3c54895ded7d7e"
+    },
+    {
+      "path": "images/surface.jpg",
+      "sha256": "c0a78a199b9feb8fd7b3e98ecfb58e7f63050244310c286d104cfd0743dc377b"
+    },
+    {
+      "path": "images/approach.jpg",
+      "sha256": "a28403bf58806b747d70b365062a0f926e794f9550945d6de121f78b2fa7425c"
+    },
+    {
+      "path": "images/combination.jpg",
+      "sha256": "ff2290c1408a2a78073a5e8284a8dcc6370622ad0e0c8bae6b50129dae9d9816"
+    },
+    {
+      "path": "drive.mp4",
+      "sha256": "8dcdd3be5b385be19a7b6e590745ef0b71c8a994dd6000b2ff750d329179ba86"
+    },
+    {
+      "path": "parameters.json",
+      "sha256": "e213db12c19b6dec47df702390e95a959b5dfc4b1a8c35f8babf8c836c92f9a9"
+    },
+    {
+      "path": "README.md",
+      "sha256": "bda8512fd4d3daca42a8a481c722a19611410b40fb85608853ccc99b01bb935d"
+    }
+  ]
+}

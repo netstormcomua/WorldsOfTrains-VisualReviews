@@ -1,0 +1,267 @@
+{
+  "studies": {
+    "4": {
+      "mesh": "SM_StumpSector79",
+      "surface": "M_Study4",
+      "travel_m": 240.26500000000001,
+      "p95": 17.567601054906845,
+      "gpu_p95": 17.43549919128418,
+      "median_drawn_primitives": 1800536,
+      "mesh_triangles": 119372
+    },
+    "5": {
+      "mesh": "SM_StumpSector79",
+      "surface": "M_Study5",
+      "travel_m": 240.380625,
+      "p95": 17.458800226449966,
+      "gpu_p95": 17.2987003326416,
+      "median_drawn_primitives": 1800536,
+      "mesh_triangles": 119372
+    },
+    "9": {
+      "mesh": "SM_StumpSector79",
+      "surface": "M_Study9",
+      "travel_m": 240.155,
+      "p95": 17.98909902572632,
+      "gpu_p95": 17.652299880981445,
+      "median_drawn_primitives": 1800536,
+      "mesh_triangles": 119372
+    },
+    "11": {
+      "mesh": "SM_Study11",
+      "surface": "M_Study11",
+      "travel_m": 240.36625,
+      "p95": 17.423100769519806,
+      "gpu_p95": 17.22610092163086,
+      "median_drawn_primitives": 1800536,
+      "mesh_triangles": 119372
+    },
+    "21": {
+      "mesh": "SM_Study21",
+      "surface": "M_Study11",
+      "travel_m": 240.080625,
+      "p95": 17.44069904088974,
+      "gpu_p95": 17.307899475097656,
+      "median_drawn_primitives": 1800536,
+      "mesh_triangles": 119372
+    },
+    "22": {
+      "mesh": "SM_Study22",
+      "surface": "M_Study11",
+      "travel_m": 240.10750000000002,
+      "p95": 18.063101917505264,
+      "gpu_p95": 17.711000442504883,
+      "median_drawn_primitives": 1800536,
+      "mesh_triangles": 119372
+    },
+    "23": {
+      "mesh": "SM_Study23",
+      "surface": "M_Study11",
+      "travel_m": 240.226875,
+      "p95": 17.565898597240448,
+      "gpu_p95": 17.34429931640625,
+      "median_drawn_primitives": 1800536,
+      "mesh_triangles": 119372
+    },
+    "24": {
+      "mesh": "SM_Study24",
+      "surface": "M_Study11",
+      "travel_m": 240.008125,
+      "p95": 17.657697200775146,
+      "gpu_p95": 17.47800064086914,
+      "median_drawn_primitives": 1800536,
+      "mesh_triangles": 119372
+    },
+    "25": {
+      "mesh": "SM_Study25",
+      "surface": "M_Study11",
+      "travel_m": 240.225,
+      "p95": 17.799198627471924,
+      "gpu_p95": 17.561599731445312,
+      "median_drawn_primitives": 1800536,
+      "mesh_triangles": 119372
+    },
+    "26": {
+      "mesh": "SM_Study11",
+      "surface": "M_Study26",
+      "travel_m": 240.38875000000002,
+      "p95": 17.662502825260162,
+      "gpu_p95": 17.364500045776367,
+      "median_drawn_primitives": 1800536,
+      "mesh_triangles": 119372
+    },
+    "27": {
+      "mesh": "SM_StumpSector79",
+      "surface": "M_Study27",
+      "travel_m": 240.209375,
+      "p95": 17.697200179100037,
+      "gpu_p95": 17.552200317382812,
+      "median_drawn_primitives": 1800536,
+      "mesh_triangles": 119372
+    },
+    "28": {
+      "mesh": "SM_Study28",
+      "surface": "M_Study28",
+      "travel_m": 240.18687500000001,
+      "p95": 17.87399873137474,
+      "gpu_p95": 17.577999114990234,
+      "median_drawn_primitives": 1800536,
+      "mesh_triangles": 119372
+    },
+    "29": {
+      "mesh": "SM_StumpSector79",
+      "surface": "M_Study29",
+      "travel_m": 240.140625,
+      "p95": 17.54940301179886,
+      "gpu_p95": 17.36709976196289,
+      "median_drawn_primitives": 1800536,
+      "mesh_triangles": 119372
+    },
+    "30": {
+      "mesh": "SM_StumpSector79",
+      "surface": "M_Study30",
+      "travel_m": 240.35875000000001,
+      "p95": 17.49030128121376,
+      "gpu_p95": 17.304800033569336,
+      "median_drawn_primitives": 1800536,
+      "mesh_triangles": 119372
+    },
+    "32": {
+      "mesh": "SM_Series2Candidate",
+      "surface": "M_Study28",
+      "travel_m": 240.191875,
+      "p95": 17.60689914226532,
+      "gpu_p95": 17.35260009765625,
+      "median_drawn_primitives": 1800536,
+      "mesh_triangles": 119372
+    },
+    "33": {
+      "mesh": "SM_Series2Ledge",
+      "surface": "M_Study28",
+      "travel_m": 240.085625,
+      "p95": 17.455801367759705,
+      "gpu_p95": 17.311899185180664,
+      "median_drawn_primitives": 1800536,
+      "mesh_triangles": 119372
+    }
+  },
+  "combination": [
+    21,
+    22,
+    28
+  ],
+  "added_ledge": 25,
+  "source": {
+    "schema": 1,
+    "version": "stump-profile-1.8",
+    "base": "stump-studies-1.7",
+    "parent_source": "stump-wide-sector-1.6",
+    "geometry_mix": [
+      1,
+      2
+    ],
+    "material_mix": [
+      6,
+      8
+    ],
+    "photograph": "NPS/Herbert, Chinle Formation",
+    "photo_sha256": "20650b7a96efb06dd366bfd8af4ec5569877d48a97aa587b1ceb232c43d2e9c8",
+    "photo_px": [
+      415,
+      200
+    ],
+    "apparent_sections": [
+      {
+        "x": 49,
+        "cap_y": 37,
+        "break_y": 74,
+        "base_y": 149,
+        "wall_fraction": 0.33
+      },
+      {
+        "x": 98,
+        "cap_y": 38,
+        "break_y": 77,
+        "base_y": 148,
+        "wall_fraction": 0.355
+      },
+      {
+        "x": 145,
+        "cap_y": 34,
+        "break_y": 70,
+        "base_y": 146,
+        "wall_fraction": 0.321
+      },
+      {
+        "x": 180,
+        "cap_y": 32,
+        "break_y": 65,
+        "base_y": 145,
+        "wall_fraction": 0.292
+      }
+    ],
+    "base_versions": {
+      "21-26": "combination95",
+      "27": "bedding95",
+      "28": "combination95",
+      "29": "tafoni95",
+      "30": "varnish95"
+    },
+    "separate_trials": [
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "varnish_ledges": [
+      {
+        "vertex": 34046,
+        "w": -20.25,
+        "z": 109.582
+      },
+      {
+        "vertex": 33484,
+        "w": -5.232,
+        "z": 108.943
+      },
+      {
+        "vertex": 33501,
+        "w": 12.657,
+        "z": 108.975
+      }
+    ]
+  },
+  "geometry": {
+    "21": {
+      "sha256": "d7ab6652ffbcf9136c8fa56e2c6f6b4759363a732629174bc033ea2b8d4ee792",
+      "moved": 14065,
+      "triangles": 119372
+    },
+    "22": {
+      "sha256": "1d09d0dce5e26ade48b50fb5a8ce5460866b78bd286c8f664fce00fca5cb6e84",
+      "moved": 5340,
+      "triangles": 119372
+    },
+    "23": {
+      "sha256": "5853e5eab47dbd8fed86fd3e8a62f39f26583df9dfee3603f846fe2428aa3836",
+      "moved": 4869,
+      "triangles": 119372
+    },
+    "24": {
+      "sha256": "94720a74ef7e393554dbc4678d632bfe6b820a8efeb5c675775a3e2626e332e4",
+      "moved": 2423,
+      "triangles": 119372
+    },
+    "25": {
+      "sha256": "bc5371c0c0b857239ce4535162fbfb38666c7ef93cdd0dc3d3b742363053db5f",
+      "moved": 693,
+      "triangles": 119372
+    }
+  }
+}
